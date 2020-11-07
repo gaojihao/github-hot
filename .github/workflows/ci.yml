@@ -1,0 +1,51 @@
+name: Build and Deploy Github Rank
+on:
+  push:
+    # branches:
+    #   - master
+    tags:
+      - v*
+  schedule:
+    - cron:  '0 0 * * *'
+jobs:
+  build-deploy:
+    runs-on: ubuntu-18.04
+    steps:
+    - uses: actions/checkout@master
+
+    - name: Setup Node
+      uses: actions/setup-node@v1
+      with:
+        node-version: 12
+        registry-url: https://registry.npmjs.org/
+
+    - run: npm ci
+
+    - name: Modify Version
+      shell: bash
+      run: |
+        node -e 'var pkg = require("./package.json"); pkg.version= (new Date().getFullYear().toString().substr(2)) + "." + (new Date().getMonth() + 1) + "." + (new Date().getDate()); require("fs").writeFileSync("./package.json", JSON.stringify(pkg, null, 2))'
+
+    - run: npm run get:o
+      env: 
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        ID: ${{ secrets.GITHUB_ID }}
+        SECRET: ${{ secrets.GITHUB_SECRET }}
+
+    - run: npm run get
+      env: 
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        ID: ${{ secrets.GITHUB_ID }}
+        SECRET: ${{ secrets.GITHUB_SECRET }}
+
+    - run: npm run start
+    - run: npm publish --access public
+      env:
+        NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
+
+    - name: Build and Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      env:
+        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        publish_branch: gh-pages
+        publish_dir: ./web
