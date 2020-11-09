@@ -37,13 +37,13 @@ jobs:
         SECRET: ${{ secrets.GITHUB_SECRET }}
 
     - run: npm run start
-    # - run: npm publish --access public
-    #   env:
-    #     NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
+    - run: npm publish --access public
+      env:
+        NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
 
     - name: Build and Deploy
       uses: peaceiris/actions-gh-pages@v3
       env:
-        deploy_key: ${{ secrets.GITHUB_TOKEN }}
+        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         publish_branch: gh-pages
         publish_dir: ./web
