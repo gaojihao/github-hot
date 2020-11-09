@@ -30,11 +30,11 @@ jobs:
         ID: ${{ secrets.GITHUB_ID }}
         SECRET: ${{ secrets.GITHUB_SECRET }}
 
-    # - run: npm run get
-    #   env: 
-    #     ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-    #     ID: ${{ secrets.GITHUB_ID }}
-    #     SECRET: ${{ secrets.GITHUB_SECRET }}
+    - run: npm run get
+      env: 
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        ID: ${{ secrets.GITHUB_ID }}
+        SECRET: ${{ secrets.GITHUB_SECRET }}
 
     - run: npm run start
       env:
