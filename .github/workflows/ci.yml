@@ -44,6 +44,6 @@ jobs:
     - name: Build and Deploy
       uses: peaceiris/actions-gh-pages@v3
       env:
-        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        deploy_key: ${{ secrets.GITHUB_TOKEN }}
         publish_branch: gh-pages
         publish_dir: ./web
