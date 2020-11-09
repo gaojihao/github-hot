@@ -30,20 +30,19 @@ jobs:
         ID: ${{ secrets.GITHUB_ID }}
         SECRET: ${{ secrets.GITHUB_SECRET }}
 
-    - run: npm run get
-      env: 
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        ID: ${{ secrets.GITHUB_ID }}
-        SECRET: ${{ secrets.GITHUB_SECRET }}
+    # - run: npm run get
+    #   env: 
+    #     ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+    #     ID: ${{ secrets.GITHUB_ID }}
+    #     SECRET: ${{ secrets.GITHUB_SECRET }}
 
     - run: npm run start
-    # - run: npm publish --access public
       env:
         NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
 
     - name: Build and Deploy
       uses: peaceiris/actions-gh-pages@v3
-      env:
+      with:
         personal_token: ${{ secrets.ACCESS_TOKEN }}
         publish_branch: gh-pages
         publish_dir: ./web
