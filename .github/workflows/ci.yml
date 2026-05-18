@@ -23,6 +23,8 @@ jobs:
 
     - run: npm run get:hf-trending
 
+    - run: npm run get:hf-papers
+
     - run: npm run start
 
     - name: Build and Deploy

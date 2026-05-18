@@ -5,6 +5,7 @@ import trendingDailyData from '../dist/trending-daily.json';
 import trendingWeeklyData from '../dist/trending-weekly.json';
 import trendingMonthlyData from '../dist/trending-monthly.json';
 import hfTrendingData from '../dist/hf-trending.json';
+import hfPapersData from '../dist/hf-papers.json';
 
 (async () => {
   try {
@@ -33,6 +34,16 @@ import hfTrendingData from '../dist/hf-trending.json';
     html = creatListHTML({ title: 'HuggingFace Trending', tabId: 'hf-trending', items: hfItems });
     FS.outputFileSync(path.join(process.cwd(), 'web', 'hf-trending.html'), html);
     console.log(`> HF Trending 页面生成成功！共${hfItems.length}条数据！`);
+
+    const paperItems = (hfPapersData as Array<{ title: string; url: string; arxivId: string; upvotes: number }>).map((p) => ({
+      title: p.title,
+      subtitle: p.arxivId,
+      meta: `▲ ${p.upvotes}`,
+      url: p.url,
+    }));
+    html = creatListHTML({ title: 'HuggingFace Daily Papers', tabId: 'hf-papers', items: paperItems });
+    FS.outputFileSync(path.join(process.cwd(), 'web', 'hf-papers.html'), html);
+    console.log(`> HF Papers 页面生成成功！共${paperItems.length}条数据！`);
   } catch (error) {
     console.log(error);
   }
