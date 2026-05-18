@@ -2,6 +2,13 @@
 <ul class="list">
   <li class="rank-title">
     <span><%= title %></span>
+    <% if (typeof dateRange !== 'undefined' && dateRange) { %>
+    <span class="select">
+      <a class="<%= dateRange.current === 'daily' ? 'active' : '' %>" href="<%= dateRange.daily %>">Today</a>
+      <a class="<%= dateRange.current === 'weekly' ? 'active' : '' %>" href="<%= dateRange.weekly %>">Week</a>
+      <a class="<%= dateRange.current === 'monthly' ? 'active' : '' %>" href="<%= dateRange.monthly %>">Month</a>
+    </span>
+    <% } %>
   </li>
   <% items.forEach(function(item, idx){ %>
   <li>

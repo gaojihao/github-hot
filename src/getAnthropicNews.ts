@@ -7,8 +7,11 @@ interface NewsItem {
   title: string;
   category: string;
   date: string;
+  dateTs: number;
   url: string;
 }
+
+const DAY_MS = 24 * 60 * 60 * 1000;
 
 (async () => {
   const res = await fetch('https://www.anthropic.com/news', {
@@ -37,15 +40,28 @@ interface NewsItem {
     const date =
       $(el).find('time').first().text().trim() ||
       $(el).find('[class*="__date"]').first().text().trim();
+    const dateTs = date ? new Date(date).getTime() : 0;
 
     items.push({
       title,
       category,
       date,
+      dateTs: Number.isFinite(dateTs) ? dateTs : 0,
       url: `https://www.anthropic.com${href}`,
     });
   });
 
-  await FS.outputFile(path.join(process.cwd(), 'dist', 'anthropic-news.json'), JSON.stringify(items, null, 2));
-  console.log(`> dist/anthropic-news.json 共 ${items.length} 条`);
+  const sorted = [...items].sort((a, b) => b.dateTs - a.dateTs);
+  const now = Date.now();
+  const withinDays = (days: number) => sorted.filter((n) => n.dateTs && now - n.dateTs <= days * DAY_MS);
+  const ensureMin = (arr: NewsItem[], min: number) => arr.length >= min ? arr : sorted.slice(0, min);
+  const daily = ensureMin(withinDays(2), 5);
+  const weekly = ensureMin(withinDays(7), 10);
+  const monthly = ensureMin(withinDays(30), 20);
+
+  const distDir = path.join(process.cwd(), 'dist');
+  await FS.outputFile(path.join(distDir, 'anthropic-news-daily.json'), JSON.stringify(daily, null, 2));
+  await FS.outputFile(path.join(distDir, 'anthropic-news-weekly.json'), JSON.stringify(weekly, null, 2));
+  await FS.outputFile(path.join(distDir, 'anthropic-news-monthly.json'), JSON.stringify(monthly, null, 2));
+  console.log(`> Anthropic News daily: ${daily.length} | weekly: ${weekly.length} | monthly: ${monthly.length} (页面总 ${items.length})`);
 })();

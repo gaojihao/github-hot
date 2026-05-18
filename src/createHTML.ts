@@ -27,10 +27,18 @@ export interface IListItem {
   url: string;
 }
 
+export interface IDateRange {
+  current: 'daily' | 'weekly' | 'monthly';
+  daily: string;
+  weekly: string;
+  monthly: string;
+}
+
 export interface IListPageOptions {
   title: string;
   tabId: string;
   items: IListItem[];
+  dateRange?: IDateRange;
 }
 
 export function creatListHTML(opts: IListPageOptions): string {
