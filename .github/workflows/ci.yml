@@ -21,6 +21,8 @@ jobs:
 
     - run: npm run get:trending
 
+    - run: npm run get:hf-trending
+
     - run: npm run start
 
     - name: Build and Deploy

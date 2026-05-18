@@ -1,9 +1,10 @@
 import FS from 'fs-extra';
 import path from 'path';
-import { creatTrendingHTML, ICreateTrendingHTML } from './createHTML';
+import { creatTrendingHTML, ICreateTrendingHTML, creatListHTML } from './createHTML';
 import trendingDailyData from '../dist/trending-daily.json';
 import trendingWeeklyData from '../dist/trending-weekly.json';
 import trendingMonthlyData from '../dist/trending-monthly.json';
+import hfTrendingData from '../dist/hf-trending.json';
 
 (async () => {
   try {
@@ -22,6 +23,16 @@ import trendingMonthlyData from '../dist/trending-monthly.json';
     html = creatTrendingHTML(trending, 'monthly');
     FS.outputFileSync(path.join(process.cwd(), 'web', 'trending-monthly.html'), html);
     console.log(`> Trending 月趋势榜，页面生成成功！共${trending.length}条数据！`);
+
+    const hfItems = (hfTrendingData as Array<{ type: string; id: string; likes: number; pipelineTag: string; downloads: number }>).map((d) => ({
+      title: d.id,
+      subtitle: `[${d.type}]${d.pipelineTag ? ' ' + d.pipelineTag : ''}`,
+      meta: `❤ ${d.likes}` + (d.downloads ? ` · ⬇ ${d.downloads}` : ''),
+      url: `https://huggingface.co/${d.id}`,
+    }));
+    html = creatListHTML({ title: 'HuggingFace Trending', tabId: 'hf-trending', items: hfItems });
+    FS.outputFileSync(path.join(process.cwd(), 'web', 'hf-trending.html'), html);
+    console.log(`> HF Trending 页面生成成功！共${hfItems.length}条数据！`);
   } catch (error) {
     console.log(error);
   }
