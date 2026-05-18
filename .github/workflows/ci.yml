@@ -29,6 +29,8 @@ jobs:
 
     - run: npm run get:anthropic-news
 
+    - run: npm run get:qbitai
+
     - run: npm run start
 
     - name: Build and Deploy

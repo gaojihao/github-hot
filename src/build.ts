@@ -16,6 +16,9 @@ import openaiNewsMonthlyData from '../dist/openai-news-monthly.json';
 import anthropicNewsDailyData from '../dist/anthropic-news-daily.json';
 import anthropicNewsWeeklyData from '../dist/anthropic-news-weekly.json';
 import anthropicNewsMonthlyData from '../dist/anthropic-news-monthly.json';
+import qbitaiDailyData from '../dist/qbitai-daily.json';
+import qbitaiWeeklyData from '../dist/qbitai-weekly.json';
+import qbitaiMonthlyData from '../dist/qbitai-monthly.json';
 
 type Period = 'daily' | 'weekly' | 'monthly';
 
@@ -54,6 +57,7 @@ interface HfTrendingItem { type: string; id: string; likes: number; pipelineTag:
 interface HfPaperItem { title: string; url: string; arxivId: string; upvotes: number; }
 interface OpenaiNewsItem { title: string; category: string; pubDate: string; url: string; }
 interface AnthropicNewsItem { title: string; category: string; date: string; url: string; }
+interface QbitaiItem { title: string; category: string; author: string; pubDate: string; url: string; }
 
 function mapHfTrending(data: HfTrendingItem[]): IListItem[] {
   return data.map((d) => ({
@@ -91,6 +95,19 @@ function mapAnthropicNews(data: AnthropicNewsItem[]): IListItem[] {
   }));
 }
 
+function mapQbitai(data: QbitaiItem[]): IListItem[] {
+  return data.map((n) => {
+    const date = n.pubDate ? new Date(n.pubDate).toISOString().slice(0, 10) : '';
+    const subtitleParts = [n.category, n.author].filter(Boolean);
+    return {
+      title: n.title,
+      subtitle: subtitleParts.join(' · '),
+      meta: date,
+      url: n.url,
+    };
+  });
+}
+
 (async () => {
   try {
     let trending: ICreateTrendingHTML[] = [...trendingDailyData];
@@ -124,6 +141,10 @@ function mapAnthropicNews(data: AnthropicNewsItem[]): IListItem[] {
     renderListPeriod('anthropic-news', 'anthropic-news', 'Anthropic News', 'daily',   mapAnthropicNews(anthropicNewsDailyData as AnthropicNewsItem[]),   'Anthropic News');
     renderListPeriod('anthropic-news', 'anthropic-news', 'Anthropic News', 'weekly',  mapAnthropicNews(anthropicNewsWeeklyData as AnthropicNewsItem[]),  'Anthropic News');
     renderListPeriod('anthropic-news', 'anthropic-news', 'Anthropic News', 'monthly', mapAnthropicNews(anthropicNewsMonthlyData as AnthropicNewsItem[]), 'Anthropic News');
+
+    renderListPeriod('qbitai', 'qbitai', '量子位', 'daily',   mapQbitai(qbitaiDailyData as QbitaiItem[]),   '量子位');
+    renderListPeriod('qbitai', 'qbitai', '量子位', 'weekly',  mapQbitai(qbitaiWeeklyData as QbitaiItem[]),  '量子位');
+    renderListPeriod('qbitai', 'qbitai', '量子位', 'monthly', mapQbitai(qbitaiMonthlyData as QbitaiItem[]), '量子位');
   } catch (error) {
     console.log(error);
   }
