@@ -25,6 +25,8 @@ jobs:
 
     - run: npm run get:hf-papers
 
+    - run: npm run get:openai-news
+
     - run: npm run start
 
     - name: Build and Deploy

@@ -7,6 +7,7 @@
     "get:trending": "node lib/getTrending.js",
     "get:hf-trending": "node lib/getHfTrending.js",
     "get:hf-papers": "node lib/getHfPapers.js",
+    "get:openai-news": "node lib/getOpenaiNews.js",
     "prepare": "npm run build",
     "types": "tsbb types",
     "types:watch": "tsbb types --watch",
