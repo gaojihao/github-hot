@@ -1,5 +1,5 @@
 <%- include('header', { tabCls: tabId }); %>
-<ul class="list">
+<ul class="list" data-list>
   <li class="rank-title">
     <span><%= title %></span>
     <% if (typeof dateRange !== 'undefined' && dateRange) { %>
@@ -10,8 +10,12 @@
     </span>
     <% } %>
   </li>
+  <li class="filter-bar">
+    <input type="search" class="filter-input" placeholder="过滤 (按标题 / 副标题模糊匹配)…" aria-label="filter">
+    <span class="filter-stat" data-filter-stat>共 <%= items.length %> 条</span>
+  </li>
   <% items.forEach(function(item, idx){ %>
-  <li>
+  <li data-item data-search="<%= ((item.title || '') + ' ' + (item.subtitle || '')).toLowerCase() %>">
     <div class="info">
       <div class="rank">
         <span title="Ranking <%= idx + 1 %>"><%= idx + 1 %></span>
@@ -26,5 +30,37 @@
     </div>
   </li>
   <% }); %>
+  <li class="filter-empty" data-filter-empty hidden>没有匹配项</li>
 </ul>
+<script>
+(function() {
+  var list = document.querySelector('[data-list]');
+  if (!list) return;
+  var input = list.querySelector('.filter-input');
+  var statEl = list.querySelector('[data-filter-stat]');
+  var emptyEl = list.querySelector('[data-filter-empty]');
+  var items = list.querySelectorAll('[data-item]');
+  var total = items.length;
+  if (!input || !items.length) return;
+
+  function apply() {
+    var q = (input.value || '').trim().toLowerCase();
+    var shown = 0;
+    items.forEach(function(li) {
+      var hay = li.getAttribute('data-search') || '';
+      var match = !q || hay.indexOf(q) !== -1;
+      li.hidden = !match;
+      if (match) shown += 1;
+    });
+    if (statEl) statEl.textContent = q ? ('显示 ' + shown + ' / ' + total + ' 条') : ('共 ' + total + ' 条');
+    if (emptyEl) emptyEl.hidden = shown !== 0;
+  }
+
+  var t;
+  input.addEventListener('input', function() {
+    clearTimeout(t);
+    t = setTimeout(apply, 80);
+  });
+})();
+</script>
 <%- include('footer', { }); %>

@@ -19,17 +19,25 @@ jobs:
 
     - run: npm ci
 
+    # 每个 fetcher 内部已有 try/catch + 占位写入，理论上不会非零退出；
+    # 这里再加一层 continue-on-error 兜底，确保任一源彻底崩溃不会阻断 build 步骤。
     - run: npm run get:trending
+      continue-on-error: true
 
     - run: npm run get:hf-trending
+      continue-on-error: true
 
     - run: npm run get:hf-papers
+      continue-on-error: true
 
     - run: npm run get:openai-news
+      continue-on-error: true
 
     - run: npm run get:anthropic-news
+      continue-on-error: true
 
     - run: npm run get:qbitai
+      continue-on-error: true
 
     - run: npm run start
 

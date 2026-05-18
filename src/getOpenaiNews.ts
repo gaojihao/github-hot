@@ -2,6 +2,7 @@ import fetch from 'node-fetch';
 import cheerio from 'cheerio';
 import FS from 'fs-extra';
 import path from 'path';
+import { runFetcher } from './utils/runFetcher';
 
 interface NewsItem {
   title: string;
@@ -15,7 +16,7 @@ interface NewsItem {
 const DAY_MS = 24 * 60 * 60 * 1000;
 const MAX_PER_PAGE = 50;
 
-(async () => {
+runFetcher('OpenAI News', ['openai-news-daily.json', 'openai-news-weekly.json', 'openai-news-monthly.json'], async () => {
   const res = await fetch('https://openai.com/news/rss.xml', {
     headers: { 'User-Agent': 'github-hot/1.0 (+https://github.com/silver-blue-space/github-rank)' },
   });
@@ -54,4 +55,4 @@ const MAX_PER_PAGE = 50;
   await FS.outputFile(path.join(distDir, 'openai-news-weekly.json'), JSON.stringify(weekly, null, 2));
   await FS.outputFile(path.join(distDir, 'openai-news-monthly.json'), JSON.stringify(monthly, null, 2));
   console.log(`> OpenAI News daily: ${daily.length} | weekly: ${weekly.length} | monthly: ${monthly.length} (RSS 总 ${items.length})`);
-})();
+});

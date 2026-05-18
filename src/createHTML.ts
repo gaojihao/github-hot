@@ -3,7 +3,14 @@ import path from 'path';
 import ejs from 'ejs';
 
 const rootPath: string = path.join(__dirname, 'html');
-const dateStr: string = `${new Date().getFullYear()}/${(new Date().getMonth()) + 1}/${new Date().getDate()}`;
+
+function buildDateStr(): string {
+  const d = new Date();
+  const pad = (n: number) => (n < 10 ? `0${n}` : `${n}`);
+  return `${d.getUTCFullYear()}-${pad(d.getUTCMonth() + 1)}-${pad(d.getUTCDate())} ${pad(d.getUTCHours())}:${pad(d.getUTCMinutes())} UTC`;
+}
+
+const dateStr: string = buildDateStr();
 
 export interface ICreateTrendingHTML {
   html_url: string;

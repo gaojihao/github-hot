@@ -2,6 +2,7 @@ import fetch from 'node-fetch';
 import cheerio from 'cheerio';
 import FS from 'fs-extra';
 import path from 'path';
+import { runFetcher } from './utils/runFetcher';
 
 interface NewsItem {
   title: string;
@@ -13,7 +14,7 @@ interface NewsItem {
 
 const DAY_MS = 24 * 60 * 60 * 1000;
 
-(async () => {
+runFetcher('Anthropic News', ['anthropic-news-daily.json', 'anthropic-news-weekly.json', 'anthropic-news-monthly.json'], async () => {
   const res = await fetch('https://www.anthropic.com/news', {
     headers: { 'User-Agent': 'github-hot/1.0 (+https://github.com/silver-blue-space/github-rank)' },
   });
@@ -64,4 +65,4 @@ const DAY_MS = 24 * 60 * 60 * 1000;
   await FS.outputFile(path.join(distDir, 'anthropic-news-weekly.json'), JSON.stringify(weekly, null, 2));
   await FS.outputFile(path.join(distDir, 'anthropic-news-monthly.json'), JSON.stringify(monthly, null, 2));
   console.log(`> Anthropic News daily: ${daily.length} | weekly: ${weekly.length} | monthly: ${monthly.length} (页面总 ${items.length})`);
-})();
+});

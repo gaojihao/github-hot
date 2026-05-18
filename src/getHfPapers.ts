@@ -2,6 +2,7 @@ import fetch from 'node-fetch';
 import cheerio from 'cheerio';
 import FS from 'fs-extra';
 import path from 'path';
+import { runFetcher } from './utils/runFetcher';
 
 interface HfPaper {
   title: string;
@@ -66,7 +67,7 @@ async function fetchAndParse(url: string, label: string): Promise<HfPaper[]> {
   return papers;
 }
 
-(async () => {
+runFetcher('HF Papers', ['hf-papers-daily.json', 'hf-papers-weekly.json', 'hf-papers-monthly.json'], async () => {
   const now = new Date();
   const { year, week } = isoWeek(now);
   const weekStr = `${year}-W${pad2(week)}`;
@@ -81,4 +82,4 @@ async function fetchAndParse(url: string, label: string): Promise<HfPaper[]> {
   await FS.outputFile(path.join(distDir, 'hf-papers-weekly.json'), JSON.stringify(weekly, null, 2));
   await FS.outputFile(path.join(distDir, 'hf-papers-monthly.json'), JSON.stringify(monthly, null, 2));
   console.log(`> dist/hf-papers-{daily,weekly,monthly}.json 写入完成`);
-})();
+});

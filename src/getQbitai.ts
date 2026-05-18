@@ -2,6 +2,7 @@ import fetch from 'node-fetch';
 import cheerio from 'cheerio';
 import FS from 'fs-extra';
 import path from 'path';
+import { runFetcher } from './utils/runFetcher';
 
 interface NewsItem {
   title: string;
@@ -26,7 +27,7 @@ function pickCategory(cats: string[]): string {
   return specific || cats[0] || '';
 }
 
-(async () => {
+runFetcher('量子位', ['qbitai-daily.json', 'qbitai-weekly.json', 'qbitai-monthly.json'], async () => {
   const res = await fetch('https://www.qbitai.com/feed', {
     headers: { 'User-Agent': UA },
   });
@@ -70,4 +71,4 @@ function pickCategory(cats: string[]): string {
   await FS.outputFile(path.join(distDir, 'qbitai-weekly.json'), JSON.stringify(weekly, null, 2));
   await FS.outputFile(path.join(distDir, 'qbitai-monthly.json'), JSON.stringify(monthly, null, 2));
   console.log(`> 量子位 daily: ${daily.length} | weekly: ${weekly.length} | monthly: ${monthly.length} (RSS 总 ${items.length})`);
-})();
+});

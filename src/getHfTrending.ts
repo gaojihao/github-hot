@@ -1,6 +1,7 @@
 import fetch from 'node-fetch';
 import FS from 'fs-extra';
 import path from 'path';
+import { runFetcher } from './utils/runFetcher';
 
 type RepoType = 'models' | 'datasets' | 'spaces';
 type Period = 'daily' | 'weekly' | 'monthly';
@@ -74,7 +75,7 @@ async function buildPeriod(period: Period): Promise<HfTrendingItem[]> {
   return all;
 }
 
-(async () => {
+runFetcher('HF Trending', ['hf-trending-daily.json', 'hf-trending-weekly.json', 'hf-trending-monthly.json'], async () => {
   const daily = await buildPeriod('daily');
   const weekly = await buildPeriod('weekly');
   const monthly = await buildPeriod('monthly');
@@ -83,4 +84,4 @@ async function buildPeriod(period: Period): Promise<HfTrendingItem[]> {
   await FS.outputFile(path.join(distDir, 'hf-trending-weekly.json'), JSON.stringify(weekly, null, 2));
   await FS.outputFile(path.join(distDir, 'hf-trending-monthly.json'), JSON.stringify(monthly, null, 2));
   console.log(`> dist/hf-trending-{daily,weekly,monthly}.json 写入完成（${daily.length}/${weekly.length}/${monthly.length}）`);
-})();
+});
