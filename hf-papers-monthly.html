@@ -1,0 +1,1684 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="icon" type="image/x-icon" href="https://github.githubassets.com/favicon.ico">
+  <title> HuggingFace Papers </title>
+  <meta name="description" content="HuggingFace Papers">
+  <style>
+    * { box-sizing: border-box; }
+    html, body, ul, li, h1 { margin: 0; padding: 0 }
+    html, body { font-size: 16px; font-family: -apple-system,"Helvetica Neue",Helvetica,Arial,"PingFang SC","Hiragino Sans GB","WenQuanYi Micro Hei","Microsoft Yahei",sans-serif; }
+    ul { list-style: none; }
+    body { text-align: center; }
+    a { color: #333; text-decoration: none; transition: all .2s ease-in; }
+    a:hover { color: #1600ff; }
+    a.github-corner:hover .octo-arm { animation: octocat-wave 560ms infinite linear; }
+    a.github-corner svg { fill: #f1f1f1; color: #000; position: absolute; top: 0; border: 0; right: 0; z-index: 99; width: 70px; height: 70px; }
+    a.github-corner { position: fixed; z-index: 9999; top: 0; right: 0; }
+    .title { padding: 46px 0 0 0; font-size: 18px; line-height: 24px; }
+    .time, .footer { padding: 5px 0 2px 0; font-size: 12px; color: #adadad; }
+    .tabs { padding: 10px 0 15px 0;}
+    .tabs a { background: #e2e2e2; display: inline-block; padding: 10px 15px; font-size: 18px; color: #696969; }
+    .tabs a.active { background: #0086ff; color: #efefef; }
+    .tab-group { display: inline-block; margin: 0 6px; font-size: 14px; color: #999; }
+    .tab-group a { margin-left: 6px; }
+    .footer { padding: 10px 0 30px 0; }
+    .list { text-align: left; max-width: 960px; margin: 0 auto; padding-bottom: 10px; border: 1px solid #efefef; overflow: hidden; }
+    .list img { width: 36px; height: 36px; border-radius: 3px; display: block; margin: 0 auto; background-color: #e2e2e2; border: 0; overflow: hidden; }
+    .list a { color: #1600ff; }
+    .list a:hover { color: #1600ff; }
+    .list li { padding: 15px; margin: 0 8px; transition: all .3s; border-bottom: 1px solid #d8d8d8; }
+    .list li.rank-title { background-color: #0086ff; margin: 0; padding: 10px 16px; margin-bottom: 10px; border-radius: 0; font-size: 16px;}
+    .list li.rank-title:hover { background: #e2e2e2; }
+    .list li:last-child, .list li.rank-title { border-bottom: 0; }
+    .list li:hover { background: rgba(255, 255, 255, 0.56); }
+    .list li > div { display: table-cell; vertical-align: top; font-size: 14px; }
+    .list li div.rank { padding: 0 8px; }
+    .list li div.rank span { font-weight: bold; }
+    .list li div.details { padding: 2px 0 0 9px; font-size: 12px; float: left; color: #b9b9b9; }
+    .list li div.details a { color: #b9b9b9; transition: all .3s; }
+    .list li div.details a:hover { color: #1600ff; }
+    .list li div.details a:hover svg { fill: #1600ff; }
+    .list li div.details * { vertical-align: middle; }
+    .list li div.details .localtion { overflow: hidden; white-space: nowrap; text-overflow: ellipsis; max-width: 150px; display: inline-block; height: 14px; }
+    .list li div.details svg { width: 12px; height: 12px; margin-top: 0; margin-right: 2px; fill: #b9b9b9; display: inline-block; }
+    .list li > div.info { width: 100%; }
+    .list li > div.info i { color: #717171; }
+    .list li > div.info a:hover i { color: #333; }
+    .list li div.sub-title { color: #333; margin: 4px 0 0 3px;}
+    .list li a.language,
+    .list li span.star { height: 18px; background: #e2e2e2; display: inline-block; padding: 2px 4px; border-radius: 3px; }
+    .list .select { float: right; line-height: 14px; line-height: 16px; }
+    .list .select .active { color: orange; font-weight: bold; }
+    .list li div.followers { font-size: 12px; color: #7d7d7d; white-space:nowrap; padding-left: 5px; padding-top: 2px; border-radius: 3px; }
+    .list li div.followers a { color: #545454; }
+    .list li div.followers * { vertical-align: middle; }
+    .list li div.followers svg { vertical-align: text-top; display: inline-block; fill: #9E9E9E; width: 14px; height: 14px; }
+    @keyframes octocat-wave {
+      0%,100%{-webkit-transform:rotate(0); transform:rotate(0);}
+      20%,60%{-webkit-transform:rotate(-25deg); transform:rotate(-25deg);}
+      40%,80%{-webkit-transform:rotate(10deg); transform:rotate(10deg);}
+    }
+  </style>
+</head>
+<body>
+  <a href="https://github.com/silver-blue-space/github-rank" target="_blank" class="github-corner">
+    <svg viewBox="0 0 250 250">
+      <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>
+      <path class="octo-arm" fill="currentColor" style="transform-origin: 130px 106px;" d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2"></path>
+      <path fill="currentColor" class="octo-body" d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z"></path>
+    </svg>
+  </a>
+  <h1 class="title"> HuggingFace Papers </h1>
+  <div class="time">Last cache created on 2026/5/18 by Github API v3.</div>
+  <div class="tabs">
+  <span class="tab-group">📦
+    <a class="" href="trending.html">GitHub Trending</a>
+    <a class="" href="hf-trending.html">HF Trending</a>
+  </span>
+  <span class="tab-group">🤖
+    <a class="active" href="hf-papers.html">HF Papers</a>
+  </span>
+  <span class="tab-group">📰
+    <a class="" href="openai-news.html">OpenAI</a>
+    <a class="" href="anthropic-news.html">Anthropic</a>
+  </span>
+</div>
+
+<ul class="list">
+  <li class="rank-title">
+    <span>HuggingFace Papers</span>
+    
+    <span class="select">
+      <a class="" href="hf-papers.html">Today</a>
+      <a class="" href="hf-papers-weekly.html">Week</a>
+      <a class="active" href="hf-papers-monthly.html">Month</a>
+    </span>
+    
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 1">1</span>
+        <a href="https://huggingface.co/papers/2605.02881" target="_blank" title="MolmoAct2: Action Reasoning Models for Real-world Deployment">MolmoAct2: Action Reasoning Models for Real-world Deployment</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.02881</span>
+        <span class="star">▲ 330</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 2">2</span>
+        <a href="https://huggingface.co/papers/2604.27351" target="_blank" title="Heterogeneous Scientific Foundation Model Collaboration">Heterogeneous Scientific Foundation Model Collaboration</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2604.27351</span>
+        <span class="star">▲ 215</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 3">3</span>
+        <a href="https://huggingface.co/papers/2605.13779" target="_blank" title="MinT: Managed Infrastructure for Training and Serving Millions of LLMs">MinT: Managed Infrastructure for Training and Serving Millions of LLMs</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.13779</span>
+        <span class="star">▲ 212</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 4">4</span>
+        <a href="https://huggingface.co/papers/2605.06169" target="_blank" title="Mean Mode Screaming: Mean--Variance Split Residuals for 1000-Layer Diffusion Transformers">Mean Mode Screaming: Mean--Variance Split Residuals for 1000-Layer Diffusion Transformers</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.06169</span>
+        <span class="star">▲ 183</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 5">5</span>
+        <a href="https://huggingface.co/papers/2605.12500" target="_blank" title="SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture">SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.12500</span>
+        <span class="star">▲ 172</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 6">6</span>
+        <a href="https://huggingface.co/papers/2604.27660" target="_blank" title="From Context to Skills: Can Language Models Learn from Context Skillfully?">From Context to Skills: Can Language Models Learn from Context Skillfully?</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2604.27660</span>
+        <span class="star">▲ 157</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 7">7</span>
+        <a href="https://huggingface.co/papers/2605.13301" target="_blank" title="Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling">Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.13301</span>
+        <span class="star">▲ 149</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 8">8</span>
+        <a href="https://huggingface.co/papers/2605.09530" target="_blank" title="MemPrivacy: Privacy-Preserving Personalized Memory Management for Edge-Cloud Agents">MemPrivacy: Privacy-Preserving Personalized Memory Management for Edge-Cloud Agents</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.09530</span>
+        <span class="star">▲ 143</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 9">9</span>
+        <a href="https://huggingface.co/papers/2605.10616" target="_blank" title="MulTaBench: Benchmarking Multimodal Tabular Learning with Text and Image">MulTaBench: Benchmarking Multimodal Tabular Learning with Text and Image</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.10616</span>
+        <span class="star">▲ 136</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 10">10</span>
+        <a href="https://huggingface.co/papers/2605.03849" target="_blank" title="Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation">Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.03849</span>
+        <span class="star">▲ 123</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 11">11</span>
+        <a href="https://huggingface.co/papers/2605.03269" target="_blank" title="RLDX-1 Technical Report">RLDX-1 Technical Report</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.03269</span>
+        <span class="star">▲ 120</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 12">12</span>
+        <a href="https://huggingface.co/papers/2605.03042" target="_blank" title="ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration">ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.03042</span>
+        <span class="star">▲ 117</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 13">13</span>
+        <a href="https://huggingface.co/papers/2605.12357" target="_blank" title="δ-mem: Efficient Online Memory for Large Language Models">δ-mem: Efficient Online Memory for Large Language Models</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.12357</span>
+        <span class="star">▲ 115</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 14">14</span>
+        <a href="https://huggingface.co/papers/2605.15298" target="_blank" title="PhysBrain 1.0 Technical Report">PhysBrain 1.0 Technical Report</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.15298</span>
+        <span class="star">▲ 112</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 15">15</span>
+        <a href="https://huggingface.co/papers/2605.06130" target="_blank" title="Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning">Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.06130</span>
+        <span class="star">▲ 108</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 16">16</span>
+        <a href="https://huggingface.co/papers/2605.05242" target="_blank" title="Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction">Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.05242</span>
+        <span class="star">▲ 107</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 17">17</span>
+        <a href="https://huggingface.co/papers/2605.10730" target="_blank" title="Qwen-Image-2.0 Technical Report">Qwen-Image-2.0 Technical Report</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.10730</span>
+        <span class="star">▲ 105</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 18">18</span>
+        <a href="https://huggingface.co/papers/2605.04461" target="_blank" title="Stream-T1: Test-Time Scaling for Streaming Video Generation">Stream-T1: Test-Time Scaling for Streaming Video Generation</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.04461</span>
+        <span class="star">▲ 102</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 19">19</span>
+        <a href="https://huggingface.co/papers/2605.05185" target="_blank" title="OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents">OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.05185</span>
+        <span class="star">▲ 97</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 20">20</span>
+        <a href="https://huggingface.co/papers/2605.13527" target="_blank" title="MMSkills: Towards Multimodal Skills for General Visual Agents">MMSkills: Towards Multimodal Skills for General Visual Agents</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.13527</span>
+        <span class="star">▲ 95</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 21">21</span>
+        <a href="https://huggingface.co/papers/2605.08063" target="_blank" title="Flow-OPD: On-Policy Distillation for Flow Matching Models">Flow-OPD: On-Policy Distillation for Flow Matching Models</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.08063</span>
+        <span class="star">▲ 95</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 22">22</span>
+        <a href="https://huggingface.co/papers/2605.15155" target="_blank" title="Self-Distilled Agentic Reinforcement Learning">Self-Distilled Agentic Reinforcement Learning</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.15155</span>
+        <span class="star">▲ 92</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 23">23</span>
+        <a href="https://huggingface.co/papers/2605.13724" target="_blank" title="AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation">AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.13724</span>
+        <span class="star">▲ 91</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 24">24</span>
+        <a href="https://huggingface.co/papers/2604.28185" target="_blank" title="Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling">Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2604.28185</span>
+        <span class="star">▲ 90</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 25">25</span>
+        <a href="https://huggingface.co/papers/2605.15141" target="_blank" title="Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation">Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.15141</span>
+        <span class="star">▲ 87</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 26">26</span>
+        <a href="https://huggingface.co/papers/2512.18181" target="_blank" title="MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation">MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2512.18181</span>
+        <span class="star">▲ 85</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 27">27</span>
+        <a href="https://huggingface.co/papers/2605.13831" target="_blank" title="Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context">Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.13831</span>
+        <span class="star">▲ 84</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 28">28</span>
+        <a href="https://huggingface.co/papers/2605.00658" target="_blank" title="UniVidX: A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors">UniVidX: A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.00658</span>
+        <span class="star">▲ 82</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 29">29</span>
+        <a href="https://huggingface.co/papers/2605.09063" target="_blank" title="Soohak: A Mathematician-Curated Benchmark for Evaluating Research-level Math Capabilities of LLMs">Soohak: A Mathematician-Curated Benchmark for Evaluating Research-level Math Capabilities of LLMs</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.09063</span>
+        <span class="star">▲ 77</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 30">30</span>
+        <a href="https://huggingface.co/papers/2605.06548" target="_blank" title="Continuous Latent Diffusion Language Model">Continuous Latent Diffusion Language Model</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.06548</span>
+        <span class="star">▲ 76</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 31">31</span>
+        <a href="https://huggingface.co/papers/2605.15178" target="_blank" title="SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer">SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.15178</span>
+        <span class="star">▲ 74</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 32">32</span>
+        <a href="https://huggingface.co/papers/2605.10899" target="_blank" title="RubricEM: Meta-RL with Rubric-guided Policy Decomposition beyond Verifiable Rewards">RubricEM: Meta-RL with Rubric-guided Policy Decomposition beyond Verifiable Rewards</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.10899</span>
+        <span class="star">▲ 74</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 33">33</span>
+        <a href="https://huggingface.co/papers/2605.14906" target="_blank" title="MemLens: Benchmarking Multimodal Long-Term Memory in Large Vision-Language Models">MemLens: Benchmarking Multimodal Long-Term Memory in Large Vision-Language Models</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.14906</span>
+        <span class="star">▲ 71</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 34">34</span>
+        <a href="https://huggingface.co/papers/2604.28196" target="_blank" title="HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation">HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2604.28196</span>
+        <span class="star">▲ 71</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 35">35</span>
+        <a href="https://huggingface.co/papers/2604.27393" target="_blank" title="MiniCPM-o 4.5: Towards Real-Time Full-Duplex Omni-Modal Interaction">MiniCPM-o 4.5: Towards Real-Time Full-Duplex Omni-Modal Interaction</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2604.27393</span>
+        <span class="star">▲ 70</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 36">36</span>
+        <a href="https://huggingface.co/papers/2605.08735" target="_blank" title="CollabVR: Collaborative Video Reasoning with Vision-Language and Video Generation Models">CollabVR: Collaborative Video Reasoning with Vision-Language and Video Generation Models</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.08735</span>
+        <span class="star">▲ 67</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 37">37</span>
+        <a href="https://huggingface.co/papers/2605.06139" target="_blank" title="Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex">Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.06139</span>
+        <span class="star">▲ 65</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 38">38</span>
+        <a href="https://huggingface.co/papers/2605.04036" target="_blank" title="OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories">OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.04036</span>
+        <span class="star">▲ 65</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 39">39</span>
+        <a href="https://huggingface.co/papers/2605.08083" target="_blank" title="LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling">LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.08083</span>
+        <span class="star">▲ 64</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 40">40</span>
+        <a href="https://huggingface.co/papers/2604.27083" target="_blank" title="Co-Evolving Policy Distillation">Co-Evolving Policy Distillation</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2604.27083</span>
+        <span class="star">▲ 64</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 41">41</span>
+        <a href="https://huggingface.co/papers/2605.12090" target="_blank" title="World Action Models: The Next Frontier in Embodied AI">World Action Models: The Next Frontier in Embodied AI</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.12090</span>
+        <span class="star">▲ 62</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 42">42</span>
+        <a href="https://huggingface.co/papers/2605.07177" target="_blank" title="HyperEyes: Dual-Grained Efficiency-Aware Reinforcement Learning for Parallel Multimodal Search Agents">HyperEyes: Dual-Grained Efficiency-Aware Reinforcement Learning for Parallel Multimodal Search Agents</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.07177</span>
+        <span class="star">▲ 62</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 43">43</span>
+        <a href="https://huggingface.co/papers/2605.12178" target="_blank" title="Do Enterprise Systems Need Learned World Models? The Importance of Context to Infer Dynamics">Do Enterprise Systems Need Learned World Models? The Importance of Context to Infer Dynamics</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.12178</span>
+        <span class="star">▲ 60</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 44">44</span>
+        <a href="https://huggingface.co/papers/2605.15128" target="_blank" title="MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory">MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.15128</span>
+        <span class="star">▲ 57</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 45">45</span>
+        <a href="https://huggingface.co/papers/2604.27505" target="_blank" title="Leveraging Verifier-Based Reinforcement Learning in Image Editing">Leveraging Verifier-Based Reinforcement Learning in Image Editing</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2604.27505</span>
+        <span class="star">▲ 57</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 46">46</span>
+        <a href="https://huggingface.co/papers/2605.13565" target="_blank" title="Qwen-Image-VAE-2.0 Technical Report">Qwen-Image-VAE-2.0 Technical Report</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.13565</span>
+        <span class="star">▲ 55</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 47">47</span>
+        <a href="https://huggingface.co/papers/2605.06416" target="_blank" title="MiA-Signature: Approximating Global Activation for Long-Context Understanding">MiA-Signature: Approximating Global Activation for Long-Context Understanding</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.06416</span>
+        <span class="star">▲ 54</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 48">48</span>
+        <a href="https://huggingface.co/papers/2605.14386" target="_blank" title="Darwin Family: MRI-Trust-Weighted Evolutionary Merging for Training-Free Scaling of Language-Model Reasoning">Darwin Family: MRI-Trust-Weighted Evolutionary Merging for Training-Free Scaling of Language-Model Reasoning</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.14386</span>
+        <span class="star">▲ 53</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 49">49</span>
+        <a href="https://huggingface.co/papers/2605.06747" target="_blank" title="HumanNet: Scaling Human-centric Video Learning to One Million Hours">HumanNet: Scaling Human-centric Video Learning to One Million Hours</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.06747</span>
+        <span class="star">▲ 51</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 50">50</span>
+        <a href="https://huggingface.co/papers/2605.15824" target="_blank" title="FashionChameleon: Towards Real-Time and Interactive Human-Garment Video Customization">FashionChameleon: Towards Real-Time and Interactive Human-Garment Video Customization</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.15824</span>
+        <span class="star">▲ 49</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 51">51</span>
+        <a href="https://huggingface.co/papers/2605.09608" target="_blank" title="Geometry Conflict: Explaining and Controlling Forgetting in LLM Continual Post-Training">Geometry Conflict: Explaining and Controlling Forgetting in LLM Continual Post-Training</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.09608</span>
+        <span class="star">▲ 49</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 52">52</span>
+        <a href="https://huggingface.co/papers/2605.12411" target="_blank" title="Predicting Decisions of AI Agents from Limited Interaction through Text-Tabular Modeling">Predicting Decisions of AI Agents from Limited Interaction through Text-Tabular Modeling</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.12411</span>
+        <span class="star">▲ 48</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 53">53</span>
+        <a href="https://huggingface.co/papers/2604.28123" target="_blank" title="Beyond SFT-to-RL: Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL">Beyond SFT-to-RL: Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2604.28123</span>
+        <span class="star">▲ 48</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 54">54</span>
+        <a href="https://huggingface.co/papers/2605.10344" target="_blank" title="TMAS: Scaling Test-Time Compute via Multi-Agent Synergy">TMAS: Scaling Test-Time Compute via Multi-Agent Synergy</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.10344</span>
+        <span class="star">▲ 47</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 55">55</span>
+        <a href="https://huggingface.co/papers/2604.28158" target="_blank" title="Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists">Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2604.28158</span>
+        <span class="star">▲ 47</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 56">56</span>
+        <a href="https://huggingface.co/papers/2605.14892" target="_blank" title="Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems">Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.14892</span>
+        <span class="star">▲ 46</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 57">57</span>
+        <a href="https://huggingface.co/papers/2605.04523" target="_blank" title="RaguTeam at SemEval-2026 Task 8: Meno and Friends in a Judge-Orchestrated LLM Ensemble for Faithful Multi-Turn Response Generation">RaguTeam at SemEval-2026 Task 8: Meno and Friends in a Judge-Orchestrated LLM Ensemble for Faithful Multi-Turn Response Generation</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.04523</span>
+        <span class="star">▲ 45</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 58">58</span>
+        <a href="https://huggingface.co/papers/2605.16257" target="_blank" title="DexJoCo: A Benchmark and Toolkit for Task-Oriented Dexterous Manipulation on MuJoCo">DexJoCo: A Benchmark and Toolkit for Task-Oriented Dexterous Manipulation on MuJoCo</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.16257</span>
+        <span class="star">▲ 44</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 59">59</span>
+        <a href="https://huggingface.co/papers/2605.10912" target="_blank" title="WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation">WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.10912</span>
+        <span class="star">▲ 44</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 60">60</span>
+        <a href="https://huggingface.co/papers/2605.06614" target="_blank" title="SkillOS: Learning Skill Curation for Self-Evolving Agents">SkillOS: Learning Skill Curation for Self-Evolving Agents</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.06614</span>
+        <span class="star">▲ 44</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 61">61</span>
+        <a href="https://huggingface.co/papers/2509.24244" target="_blank" title="Model Merging Scaling Laws in Large Language Models">Model Merging Scaling Laws in Large Language Models</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2509.24244</span>
+        <span class="star">▲ 43</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 62">62</span>
+        <a href="https://huggingface.co/papers/2605.06222" target="_blank" title="When to Trust Imagination: Adaptive Action Execution for World Action Models">When to Trust Imagination: Adaptive Action Execution for World Action Models</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.06222</span>
+        <span class="star">▲ 42</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 63">63</span>
+        <a href="https://huggingface.co/papers/2604.28139" target="_blank" title="Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows">Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2604.28139</span>
+        <span class="star">▲ 42</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 64">64</span>
+        <a href="https://huggingface.co/papers/2605.09131" target="_blank" title="MCP-Cosmos: World Model-Augmented Agents for Complex Task Execution in MCP Environments">MCP-Cosmos: World Model-Augmented Agents for Complex Task Execution in MCP Environments</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.09131</span>
+        <span class="star">▲ 41</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 65">65</span>
+        <a href="https://huggingface.co/papers/2605.06546" target="_blank" title="Efficient Pre-Training with Token Superposition">Efficient Pre-Training with Token Superposition</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.06546</span>
+        <span class="star">▲ 41</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 66">66</span>
+        <a href="https://huggingface.co/papers/2604.27711" target="_blank" title="ExoActor: Exocentric Video Generation as Generalizable Interactive Humanoid Control">ExoActor: Exocentric Video Generation as Generalizable Interactive Humanoid Control</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2604.27711</span>
+        <span class="star">▲ 41</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 67">67</span>
+        <a href="https://huggingface.co/papers/2605.06507" target="_blank" title="MARBLE: Multi-Aspect Reward Balance for Diffusion RL">MARBLE: Multi-Aspect Reward Balance for Diffusion RL</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.06507</span>
+        <span class="star">▲ 40</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 68">68</span>
+        <a href="https://huggingface.co/papers/2604.27085" target="_blank" title="Efficient Training on Multiple Consumer GPUs with RoundPipe">Efficient Training on Multiple Consumer GPUs with RoundPipe</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2604.27085</span>
+        <span class="star">▲ 40</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 69">69</span>
+        <a href="https://huggingface.co/papers/2605.07396" target="_blank" title="Rubric-based On-policy Distillation">Rubric-based On-policy Distillation</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.07396</span>
+        <span class="star">▲ 39</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 70">70</span>
+        <a href="https://huggingface.co/papers/2605.04018" target="_blank" title="Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems">Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.04018</span>
+        <span class="star">▲ 39</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 71">71</span>
+        <a href="https://huggingface.co/papers/2605.15182" target="_blank" title="Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video">Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.15182</span>
+        <span class="star">▲ 38</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 72">72</span>
+        <a href="https://huggingface.co/papers/2604.27221" target="_blank" title="Web2BigTable: A Bi-Level Multi-Agent LLM System for Internet-Scale Information Search and Extraction">Web2BigTable: A Bi-Level Multi-Agent LLM System for Internet-Scale Information Search and Extraction</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2604.27221</span>
+        <span class="star">▲ 38</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 73">73</span>
+        <a href="https://huggingface.co/papers/2605.05566" target="_blank" title="Nonsense Helps: Prompt Space Perturbation Broadens Reasoning Exploration">Nonsense Helps: Prompt Space Perturbation Broadens Reasoning Exploration</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.05566</span>
+        <span class="star">▲ 37</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 74">74</span>
+        <a href="https://huggingface.co/papers/2605.12587" target="_blank" title="TrackCraft3R: Repurposing Video Diffusion Transformers for Dense 3D Tracking">TrackCraft3R: Repurposing Video Diffusion Transformers for Dense 3D Tracking</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.12587</span>
+        <span class="star">▲ 36</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 75">75</span>
+        <a href="https://huggingface.co/papers/2605.05163" target="_blank" title="PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World">PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.05163</span>
+        <span class="star">▲ 36</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 76">76</span>
+        <a href="https://huggingface.co/papers/2605.12495" target="_blank" title="AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward">AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.12495</span>
+        <span class="star">▲ 35</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 77">77</span>
+        <a href="https://huggingface.co/papers/2605.10780" target="_blank" title="Beyond the Last Layer: Multi-Layer Representation Fusion for Visual Tokenization">Beyond the Last Layer: Multi-Layer Representation Fusion for Visual Tokenization</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.10780</span>
+        <span class="star">▲ 33</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 78">78</span>
+        <a href="https://huggingface.co/papers/2605.04045" target="_blank" title="Audio-Visual Intelligence in Large Foundation Models">Audio-Visual Intelligence in Large Foundation Models</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.04045</span>
+        <span class="star">▲ 33</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 79">79</span>
+        <a href="https://huggingface.co/papers/2605.10341" target="_blank" title="PaperFit: Vision-in-the-Loop Typesetting Optimization for Scientific Documents">PaperFit: Vision-in-the-Loop Typesetting Optimization for Scientific Documents</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.10341</span>
+        <span class="star">▲ 32</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 80">80</span>
+        <a href="https://huggingface.co/papers/2605.00809" target="_blank" title="Let ViT Speak: Generative Language-Image Pre-training">Let ViT Speak: Generative Language-Image Pre-training</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.00809</span>
+        <span class="star">▲ 32</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 81">81</span>
+        <a href="https://huggingface.co/papers/2605.14333" target="_blank" title="InsightTok: Improving Text and Face Fidelity in Discrete Tokenization for Autoregressive Image Generation">InsightTok: Improving Text and Face Fidelity in Discrete Tokenization for Autoregressive Image Generation</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.14333</span>
+        <span class="star">▲ 31</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 82">82</span>
+        <a href="https://huggingface.co/papers/2605.13062" target="_blank" title="Edit-Compass &amp; EditReward-Compass: A Unified Benchmark for Image Editing and Reward Modeling">Edit-Compass &amp; EditReward-Compass: A Unified Benchmark for Image Editing and Reward Modeling</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.13062</span>
+        <span class="star">▲ 31</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 83">83</span>
+        <a href="https://huggingface.co/papers/2605.13511" target="_blank" title="Many-Shot CoT-ICL: Making In-Context Learning Truly Learn">Many-Shot CoT-ICL: Making In-Context Learning Truly Learn</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.13511</span>
+        <span class="star">▲ 30</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 84">84</span>
+        <a href="https://huggingface.co/papers/2605.10434" target="_blank" title="WorldReasonBench: Human-Aligned Stress Testing of Video Generators as Future World-State Predictors">WorldReasonBench: Human-Aligned Stress Testing of Video Generators as Future World-State Predictors</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.10434</span>
+        <span class="star">▲ 30</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 85">85</span>
+        <a href="https://huggingface.co/papers/2605.00180" target="_blank" title="RouteProfile: Elucidating the Design Space of LLM Profiles for Routing">RouteProfile: Elucidating the Design Space of LLM Profiles for Routing</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.00180</span>
+        <span class="star">▲ 30</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 86">86</span>
+        <a href="https://huggingface.co/papers/2605.07465" target="_blank" title="SEIF: Self-Evolving Reinforcement Learning for Instruction Following">SEIF: Self-Evolving Reinforcement Learning for Instruction Following</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.07465</span>
+        <span class="star">▲ 29</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 87">87</span>
+        <a href="https://huggingface.co/papers/2604.28190" target="_blank" title="Representation Fréchet Loss for Visual Generation">Representation Fréchet Loss for Visual Generation</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2604.28190</span>
+        <span class="star">▲ 29</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 88">88</span>
+        <a href="https://huggingface.co/papers/2605.12013" target="_blank" title="L2P: Unlocking Latent Potential for Pixel Generation">L2P: Unlocking Latent Potential for Pixel Generation</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.12013</span>
+        <span class="star">▲ 28</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 89">89</span>
+        <a href="https://huggingface.co/papers/2605.10922" target="_blank" title="Pixal3D: Pixel-Aligned 3D Generation from Images">Pixal3D: Pixel-Aligned 3D Generation from Images</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.10922</span>
+        <span class="star">▲ 28</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 90">90</span>
+        <a href="https://huggingface.co/papers/2605.07721" target="_blank" title="Memory-Efficient Looped Transformer: Decoupling Compute from Memory in Looped Language Models">Memory-Efficient Looped Transformer: Decoupling Compute from Memory in Looped Language Models</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.07721</span>
+        <span class="star">▲ 28</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 91">91</span>
+        <a href="https://huggingface.co/papers/2605.11739" target="_blank" title="Learning to Foresee: Unveiling the Unlocking Efficiency of On-Policy Distillation">Learning to Foresee: Unveiling the Unlocking Efficiency of On-Policy Distillation</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.11739</span>
+        <span class="star">▲ 27</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 92">92</span>
+        <a href="https://huggingface.co/papers/2605.12481" target="_blank" title="ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents">ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.12481</span>
+        <span class="star">▲ 27</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 93">93</span>
+        <a href="https://huggingface.co/papers/2605.12496" target="_blank" title="CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives">CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.12496</span>
+        <span class="star">▲ 27</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 94">94</span>
+        <a href="https://huggingface.co/papers/2605.07237" target="_blank" title="Teaching Language Models to Think in Code">Teaching Language Models to Think in Code</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.07237</span>
+        <span class="star">▲ 27</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 95">95</span>
+        <a href="https://huggingface.co/papers/2605.07825" target="_blank" title="Anisotropic Modality Align">Anisotropic Modality Align</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.07825</span>
+        <span class="star">▲ 27</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 96">96</span>
+        <a href="https://huggingface.co/papers/2605.06642" target="_blank" title="StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction">StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.06642</span>
+        <span class="star">▲ 27</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 97">97</span>
+        <a href="https://huggingface.co/papers/2605.02290" target="_blank" title="Distilling Long-CoT Reasoning through Collaborative Step-wise Multi-Teacher Decoding">Distilling Long-CoT Reasoning through Collaborative Step-wise Multi-Teacher Decoding</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.02290</span>
+        <span class="star">▲ 27</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 98">98</span>
+        <a href="https://huggingface.co/papers/2605.13880" target="_blank" title="PREPING: Building Agent Memory without Tasks">PREPING: Building Agent Memory without Tasks</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.13880</span>
+        <span class="star">▲ 26</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 99">99</span>
+        <a href="https://huggingface.co/papers/2605.07748" target="_blank" title="TextLDM: Language Modeling with Continuous Latent Diffusion">TextLDM: Language Modeling with Continuous Latent Diffusion</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.07748</span>
+        <span class="star">▲ 26</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 100">100</span>
+        <a href="https://huggingface.co/papers/2605.06376" target="_blank" title="Continuous-Time Distribution Matching for Few-Step Diffusion Distillation">Continuous-Time Distribution Matching for Few-Step Diffusion Distillation</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.06376</span>
+        <span class="star">▲ 26</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 101">101</span>
+        <a href="https://huggingface.co/papers/2605.15186" target="_blank" title="VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction">VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.15186</span>
+        <span class="star">▲ 25</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 102">102</span>
+        <a href="https://huggingface.co/papers/2605.05204" target="_blank" title="D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models">D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.05204</span>
+        <span class="star">▲ 25</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 103">103</span>
+        <a href="https://huggingface.co/papers/2605.00781" target="_blank" title="Map2World: Segment Map Conditioned Text to 3D World Generation">Map2World: Segment Map Conditioned Text to 3D World Generation</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.00781</span>
+        <span class="star">▲ 25</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 104">104</span>
+        <a href="https://huggingface.co/papers/2605.00891" target="_blank" title="X2SAM: Any Segmentation in Images and Videos">X2SAM: Any Segmentation in Images and Videos</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.00891</span>
+        <span class="star">▲ 25</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 105">105</span>
+        <a href="https://huggingface.co/papers/2605.13852" target="_blank" title="Realiz3D: 3D Generation Made Photorealistic via Domain-Aware Learning">Realiz3D: 3D Generation Made Photorealistic via Domain-Aware Learning</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.13852</span>
+        <span class="star">▲ 24</span>
+      </div>
+      
+    </div>
+  </li>
+  
+</ul>
+  <div class="footer">
+    <div class="time">Last cache created on 2026/5/18 by Github API v3.</div>
+    Create by <a href="https://silver-blue-space.github.io/" target="_blank">silver-blue™</a>.
+  </div>
+</body>
+</html>

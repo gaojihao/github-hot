@@ -1,0 +1,859 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="icon" type="image/x-icon" href="https://github.githubassets.com/favicon.ico">
+  <title> OpenAI News </title>
+  <meta name="description" content="OpenAI News">
+  <style>
+    * { box-sizing: border-box; }
+    html, body, ul, li, h1 { margin: 0; padding: 0 }
+    html, body { font-size: 16px; font-family: -apple-system,"Helvetica Neue",Helvetica,Arial,"PingFang SC","Hiragino Sans GB","WenQuanYi Micro Hei","Microsoft Yahei",sans-serif; }
+    ul { list-style: none; }
+    body { text-align: center; }
+    a { color: #333; text-decoration: none; transition: all .2s ease-in; }
+    a:hover { color: #1600ff; }
+    a.github-corner:hover .octo-arm { animation: octocat-wave 560ms infinite linear; }
+    a.github-corner svg { fill: #f1f1f1; color: #000; position: absolute; top: 0; border: 0; right: 0; z-index: 99; width: 70px; height: 70px; }
+    a.github-corner { position: fixed; z-index: 9999; top: 0; right: 0; }
+    .title { padding: 46px 0 0 0; font-size: 18px; line-height: 24px; }
+    .time, .footer { padding: 5px 0 2px 0; font-size: 12px; color: #adadad; }
+    .tabs { padding: 10px 0 15px 0;}
+    .tabs a { background: #e2e2e2; display: inline-block; padding: 10px 15px; font-size: 18px; color: #696969; }
+    .tabs a.active { background: #0086ff; color: #efefef; }
+    .tab-group { display: inline-block; margin: 0 6px; font-size: 14px; color: #999; }
+    .tab-group a { margin-left: 6px; }
+    .footer { padding: 10px 0 30px 0; }
+    .list { text-align: left; max-width: 960px; margin: 0 auto; padding-bottom: 10px; border: 1px solid #efefef; overflow: hidden; }
+    .list img { width: 36px; height: 36px; border-radius: 3px; display: block; margin: 0 auto; background-color: #e2e2e2; border: 0; overflow: hidden; }
+    .list a { color: #1600ff; }
+    .list a:hover { color: #1600ff; }
+    .list li { padding: 15px; margin: 0 8px; transition: all .3s; border-bottom: 1px solid #d8d8d8; }
+    .list li.rank-title { background-color: #0086ff; margin: 0; padding: 10px 16px; margin-bottom: 10px; border-radius: 0; font-size: 16px;}
+    .list li.rank-title:hover { background: #e2e2e2; }
+    .list li:last-child, .list li.rank-title { border-bottom: 0; }
+    .list li:hover { background: rgba(255, 255, 255, 0.56); }
+    .list li > div { display: table-cell; vertical-align: top; font-size: 14px; }
+    .list li div.rank { padding: 0 8px; }
+    .list li div.rank span { font-weight: bold; }
+    .list li div.details { padding: 2px 0 0 9px; font-size: 12px; float: left; color: #b9b9b9; }
+    .list li div.details a { color: #b9b9b9; transition: all .3s; }
+    .list li div.details a:hover { color: #1600ff; }
+    .list li div.details a:hover svg { fill: #1600ff; }
+    .list li div.details * { vertical-align: middle; }
+    .list li div.details .localtion { overflow: hidden; white-space: nowrap; text-overflow: ellipsis; max-width: 150px; display: inline-block; height: 14px; }
+    .list li div.details svg { width: 12px; height: 12px; margin-top: 0; margin-right: 2px; fill: #b9b9b9; display: inline-block; }
+    .list li > div.info { width: 100%; }
+    .list li > div.info i { color: #717171; }
+    .list li > div.info a:hover i { color: #333; }
+    .list li div.sub-title { color: #333; margin: 4px 0 0 3px;}
+    .list li a.language,
+    .list li span.star { height: 18px; background: #e2e2e2; display: inline-block; padding: 2px 4px; border-radius: 3px; }
+    .list .select { float: right; line-height: 14px; line-height: 16px; }
+    .list .select .active { color: orange; font-weight: bold; }
+    .list li div.followers { font-size: 12px; color: #7d7d7d; white-space:nowrap; padding-left: 5px; padding-top: 2px; border-radius: 3px; }
+    .list li div.followers a { color: #545454; }
+    .list li div.followers * { vertical-align: middle; }
+    .list li div.followers svg { vertical-align: text-top; display: inline-block; fill: #9E9E9E; width: 14px; height: 14px; }
+    @keyframes octocat-wave {
+      0%,100%{-webkit-transform:rotate(0); transform:rotate(0);}
+      20%,60%{-webkit-transform:rotate(-25deg); transform:rotate(-25deg);}
+      40%,80%{-webkit-transform:rotate(10deg); transform:rotate(10deg);}
+    }
+  </style>
+</head>
+<body>
+  <a href="https://github.com/silver-blue-space/github-rank" target="_blank" class="github-corner">
+    <svg viewBox="0 0 250 250">
+      <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>
+      <path class="octo-arm" fill="currentColor" style="transform-origin: 130px 106px;" d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2"></path>
+      <path fill="currentColor" class="octo-body" d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z"></path>
+    </svg>
+  </a>
+  <h1 class="title"> OpenAI News </h1>
+  <div class="time">Last cache created on 2026/5/18 by Github API v3.</div>
+  <div class="tabs">
+  <span class="tab-group">📦
+    <a class="" href="trending.html">GitHub Trending</a>
+    <a class="" href="hf-trending.html">HF Trending</a>
+  </span>
+  <span class="tab-group">🤖
+    <a class="" href="hf-papers.html">HF Papers</a>
+  </span>
+  <span class="tab-group">📰
+    <a class="active" href="openai-news.html">OpenAI</a>
+    <a class="" href="anthropic-news.html">Anthropic</a>
+  </span>
+</div>
+
+<ul class="list">
+  <li class="rank-title">
+    <span>OpenAI News</span>
+    
+    <span class="select">
+      <a class="" href="openai-news.html">Today</a>
+      <a class="" href="openai-news-weekly.html">Week</a>
+      <a class="active" href="openai-news-monthly.html">Month</a>
+    </span>
+    
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 1">1</span>
+        <a href="https://openai.com/index/malta-chatgpt-plus-partnership" target="_blank" title="OpenAI and Malta partner to bring ChatGPT Plus to all citizens">OpenAI and Malta partner to bring ChatGPT Plus to all citizens</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Global Affairs</span>
+        <span class="star">Sat, 16 May 2026 00:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 2">2</span>
+        <a href="https://openai.com/index/databricks" target="_blank" title="Databricks brings GPT-5.5 to enterprise agent workflows">Databricks brings GPT-5.5 to enterprise agent workflows</a>
+      </div>
+      
+      <div class="sub-title followers">
+        
+        <span class="star">Fri, 15 May 2026 00:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 3">3</span>
+        <a href="https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex" target="_blank" title="How data science teams use Codex">How data science teams use Codex</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">OpenAI Academy</span>
+        <span class="star">Fri, 15 May 2026 00:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 4">4</span>
+        <a href="https://openai.com/academy/codex-for-work/how-sales-teams-use-codex" target="_blank" title="How sales teams use Codex">How sales teams use Codex</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">OpenAI Academy</span>
+        <span class="star">Fri, 15 May 2026 00:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 5">5</span>
+        <a href="https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex" target="_blank" title="How business operations teams use Codex">How business operations teams use Codex</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">OpenAI Academy</span>
+        <span class="star">Fri, 15 May 2026 00:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 6">6</span>
+        <a href="https://openai.com/index/personal-finance-chatgpt" target="_blank" title="A new personal finance experience in ChatGPT">A new personal finance experience in ChatGPT</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Product</span>
+        <span class="star">Fri, 15 May 2026 00:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 7">7</span>
+        <a href="https://openai.com/index/sea-david-chen" target="_blank" title="Sea&#39;s View on the Future of Agentic Software Development with Codex">Sea&#39;s View on the Future of Agentic Software Development with Codex</a>
+      </div>
+      
+      <div class="sub-title followers">
+        
+        <span class="star">Thu, 14 May 2026 20:30:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 8">8</span>
+        <a href="https://openai.com/index/work-with-codex-from-anywhere" target="_blank" title="Work with Codex from anywhere">Work with Codex from anywhere</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Product</span>
+        <span class="star">Thu, 14 May 2026 13:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 9">9</span>
+        <a href="https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations" target="_blank" title="Helping ChatGPT better recognize context in sensitive conversations">Helping ChatGPT better recognize context in sensitive conversations</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Safety</span>
+        <span class="star">Thu, 14 May 2026 00:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 10">10</span>
+        <a href="https://openai.com/index/building-codex-windows-sandbox" target="_blank" title="Building a safe, effective sandbox to enable Codex on Windows">Building a safe, effective sandbox to enable Codex on Windows</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Engineering</span>
+        <span class="star">Wed, 13 May 2026 11:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 11">11</span>
+        <a href="https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack" target="_blank" title="Our response to the TanStack npm supply chain attack">Our response to the TanStack npm supply chain attack</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Security</span>
+        <span class="star">Wed, 13 May 2026 00:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 12">12</span>
+        <a href="https://openai.com/academy/how-finance-teams-use-codex" target="_blank" title="How finance teams use Codex">How finance teams use Codex</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">OpenAI Academy</span>
+        <span class="star">Tue, 12 May 2026 15:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 13">13</span>
+        <a href="https://openai.com/index/autoscout24" target="_blank" title="AutoScout24 scales engineering with AI-powered workflows">AutoScout24 scales engineering with AI-powered workflows</a>
+      </div>
+      
+      <div class="sub-title followers">
+        
+        <span class="star">Tue, 12 May 2026 00:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 14">14</span>
+        <a href="https://openai.com/index/what-parameter-golf-taught-us" target="_blank" title="What Parameter Golf taught us about AI-assisted research">What Parameter Golf taught us about AI-assisted research</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Research</span>
+        <span class="star">Tue, 12 May 2026 00:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 15">15</span>
+        <a href="https://openai.com/index/nvidia" target="_blank" title="How NVIDIA engineers and researchers build with Codex">How NVIDIA engineers and researchers build with Codex</a>
+      </div>
+      
+      <div class="sub-title followers">
+        
+        <span class="star">Tue, 12 May 2026 00:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 16">16</span>
+        <a href="https://openai.com/signals/research/2026q1-update" target="_blank" title="How ChatGPT adoption broadened in early 2026">How ChatGPT adoption broadened in early 2026</a>
+      </div>
+      
+      <div class="sub-title followers">
+        
+        <span class="star">Mon, 11 May 2026 15:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 17">17</span>
+        <a href="https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai" target="_blank" title="How enterprises are scaling AI">How enterprises are scaling AI</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Guides</span>
+        <span class="star">Mon, 11 May 2026 10:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 18">18</span>
+        <a href="https://openai.com/index/openai-campus-network-student-club-interest-form" target="_blank" title="OpenAI Campus Network: Student club interest form">OpenAI Campus Network: Student club interest form</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Company</span>
+        <span class="star">Mon, 11 May 2026 10:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 19">19</span>
+        <a href="https://openai.com/index/openai-launches-the-deployment-company" target="_blank" title="OpenAI launches DeployCo to help businesses build around intelligence">OpenAI launches DeployCo to help businesses build around intelligence</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Company</span>
+        <span class="star">Mon, 11 May 2026 06:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 20">20</span>
+        <a href="https://openai.com/index/running-codex-safely" target="_blank" title="Running Codex safely at OpenAI">Running Codex safely at OpenAI</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Security</span>
+        <span class="star">Fri, 08 May 2026 12:30:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 21">21</span>
+        <a href="https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber" target="_blank" title="Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber">Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Security</span>
+        <span class="star">Thu, 07 May 2026 13:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 22">22</span>
+        <a href="https://openai.com/index/parloa" target="_blank" title="Parloa builds service agents customers want to talk to">Parloa builds service agents customers want to talk to</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Startup</span>
+        <span class="star">Thu, 07 May 2026 11:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 23">23</span>
+        <a href="https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api" target="_blank" title="Advancing voice intelligence with new models in the API">Advancing voice intelligence with new models in the API</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Product</span>
+        <span class="star">Thu, 07 May 2026 10:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 24">24</span>
+        <a href="https://openai.com/index/testing-ads-in-chatgpt" target="_blank" title="Testing ads in ChatGPT">Testing ads in ChatGPT</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Company</span>
+        <span class="star">Thu, 07 May 2026 00:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 25">25</span>
+        <a href="https://openai.com/index/introducing-trusted-contact-in-chatgpt" target="_blank" title="Introducing Trusted Contact in ChatGPT">Introducing Trusted Contact in ChatGPT</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Safety</span>
+        <span class="star">Thu, 07 May 2026 00:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 26">26</span>
+        <a href="https://openai.com/index/simplex" target="_blank" title="Simplex rethinks software development with Codex">Simplex rethinks software development with Codex</a>
+      </div>
+      
+      <div class="sub-title followers">
+        
+        <span class="star">Thu, 07 May 2026 00:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 27">27</span>
+        <a href="https://openai.com/index/how-chatgpt-protects-privacy" target="_blank" title="How ChatGPT learns about the world while protecting privacy">How ChatGPT learns about the world while protecting privacy</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Global Affairs</span>
+        <span class="star">Wed, 06 May 2026 08:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 28">28</span>
+        <a href="https://openai.com/index/introducing-b2b-signals" target="_blank" title="How frontier firms are pulling ahead">How frontier firms are pulling ahead</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Company</span>
+        <span class="star">Wed, 06 May 2026 00:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 29">29</span>
+        <a href="https://openai.com/index/uber" target="_blank" title="Uber uses OpenAI to help people earn smarter and book faster">Uber uses OpenAI to help people earn smarter and book faster</a>
+      </div>
+      
+      <div class="sub-title followers">
+        
+        <span class="star">Wed, 06 May 2026 00:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 30">30</span>
+        <a href="https://openai.com/index/introducing-chatgpt-futures-class-of-2026" target="_blank" title="Introducing ChatGPT Futures: Class of 2026">Introducing ChatGPT Futures: Class of 2026</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Company</span>
+        <span class="star">Wed, 06 May 2026 00:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 31">31</span>
+        <a href="https://openai.com/index/singular-bank" target="_blank" title="Singular Bank helps bankers move fast with ChatGPT and Codex">Singular Bank helps bankers move fast with ChatGPT and Codex</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">B2B Story</span>
+        <span class="star">Wed, 06 May 2026 00:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 32">32</span>
+        <a href="https://openai.com/index/gpt-5-5-instant" target="_blank" title="GPT-5.5 Instant: smarter, clearer, and more personalized">GPT-5.5 Instant: smarter, clearer, and more personalized</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Product</span>
+        <span class="star">Tue, 05 May 2026 10:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 33">33</span>
+        <a href="https://openai.com/index/mrc-supercomputer-networking" target="_blank" title="Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)">Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Engineering</span>
+        <span class="star">Tue, 05 May 2026 10:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 34">34</span>
+        <a href="https://openai.com/index/gpt-5-5-instant-system-card" target="_blank" title="GPT-5.5 Instant System Card">GPT-5.5 Instant System Card</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Safety</span>
+        <span class="star">Tue, 05 May 2026 10:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 35">35</span>
+        <a href="https://openai.com/index/new-ways-to-buy-chatgpt-ads" target="_blank" title="New ways to buy ChatGPT ads">New ways to buy ChatGPT ads</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Product</span>
+        <span class="star">Tue, 05 May 2026 00:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 36">36</span>
+        <a href="https://openai.com/index/advancing-youth-safety-in-emea" target="_blank" title="Advancing youth safety and wellbeing in EMEA">Advancing youth safety and wellbeing in EMEA</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Safety</span>
+        <span class="star">Tue, 05 May 2026 00:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 37">37</span>
+        <a href="https://openai.com/index/openai-pwc-finance-collaboration" target="_blank" title="OpenAI and PwC collaborate to reimagine the office of the CFO">OpenAI and PwC collaborate to reimagine the office of the CFO</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Global Affairs</span>
+        <span class="star">Mon, 04 May 2026 21:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 38">38</span>
+        <a href="https://openai.com/index/delivering-low-latency-voice-ai-at-scale" target="_blank" title="How OpenAI delivers low-latency voice AI at scale">How OpenAI delivers low-latency voice AI at scale</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Engineering</span>
+        <span class="star">Mon, 04 May 2026 00:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 39">39</span>
+        <a href="https://openai.com/index/advanced-account-security" target="_blank" title="Introducing Advanced Account Security">Introducing Advanced Account Security</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Product</span>
+        <span class="star">Thu, 30 Apr 2026 00:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 40">40</span>
+        <a href="https://openai.com/index/where-the-goblins-came-from" target="_blank" title="Where the goblins came from">Where the goblins came from</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Publication</span>
+        <span class="star">Wed, 29 Apr 2026 20:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 41">41</span>
+        <a href="https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age" target="_blank" title="Building the compute infrastructure for the Intelligence Age">Building the compute infrastructure for the Intelligence Age</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Global Affairs</span>
+        <span class="star">Wed, 29 Apr 2026 15:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 42">42</span>
+        <a href="https://openai.com/index/cybersecurity-in-the-intelligence-age" target="_blank" title="Cybersecurity in the Intelligence Age">Cybersecurity in the Intelligence Age</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Global Affairs</span>
+        <span class="star">Wed, 29 Apr 2026 04:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 43">43</span>
+        <a href="https://openai.com/index/our-commitment-to-community-safety" target="_blank" title="Our commitment to community safety">Our commitment to community safety</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Safety</span>
+        <span class="star">Tue, 28 Apr 2026 00:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 44">44</span>
+        <a href="https://openai.com/index/openai-on-aws" target="_blank" title="OpenAI models, Codex, and Managed Agents come to AWS">OpenAI models, Codex, and Managed Agents come to AWS</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Product</span>
+        <span class="star">Tue, 28 Apr 2026 00:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 45">45</span>
+        <a href="https://openai.com/index/openai-available-at-fedramp-moderate" target="_blank" title="OpenAI available at FedRAMP Moderate">OpenAI available at FedRAMP Moderate</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Global Affairs</span>
+        <span class="star">Mon, 27 Apr 2026 14:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 46">46</span>
+        <a href="https://openai.com/index/next-phase-of-microsoft-partnership" target="_blank" title="The next phase of the Microsoft OpenAI partnership">The next phase of the Microsoft OpenAI partnership</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Company</span>
+        <span class="star">Mon, 27 Apr 2026 06:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 47">47</span>
+        <a href="https://openai.com/index/open-source-codex-orchestration-symphony" target="_blank" title="An open-source spec for orchestration: Symphony">An open-source spec for orchestration: Symphony</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Engineering</span>
+        <span class="star">Mon, 27 Apr 2026 00:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 48">48</span>
+        <a href="https://openai.com/index/choco" target="_blank" title="Choco automates food distribution with AI agents">Choco automates food distribution with AI agents</a>
+      </div>
+      
+      <div class="sub-title followers">
+        
+        <span class="star">Mon, 27 Apr 2026 00:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 49">49</span>
+        <a href="https://openai.com/index/our-principles" target="_blank" title="Our principles">Our principles</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Company</span>
+        <span class="star">Sun, 26 Apr 2026 16:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 50">50</span>
+        <a href="https://openai.com/index/introducing-gpt-5-5" target="_blank" title="Introducing GPT-5.5">Introducing GPT-5.5</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">Product</span>
+        <span class="star">Thu, 23 Apr 2026 11:00:00 GMT</span>
+      </div>
+      
+    </div>
+  </li>
+  
+</ul>
+  <div class="footer">
+    <div class="time">Last cache created on 2026/5/18 by Github API v3.</div>
+    Create by <a href="https://silver-blue-space.github.io/" target="_blank">silver-blue™</a>.
+  </div>
+</body>
+</html>
