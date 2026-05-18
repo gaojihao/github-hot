@@ -7,6 +7,7 @@ import trendingMonthlyData from '../dist/trending-monthly.json';
 import hfTrendingData from '../dist/hf-trending.json';
 import hfPapersData from '../dist/hf-papers.json';
 import openaiNewsData from '../dist/openai-news.json';
+import anthropicNewsData from '../dist/anthropic-news.json';
 
 (async () => {
   try {
@@ -55,6 +56,16 @@ import openaiNewsData from '../dist/openai-news.json';
     html = creatListHTML({ title: 'OpenAI News', tabId: 'openai-news', items: openaiItems });
     FS.outputFileSync(path.join(process.cwd(), 'web', 'openai-news.html'), html);
     console.log(`> OpenAI News 页面生成成功！共${openaiItems.length}条数据！`);
+
+    const anthropicItems = (anthropicNewsData as Array<{ title: string; category: string; date: string; url: string }>).map((n) => ({
+      title: n.title,
+      subtitle: n.category,
+      meta: n.date,
+      url: n.url,
+    }));
+    html = creatListHTML({ title: 'Anthropic News', tabId: 'anthropic-news', items: anthropicItems });
+    FS.outputFileSync(path.join(process.cwd(), 'web', 'anthropic-news.html'), html);
+    console.log(`> Anthropic News 页面生成成功！共${anthropicItems.length}条数据！`);
   } catch (error) {
     console.log(error);
   }
