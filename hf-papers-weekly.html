@@ -9,58 +9,136 @@
   <meta name="description" content="HuggingFace Papers">
   <style>
     * { box-sizing: border-box; }
-    html, body, ul, li, h1 { margin: 0; padding: 0 }
-    html, body { font-size: 16px; font-family: -apple-system,"Helvetica Neue",Helvetica,Arial,"PingFang SC","Hiragino Sans GB","WenQuanYi Micro Hei","Microsoft Yahei",sans-serif; }
+    html, body, ul, li, h1 { margin: 0; padding: 0; }
     ul { list-style: none; }
+    html, body {
+      font-size: 14px;
+      font-family: -apple-system, "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "WenQuanYi Micro Hei", "Microsoft Yahei", sans-serif;
+      color: #1f2328;
+      background: #fff;
+    }
     body { text-align: center; }
-    a { color: #333; text-decoration: none; transition: all .2s ease-in; }
-    a:hover { color: #1600ff; }
-    a.github-corner:hover .octo-arm { animation: octocat-wave 560ms infinite linear; }
-    a.github-corner svg { fill: #f1f1f1; color: #000; position: absolute; top: 0; border: 0; right: 0; z-index: 99; width: 70px; height: 70px; }
+    a { color: #1f2328; text-decoration: none; transition: color .15s ease; }
+    a:hover { color: #0969da; }
+
     a.github-corner { position: fixed; z-index: 9999; top: 0; right: 0; }
-    .title { padding: 46px 0 0 0; font-size: 18px; line-height: 24px; }
-    .time, .footer { padding: 5px 0 2px 0; font-size: 12px; color: #adadad; }
-    .tabs { padding: 10px 0 15px 0;}
-    .tabs a { background: #e2e2e2; display: inline-block; padding: 10px 15px; font-size: 18px; color: #696969; }
-    .tabs a.active { background: #0086ff; color: #efefef; }
-    .tab-group { display: inline-block; margin: 0 6px; font-size: 14px; color: #999; }
-    .tab-group a { margin-left: 6px; }
-    .footer { padding: 10px 0 30px 0; }
-    .list { text-align: left; max-width: 960px; margin: 0 auto; padding-bottom: 10px; border: 1px solid #efefef; overflow: hidden; }
-    .list img { width: 36px; height: 36px; border-radius: 3px; display: block; margin: 0 auto; background-color: #e2e2e2; border: 0; overflow: hidden; }
-    .list a { color: #1600ff; }
-    .list a:hover { color: #1600ff; }
-    .list li { padding: 15px; margin: 0 8px; transition: all .3s; border-bottom: 1px solid #d8d8d8; }
-    .list li.rank-title { background-color: #0086ff; margin: 0; padding: 10px 16px; margin-bottom: 10px; border-radius: 0; font-size: 16px;}
-    .list li.rank-title:hover { background: #e2e2e2; }
-    .list li:last-child, .list li.rank-title { border-bottom: 0; }
-    .list li:hover { background: rgba(255, 255, 255, 0.56); }
+    a.github-corner svg { fill: #f1f1f1; color: #000; position: absolute; top: 0; right: 0; border: 0; z-index: 99; width: 70px; height: 70px; }
+    a.github-corner:hover .octo-arm { animation: octocat-wave 560ms infinite linear; }
+
+    .title { padding: 46px 0 0 0; font-size: 24px; line-height: 32px; font-weight: 600; color: #1f2328; }
+    .time { padding: 6px 0 2px 0; font-size: 12px; color: #9ba1a8; }
+
+    .tabs { padding: 16px 12px 22px; }
+    .tabs a {
+      background: #f6f8fa;
+      display: inline-block;
+      padding: 7px 14px;
+      font-size: 14px;
+      color: #424a53;
+      border-radius: 6px;
+      border: 1px solid #d0d7de;
+      line-height: 18px;
+      transition: all .15s ease;
+    }
+    .tabs a:hover { background: #eaeef2; color: #0969da; border-color: #afb8c1; }
+    .tabs a.active { background: #0969da; color: #fff; border-color: #0969da; }
+    .tab-group {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      margin: 0 4px;
+      font-size: 14px;
+      color: #afb8c1;
+      vertical-align: middle;
+      line-height: 32px;
+    }
+    .tab-group + .tab-group { margin-left: 12px; padding-left: 16px; border-left: 1px solid #e5e7eb; }
+
+    .list {
+      text-align: left;
+      max-width: 960px;
+      margin: 0 auto;
+      border: 1px solid #d0d7de;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 1px 3px rgba(31, 35, 40, 0.04);
+      background: #fff;
+    }
+    .list a { color: #0969da; }
+    .list a:hover { color: #0550ae; text-decoration: underline; }
+    .list img { width: 36px; height: 36px; border-radius: 6px; display: block; margin: 0 auto; background-color: #f6f8fa; border: 0; }
+
+    .list li { padding: 14px 18px; margin: 0; transition: background .15s; border-bottom: 1px solid #eaeef2; }
+    .list li:last-child { border-bottom: 0; }
+    .list li:hover { background: #f6f8fa; }
     .list li > div { display: table-cell; vertical-align: top; font-size: 14px; }
-    .list li div.rank { padding: 0 8px; }
-    .list li div.rank span { font-weight: bold; }
-    .list li div.details { padding: 2px 0 0 9px; font-size: 12px; float: left; color: #b9b9b9; }
-    .list li div.details a { color: #b9b9b9; transition: all .3s; }
-    .list li div.details a:hover { color: #1600ff; }
-    .list li div.details a:hover svg { fill: #1600ff; }
+    .list li > div.info { width: 100%; }
+    .list li div.rank { padding: 2px 10px 0 0; min-width: 28px; }
+    .list li div.rank span { font-weight: 600; color: #6e7781; }
+
+    .list li.rank-title {
+      background: #0969da;
+      margin: 0;
+      padding: 12px 18px;
+      font-size: 14px;
+      font-weight: 600;
+      color: #fff;
+      border-bottom: 0;
+    }
+    .list li.rank-title:hover { background: #0969da; }
+    .list li.rank-title a, .list li.rank-title span { color: #fff; }
+    .list li.rank-title a:hover { color: #fff; text-decoration: underline; }
+
+    .list li.rank-title .select { float: right; font-size: 13px; line-height: 20px; font-weight: 400; }
+    .list li.rank-title .select a { color: rgba(255, 255, 255, 0.65); padding: 0 6px; }
+    .list li.rank-title .select a:hover { color: #fff; text-decoration: none; }
+    .list li.rank-title .select a.active { color: #ffd33d; font-weight: 600; }
+
+    .list li div.sub-title { color: #1f2328; margin: 6px 0 4px 0; }
+    .list li a.language,
+    .list li span.star {
+      display: inline-block;
+      padding: 2px 8px;
+      margin-right: 4px;
+      background: #f6f8fa;
+      color: #424a53;
+      border-radius: 12px;
+      font-size: 12px;
+      line-height: 18px;
+      border: 1px solid #d0d7de;
+    }
+    .list li a.language:hover { background: #eaeef2; color: #0969da; }
+
+    .list li div.followers { font-size: 12px; color: #57606a; white-space: nowrap; }
+    .list li div.followers a { color: #424a53; }
+    .list li div.followers * { vertical-align: middle; }
+    .list li div.followers svg { display: inline-block; fill: #6e7781; width: 12px; height: 12px; vertical-align: text-bottom; }
+
+    .list li div.details { padding: 8px 0 0 0; font-size: 12px; color: #57606a; clear: both; display: block; line-height: 18px; }
+    .list li div.details a { color: #57606a; }
+    .list li div.details a:hover { color: #0969da; }
     .list li div.details * { vertical-align: middle; }
     .list li div.details .localtion { overflow: hidden; white-space: nowrap; text-overflow: ellipsis; max-width: 150px; display: inline-block; height: 14px; }
-    .list li div.details svg { width: 12px; height: 12px; margin-top: 0; margin-right: 2px; fill: #b9b9b9; display: inline-block; }
-    .list li > div.info { width: 100%; }
-    .list li > div.info i { color: #717171; }
-    .list li > div.info a:hover i { color: #333; }
-    .list li div.sub-title { color: #333; margin: 4px 0 0 3px;}
-    .list li a.language,
-    .list li span.star { height: 18px; background: #e2e2e2; display: inline-block; padding: 2px 4px; border-radius: 3px; }
-    .list .select { float: right; line-height: 14px; line-height: 16px; }
-    .list .select .active { color: orange; font-weight: bold; }
-    .list li div.followers { font-size: 12px; color: #7d7d7d; white-space:nowrap; padding-left: 5px; padding-top: 2px; border-radius: 3px; }
-    .list li div.followers a { color: #545454; }
-    .list li div.followers * { vertical-align: middle; }
-    .list li div.followers svg { vertical-align: text-top; display: inline-block; fill: #9E9E9E; width: 14px; height: 14px; }
+    .list li div.details svg { width: 12px; height: 12px; margin-right: 4px; fill: #9ba1a8; display: inline-block; }
+
+    .footer { padding: 24px 0 30px 0; font-size: 12px; color: #9ba1a8; }
+
+    @media (max-width: 720px) {
+      a.github-corner svg { width: 50px; height: 50px; }
+      .title { font-size: 20px; padding-top: 36px; }
+      .tabs { padding: 12px 8px 18px; }
+      .tabs a { padding: 6px 10px; font-size: 13px; }
+      .tab-group { margin: 0 2px; }
+      .tab-group + .tab-group { margin-left: 6px; padding-left: 8px; }
+      .list { margin: 0 12px; border-radius: 6px; }
+      .list li { padding: 12px 14px; }
+      .list li.rank-title { padding: 10px 14px; font-size: 13px; }
+    }
+
     @keyframes octocat-wave {
-      0%,100%{-webkit-transform:rotate(0); transform:rotate(0);}
-      20%,60%{-webkit-transform:rotate(-25deg); transform:rotate(-25deg);}
-      40%,80%{-webkit-transform:rotate(10deg); transform:rotate(10deg);}
+      0%, 100% { transform: rotate(0); }
+      20%, 60% { transform: rotate(-25deg); }
+      40%, 80% { transform: rotate(10deg); }
     }
   </style>
 </head>
@@ -109,7 +187,7 @@
       
       <div class="sub-title followers">
         <span class="star">2605.15298</span>
-        <span class="star">▲ 112</span>
+        <span class="star">▲ 116</span>
       </div>
       
     </div>
@@ -139,7 +217,7 @@
       
       <div class="sub-title followers">
         <span class="star">2605.12882</span>
-        <span class="star">▲ 84</span>
+        <span class="star">▲ 85</span>
       </div>
       
     </div>
@@ -169,7 +247,7 @@
       
       <div class="sub-title followers">
         <span class="star">2605.16257</span>
-        <span class="star">▲ 44</span>
+        <span class="star">▲ 46</span>
       </div>
       
     </div>
@@ -199,7 +277,7 @@
       
       <div class="sub-title followers">
         <span class="star">2605.11739</span>
-        <span class="star">▲ 27</span>
+        <span class="star">▲ 28</span>
       </div>
       
     </div>
@@ -259,7 +337,7 @@
       
       <div class="sub-title followers">
         <span class="star">2605.15256</span>
-        <span class="star">▲ 21</span>
+        <span class="star">▲ 22</span>
       </div>
       
     </div>
@@ -349,7 +427,7 @@
       
       <div class="sub-title followers">
         <span class="star">2605.15181</span>
-        <span class="star">▲ 6</span>
+        <span class="star">▲ 7</span>
       </div>
       
     </div>
@@ -374,6 +452,21 @@
     <div class="info">
       <div class="rank">
         <span title="Ranking 19">19</span>
+        <a href="https://huggingface.co/papers/2605.15843" target="_blank" title="WorldAct: Activating Monolithic 3D Worlds into Interactive-Ready Object-Centric Scenes">WorldAct: Activating Monolithic 3D Worlds into Interactive-Ready Object-Centric Scenes</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.15843</span>
+        <span class="star">▲ 4</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 20">20</span>
         <a href="https://huggingface.co/papers/2605.15871" target="_blank" title="Agentic Discovery of Neural Architectures: AIRA-Compose and AIRA-Design">Agentic Discovery of Neural Architectures: AIRA-Compose and AIRA-Design</a>
       </div>
       
@@ -388,7 +481,7 @@
   <li>
     <div class="info">
       <div class="rank">
-        <span title="Ranking 20">20</span>
+        <span title="Ranking 21">21</span>
         <a href="https://huggingface.co/papers/2605.14539" target="_blank" title="Learning from Failures: Correction-Oriented Policy Optimization with Verifiable Rewards">Learning from Failures: Correction-Oriented Policy Optimization with Verifiable Rewards</a>
       </div>
       
@@ -403,7 +496,7 @@
   <li>
     <div class="info">
       <div class="rank">
-        <span title="Ranking 21">21</span>
+        <span title="Ranking 22">22</span>
         <a href="https://huggingface.co/papers/2605.08614" target="_blank" title="DiagnosticIQ: A Benchmark for LLM-Based Industrial Maintenance Action Recommendation from Symbolic Rules">DiagnosticIQ: A Benchmark for LLM-Based Industrial Maintenance Action Recommendation from Symbolic Rules</a>
       </div>
       
@@ -418,28 +511,13 @@
   <li>
     <div class="info">
       <div class="rank">
-        <span title="Ranking 22">22</span>
+        <span title="Ranking 23">23</span>
         <a href="https://huggingface.co/papers/2605.05945" target="_blank" title="MobileEgo Anywhere: Open Infrastructure for long horizon egocentric data on commodity hardware">MobileEgo Anywhere: Open Infrastructure for long horizon egocentric data on commodity hardware</a>
       </div>
       
       <div class="sub-title followers">
         <span class="star">2605.05945</span>
         <span class="star">▲ 4</span>
-      </div>
-      
-    </div>
-  </li>
-  
-  <li>
-    <div class="info">
-      <div class="rank">
-        <span title="Ranking 23">23</span>
-        <a href="https://huggingface.co/papers/2605.15843" target="_blank" title="WorldAct: Activating Monolithic 3D Worlds into Interactive-Ready Object-Centric Scenes">WorldAct: Activating Monolithic 3D Worlds into Interactive-Ready Object-Centric Scenes</a>
-      </div>
-      
-      <div class="sub-title followers">
-        <span class="star">2605.15843</span>
-        <span class="star">▲ 3</span>
       </div>
       
     </div>
@@ -539,6 +617,21 @@
     <div class="info">
       <div class="rank">
         <span title="Ranking 30">30</span>
+        <a href="https://huggingface.co/papers/2605.15250" target="_blank" title="GQLA: Group-Query Latent Attention for Hardware-Adaptive Large Language Model Decoding">GQLA: Group-Query Latent Attention for Hardware-Adaptive Large Language Model Decoding</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.15250</span>
+        <span class="star">▲ 1</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 31">31</span>
         <a href="https://huggingface.co/papers/2605.12038" target="_blank" title="OmniHumanoid: Streaming Cross-Embodiment Video Generation with Paired-Free Adaptation">OmniHumanoid: Streaming Cross-Embodiment Video Generation with Paired-Free Adaptation</a>
       </div>
       
@@ -553,13 +646,13 @@
   <li>
     <div class="info">
       <div class="rank">
-        <span title="Ranking 31">31</span>
-        <a href="https://huggingface.co/papers/2605.15250" target="_blank" title="GQLA: Group-Query Latent Attention for Hardware-Adaptive Large Language Model Decoding">GQLA: Group-Query Latent Attention for Hardware-Adaptive Large Language Model Decoding</a>
+        <span title="Ranking 32">32</span>
+        <a href="https://huggingface.co/papers/2604.09839" target="_blank" title="Steered LLM Activations are Non-Surjective">Steered LLM Activations are Non-Surjective</a>
       </div>
       
       <div class="sub-title followers">
-        <span class="star">2605.15250</span>
-        <span class="star">▲ 0</span>
+        <span class="star">2604.09839</span>
+        <span class="star">▲ 1</span>
       </div>
       
     </div>
