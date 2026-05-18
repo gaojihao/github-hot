@@ -1,0 +1,23 @@
+<%- include('header', { tabCls: tabId }); %>
+<ul class="list">
+  <li class="rank-title">
+    <span><%= title %></span>
+  </li>
+  <% items.forEach(function(item, idx){ %>
+  <li>
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking <%= idx + 1 %>"><%= idx + 1 %></span>
+        <a href="<%= item.url %>" target="_blank" title="<%= item.title %>"><%= item.title %></a>
+      </div>
+      <% if (item.subtitle || item.meta) { %>
+      <div class="sub-title followers">
+        <% if (item.subtitle) { %><span class="star"><%= item.subtitle %></span><% } %>
+        <% if (item.meta) { %><span class="star"><%= item.meta %></span><% } %>
+      </div>
+      <% } %>
+    </div>
+  </li>
+  <% }); %>
+</ul>
+<%- include('footer', { }); %>
