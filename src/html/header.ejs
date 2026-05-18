@@ -23,6 +23,8 @@
     .tabs { padding: 10px 0 15px 0;}
     .tabs a { background: #e2e2e2; display: inline-block; padding: 10px 15px; font-size: 18px; color: #696969; }
     .tabs a.active { background: #0086ff; color: #efefef; }
+    .tab-group { display: inline-block; margin: 0 6px; font-size: 14px; color: #999; }
+    .tab-group a { margin-left: 6px; }
     .footer { padding: 10px 0 30px 0; }
     .list { text-align: left; max-width: 960px; margin: 0 auto; padding-bottom: 10px; border: 1px solid #efefef; overflow: hidden; }
     .list img { width: 36px; height: 36px; border-radius: 3px; display: block; margin: 0 auto; background-color: #e2e2e2; border: 0; overflow: hidden; }
@@ -73,5 +75,15 @@
   <h1 class="title"> <%= title %> </h1>
   <div class="time">Last cache created on <%=date%> by Github API v3.</div>
   <div class="tabs">
-    <a class="active" href="trending.html">Trending</a>
-  </div>
+  <span class="tab-group">📦
+    <a class="<%= tabCls === 'trending' ? 'active' : '' %>" href="trending.html">GitHub Trending</a>
+    <a class="<%= tabCls === 'hf-trending' ? 'active' : '' %>" href="hf-trending.html">HF Trending</a>
+  </span>
+  <span class="tab-group">🤖
+    <a class="<%= tabCls === 'hf-papers' ? 'active' : '' %>" href="hf-papers.html">HF Papers</a>
+  </span>
+  <span class="tab-group">📰
+    <a class="<%= tabCls === 'openai-news' ? 'active' : '' %>" href="openai-news.html">OpenAI</a>
+    <a class="<%= tabCls === 'anthropic-news' ? 'active' : '' %>" href="anthropic-news.html">Anthropic</a>
+  </span>
+</div>
