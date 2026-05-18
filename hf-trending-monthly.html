@@ -88,6 +88,35 @@
     .list li.rank-title .select a:hover { color: #fff; text-decoration: none; }
     .list li.rank-title .select a.active { color: #ffd33d; font-weight: 600; }
 
+    .list li.filter-bar {
+      padding: 10px 18px;
+      background: #f6f8fa;
+      border-bottom: 1px solid #d0d7de;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .list li.filter-bar:hover { background: #f6f8fa; }
+    .list .filter-input {
+      flex: 1;
+      border: 1px solid #d0d7de;
+      border-radius: 6px;
+      padding: 6px 10px;
+      font-size: 13px;
+      font-family: inherit;
+      background: #fff;
+      color: #1f2328;
+      outline: none;
+      transition: border-color .15s, box-shadow .15s;
+    }
+    .list .filter-input:focus {
+      border-color: #0969da;
+      box-shadow: 0 0 0 3px rgba(9, 105, 218, 0.15);
+    }
+    .list .filter-stat { font-size: 12px; color: #57606a; white-space: nowrap; }
+    .list li.filter-empty { color: #6e7781; text-align: center; padding: 24px; font-size: 13px; }
+    .list li.filter-empty:hover { background: transparent; }
+
     .list li div.sub-title { color: #1f2328; margin: 6px 0 4px 0; }
     .list li a.language,
     .list li span.star {
@@ -131,7 +160,7 @@
 </head>
 <body>
   <h1 class="title"> HuggingFace Trending </h1>
-  <div class="time">Last cache created on 2026/5/18 by Github API v3.</div>
+  <div class="time">Last updated: 2026-05-18 14:04 UTC</div>
   <div class="tabs">
   <span class="tab-group">
     <a class="" href="trending.html">GitHub Trending</a>
@@ -147,7 +176,7 @@
   </span>
 </div>
 
-<ul class="list">
+<ul class="list" data-list>
   <li class="rank-title">
     <span>HuggingFace Trending</span>
     
@@ -158,8 +187,12 @@
     </span>
     
   </li>
+  <li class="filter-bar">
+    <input type="search" class="filter-input" placeholder="过滤 (按标题 / 副标题模糊匹配)…" aria-label="filter">
+    <span class="filter-stat" data-filter-stat>共 40 条</span>
+  </li>
   
-  <li>
+  <li data-item data-search="deepseek-ai/deepseek-v4-pro [model] text-generation">
     <div class="info">
       <div class="rank">
         <span title="Ranking 1">1</span>
@@ -174,7 +207,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="openai/privacy-filter [model] token-classification">
     <div class="info">
       <div class="rank">
         <span title="Ranking 2">2</span>
@@ -189,7 +222,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="qwen/qwen3.6-27b [model] image-text-to-text">
     <div class="info">
       <div class="rank">
         <span title="Ranking 3">3</span>
@@ -198,13 +231,13 @@
       
       <div class="sub-title followers">
         <span class="star">[model] image-text-to-text</span>
-        <span class="star">❤ 1318 · ⬇ 3550893</span>
+        <span class="star">❤ 1319 · ⬇ 3550893</span>
       </div>
       
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="moonshotai/kimi-k2.6 [model] image-text-to-text">
     <div class="info">
       <div class="rank">
         <span title="Ranking 4">4</span>
@@ -219,7 +252,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="deepseek-ai/deepseek-v4-flash [model] text-generation">
     <div class="info">
       <div class="rank">
         <span title="Ranking 5">5</span>
@@ -228,13 +261,13 @@
       
       <div class="sub-title followers">
         <span class="star">[model] text-generation</span>
-        <span class="star">❤ 1140 · ⬇ 1904105</span>
+        <span class="star">❤ 1141 · ⬇ 1904105</span>
       </div>
       
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="sulphurai/sulphur-2-base [model] text-to-video">
     <div class="info">
       <div class="rank">
         <span title="Ranking 6">6</span>
@@ -249,7 +282,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="qwen/qwen3.6-35b-a3b [model] image-text-to-text">
     <div class="info">
       <div class="rank">
         <span title="Ranking 7">7</span>
@@ -264,7 +297,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="openbmb/minicpm-v-4.6 [model] image-text-to-text">
     <div class="info">
       <div class="rank">
         <span title="Ranking 8">8</span>
@@ -273,13 +306,13 @@
       
       <div class="sub-title followers">
         <span class="star">[model] image-text-to-text</span>
-        <span class="star">❤ 756 · ⬇ 80586</span>
+        <span class="star">❤ 757 · ⬇ 80586</span>
       </div>
       
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="unsloth/qwen3.6-27b-gguf [model] image-text-to-text">
     <div class="info">
       <div class="rank">
         <span title="Ranking 9">9</span>
@@ -294,7 +327,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="unsloth/qwen3.6-35b-a3b-gguf [model] image-text-to-text">
     <div class="info">
       <div class="rank">
         <span title="Ranking 10">10</span>
@@ -309,7 +342,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="zyphra/zaya1-8b [model]">
     <div class="info">
       <div class="rank">
         <span title="Ranking 11">11</span>
@@ -324,7 +357,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="xiaomimimo/mimo-v2.5-pro [model] text-generation">
     <div class="info">
       <div class="rank">
         <span title="Ranking 12">12</span>
@@ -339,7 +372,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="google/gemma-4-31b-it [model] image-text-to-text">
     <div class="info">
       <div class="rank">
         <span title="Ranking 13">13</span>
@@ -354,7 +387,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="hauhaucs/qwen3.6-35b-a3b-uncensored-hauhaucs-aggressive [model] image-text-to-text">
     <div class="info">
       <div class="rank">
         <span title="Ranking 14">14</span>
@@ -369,7 +402,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="tencent/hy-world-2.0 [model] image-to-3d">
     <div class="info">
       <div class="rank">
         <span title="Ranking 15">15</span>
@@ -384,7 +417,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="seesee21/z-anime [model] text-to-image">
     <div class="info">
       <div class="rank">
         <span title="Ranking 16">16</span>
@@ -399,7 +432,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="supertone/supertonic-3 [model] text-to-speech">
     <div class="info">
       <div class="rank">
         <span title="Ranking 17">17</span>
@@ -408,13 +441,13 @@
       
       <div class="sub-title followers">
         <span class="star">[model] text-to-speech</span>
-        <span class="star">❤ 395 · ⬇ 24031</span>
+        <span class="star">❤ 396 · ⬇ 24031</span>
       </div>
       
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="hidream-ai/hidream-o1-image [model] image-text-to-image">
     <div class="info">
       <div class="rank">
         <span title="Ranking 18">18</span>
@@ -429,7 +462,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="mistralai/mistral-medium-3.5-128b [model]">
     <div class="info">
       <div class="rank">
         <span title="Ranking 19">19</span>
@@ -444,7 +477,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="hauhaucs/qwen3.6-27b-uncensored-hauhaucs-aggressive [model] image-text-to-text">
     <div class="info">
       <div class="rank">
         <span title="Ranking 20">20</span>
@@ -459,7 +492,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="r3gm/wan2-2-fp8da-aoti-preview-2 [space]">
     <div class="info">
       <div class="rank">
         <span title="Ranking 21">21</span>
@@ -474,7 +507,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="smolagents/ml-intern [space]">
     <div class="info">
       <div class="rank">
         <span title="Ranking 22">22</span>
@@ -489,7 +522,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="r3gm/wan2-2-fp8da-aoti-preview [space]">
     <div class="info">
       <div class="rank">
         <span title="Ranking 23">23</span>
@@ -504,7 +537,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="prithivmlmods/firered-image-edit-1.0-fast [space]">
     <div class="info">
       <div class="rank">
         <span title="Ranking 24">24</span>
@@ -513,13 +546,13 @@
       
       <div class="sub-title followers">
         <span class="star">[space]</span>
-        <span class="star">❤ 1279</span>
+        <span class="star">❤ 1281</span>
       </div>
       
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="k2-fsa/omnivoice [space]">
     <div class="info">
       <div class="rank">
         <span title="Ranking 25">25</span>
@@ -534,7 +567,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="mikeee/qwen-7b-chat [space]">
     <div class="info">
       <div class="rank">
         <span title="Ranking 26">26</span>
@@ -549,7 +582,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="selfit-camera/omni-image-editor [space]">
     <div class="info">
       <div class="rank">
         <span title="Ranking 27">27</span>
@@ -564,7 +597,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="signsur4739379373/qwen-image-edit-rapid-aio-nsfw-v23 [space]">
     <div class="info">
       <div class="rank">
         <span title="Ranking 28">28</span>
@@ -579,7 +612,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="microsoft/trellis.2 [space]">
     <div class="info">
       <div class="rank">
         <span title="Ranking 29">29</span>
@@ -594,7 +627,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="adithyask/rl-environments-guide [space]">
     <div class="info">
       <div class="rank">
         <span title="Ranking 30">30</span>
@@ -609,7 +642,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="tencentarc/pixal3d [space]">
     <div class="info">
       <div class="rank">
         <span title="Ranking 31">31</span>
@@ -618,31 +651,16 @@
       
       <div class="sub-title followers">
         <span class="star">[space]</span>
-        <span class="star">❤ 160</span>
+        <span class="star">❤ 161</span>
       </div>
       
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="frameai4687/omni-video-factory [space]">
     <div class="info">
       <div class="rank">
         <span title="Ranking 32">32</span>
-        <a href="https://huggingface.co/mrfakename/Z-Image-Turbo" target="_blank" title="mrfakename/Z-Image-Turbo">mrfakename/Z-Image-Turbo</a>
-      </div>
-      
-      <div class="sub-title followers">
-        <span class="star">[space]</span>
-        <span class="star">❤ 3172</span>
-      </div>
-      
-    </div>
-  </li>
-  
-  <li>
-    <div class="info">
-      <div class="rank">
-        <span title="Ranking 33">33</span>
         <a href="https://huggingface.co/FrameAI4687/Omni-Video-Factory" target="_blank" title="FrameAI4687/Omni-Video-Factory">FrameAI4687/Omni-Video-Factory</a>
       </div>
       
@@ -654,7 +672,22 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="mrfakename/z-image-turbo [space]">
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 33">33</span>
+        <a href="https://huggingface.co/mrfakename/Z-Image-Turbo" target="_blank" title="mrfakename/Z-Image-Turbo">mrfakename/Z-Image-Turbo</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">[space]</span>
+        <span class="star">❤ 3172</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li data-item data-search="zerogpu-aoti/wan2-2-fp8da-aoti-faster [space]">
     <div class="info">
       <div class="rank">
         <span title="Ranking 34">34</span>
@@ -669,7 +702,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="prithivmlmods/qwen-image-edit-2511-loras-fast [space]">
     <div class="info">
       <div class="rank">
         <span title="Ranking 35">35</span>
@@ -684,7 +717,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="multimodalart/qwen-image-multiple-angles-3d-camera [space]">
     <div class="info">
       <div class="rank">
         <span title="Ranking 36">36</span>
@@ -699,7 +732,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="kulkas2pintu/wan222 [space]">
     <div class="info">
       <div class="rank">
         <span title="Ranking 37">37</span>
@@ -714,7 +747,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="supertone/supertonic-3 [space]">
     <div class="info">
       <div class="rank">
         <span title="Ranking 38">38</span>
@@ -729,7 +762,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="mteb/leaderboard [space]">
     <div class="info">
       <div class="rank">
         <span title="Ranking 39">39</span>
@@ -744,7 +777,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="webml-community/bonsai-ternary-webgpu [space]">
     <div class="info">
       <div class="rank">
         <span title="Ranking 40">40</span>
@@ -759,10 +792,43 @@
     </div>
   </li>
   
+  <li class="filter-empty" data-filter-empty hidden>没有匹配项</li>
 </ul>
+<script>
+(function() {
+  var list = document.querySelector('[data-list]');
+  if (!list) return;
+  var input = list.querySelector('.filter-input');
+  var statEl = list.querySelector('[data-filter-stat]');
+  var emptyEl = list.querySelector('[data-filter-empty]');
+  var items = list.querySelectorAll('[data-item]');
+  var total = items.length;
+  if (!input || !items.length) return;
+
+  function apply() {
+    var q = (input.value || '').trim().toLowerCase();
+    var shown = 0;
+    items.forEach(function(li) {
+      var hay = li.getAttribute('data-search') || '';
+      var match = !q || hay.indexOf(q) !== -1;
+      li.hidden = !match;
+      if (match) shown += 1;
+    });
+    if (statEl) statEl.textContent = q ? ('显示 ' + shown + ' / ' + total + ' 条') : ('共 ' + total + ' 条');
+    if (emptyEl) emptyEl.hidden = shown !== 0;
+  }
+
+  var t;
+  input.addEventListener('input', function() {
+    clearTimeout(t);
+    t = setTimeout(apply, 80);
+  });
+})();
+</script>
   <div class="footer">
-    <div class="time">Last cache created on 2026/5/18 by Github API v3.</div>
-    Create by <a href="https://silver-blue-space.github.io/" target="_blank">silver-blue™</a>.
+    <div class="time">Last updated: 2026-05-18 14:04 UTC</div>
+    Source: <a href="https://github.com/silver-blue-space/github-rank" target="_blank">github-hot</a>
   </div>
 </body>
 </html>
+

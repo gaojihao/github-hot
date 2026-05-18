@@ -88,6 +88,35 @@
     .list li.rank-title .select a:hover { color: #fff; text-decoration: none; }
     .list li.rank-title .select a.active { color: #ffd33d; font-weight: 600; }
 
+    .list li.filter-bar {
+      padding: 10px 18px;
+      background: #f6f8fa;
+      border-bottom: 1px solid #d0d7de;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .list li.filter-bar:hover { background: #f6f8fa; }
+    .list .filter-input {
+      flex: 1;
+      border: 1px solid #d0d7de;
+      border-radius: 6px;
+      padding: 6px 10px;
+      font-size: 13px;
+      font-family: inherit;
+      background: #fff;
+      color: #1f2328;
+      outline: none;
+      transition: border-color .15s, box-shadow .15s;
+    }
+    .list .filter-input:focus {
+      border-color: #0969da;
+      box-shadow: 0 0 0 3px rgba(9, 105, 218, 0.15);
+    }
+    .list .filter-stat { font-size: 12px; color: #57606a; white-space: nowrap; }
+    .list li.filter-empty { color: #6e7781; text-align: center; padding: 24px; font-size: 13px; }
+    .list li.filter-empty:hover { background: transparent; }
+
     .list li div.sub-title { color: #1f2328; margin: 6px 0 4px 0; }
     .list li a.language,
     .list li span.star {
@@ -131,7 +160,7 @@
 </head>
 <body>
   <h1 class="title"> Anthropic News </h1>
-  <div class="time">Last cache created on 2026/5/18 by Github API v3.</div>
+  <div class="time">Last updated: 2026-05-18 14:04 UTC</div>
   <div class="tabs">
   <span class="tab-group">
     <a class="" href="trending.html">GitHub Trending</a>
@@ -147,7 +176,7 @@
   </span>
 </div>
 
-<ul class="list">
+<ul class="list" data-list>
   <li class="rank-title">
     <span>Anthropic News</span>
     
@@ -158,8 +187,12 @@
     </span>
     
   </li>
+  <li class="filter-bar">
+    <input type="search" class="filter-input" placeholder="过滤 (按标题 / 副标题模糊匹配)…" aria-label="filter">
+    <span class="filter-stat" data-filter-stat>共 10 条</span>
+  </li>
   
-  <li>
+  <li data-item data-search="pwc is deploying claude to build technology, execute deals, and reinvent enterprise functions for clients announcements">
     <div class="info">
       <div class="rank">
         <span title="Ranking 1">1</span>
@@ -174,7 +207,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="anthropic forms $200 million partnership with the gates foundation announcements">
     <div class="info">
       <div class="rank">
         <span title="Ranking 2">2</span>
@@ -189,7 +222,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="introducing claude for small business announcements">
     <div class="info">
       <div class="rank">
         <span title="Ranking 3">3</span>
@@ -204,7 +237,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="higher usage limits for claude and a compute deal with spacex announcements">
     <div class="info">
       <div class="rank">
         <span title="Ranking 4">4</span>
@@ -219,7 +252,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="agents for financial services announcements">
     <div class="info">
       <div class="rank">
         <span title="Ranking 5">5</span>
@@ -234,7 +267,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="building a new enterprise ai services company with blackstone, hellman &amp; friedman, and goldman sachs announcements">
     <div class="info">
       <div class="rank">
         <span title="Ranking 6">6</span>
@@ -249,7 +282,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="claude for creative work announcements">
     <div class="info">
       <div class="rank">
         <span title="Ranking 7">7</span>
@@ -264,7 +297,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="anthropic names theo hourmouzis general manager of australia &amp; new zealand and officially opens sydney office announcements">
     <div class="info">
       <div class="rank">
         <span title="Ranking 8">8</span>
@@ -279,7 +312,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="an update on our election safeguards announcements">
     <div class="info">
       <div class="rank">
         <span title="Ranking 9">9</span>
@@ -294,7 +327,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="anthropic and nec collaborate to build japan’s largest ai engineering workforce announcements">
     <div class="info">
       <div class="rank">
         <span title="Ranking 10">10</span>
@@ -309,10 +342,43 @@
     </div>
   </li>
   
+  <li class="filter-empty" data-filter-empty hidden>没有匹配项</li>
 </ul>
+<script>
+(function() {
+  var list = document.querySelector('[data-list]');
+  if (!list) return;
+  var input = list.querySelector('.filter-input');
+  var statEl = list.querySelector('[data-filter-stat]');
+  var emptyEl = list.querySelector('[data-filter-empty]');
+  var items = list.querySelectorAll('[data-item]');
+  var total = items.length;
+  if (!input || !items.length) return;
+
+  function apply() {
+    var q = (input.value || '').trim().toLowerCase();
+    var shown = 0;
+    items.forEach(function(li) {
+      var hay = li.getAttribute('data-search') || '';
+      var match = !q || hay.indexOf(q) !== -1;
+      li.hidden = !match;
+      if (match) shown += 1;
+    });
+    if (statEl) statEl.textContent = q ? ('显示 ' + shown + ' / ' + total + ' 条') : ('共 ' + total + ' 条');
+    if (emptyEl) emptyEl.hidden = shown !== 0;
+  }
+
+  var t;
+  input.addEventListener('input', function() {
+    clearTimeout(t);
+    t = setTimeout(apply, 80);
+  });
+})();
+</script>
   <div class="footer">
-    <div class="time">Last cache created on 2026/5/18 by Github API v3.</div>
-    Create by <a href="https://silver-blue-space.github.io/" target="_blank">silver-blue™</a>.
+    <div class="time">Last updated: 2026-05-18 14:04 UTC</div>
+    Source: <a href="https://github.com/silver-blue-space/github-rank" target="_blank">github-hot</a>
   </div>
 </body>
 </html>
+

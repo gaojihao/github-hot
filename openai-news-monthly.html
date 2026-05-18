@@ -88,6 +88,35 @@
     .list li.rank-title .select a:hover { color: #fff; text-decoration: none; }
     .list li.rank-title .select a.active { color: #ffd33d; font-weight: 600; }
 
+    .list li.filter-bar {
+      padding: 10px 18px;
+      background: #f6f8fa;
+      border-bottom: 1px solid #d0d7de;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .list li.filter-bar:hover { background: #f6f8fa; }
+    .list .filter-input {
+      flex: 1;
+      border: 1px solid #d0d7de;
+      border-radius: 6px;
+      padding: 6px 10px;
+      font-size: 13px;
+      font-family: inherit;
+      background: #fff;
+      color: #1f2328;
+      outline: none;
+      transition: border-color .15s, box-shadow .15s;
+    }
+    .list .filter-input:focus {
+      border-color: #0969da;
+      box-shadow: 0 0 0 3px rgba(9, 105, 218, 0.15);
+    }
+    .list .filter-stat { font-size: 12px; color: #57606a; white-space: nowrap; }
+    .list li.filter-empty { color: #6e7781; text-align: center; padding: 24px; font-size: 13px; }
+    .list li.filter-empty:hover { background: transparent; }
+
     .list li div.sub-title { color: #1f2328; margin: 6px 0 4px 0; }
     .list li a.language,
     .list li span.star {
@@ -131,7 +160,7 @@
 </head>
 <body>
   <h1 class="title"> OpenAI News </h1>
-  <div class="time">Last cache created on 2026/5/18 by Github API v3.</div>
+  <div class="time">Last updated: 2026-05-18 14:04 UTC</div>
   <div class="tabs">
   <span class="tab-group">
     <a class="" href="trending.html">GitHub Trending</a>
@@ -147,7 +176,7 @@
   </span>
 </div>
 
-<ul class="list">
+<ul class="list" data-list>
   <li class="rank-title">
     <span>OpenAI News</span>
     
@@ -158,8 +187,12 @@
     </span>
     
   </li>
+  <li class="filter-bar">
+    <input type="search" class="filter-input" placeholder="过滤 (按标题 / 副标题模糊匹配)…" aria-label="filter">
+    <span class="filter-stat" data-filter-stat>共 50 条</span>
+  </li>
   
-  <li>
+  <li data-item data-search="openai and malta partner to bring chatgpt plus to all citizens global affairs">
     <div class="info">
       <div class="rank">
         <span title="Ranking 1">1</span>
@@ -174,7 +207,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="databricks brings gpt-5.5 to enterprise agent workflows ">
     <div class="info">
       <div class="rank">
         <span title="Ranking 2">2</span>
@@ -189,7 +222,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="how data science teams use codex openai academy">
     <div class="info">
       <div class="rank">
         <span title="Ranking 3">3</span>
@@ -204,7 +237,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="how sales teams use codex openai academy">
     <div class="info">
       <div class="rank">
         <span title="Ranking 4">4</span>
@@ -219,7 +252,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="how business operations teams use codex openai academy">
     <div class="info">
       <div class="rank">
         <span title="Ranking 5">5</span>
@@ -234,7 +267,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="a new personal finance experience in chatgpt product">
     <div class="info">
       <div class="rank">
         <span title="Ranking 6">6</span>
@@ -249,7 +282,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="sea&#39;s view on the future of agentic software development with codex ">
     <div class="info">
       <div class="rank">
         <span title="Ranking 7">7</span>
@@ -264,7 +297,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="work with codex from anywhere product">
     <div class="info">
       <div class="rank">
         <span title="Ranking 8">8</span>
@@ -279,7 +312,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="helping chatgpt better recognize context in sensitive conversations safety">
     <div class="info">
       <div class="rank">
         <span title="Ranking 9">9</span>
@@ -294,7 +327,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="building a safe, effective sandbox to enable codex on windows engineering">
     <div class="info">
       <div class="rank">
         <span title="Ranking 10">10</span>
@@ -309,7 +342,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="our response to the tanstack npm supply chain attack security">
     <div class="info">
       <div class="rank">
         <span title="Ranking 11">11</span>
@@ -324,7 +357,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="how finance teams use codex openai academy">
     <div class="info">
       <div class="rank">
         <span title="Ranking 12">12</span>
@@ -339,7 +372,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="autoscout24 scales engineering with ai-powered workflows ">
     <div class="info">
       <div class="rank">
         <span title="Ranking 13">13</span>
@@ -354,7 +387,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="what parameter golf taught us about ai-assisted research research">
     <div class="info">
       <div class="rank">
         <span title="Ranking 14">14</span>
@@ -369,7 +402,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="how nvidia engineers and researchers build with codex ">
     <div class="info">
       <div class="rank">
         <span title="Ranking 15">15</span>
@@ -384,7 +417,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="how chatgpt adoption broadened in early 2026 ">
     <div class="info">
       <div class="rank">
         <span title="Ranking 16">16</span>
@@ -399,7 +432,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="how enterprises are scaling ai guides">
     <div class="info">
       <div class="rank">
         <span title="Ranking 17">17</span>
@@ -414,7 +447,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="openai campus network: student club interest form company">
     <div class="info">
       <div class="rank">
         <span title="Ranking 18">18</span>
@@ -429,7 +462,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="openai launches deployco to help businesses build around intelligence company">
     <div class="info">
       <div class="rank">
         <span title="Ranking 19">19</span>
@@ -444,7 +477,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="running codex safely at openai security">
     <div class="info">
       <div class="rank">
         <span title="Ranking 20">20</span>
@@ -459,7 +492,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="scaling trusted access for cyber with gpt-5.5 and gpt-5.5-cyber security">
     <div class="info">
       <div class="rank">
         <span title="Ranking 21">21</span>
@@ -474,7 +507,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="parloa builds service agents customers want to talk to startup">
     <div class="info">
       <div class="rank">
         <span title="Ranking 22">22</span>
@@ -489,7 +522,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="advancing voice intelligence with new models in the api product">
     <div class="info">
       <div class="rank">
         <span title="Ranking 23">23</span>
@@ -504,7 +537,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="testing ads in chatgpt company">
     <div class="info">
       <div class="rank">
         <span title="Ranking 24">24</span>
@@ -519,7 +552,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="introducing trusted contact in chatgpt safety">
     <div class="info">
       <div class="rank">
         <span title="Ranking 25">25</span>
@@ -534,7 +567,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="simplex rethinks software development with codex ">
     <div class="info">
       <div class="rank">
         <span title="Ranking 26">26</span>
@@ -549,7 +582,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="how chatgpt learns about the world while protecting privacy global affairs">
     <div class="info">
       <div class="rank">
         <span title="Ranking 27">27</span>
@@ -564,7 +597,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="how frontier firms are pulling ahead company">
     <div class="info">
       <div class="rank">
         <span title="Ranking 28">28</span>
@@ -579,7 +612,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="uber uses openai to help people earn smarter and book faster ">
     <div class="info">
       <div class="rank">
         <span title="Ranking 29">29</span>
@@ -594,7 +627,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="introducing chatgpt futures: class of 2026 company">
     <div class="info">
       <div class="rank">
         <span title="Ranking 30">30</span>
@@ -609,7 +642,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="singular bank helps bankers move fast with chatgpt and codex b2b story">
     <div class="info">
       <div class="rank">
         <span title="Ranking 31">31</span>
@@ -624,7 +657,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="gpt-5.5 instant: smarter, clearer, and more personalized product">
     <div class="info">
       <div class="rank">
         <span title="Ranking 32">32</span>
@@ -639,7 +672,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="unlocking large scale ai training networks with mrc (multipath reliable connection) engineering">
     <div class="info">
       <div class="rank">
         <span title="Ranking 33">33</span>
@@ -654,7 +687,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="gpt-5.5 instant system card safety">
     <div class="info">
       <div class="rank">
         <span title="Ranking 34">34</span>
@@ -669,7 +702,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="new ways to buy chatgpt ads product">
     <div class="info">
       <div class="rank">
         <span title="Ranking 35">35</span>
@@ -684,7 +717,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="advancing youth safety and wellbeing in emea safety">
     <div class="info">
       <div class="rank">
         <span title="Ranking 36">36</span>
@@ -699,7 +732,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="openai and pwc collaborate to reimagine the office of the cfo global affairs">
     <div class="info">
       <div class="rank">
         <span title="Ranking 37">37</span>
@@ -714,7 +747,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="how openai delivers low-latency voice ai at scale engineering">
     <div class="info">
       <div class="rank">
         <span title="Ranking 38">38</span>
@@ -729,7 +762,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="introducing advanced account security product">
     <div class="info">
       <div class="rank">
         <span title="Ranking 39">39</span>
@@ -744,7 +777,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="where the goblins came from publication">
     <div class="info">
       <div class="rank">
         <span title="Ranking 40">40</span>
@@ -759,7 +792,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="building the compute infrastructure for the intelligence age global affairs">
     <div class="info">
       <div class="rank">
         <span title="Ranking 41">41</span>
@@ -774,7 +807,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="cybersecurity in the intelligence age global affairs">
     <div class="info">
       <div class="rank">
         <span title="Ranking 42">42</span>
@@ -789,7 +822,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="our commitment to community safety safety">
     <div class="info">
       <div class="rank">
         <span title="Ranking 43">43</span>
@@ -804,7 +837,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="openai models, codex, and managed agents come to aws product">
     <div class="info">
       <div class="rank">
         <span title="Ranking 44">44</span>
@@ -819,7 +852,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="openai available at fedramp moderate global affairs">
     <div class="info">
       <div class="rank">
         <span title="Ranking 45">45</span>
@@ -834,7 +867,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="the next phase of the microsoft openai partnership company">
     <div class="info">
       <div class="rank">
         <span title="Ranking 46">46</span>
@@ -849,7 +882,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="an open-source spec for orchestration: symphony engineering">
     <div class="info">
       <div class="rank">
         <span title="Ranking 47">47</span>
@@ -864,7 +897,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="choco automates food distribution with ai agents ">
     <div class="info">
       <div class="rank">
         <span title="Ranking 48">48</span>
@@ -879,7 +912,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="our principles company">
     <div class="info">
       <div class="rank">
         <span title="Ranking 49">49</span>
@@ -894,7 +927,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="introducing gpt-5.5 product">
     <div class="info">
       <div class="rank">
         <span title="Ranking 50">50</span>
@@ -909,10 +942,43 @@
     </div>
   </li>
   
+  <li class="filter-empty" data-filter-empty hidden>没有匹配项</li>
 </ul>
+<script>
+(function() {
+  var list = document.querySelector('[data-list]');
+  if (!list) return;
+  var input = list.querySelector('.filter-input');
+  var statEl = list.querySelector('[data-filter-stat]');
+  var emptyEl = list.querySelector('[data-filter-empty]');
+  var items = list.querySelectorAll('[data-item]');
+  var total = items.length;
+  if (!input || !items.length) return;
+
+  function apply() {
+    var q = (input.value || '').trim().toLowerCase();
+    var shown = 0;
+    items.forEach(function(li) {
+      var hay = li.getAttribute('data-search') || '';
+      var match = !q || hay.indexOf(q) !== -1;
+      li.hidden = !match;
+      if (match) shown += 1;
+    });
+    if (statEl) statEl.textContent = q ? ('显示 ' + shown + ' / ' + total + ' 条') : ('共 ' + total + ' 条');
+    if (emptyEl) emptyEl.hidden = shown !== 0;
+  }
+
+  var t;
+  input.addEventListener('input', function() {
+    clearTimeout(t);
+    t = setTimeout(apply, 80);
+  });
+})();
+</script>
   <div class="footer">
-    <div class="time">Last cache created on 2026/5/18 by Github API v3.</div>
-    Create by <a href="https://silver-blue-space.github.io/" target="_blank">silver-blue™</a>.
+    <div class="time">Last updated: 2026-05-18 14:04 UTC</div>
+    Source: <a href="https://github.com/silver-blue-space/github-rank" target="_blank">github-hot</a>
   </div>
 </body>
 </html>
+

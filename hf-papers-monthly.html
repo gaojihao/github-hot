@@ -88,6 +88,35 @@
     .list li.rank-title .select a:hover { color: #fff; text-decoration: none; }
     .list li.rank-title .select a.active { color: #ffd33d; font-weight: 600; }
 
+    .list li.filter-bar {
+      padding: 10px 18px;
+      background: #f6f8fa;
+      border-bottom: 1px solid #d0d7de;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .list li.filter-bar:hover { background: #f6f8fa; }
+    .list .filter-input {
+      flex: 1;
+      border: 1px solid #d0d7de;
+      border-radius: 6px;
+      padding: 6px 10px;
+      font-size: 13px;
+      font-family: inherit;
+      background: #fff;
+      color: #1f2328;
+      outline: none;
+      transition: border-color .15s, box-shadow .15s;
+    }
+    .list .filter-input:focus {
+      border-color: #0969da;
+      box-shadow: 0 0 0 3px rgba(9, 105, 218, 0.15);
+    }
+    .list .filter-stat { font-size: 12px; color: #57606a; white-space: nowrap; }
+    .list li.filter-empty { color: #6e7781; text-align: center; padding: 24px; font-size: 13px; }
+    .list li.filter-empty:hover { background: transparent; }
+
     .list li div.sub-title { color: #1f2328; margin: 6px 0 4px 0; }
     .list li a.language,
     .list li span.star {
@@ -131,7 +160,7 @@
 </head>
 <body>
   <h1 class="title"> HuggingFace Papers </h1>
-  <div class="time">Last cache created on 2026/5/18 by Github API v3.</div>
+  <div class="time">Last updated: 2026-05-18 14:04 UTC</div>
   <div class="tabs">
   <span class="tab-group">
     <a class="" href="trending.html">GitHub Trending</a>
@@ -147,7 +176,7 @@
   </span>
 </div>
 
-<ul class="list">
+<ul class="list" data-list>
   <li class="rank-title">
     <span>HuggingFace Papers</span>
     
@@ -158,8 +187,12 @@
     </span>
     
   </li>
+  <li class="filter-bar">
+    <input type="search" class="filter-input" placeholder="过滤 (按标题 / 副标题模糊匹配)…" aria-label="filter">
+    <span class="filter-stat" data-filter-stat>共 105 条</span>
+  </li>
   
-  <li>
+  <li data-item data-search="molmoact2: action reasoning models for real-world deployment 2605.02881">
     <div class="info">
       <div class="rank">
         <span title="Ranking 1">1</span>
@@ -174,7 +207,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="heterogeneous scientific foundation model collaboration 2604.27351">
     <div class="info">
       <div class="rank">
         <span title="Ranking 2">2</span>
@@ -189,7 +222,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="mint: managed infrastructure for training and serving millions of llms 2605.13779">
     <div class="info">
       <div class="rank">
         <span title="Ranking 3">3</span>
@@ -204,7 +237,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="mean mode screaming: mean--variance split residuals for 1000-layer diffusion transformers 2605.06169">
     <div class="info">
       <div class="rank">
         <span title="Ranking 4">4</span>
@@ -219,7 +252,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="sensenova-u1: unifying multimodal understanding and generation with neo-unify architecture 2605.12500">
     <div class="info">
       <div class="rank">
         <span title="Ranking 5">5</span>
@@ -234,7 +267,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="from context to skills: can language models learn from context skillfully? 2604.27660">
     <div class="info">
       <div class="rank">
         <span title="Ranking 6">6</span>
@@ -249,7 +282,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="achieving gold-medal-level olympiad reasoning via simple and unified scaling 2605.13301">
     <div class="info">
       <div class="rank">
         <span title="Ranking 7">7</span>
@@ -264,7 +297,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="memprivacy: privacy-preserving personalized memory management for edge-cloud agents 2605.09530">
     <div class="info">
       <div class="rank">
         <span title="Ranking 8">8</span>
@@ -279,7 +312,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="multabench: benchmarking multimodal tabular learning with text and image 2605.10616">
     <div class="info">
       <div class="rank">
         <span title="Ranking 9">9</span>
@@ -294,10 +327,25 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="physbrain 1.0 technical report 2605.15298">
     <div class="info">
       <div class="rank">
         <span title="Ranking 10">10</span>
+        <a href="https://huggingface.co/papers/2605.15298" target="_blank" title="PhysBrain 1.0 Technical Report">PhysBrain 1.0 Technical Report</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.15298</span>
+        <span class="star">▲ 125</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li data-item data-search="stream-r1: reliability-perplexity aware reward distillation for streaming video generation 2605.03849">
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 11">11</span>
         <a href="https://huggingface.co/papers/2605.03849" target="_blank" title="Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation">Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation</a>
       </div>
       
@@ -309,22 +357,7 @@
     </div>
   </li>
   
-  <li>
-    <div class="info">
-      <div class="rank">
-        <span title="Ranking 11">11</span>
-        <a href="https://huggingface.co/papers/2605.15298" target="_blank" title="PhysBrain 1.0 Technical Report">PhysBrain 1.0 Technical Report</a>
-      </div>
-      
-      <div class="sub-title followers">
-        <span class="star">2605.15298</span>
-        <span class="star">▲ 122</span>
-      </div>
-      
-    </div>
-  </li>
-  
-  <li>
+  <li data-item data-search="rldx-1 technical report 2605.03269">
     <div class="info">
       <div class="rank">
         <span title="Ranking 12">12</span>
@@ -339,7 +372,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="aris: autonomous research via adversarial multi-agent collaboration 2605.03042">
     <div class="info">
       <div class="rank">
         <span title="Ranking 13">13</span>
@@ -354,7 +387,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="δ-mem: efficient online memory for large language models 2605.12357">
     <div class="info">
       <div class="rank">
         <span title="Ranking 14">14</span>
@@ -369,7 +402,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="skill1: unified evolution of skill-augmented agents via reinforcement learning 2605.06130">
     <div class="info">
       <div class="rank">
         <span title="Ranking 15">15</span>
@@ -384,7 +417,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="beyond semantic similarity: rethinking retrieval for agentic search via direct corpus interaction 2605.05242">
     <div class="info">
       <div class="rank">
         <span title="Ranking 16">16</span>
@@ -399,7 +432,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="qwen-image-2.0 technical report 2605.10730">
     <div class="info">
       <div class="rank">
         <span title="Ranking 17">17</span>
@@ -414,7 +447,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="stream-t1: test-time scaling for streaming video generation 2605.04461">
     <div class="info">
       <div class="rank">
         <span title="Ranking 18">18</span>
@@ -429,10 +462,25 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="mmskills: towards multimodal skills for general visual agents 2605.13527">
     <div class="info">
       <div class="rank">
         <span title="Ranking 19">19</span>
+        <a href="https://huggingface.co/papers/2605.13527" target="_blank" title="MMSkills: Towards Multimodal Skills for General Visual Agents">MMSkills: Towards Multimodal Skills for General Visual Agents</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.13527</span>
+        <span class="star">▲ 97</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li data-item data-search="opensearch-vl: an open recipe for frontier multimodal search agents 2605.05185">
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 20">20</span>
         <a href="https://huggingface.co/papers/2605.05185" target="_blank" title="OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents">OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents</a>
       </div>
       
@@ -444,22 +492,7 @@
     </div>
   </li>
   
-  <li>
-    <div class="info">
-      <div class="rank">
-        <span title="Ranking 20">20</span>
-        <a href="https://huggingface.co/papers/2605.13527" target="_blank" title="MMSkills: Towards Multimodal Skills for General Visual Agents">MMSkills: Towards Multimodal Skills for General Visual Agents</a>
-      </div>
-      
-      <div class="sub-title followers">
-        <span class="star">2605.13527</span>
-        <span class="star">▲ 96</span>
-      </div>
-      
-    </div>
-  </li>
-  
-  <li>
+  <li data-item data-search="flow-opd: on-policy distillation for flow matching models 2605.08063">
     <div class="info">
       <div class="rank">
         <span title="Ranking 21">21</span>
@@ -474,7 +507,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="self-distilled agentic reinforcement learning 2605.15155">
     <div class="info">
       <div class="rank">
         <span title="Ranking 22">22</span>
@@ -489,7 +522,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="anyflow: any-step video diffusion model with on-policy flow map distillation 2605.13724">
     <div class="info">
       <div class="rank">
         <span title="Ranking 23">23</span>
@@ -504,7 +537,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="visual generation in the new era: an evolution from atomic mapping to agentic world modeling 2604.28185">
     <div class="info">
       <div class="rank">
         <span title="Ranking 24">24</span>
@@ -519,7 +552,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="causal forcing++: scalable few-step autoregressive diffusion distillation for real-time interactive video generation 2605.15141">
     <div class="info">
       <div class="rank">
         <span title="Ranking 25">25</span>
@@ -534,7 +567,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="mace-dance: motion-appearance cascaded experts for music-driven dance video generation 2512.18181">
     <div class="info">
       <div class="rank">
         <span title="Ranking 26">26</span>
@@ -549,7 +582,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="training long-context vision-language models effectively with generalization beyond 128k context 2605.13831">
     <div class="info">
       <div class="rank">
         <span title="Ranking 27">27</span>
@@ -564,7 +597,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="unividx: a unified multimodal framework for versatile video generation via diffusion priors 2605.00658">
     <div class="info">
       <div class="rank">
         <span title="Ranking 28">28</span>
@@ -579,7 +612,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="soohak: a mathematician-curated benchmark for evaluating research-level math capabilities of llms 2605.09063">
     <div class="info">
       <div class="rank">
         <span title="Ranking 29">29</span>
@@ -594,7 +627,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="continuous latent diffusion language model 2605.06548">
     <div class="info">
       <div class="rank">
         <span title="Ranking 30">30</span>
@@ -609,7 +642,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="sana-wm: efficient minute-scale world modeling with hybrid linear diffusion transformer 2605.15178">
     <div class="info">
       <div class="rank">
         <span title="Ranking 31">31</span>
@@ -624,7 +657,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="rubricem: meta-rl with rubric-guided policy decomposition beyond verifiable rewards 2605.10899">
     <div class="info">
       <div class="rank">
         <span title="Ranking 32">32</span>
@@ -639,7 +672,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="memlens: benchmarking multimodal long-term memory in large vision-language models 2605.14906">
     <div class="info">
       <div class="rank">
         <span title="Ranking 33">33</span>
@@ -654,7 +687,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="hermes++: toward a unified driving world model for 3d scene understanding and generation 2604.28196">
     <div class="info">
       <div class="rank">
         <span title="Ranking 34">34</span>
@@ -669,7 +702,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="minicpm-o 4.5: towards real-time full-duplex omni-modal interaction 2604.27393">
     <div class="info">
       <div class="rank">
         <span title="Ranking 35">35</span>
@@ -684,7 +717,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="collabvr: collaborative video reasoning with vision-language and video generation models 2605.08735">
     <div class="info">
       <div class="rank">
         <span title="Ranking 36">36</span>
@@ -699,7 +732,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="listwise policy optimization: group-based rlvr as target-projection on the llm response simplex 2605.06139">
     <div class="info">
       <div class="rank">
         <span title="Ranking 37">37</span>
@@ -714,7 +747,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="openseeker-v2: pushing the limits of search agents with informative and high-difficulty trajectories 2605.04036">
     <div class="info">
       <div class="rank">
         <span title="Ranking 38">38</span>
@@ -729,7 +762,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="llms improving llms: agentic discovery for test-time scaling 2605.08083">
     <div class="info">
       <div class="rank">
         <span title="Ranking 39">39</span>
@@ -744,7 +777,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="co-evolving policy distillation 2604.27083">
     <div class="info">
       <div class="rank">
         <span title="Ranking 40">40</span>
@@ -759,7 +792,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="world action models: the next frontier in embodied ai 2605.12090">
     <div class="info">
       <div class="rank">
         <span title="Ranking 41">41</span>
@@ -774,7 +807,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="hypereyes: dual-grained efficiency-aware reinforcement learning for parallel multimodal search agents 2605.07177">
     <div class="info">
       <div class="rank">
         <span title="Ranking 42">42</span>
@@ -789,7 +822,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="do enterprise systems need learned world models? the importance of context to infer dynamics 2605.12178">
     <div class="info">
       <div class="rank">
         <span title="Ranking 43">43</span>
@@ -804,7 +837,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="memeye: a visual-centric evaluation framework for multimodal agent memory 2605.15128">
     <div class="info">
       <div class="rank">
         <span title="Ranking 44">44</span>
@@ -819,7 +852,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="leveraging verifier-based reinforcement learning in image editing 2604.27505">
     <div class="info">
       <div class="rank">
         <span title="Ranking 45">45</span>
@@ -834,7 +867,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="qwen-image-vae-2.0 technical report 2605.13565">
     <div class="info">
       <div class="rank">
         <span title="Ranking 46">46</span>
@@ -849,7 +882,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="mia-signature: approximating global activation for long-context understanding 2605.06416">
     <div class="info">
       <div class="rank">
         <span title="Ranking 47">47</span>
@@ -864,7 +897,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="darwin family: mri-trust-weighted evolutionary merging for training-free scaling of language-model reasoning 2605.14386">
     <div class="info">
       <div class="rank">
         <span title="Ranking 48">48</span>
@@ -879,7 +912,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="humannet: scaling human-centric video learning to one million hours 2605.06747">
     <div class="info">
       <div class="rank">
         <span title="Ranking 49">49</span>
@@ -894,7 +927,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="fashionchameleon: towards real-time and interactive human-garment video customization 2605.15824">
     <div class="info">
       <div class="rank">
         <span title="Ranking 50">50</span>
@@ -903,16 +936,31 @@
       
       <div class="sub-title followers">
         <span class="star">2605.15824</span>
+        <span class="star">▲ 50</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li data-item data-search="tmas: scaling test-time compute via multi-agent synergy 2605.10344">
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 51">51</span>
+        <a href="https://huggingface.co/papers/2605.10344" target="_blank" title="TMAS: Scaling Test-Time Compute via Multi-Agent Synergy">TMAS: Scaling Test-Time Compute via Multi-Agent Synergy</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.10344</span>
         <span class="star">▲ 49</span>
       </div>
       
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="geometry conflict: explaining and controlling forgetting in llm continual post-training 2605.09608">
     <div class="info">
       <div class="rank">
-        <span title="Ranking 51">51</span>
+        <span title="Ranking 52">52</span>
         <a href="https://huggingface.co/papers/2605.09608" target="_blank" title="Geometry Conflict: Explaining and Controlling Forgetting in LLM Continual Post-Training">Geometry Conflict: Explaining and Controlling Forgetting in LLM Continual Post-Training</a>
       </div>
       
@@ -924,10 +972,10 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="predicting decisions of ai agents from limited interaction through text-tabular modeling 2605.12411">
     <div class="info">
       <div class="rank">
-        <span title="Ranking 52">52</span>
+        <span title="Ranking 53">53</span>
         <a href="https://huggingface.co/papers/2605.12411" target="_blank" title="Predicting Decisions of AI Agents from Limited Interaction through Text-Tabular Modeling">Predicting Decisions of AI Agents from Limited Interaction through Text-Tabular Modeling</a>
       </div>
       
@@ -939,22 +987,7 @@
     </div>
   </li>
   
-  <li>
-    <div class="info">
-      <div class="rank">
-        <span title="Ranking 53">53</span>
-        <a href="https://huggingface.co/papers/2605.10344" target="_blank" title="TMAS: Scaling Test-Time Compute via Multi-Agent Synergy">TMAS: Scaling Test-Time Compute via Multi-Agent Synergy</a>
-      </div>
-      
-      <div class="sub-title followers">
-        <span class="star">2605.10344</span>
-        <span class="star">▲ 48</span>
-      </div>
-      
-    </div>
-  </li>
-  
-  <li>
+  <li data-item data-search="beyond sft-to-rl: pre-alignment via black-box on-policy distillation for multimodal rl 2604.28123">
     <div class="info">
       <div class="rank">
         <span title="Ranking 54">54</span>
@@ -969,7 +1002,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="intern-atlas: a methodological evolution graph as research infrastructure for ai scientists 2604.28158">
     <div class="info">
       <div class="rank">
         <span title="Ranking 55">55</span>
@@ -984,7 +1017,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="dexjoco: a benchmark and toolkit for task-oriented dexterous manipulation on mujoco 2605.16257">
     <div class="info">
       <div class="rank">
         <span title="Ranking 56">56</span>
@@ -999,7 +1032,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="beyond individual intelligence: surveying collaboration, failure attribution, and self-evolution in llm-based multi-agent systems 2605.14892">
     <div class="info">
       <div class="rank">
         <span title="Ranking 57">57</span>
@@ -1014,7 +1047,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="raguteam at semeval-2026 task 8: meno and friends in a judge-orchestrated llm ensemble for faithful multi-turn response generation 2605.04523">
     <div class="info">
       <div class="rank">
         <span title="Ranking 58">58</span>
@@ -1029,7 +1062,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="wildclawbench: a benchmark for real-world, long-horizon agent evaluation 2605.10912">
     <div class="info">
       <div class="rank">
         <span title="Ranking 59">59</span>
@@ -1044,7 +1077,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="skillos: learning skill curation for self-evolving agents 2605.06614">
     <div class="info">
       <div class="rank">
         <span title="Ranking 60">60</span>
@@ -1059,7 +1092,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="model merging scaling laws in large language models 2509.24244">
     <div class="info">
       <div class="rank">
         <span title="Ranking 61">61</span>
@@ -1074,7 +1107,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="mcp-cosmos: world model-augmented agents for complex task execution in mcp environments 2605.09131">
     <div class="info">
       <div class="rank">
         <span title="Ranking 62">62</span>
@@ -1089,7 +1122,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="when to trust imagination: adaptive action execution for world action models 2605.06222">
     <div class="info">
       <div class="rank">
         <span title="Ranking 63">63</span>
@@ -1104,7 +1137,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="claw-eval-live: a live agent benchmark for evolving real-world workflows 2604.28139">
     <div class="info">
       <div class="rank">
         <span title="Ranking 64">64</span>
@@ -1119,7 +1152,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="efficient pre-training with token superposition 2605.06546">
     <div class="info">
       <div class="rank">
         <span title="Ranking 65">65</span>
@@ -1134,7 +1167,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="exoactor: exocentric video generation as generalizable interactive humanoid control 2604.27711">
     <div class="info">
       <div class="rank">
         <span title="Ranking 66">66</span>
@@ -1149,7 +1182,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="marble: multi-aspect reward balance for diffusion rl 2605.06507">
     <div class="info">
       <div class="rank">
         <span title="Ranking 67">67</span>
@@ -1164,7 +1197,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="efficient training on multiple consumer gpus with roundpipe 2604.27085">
     <div class="info">
       <div class="rank">
         <span title="Ranking 68">68</span>
@@ -1179,7 +1212,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="rubric-based on-policy distillation 2605.07396">
     <div class="info">
       <div class="rank">
         <span title="Ranking 69">69</span>
@@ -1194,7 +1227,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="rethinking reasoning-intensive retrieval: evaluating and advancing retrievers in agentic search systems 2605.04018">
     <div class="info">
       <div class="rank">
         <span title="Ranking 70">70</span>
@@ -1209,7 +1242,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="warp-as-history: generalizable camera-controlled video generation from one training video 2605.15182">
     <div class="info">
       <div class="rank">
         <span title="Ranking 71">71</span>
@@ -1224,7 +1257,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="web2bigtable: a bi-level multi-agent llm system for internet-scale information search and extraction 2604.27221">
     <div class="info">
       <div class="rank">
         <span title="Ranking 72">72</span>
@@ -1239,7 +1272,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="nonsense helps: prompt space perturbation broadens reasoning exploration 2605.05566">
     <div class="info">
       <div class="rank">
         <span title="Ranking 73">73</span>
@@ -1254,7 +1287,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="trackcraft3r: repurposing video diffusion transformers for dense 3d tracking 2605.12587">
     <div class="info">
       <div class="rank">
         <span title="Ranking 74">74</span>
@@ -1269,7 +1302,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="physforge: generating physics-grounded 3d assets for interactive virtual world 2605.05163">
     <div class="info">
       <div class="rank">
         <span title="Ranking 75">75</span>
@@ -1284,7 +1317,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="alphagrpo: unlocking self-reflective multimodal generation in umms via decompositional verifiable reward 2605.12495">
     <div class="info">
       <div class="rank">
         <span title="Ranking 76">76</span>
@@ -1299,10 +1332,25 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="learning to foresee: unveiling the unlocking efficiency of on-policy distillation 2605.11739">
     <div class="info">
       <div class="rank">
         <span title="Ranking 77">77</span>
+        <a href="https://huggingface.co/papers/2605.11739" target="_blank" title="Learning to Foresee: Unveiling the Unlocking Efficiency of On-Policy Distillation">Learning to Foresee: Unveiling the Unlocking Efficiency of On-Policy Distillation</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.11739</span>
+        <span class="star">▲ 34</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li data-item data-search="beyond the last layer: multi-layer representation fusion for visual tokenization 2605.10780">
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 78">78</span>
         <a href="https://huggingface.co/papers/2605.10780" target="_blank" title="Beyond the Last Layer: Multi-Layer Representation Fusion for Visual Tokenization">Beyond the Last Layer: Multi-Layer Representation Fusion for Visual Tokenization</a>
       </div>
       
@@ -1314,10 +1362,10 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="audio-visual intelligence in large foundation models 2605.04045">
     <div class="info">
       <div class="rank">
-        <span title="Ranking 78">78</span>
+        <span title="Ranking 79">79</span>
         <a href="https://huggingface.co/papers/2605.04045" target="_blank" title="Audio-Visual Intelligence in Large Foundation Models">Audio-Visual Intelligence in Large Foundation Models</a>
       </div>
       
@@ -1329,10 +1377,10 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="paperfit: vision-in-the-loop typesetting optimization for scientific documents 2605.10341">
     <div class="info">
       <div class="rank">
-        <span title="Ranking 79">79</span>
+        <span title="Ranking 80">80</span>
         <a href="https://huggingface.co/papers/2605.10341" target="_blank" title="PaperFit: Vision-in-the-Loop Typesetting Optimization for Scientific Documents">PaperFit: Vision-in-the-Loop Typesetting Optimization for Scientific Documents</a>
       </div>
       
@@ -1344,10 +1392,10 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="let vit speak: generative language-image pre-training 2605.00809">
     <div class="info">
       <div class="rank">
-        <span title="Ranking 80">80</span>
+        <span title="Ranking 81">81</span>
         <a href="https://huggingface.co/papers/2605.00809" target="_blank" title="Let ViT Speak: Generative Language-Image Pre-training">Let ViT Speak: Generative Language-Image Pre-training</a>
       </div>
       
@@ -1359,10 +1407,10 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="insighttok: improving text and face fidelity in discrete tokenization for autoregressive image generation 2605.14333">
     <div class="info">
       <div class="rank">
-        <span title="Ranking 81">81</span>
+        <span title="Ranking 82">82</span>
         <a href="https://huggingface.co/papers/2605.14333" target="_blank" title="InsightTok: Improving Text and Face Fidelity in Discrete Tokenization for Autoregressive Image Generation">InsightTok: Improving Text and Face Fidelity in Discrete Tokenization for Autoregressive Image Generation</a>
       </div>
       
@@ -1374,10 +1422,10 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="edit-compass &amp; editreward-compass: a unified benchmark for image editing and reward modeling 2605.13062">
     <div class="info">
       <div class="rank">
-        <span title="Ranking 82">82</span>
+        <span title="Ranking 83">83</span>
         <a href="https://huggingface.co/papers/2605.13062" target="_blank" title="Edit-Compass &amp; EditReward-Compass: A Unified Benchmark for Image Editing and Reward Modeling">Edit-Compass &amp; EditReward-Compass: A Unified Benchmark for Image Editing and Reward Modeling</a>
       </div>
       
@@ -1389,22 +1437,7 @@
     </div>
   </li>
   
-  <li>
-    <div class="info">
-      <div class="rank">
-        <span title="Ranking 83">83</span>
-        <a href="https://huggingface.co/papers/2605.11739" target="_blank" title="Learning to Foresee: Unveiling the Unlocking Efficiency of On-Policy Distillation">Learning to Foresee: Unveiling the Unlocking Efficiency of On-Policy Distillation</a>
-      </div>
-      
-      <div class="sub-title followers">
-        <span class="star">2605.11739</span>
-        <span class="star">▲ 30</span>
-      </div>
-      
-    </div>
-  </li>
-  
-  <li>
+  <li data-item data-search="many-shot cot-icl: making in-context learning truly learn 2605.13511">
     <div class="info">
       <div class="rank">
         <span title="Ranking 84">84</span>
@@ -1419,7 +1452,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="worldreasonbench: human-aligned stress testing of video generators as future world-state predictors 2605.10434">
     <div class="info">
       <div class="rank">
         <span title="Ranking 85">85</span>
@@ -1434,7 +1467,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="routeprofile: elucidating the design space of llm profiles for routing 2605.00180">
     <div class="info">
       <div class="rank">
         <span title="Ranking 86">86</span>
@@ -1449,7 +1482,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="seif: self-evolving reinforcement learning for instruction following 2605.07465">
     <div class="info">
       <div class="rank">
         <span title="Ranking 87">87</span>
@@ -1464,7 +1497,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="representation fréchet loss for visual generation 2604.28190">
     <div class="info">
       <div class="rank">
         <span title="Ranking 88">88</span>
@@ -1479,7 +1512,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="l2p: unlocking latent potential for pixel generation 2605.12013">
     <div class="info">
       <div class="rank">
         <span title="Ranking 89">89</span>
@@ -1494,7 +1527,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="pixal3d: pixel-aligned 3d generation from images 2605.10922">
     <div class="info">
       <div class="rank">
         <span title="Ranking 90">90</span>
@@ -1509,7 +1542,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="memory-efficient looped transformer: decoupling compute from memory in looped language models 2605.07721">
     <div class="info">
       <div class="rank">
         <span title="Ranking 91">91</span>
@@ -1524,10 +1557,40 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="distilling long-cot reasoning through collaborative step-wise multi-teacher decoding 2605.02290">
     <div class="info">
       <div class="rank">
         <span title="Ranking 92">92</span>
+        <a href="https://huggingface.co/papers/2605.02290" target="_blank" title="Distilling Long-CoT Reasoning through Collaborative Step-wise Multi-Teacher Decoding">Distilling Long-CoT Reasoning through Collaborative Step-wise Multi-Teacher Decoding</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.02290</span>
+        <span class="star">▲ 28</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li data-item data-search="flash-grpo: efficient alignment for video diffusion via one-step policy optimization 2605.15980">
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 93">93</span>
+        <a href="https://huggingface.co/papers/2605.15980" target="_blank" title="Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization">Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.15980</span>
+        <span class="star">▲ 27</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li data-item data-search="toolcua: towards optimal gui-tool path orchestration for computer use agents 2605.12481">
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 94">94</span>
         <a href="https://huggingface.co/papers/2605.12481" target="_blank" title="ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents">ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents</a>
       </div>
       
@@ -1539,10 +1602,10 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="causalcine: real-time autoregressive generation for multi-shot video narratives 2605.12496">
     <div class="info">
       <div class="rank">
-        <span title="Ranking 93">93</span>
+        <span title="Ranking 95">95</span>
         <a href="https://huggingface.co/papers/2605.12496" target="_blank" title="CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives">CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives</a>
       </div>
       
@@ -1554,10 +1617,25 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="preping: building agent memory without tasks 2605.13880">
     <div class="info">
       <div class="rank">
-        <span title="Ranking 94">94</span>
+        <span title="Ranking 96">96</span>
+        <a href="https://huggingface.co/papers/2605.13880" target="_blank" title="PREPING: Building Agent Memory without Tasks">PREPING: Building Agent Memory without Tasks</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">2605.13880</span>
+        <span class="star">▲ 27</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li data-item data-search="teaching language models to think in code 2605.07237">
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 97">97</span>
         <a href="https://huggingface.co/papers/2605.07237" target="_blank" title="Teaching Language Models to Think in Code">Teaching Language Models to Think in Code</a>
       </div>
       
@@ -1569,10 +1647,10 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="anisotropic modality align 2605.07825">
     <div class="info">
       <div class="rank">
-        <span title="Ranking 95">95</span>
+        <span title="Ranking 98">98</span>
         <a href="https://huggingface.co/papers/2605.07825" target="_blank" title="Anisotropic Modality Align">Anisotropic Modality Align</a>
       </div>
       
@@ -1584,10 +1662,10 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="strata: incentivizing agentic reinforcement learning with strategic trajectory abstraction 2605.06642">
     <div class="info">
       <div class="rank">
-        <span title="Ranking 96">96</span>
+        <span title="Ranking 99">99</span>
         <a href="https://huggingface.co/papers/2605.06642" target="_blank" title="StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction">StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction</a>
       </div>
       
@@ -1599,40 +1677,10 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="textldm: language modeling with continuous latent diffusion 2605.07748">
     <div class="info">
       <div class="rank">
-        <span title="Ranking 97">97</span>
-        <a href="https://huggingface.co/papers/2605.02290" target="_blank" title="Distilling Long-CoT Reasoning through Collaborative Step-wise Multi-Teacher Decoding">Distilling Long-CoT Reasoning through Collaborative Step-wise Multi-Teacher Decoding</a>
-      </div>
-      
-      <div class="sub-title followers">
-        <span class="star">2605.02290</span>
-        <span class="star">▲ 27</span>
-      </div>
-      
-    </div>
-  </li>
-  
-  <li>
-    <div class="info">
-      <div class="rank">
-        <span title="Ranking 98">98</span>
-        <a href="https://huggingface.co/papers/2605.13880" target="_blank" title="PREPING: Building Agent Memory without Tasks">PREPING: Building Agent Memory without Tasks</a>
-      </div>
-      
-      <div class="sub-title followers">
-        <span class="star">2605.13880</span>
-        <span class="star">▲ 26</span>
-      </div>
-      
-    </div>
-  </li>
-  
-  <li>
-    <div class="info">
-      <div class="rank">
-        <span title="Ranking 99">99</span>
+        <span title="Ranking 100">100</span>
         <a href="https://huggingface.co/papers/2605.07748" target="_blank" title="TextLDM: Language Modeling with Continuous Latent Diffusion">TextLDM: Language Modeling with Continuous Latent Diffusion</a>
       </div>
       
@@ -1644,10 +1692,10 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="continuous-time distribution matching for few-step diffusion distillation 2605.06376">
     <div class="info">
       <div class="rank">
-        <span title="Ranking 100">100</span>
+        <span title="Ranking 101">101</span>
         <a href="https://huggingface.co/papers/2605.06376" target="_blank" title="Continuous-Time Distribution Matching for Few-Step Diffusion Distillation">Continuous-Time Distribution Matching for Few-Step Diffusion Distillation</a>
       </div>
       
@@ -1659,22 +1707,7 @@
     </div>
   </li>
   
-  <li>
-    <div class="info">
-      <div class="rank">
-        <span title="Ranking 101">101</span>
-        <a href="https://huggingface.co/papers/2605.15980" target="_blank" title="Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization">Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization</a>
-      </div>
-      
-      <div class="sub-title followers">
-        <span class="star">2605.15980</span>
-        <span class="star">▲ 25</span>
-      </div>
-      
-    </div>
-  </li>
-  
-  <li>
+  <li data-item data-search="vggt-edit: feed-forward native 3d scene editing with residual field prediction 2605.15186">
     <div class="info">
       <div class="rank">
         <span title="Ranking 102">102</span>
@@ -1689,7 +1722,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="d-opsd: on-policy self-distillation for continuously tuning step-distilled diffusion models 2605.05204">
     <div class="info">
       <div class="rank">
         <span title="Ranking 103">103</span>
@@ -1704,7 +1737,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="map2world: segment map conditioned text to 3d world generation 2605.00781">
     <div class="info">
       <div class="rank">
         <span title="Ranking 104">104</span>
@@ -1719,7 +1752,7 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="x2sam: any segmentation in images and videos 2605.00891">
     <div class="info">
       <div class="rank">
         <span title="Ranking 105">105</span>
@@ -1734,10 +1767,43 @@
     </div>
   </li>
   
+  <li class="filter-empty" data-filter-empty hidden>没有匹配项</li>
 </ul>
+<script>
+(function() {
+  var list = document.querySelector('[data-list]');
+  if (!list) return;
+  var input = list.querySelector('.filter-input');
+  var statEl = list.querySelector('[data-filter-stat]');
+  var emptyEl = list.querySelector('[data-filter-empty]');
+  var items = list.querySelectorAll('[data-item]');
+  var total = items.length;
+  if (!input || !items.length) return;
+
+  function apply() {
+    var q = (input.value || '').trim().toLowerCase();
+    var shown = 0;
+    items.forEach(function(li) {
+      var hay = li.getAttribute('data-search') || '';
+      var match = !q || hay.indexOf(q) !== -1;
+      li.hidden = !match;
+      if (match) shown += 1;
+    });
+    if (statEl) statEl.textContent = q ? ('显示 ' + shown + ' / ' + total + ' 条') : ('共 ' + total + ' 条');
+    if (emptyEl) emptyEl.hidden = shown !== 0;
+  }
+
+  var t;
+  input.addEventListener('input', function() {
+    clearTimeout(t);
+    t = setTimeout(apply, 80);
+  });
+})();
+</script>
   <div class="footer">
-    <div class="time">Last cache created on 2026/5/18 by Github API v3.</div>
-    Create by <a href="https://silver-blue-space.github.io/" target="_blank">silver-blue™</a>.
+    <div class="time">Last updated: 2026-05-18 14:04 UTC</div>
+    Source: <a href="https://github.com/silver-blue-space/github-rank" target="_blank">github-hot</a>
   </div>
 </body>
 </html>
+

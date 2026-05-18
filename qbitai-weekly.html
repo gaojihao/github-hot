@@ -88,6 +88,35 @@
     .list li.rank-title .select a:hover { color: #fff; text-decoration: none; }
     .list li.rank-title .select a.active { color: #ffd33d; font-weight: 600; }
 
+    .list li.filter-bar {
+      padding: 10px 18px;
+      background: #f6f8fa;
+      border-bottom: 1px solid #d0d7de;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .list li.filter-bar:hover { background: #f6f8fa; }
+    .list .filter-input {
+      flex: 1;
+      border: 1px solid #d0d7de;
+      border-radius: 6px;
+      padding: 6px 10px;
+      font-size: 13px;
+      font-family: inherit;
+      background: #fff;
+      color: #1f2328;
+      outline: none;
+      transition: border-color .15s, box-shadow .15s;
+    }
+    .list .filter-input:focus {
+      border-color: #0969da;
+      box-shadow: 0 0 0 3px rgba(9, 105, 218, 0.15);
+    }
+    .list .filter-stat { font-size: 12px; color: #57606a; white-space: nowrap; }
+    .list li.filter-empty { color: #6e7781; text-align: center; padding: 24px; font-size: 13px; }
+    .list li.filter-empty:hover { background: transparent; }
+
     .list li div.sub-title { color: #1f2328; margin: 6px 0 4px 0; }
     .list li a.language,
     .list li span.star {
@@ -131,7 +160,7 @@
 </head>
 <body>
   <h1 class="title"> 量子位 </h1>
-  <div class="time">Last cache created on 2026/5/18 by Github API v3.</div>
+  <div class="time">Last updated: 2026-05-18 14:04 UTC</div>
   <div class="tabs">
   <span class="tab-group">
     <a class="" href="trending.html">GitHub Trending</a>
@@ -147,7 +176,7 @@
   </span>
 </div>
 
-<ul class="list">
+<ul class="list" data-list>
   <li class="rank-title">
     <span>量子位</span>
     
@@ -158,11 +187,45 @@
     </span>
     
   </li>
+  <li class="filter-bar">
+    <input type="search" class="filter-input" placeholder="过滤 (按标题 / 副标题模糊匹配)…" aria-label="filter">
+    <span class="filter-stat" data-filter-stat>共 10 条</span>
+  </li>
   
-  <li>
+  <li data-item data-search="重塑主流pc，第三代英特尔酷睿开启全民ai轻薄本时代 cpu · 量子位的朋友们">
     <div class="info">
       <div class="rank">
         <span title="Ranking 1">1</span>
+        <a href="https://www.qbitai.com/2026/05/419585.html" target="_blank" title="重塑主流PC，第三代英特尔酷睿开启全民AI轻薄本时代">重塑主流PC，第三代英特尔酷睿开启全民AI轻薄本时代</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">CPU · 量子位的朋友们</span>
+        <span class="star">2026-05-18</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li data-item data-search="ai水论文封一年，署名连坐！arxiv最严新规来了，陶哲轩附议 ai · 听雨">
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 2">2</span>
+        <a href="https://www.qbitai.com/2026/05/419528.html" target="_blank" title="AI水论文封一年，署名连坐！arXiv最严新规来了，陶哲轩附议">AI水论文封一年，署名连坐！arXiv最严新规来了，陶哲轩附议</a>
+      </div>
+      
+      <div class="sub-title followers">
+        <span class="star">AI · 听雨</span>
+        <span class="star">2026-05-18</span>
+      </div>
+      
+    </div>
+  </li>
+  
+  <li data-item data-search="openjiuwen社区开源新招：重磅发布jiuwenswarm，拉开群体智能“养蜂”序幕 openjiuwen社区 · 思邈">
+    <div class="info">
+      <div class="rank">
+        <span title="Ranking 3">3</span>
         <a href="https://www.qbitai.com/2026/05/419515.html" target="_blank" title="openJiuwen社区开源新招：重磅发布JiuwenSwarm，拉开群体智能“养蜂”序幕">openJiuwen社区开源新招：重磅发布JiuwenSwarm，拉开群体智能“养蜂”序幕</a>
       </div>
       
@@ -174,10 +237,10 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="华为“养”出半个具身智能创业圈 资讯 · 田, 晏林">
     <div class="info">
       <div class="rank">
-        <span title="Ranking 2">2</span>
+        <span title="Ranking 4">4</span>
         <a href="https://www.qbitai.com/2026/05/419414.html" target="_blank" title="华为“养”出半个具身智能创业圈">华为“养”出半个具身智能创业圈</a>
       </div>
       
@@ -189,10 +252,10 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="上交x创智x瑞金联合发布cx-mind：胸片诊断进入“可验证推理”时代 ai · 听雨">
     <div class="info">
       <div class="rank">
-        <span title="Ranking 3">3</span>
+        <span title="Ranking 5">5</span>
         <a href="https://www.qbitai.com/2026/05/419396.html" target="_blank" title="上交x创智x瑞金联合发布CX-Mind：胸片诊断进入“可验证推理”时代">上交x创智x瑞金联合发布CX-Mind：胸片诊断进入“可验证推理”时代</a>
       </div>
       
@@ -204,10 +267,10 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="8b模型做生物实验：实验步骤顺序不乱、剂量无幻觉｜iclr 2026 ai · 听雨">
     <div class="info">
       <div class="rank">
-        <span title="Ranking 4">4</span>
+        <span title="Ranking 6">6</span>
         <a href="https://www.qbitai.com/2026/05/419386.html" target="_blank" title="8B模型做生物实验：实验步骤顺序不乱、剂量无幻觉｜ICLR 2026">8B模型做生物实验：实验步骤顺序不乱、剂量无幻觉｜ICLR 2026</a>
       </div>
       
@@ -219,10 +282,10 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="信通院&amp;清华提出fedre：用「纠缠」搞定联邦学习三难困境 | cvpr 26 ai · 听雨">
     <div class="info">
       <div class="rank">
-        <span title="Ranking 5">5</span>
+        <span title="Ranking 7">7</span>
         <a href="https://www.qbitai.com/2026/05/419373.html" target="_blank" title="信通院&amp;清华提出FedRE：用「纠缠」搞定联邦学习三难困境 | CVPR 26">信通院&amp;清华提出FedRE：用「纠缠」搞定联邦学习三难困境 | CVPR 26</a>
       </div>
       
@@ -234,10 +297,10 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="黄仁勋北京必吃榜我们都尝了！后海酒吧老板：他答应以后每年来一次 资讯 · jay">
     <div class="info">
       <div class="rank">
-        <span title="Ranking 6">6</span>
+        <span title="Ranking 8">8</span>
         <a href="https://www.qbitai.com/2026/05/419278.html" target="_blank" title="黄仁勋北京必吃榜我们都尝了！后海酒吧老板：他答应以后每年来一次">黄仁勋北京必吃榜我们都尝了！后海酒吧老板：他答应以后每年来一次</a>
       </div>
       
@@ -249,10 +312,10 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="lecun炮轰hinton：他认可llm就是想摆烂退休了！ 资讯 · jay">
     <div class="info">
       <div class="rank">
-        <span title="Ranking 7">7</span>
+        <span title="Ranking 9">9</span>
         <a href="https://www.qbitai.com/2026/05/419272.html" target="_blank" title="LeCun炮轰Hinton：他认可LLM就是想摆烂退休了！">LeCun炮轰Hinton：他认可LLM就是想摆烂退休了！</a>
       </div>
       
@@ -264,10 +327,10 @@
     </div>
   </li>
   
-  <li>
+  <li data-item data-search="30万奖金池，这道汉语方言对话题等你来解丨第十一届信也科技杯全球ai算法大赛 ai算法 · 思邈">
     <div class="info">
       <div class="rank">
-        <span title="Ranking 8">8</span>
+        <span title="Ranking 10">10</span>
         <a href="https://www.qbitai.com/2026/05/419256.html" target="_blank" title="30万奖金池，这道汉语方言对话题等你来解丨第十一届信也科技杯全球AI算法大赛">30万奖金池，这道汉语方言对话题等你来解丨第十一届信也科技杯全球AI算法大赛</a>
       </div>
       
@@ -279,40 +342,43 @@
     </div>
   </li>
   
-  <li>
-    <div class="info">
-      <div class="rank">
-        <span title="Ranking 9">9</span>
-        <a href="https://www.qbitai.com/2026/05/418969.html" target="_blank" title="一只机器狗，把英伟达的算力王座拱翻了">一只机器狗，把英伟达的算力王座拱翻了</a>
-      </div>
-      
-      <div class="sub-title followers">
-        <span class="star">资讯 · Jay</span>
-        <span class="star">2026-05-17</span>
-      </div>
-      
-    </div>
-  </li>
-  
-  <li>
-    <div class="info">
-      <div class="rank">
-        <span title="Ranking 10">10</span>
-        <a href="https://www.qbitai.com/2026/05/418964.html" target="_blank" title="世界大学生超级计算机竞赛首设“英才对接”环节，搭建“赛场—职场”人才供需桥梁">世界大学生超级计算机竞赛首设“英才对接”环节，搭建“赛场—职场”人才供需桥梁</a>
-      </div>
-      
-      <div class="sub-title followers">
-        <span class="star">ASC26 · 量子位的朋友们</span>
-        <span class="star">2026-05-17</span>
-      </div>
-      
-    </div>
-  </li>
-  
+  <li class="filter-empty" data-filter-empty hidden>没有匹配项</li>
 </ul>
+<script>
+(function() {
+  var list = document.querySelector('[data-list]');
+  if (!list) return;
+  var input = list.querySelector('.filter-input');
+  var statEl = list.querySelector('[data-filter-stat]');
+  var emptyEl = list.querySelector('[data-filter-empty]');
+  var items = list.querySelectorAll('[data-item]');
+  var total = items.length;
+  if (!input || !items.length) return;
+
+  function apply() {
+    var q = (input.value || '').trim().toLowerCase();
+    var shown = 0;
+    items.forEach(function(li) {
+      var hay = li.getAttribute('data-search') || '';
+      var match = !q || hay.indexOf(q) !== -1;
+      li.hidden = !match;
+      if (match) shown += 1;
+    });
+    if (statEl) statEl.textContent = q ? ('显示 ' + shown + ' / ' + total + ' 条') : ('共 ' + total + ' 条');
+    if (emptyEl) emptyEl.hidden = shown !== 0;
+  }
+
+  var t;
+  input.addEventListener('input', function() {
+    clearTimeout(t);
+    t = setTimeout(apply, 80);
+  });
+})();
+</script>
   <div class="footer">
-    <div class="time">Last cache created on 2026/5/18 by Github API v3.</div>
-    Create by <a href="https://silver-blue-space.github.io/" target="_blank">silver-blue™</a>.
+    <div class="time">Last updated: 2026-05-18 14:04 UTC</div>
+    Source: <a href="https://github.com/silver-blue-space/github-rank" target="_blank">github-hot</a>
   </div>
 </body>
 </html>
+
