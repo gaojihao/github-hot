@@ -1,20 +1,33 @@
-GitHub Trending 趋势榜（日 / 周 / 月），[预览页面](https://gaojihao.github.io/github-hot/)。
+GitHub Trending 与 AI 资讯每日聚合，[预览页面](https://gaojihao.github.io/github-hot/)。
 
-- [Github Trending 日榜](https://gaojihao.github.io/github-hot/trending.html)
-- [Github Trending 周榜](https://gaojihao.github.io/github-hot/trending-weekly.html)
-- [Github Trending 月榜](https://gaojihao.github.io/github-hot/trending-monthly.html)
+## 项目
 
-每天通过 [GitHub Actions](https://github.com/actions/starter-workflows) 定时触发（北京时间 08:30 / 20:30），抓取 GitHub Trending 数据并将生成的静态页面发布到 `gh-pages` 分支。
+- [GitHub Trending（日 / 周 / 月）](https://gaojihao.github.io/github-hot/trending.html)
+- [HuggingFace Trending](https://gaojihao.github.io/github-hot/hf-trending.html)
+
+## 技术
+
+- [HuggingFace Daily Papers](https://gaojihao.github.io/github-hot/hf-papers.html)
+
+## 新闻
+
+- [OpenAI News](https://gaojihao.github.io/github-hot/openai-news.html)
+- [Anthropic News](https://gaojihao.github.io/github-hot/anthropic-news.html)
+
+每天 GitHub Actions 自动抓取并发布到 `gh-pages` 分支。
 
 ## 本地运行
 
 ```bash
-# 安装依赖
 npm install
 
-# 抓取 GitHub Trending 数据（日 / 周 / 月）
+# 一次性抓取全部数据源
 npm run get:trending
+npm run get:hf-trending
+npm run get:hf-papers
+npm run get:openai-news
+npm run get:anthropic-news
 
-# 根据 dist/trending-*.json 生成 web/*.html
+# 生成所有静态页面
 npm start
 ```
