@@ -1,4 +1,4 @@
-name: Build and Deploy Github Rank
+name: Build and Deploy Github Trending
 on:
   push:
     branches:
@@ -19,26 +19,9 @@ jobs:
 
     - run: npm ci
 
-    - name: Modify Version
-      shell: bash
-      run: |
-        node -e 'var pkg = require("./package.json"); pkg.version= (new Date().getFullYear().toString().substr(2)) + "." + (new Date().getMonth() + 1) + "." + (new Date().getDate()); require("fs").writeFileSync("./package.json", JSON.stringify(pkg, null, 2))'
-
-    - run: npm run get:o
-      env: 
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        ID: ${{ secrets.GITHUB_ID }}
-        SECRET: ${{ secrets.GITHUB_SECRET }}
-
-    - run: npm run get
-      env: 
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        ID: ${{ secrets.GITHUB_ID }}
-        SECRET: ${{ secrets.GITHUB_SECRET }}
+    - run: npm run get:trending
 
     - run: npm run start
-      env:
-        NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
 
     - name: Build and Deploy
       uses: peaceiris/actions-gh-pages@v3
