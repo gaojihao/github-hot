@@ -1,0 +1,35 @@
+{
+  "updated_at": "2026-05-18T14:16:33.933Z",
+  "feeds": [
+    {
+      "slug": "hf-trending",
+      "title": "HuggingFace Trending",
+      "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-trending.json",
+      "page_url": "https://gaojihao.github.io/github-hot/hf-trending.html"
+    },
+    {
+      "slug": "hf-papers",
+      "title": "HuggingFace Papers",
+      "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
+      "page_url": "https://gaojihao.github.io/github-hot/hf-papers.html"
+    },
+    {
+      "slug": "openai-news",
+      "title": "OpenAI News",
+      "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
+      "page_url": "https://gaojihao.github.io/github-hot/openai-news.html"
+    },
+    {
+      "slug": "anthropic-news",
+      "title": "Anthropic News",
+      "feed_url": "https://gaojihao.github.io/github-hot/feeds/anthropic-news.json",
+      "page_url": "https://gaojihao.github.io/github-hot/anthropic-news.html"
+    },
+    {
+      "slug": "qbitai",
+      "title": "量子位",
+      "feed_url": "https://gaojihao.github.io/github-hot/feeds/qbitai.json",
+      "page_url": "https://gaojihao.github.io/github-hot/qbitai.html"
+    }
+  ]
+}

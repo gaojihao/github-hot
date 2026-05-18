@@ -1,0 +1,232 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "HuggingFace Papers",
+  "home_page_url": "https://gaojihao.github.io/github-hot/hf-papers.html",
+  "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
+  "items": [
+    {
+      "id": "https://huggingface.co/papers/2605.15298",
+      "url": "https://huggingface.co/papers/2605.15298",
+      "title": "PhysBrain 1.0 Technical Report",
+      "summary": "2605.15298 · ▲ 125",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.13527",
+      "url": "https://huggingface.co/papers/2605.13527",
+      "title": "MMSkills: Towards Multimodal Skills for General Visual Agents",
+      "summary": "2605.13527 · ▲ 98",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.12882",
+      "url": "https://huggingface.co/papers/2605.12882",
+      "title": "CiteVQA: Benchmarking Evidence Attribution for Trustworthy Document Intelligence",
+      "summary": "2605.12882 · ▲ 90",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.15824",
+      "url": "https://huggingface.co/papers/2605.15824",
+      "title": "FashionChameleon: Towards Real-Time and Interactive Human-Garment Video Customization",
+      "summary": "2605.15824 · ▲ 50",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.16257",
+      "url": "https://huggingface.co/papers/2605.16257",
+      "title": "DexJoCo: A Benchmark and Toolkit for Task-Oriented Dexterous Manipulation on MuJoCo",
+      "summary": "2605.16257 · ▲ 46",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.11739",
+      "url": "https://huggingface.co/papers/2605.11739",
+      "title": "Learning to Foresee: Unveiling the Unlocking Efficiency of On-Policy Distillation",
+      "summary": "2605.11739 · ▲ 35",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.14333",
+      "url": "https://huggingface.co/papers/2605.14333",
+      "title": "InsightTok: Improving Text and Face Fidelity in Discrete Tokenization for Autoregressive Image Generation",
+      "summary": "2605.14333 · ▲ 31",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.02290",
+      "url": "https://huggingface.co/papers/2605.02290",
+      "title": "Distilling Long-CoT Reasoning through Collaborative Step-wise Multi-Teacher Decoding",
+      "summary": "2605.02290 · ▲ 28",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.15980",
+      "url": "https://huggingface.co/papers/2605.15980",
+      "title": "Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization",
+      "summary": "2605.15980 · ▲ 27",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.15726",
+      "url": "https://huggingface.co/papers/2605.15726",
+      "title": "Nudging Beyond the Comfort Zone: Efficient Strategy-Guided Exploration for RLVR",
+      "summary": "2605.15726 · ▲ 24",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.15256",
+      "url": "https://huggingface.co/papers/2605.15256",
+      "title": "ReactiveGWM: Steering NPC in Reactive Game World Models",
+      "summary": "2605.15256 · ▲ 22",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.12058",
+      "url": "https://huggingface.co/papers/2605.12058",
+      "title": "Hölder Policy Optimisation",
+      "summary": "2605.12058 · ▲ 15",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.15301",
+      "url": "https://huggingface.co/papers/2605.15301",
+      "title": "Solvita: Enhancing Large Language Models for Competitive Programming via Agentic Evolution",
+      "summary": "2605.15301 · ▲ 14",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.15597",
+      "url": "https://huggingface.co/papers/2605.15597",
+      "title": "CM-EVS: Sparse Panoramic RGB-D-Pose Data for Complete Scene Coverage",
+      "summary": "2605.15597 · ▲ 8",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.15963",
+      "url": "https://huggingface.co/papers/2605.15963",
+      "title": "PAGER: Bridging the Semantic-Execution Gap in Point-Precise Geometric GUI Control",
+      "summary": "2605.15963 · ▲ 8",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.15876",
+      "url": "https://huggingface.co/papers/2605.15876",
+      "title": "Unlocking Dense Metric Depth Estimation in VLMs",
+      "summary": "2605.15876 · ▲ 7",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.15181",
+      "url": "https://huggingface.co/papers/2605.15181",
+      "title": "From Plans to Pixels: Learning to Plan and Orchestrate for Open-Ended Image Editing",
+      "summary": "2605.15181 · ▲ 7",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.15320",
+      "url": "https://huggingface.co/papers/2605.15320",
+      "title": "FFAvatar: Few-Shot, Feed-Forward, and Generalizable Avatar Reconstruction",
+      "summary": "2605.15320 · ▲ 5",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.08614",
+      "url": "https://huggingface.co/papers/2605.08614",
+      "title": "DiagnosticIQ: A Benchmark for LLM-Based Industrial Maintenance Action Recommendation from Symbolic Rules",
+      "summary": "2605.08614 · ▲ 5",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.05945",
+      "url": "https://huggingface.co/papers/2605.05945",
+      "title": "MobileEgo Anywhere: Open Infrastructure for long horizon egocentric data on commodity hardware",
+      "summary": "2605.05945 · ▲ 5",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.15843",
+      "url": "https://huggingface.co/papers/2605.15843",
+      "title": "WorldAct: Activating Monolithic 3D Worlds into Interactive-Ready Object-Centric Scenes",
+      "summary": "2605.15843 · ▲ 4",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.15871",
+      "url": "https://huggingface.co/papers/2605.15871",
+      "title": "Agentic Discovery of Neural Architectures: AIRA-Compose and AIRA-Design",
+      "summary": "2605.15871 · ▲ 4",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.16143",
+      "url": "https://huggingface.co/papers/2605.16143",
+      "title": "Look Before You Leap: Autonomous Exploration for LLM Agents",
+      "summary": "2605.16143 · ▲ 4",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.15961",
+      "url": "https://huggingface.co/papers/2605.15961",
+      "title": "Sparse Autoencoders enable Robust and Interpretable Fine-tuning of CLIP models",
+      "summary": "2605.15961 · ▲ 4",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.14539",
+      "url": "https://huggingface.co/papers/2605.14539",
+      "title": "Learning from Failures: Correction-Oriented Policy Optimization with Verifiable Rewards",
+      "summary": "2605.14539 · ▲ 4",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.13740",
+      "url": "https://huggingface.co/papers/2605.13740",
+      "title": "Learning POMDP World Models from Observations with Language-Model Priors",
+      "summary": "2605.13740 · ▲ 3",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.13997",
+      "url": "https://huggingface.co/papers/2605.13997",
+      "title": "HodgeCover: Higher-Order Topological Coverage Drives Compression of Sparse Mixture-of-Experts",
+      "summary": "2605.13997 · ▲ 3",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.15592",
+      "url": "https://huggingface.co/papers/2605.15592",
+      "title": "Efficient Image Synthesis with Sphere Latent Encoder",
+      "summary": "2605.15592 · ▲ 2",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.15375",
+      "url": "https://huggingface.co/papers/2605.15375",
+      "title": "ChangeFlow -- Latent Rectified Flow for Change Detection in Remote Sensing",
+      "summary": "2605.15375 · ▲ 2",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.12038",
+      "url": "https://huggingface.co/papers/2605.12038",
+      "title": "OmniHumanoid: Streaming Cross-Embodiment Video Generation with Paired-Free Adaptation",
+      "summary": "2605.12038 · ▲ 2",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2604.09839",
+      "url": "https://huggingface.co/papers/2604.09839",
+      "title": "Steered LLM Activations are Non-Surjective",
+      "summary": "2604.09839 · ▲ 2",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.15250",
+      "url": "https://huggingface.co/papers/2605.15250",
+      "title": "GQLA: Group-Query Latent Attention for Hardware-Adaptive Large Language Model Decoding",
+      "summary": "2605.15250 · ▲ 1",
+      "date_published": "2026-05-18T14:16:33.933Z"
+    }
+  ]
+}

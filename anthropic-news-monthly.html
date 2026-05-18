@@ -8,36 +8,72 @@
   <title> Anthropic News </title>
   <meta name="description" content="Anthropic News">
   <style>
+    :root {
+      --bg: #fff;
+      --bg-subtle: #f6f8fa;
+      --bg-hover: #eaeef2;
+      --fg: #1f2328;
+      --fg-muted: #57606a;
+      --fg-subtle: #6e7781;
+      --fg-faint: #9ba1a8;
+      --border: #d0d7de;
+      --border-faint: #eaeef2;
+      --accent: #0969da;
+      --accent-fg: #fff;
+      --accent-hover: #0550ae;
+      --chip-fg: #424a53;
+      --header-on-accent: rgba(255, 255, 255, 0.65);
+      --shadow: 0 1px 3px rgba(31, 35, 40, 0.04);
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0d1117;
+        --bg-subtle: #161b22;
+        --bg-hover: #1f242c;
+        --fg: #e6edf3;
+        --fg-muted: #9ba1a8;
+        --fg-subtle: #7a8390;
+        --fg-faint: #6e7781;
+        --border: #30363d;
+        --border-faint: #21262d;
+        --accent: #2f81f7;
+        --accent-fg: #fff;
+        --accent-hover: #58a6ff;
+        --chip-fg: #c9d1d9;
+        --header-on-accent: rgba(255, 255, 255, 0.7);
+        --shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+      }
+    }
     * { box-sizing: border-box; }
     html, body, ul, li, h1 { margin: 0; padding: 0; }
     ul { list-style: none; }
     html, body {
       font-size: 14px;
       font-family: -apple-system, "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "WenQuanYi Micro Hei", "Microsoft Yahei", sans-serif;
-      color: #1f2328;
-      background: #fff;
+      color: var(--fg);
+      background: var(--bg);
     }
     body { text-align: center; }
-    a { color: #1f2328; text-decoration: none; transition: color .15s ease; }
-    a:hover { color: #0969da; }
+    a { color: var(--fg); text-decoration: none; transition: color .15s ease; }
+    a:hover { color: var(--accent); }
 
-    .title { padding: 46px 0 0 0; font-size: 24px; line-height: 32px; font-weight: 600; color: #1f2328; }
-    .time { padding: 6px 0 2px 0; font-size: 12px; color: #9ba1a8; }
+    .title { padding: 46px 0 0 0; font-size: 24px; line-height: 32px; font-weight: 600; color: var(--fg); }
+    .time { padding: 6px 0 2px 0; font-size: 12px; color: var(--fg-faint); }
 
     .tabs { padding: 16px 12px 22px; }
     .tabs a {
-      background: #f6f8fa;
+      background: var(--bg-subtle);
       display: inline-block;
       padding: 7px 14px;
       font-size: 14px;
-      color: #424a53;
+      color: var(--chip-fg);
       border-radius: 6px;
-      border: 1px solid #d0d7de;
+      border: 1px solid var(--border);
       line-height: 18px;
       transition: all .15s ease;
     }
-    .tabs a:hover { background: #eaeef2; color: #0969da; border-color: #afb8c1; }
-    .tabs a.active { background: #0969da; color: #fff; border-color: #0969da; }
+    .tabs a:hover { background: var(--bg-hover); color: var(--accent); border-color: var(--fg-subtle); }
+    .tabs a.active { background: var(--accent); color: var(--accent-fg); border-color: var(--accent); }
     .tab-group {
       display: inline-flex;
       align-items: center;
@@ -46,105 +82,118 @@
       vertical-align: middle;
       line-height: 32px;
     }
-    .tab-group + .tab-group { margin-left: 12px; padding-left: 16px; border-left: 1px solid #e5e7eb; }
+    .tab-group + .tab-group { margin-left: 12px; padding-left: 16px; border-left: 1px solid var(--border-faint); }
 
     .list {
       text-align: left;
       max-width: 960px;
       margin: 0 auto;
-      border: 1px solid #d0d7de;
+      border: 1px solid var(--border);
       border-radius: 8px;
       overflow: hidden;
-      box-shadow: 0 1px 3px rgba(31, 35, 40, 0.04);
-      background: #fff;
+      box-shadow: var(--shadow);
+      background: var(--bg);
     }
-    .list a { color: #0969da; }
-    .list a:hover { color: #0550ae; text-decoration: underline; }
-    .list img { width: 36px; height: 36px; border-radius: 6px; display: block; margin: 0 auto; background-color: #f6f8fa; border: 0; }
+    .list a { color: var(--accent); }
+    .list a:hover { color: var(--accent-hover); text-decoration: underline; }
+    .list img { width: 36px; height: 36px; border-radius: 6px; display: block; margin: 0 auto; background-color: var(--bg-subtle); border: 0; }
 
-    .list li { padding: 14px 18px; margin: 0; transition: background .15s; border-bottom: 1px solid #eaeef2; }
+    .list li { padding: 14px 18px; margin: 0; transition: background .15s; border-bottom: 1px solid var(--border-faint); }
     .list li:last-child { border-bottom: 0; }
-    .list li:hover { background: #f6f8fa; }
+    .list li:hover { background: var(--bg-subtle); }
     .list li > div { display: table-cell; vertical-align: top; font-size: 14px; }
     .list li > div.info { width: 100%; }
     .list li div.rank { padding: 2px 10px 0 0; min-width: 28px; }
-    .list li div.rank span { font-weight: 600; color: #6e7781; }
+    .list li div.rank span { font-weight: 600; color: var(--fg-subtle); }
 
     .list li.rank-title {
-      background: #0969da;
+      background: var(--accent);
       margin: 0;
       padding: 12px 18px;
       font-size: 14px;
       font-weight: 600;
-      color: #fff;
+      color: var(--accent-fg);
       border-bottom: 0;
     }
-    .list li.rank-title:hover { background: #0969da; }
-    .list li.rank-title a, .list li.rank-title span { color: #fff; }
-    .list li.rank-title a:hover { color: #fff; text-decoration: underline; }
+    .list li.rank-title:hover { background: var(--accent); }
+    .list li.rank-title a, .list li.rank-title span { color: var(--accent-fg); }
+    .list li.rank-title a:hover { color: var(--accent-fg); text-decoration: underline; }
 
     .list li.rank-title .select { float: right; font-size: 13px; line-height: 20px; font-weight: 400; }
-    .list li.rank-title .select a { color: rgba(255, 255, 255, 0.65); padding: 0 6px; }
-    .list li.rank-title .select a:hover { color: #fff; text-decoration: none; }
+    .list li.rank-title .select a { color: var(--header-on-accent); padding: 0 6px; }
+    .list li.rank-title .select a:hover { color: var(--accent-fg); text-decoration: none; }
     .list li.rank-title .select a.active { color: #ffd33d; font-weight: 600; }
 
     .list li.filter-bar {
       padding: 10px 18px;
-      background: #f6f8fa;
-      border-bottom: 1px solid #d0d7de;
+      background: var(--bg-subtle);
+      border-bottom: 1px solid var(--border);
       display: flex;
       align-items: center;
       gap: 12px;
     }
-    .list li.filter-bar:hover { background: #f6f8fa; }
+    .list li.filter-bar:hover { background: var(--bg-subtle); }
     .list .filter-input {
       flex: 1;
-      border: 1px solid #d0d7de;
+      border: 1px solid var(--border);
       border-radius: 6px;
       padding: 6px 10px;
       font-size: 13px;
       font-family: inherit;
-      background: #fff;
-      color: #1f2328;
+      background: var(--bg);
+      color: var(--fg);
       outline: none;
       transition: border-color .15s, box-shadow .15s;
     }
     .list .filter-input:focus {
-      border-color: #0969da;
+      border-color: var(--accent);
       box-shadow: 0 0 0 3px rgba(9, 105, 218, 0.15);
     }
-    .list .filter-stat { font-size: 12px; color: #57606a; white-space: nowrap; }
-    .list li.filter-empty { color: #6e7781; text-align: center; padding: 24px; font-size: 13px; }
+    .list .filter-stat { font-size: 12px; color: var(--fg-muted); white-space: nowrap; }
+    .list li.filter-empty { color: var(--fg-subtle); text-align: center; padding: 24px; font-size: 13px; }
     .list li.filter-empty:hover { background: transparent; }
 
-    .list li div.sub-title { color: #1f2328; margin: 6px 0 4px 0; }
+    .list li div.sub-title { color: var(--fg); margin: 6px 0 4px 0; }
     .list li a.language,
     .list li span.star {
       display: inline-block;
       padding: 2px 8px;
       margin-right: 4px;
-      background: #f6f8fa;
-      color: #424a53;
+      background: var(--bg-subtle);
+      color: var(--chip-fg);
       border-radius: 12px;
       font-size: 12px;
       line-height: 18px;
-      border: 1px solid #d0d7de;
+      border: 1px solid var(--border);
     }
-    .list li a.language:hover { background: #eaeef2; color: #0969da; }
+    .list li a.language:hover { background: var(--bg-hover); color: var(--accent); }
 
-    .list li div.followers { font-size: 12px; color: #57606a; white-space: nowrap; }
-    .list li div.followers a { color: #424a53; }
+    /* trending 页：language 名字前的颜色圆点 */
+    .list.trending .language > span,
+    .list .language > span:not(:empty) {
+      display: inline-block;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      vertical-align: middle;
+      margin-right: 4px;
+      position: relative;
+      top: -1px;
+    }
+
+    .list li div.followers { font-size: 12px; color: var(--fg-muted); white-space: nowrap; }
+    .list li div.followers a { color: var(--chip-fg); }
     .list li div.followers * { vertical-align: middle; }
-    .list li div.followers svg { display: inline-block; fill: #6e7781; width: 12px; height: 12px; vertical-align: text-bottom; }
+    .list li div.followers svg { display: inline-block; fill: var(--fg-subtle); width: 12px; height: 12px; vertical-align: text-bottom; }
 
-    .list li div.details { padding: 8px 0 0 0; font-size: 12px; color: #57606a; clear: both; display: block; line-height: 18px; }
-    .list li div.details a { color: #57606a; }
-    .list li div.details a:hover { color: #0969da; }
+    .list li div.details { padding: 8px 0 0 0; font-size: 12px; color: var(--fg-muted); clear: both; display: block; line-height: 18px; }
+    .list li div.details a { color: var(--fg-muted); }
+    .list li div.details a:hover { color: var(--accent); }
     .list li div.details * { vertical-align: middle; }
     .list li div.details .localtion { overflow: hidden; white-space: nowrap; text-overflow: ellipsis; max-width: 150px; display: inline-block; height: 14px; }
-    .list li div.details svg { width: 12px; height: 12px; margin-right: 4px; fill: #9ba1a8; display: inline-block; }
+    .list li div.details svg { width: 12px; height: 12px; margin-right: 4px; fill: var(--fg-faint); display: inline-block; }
 
-    .footer { padding: 24px 0 30px 0; font-size: 12px; color: #9ba1a8; }
+    .footer { padding: 24px 0 30px 0; font-size: 12px; color: var(--fg-faint); }
 
     @media (max-width: 720px) {
       .title { font-size: 20px; padding-top: 36px; }
@@ -160,7 +209,7 @@
 </head>
 <body>
   <h1 class="title"> Anthropic News </h1>
-  <div class="time">Last updated: 2026-05-18 14:04 UTC</div>
+  <div class="time">Last updated: 2026-05-18 14:16 UTC</div>
   <div class="tabs">
   <span class="tab-group">
     <a class="" href="trending.html">GitHub Trending</a>
@@ -421,7 +470,7 @@
 })();
 </script>
   <div class="footer">
-    <div class="time">Last updated: 2026-05-18 14:04 UTC</div>
+    <div class="time">Last updated: 2026-05-18 14:16 UTC</div>
     Source: <a href="https://github.com/silver-blue-space/github-rank" target="_blank">github-hot</a>
   </div>
 </body>
