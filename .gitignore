@@ -3,6 +3,10 @@ web
 node_modules
 coverage
 
+# CI 抓取产物：每次跑都会覆盖，没必要入 git。
+# 本地首次 git clone 后跑 npm run get:* 即可重新生成。
+dist/*.json
+
 npm-debug.log*
 lerna-debug.log
 yarn-error.log
