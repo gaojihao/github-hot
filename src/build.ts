@@ -1,6 +1,6 @@
 import FS from 'fs-extra';
 import path from 'path';
-import { creatTrendingHTML, ICreateTrendingHTML, creatListHTML, IListItem, IDateRange } from './createHTML';
+import { creatTrendingHTML, ICreateTrendingHTML, creatListHTML, IListItem, IDateRange, formatDateZh } from './createHTML';
 
 type Period = 'daily' | 'weekly' | 'monthly';
 
@@ -84,7 +84,7 @@ function mapOpenaiNews(data: OpenaiNewsItem[]): IListItem[] {
   return data.map((n) => ({
     title: n.title,
     subtitle: n.category,
-    meta: n.pubDate,
+    meta: formatDateZh(n.pubDate) || n.pubDate,
     url: n.url,
   }));
 }
@@ -93,19 +93,18 @@ function mapAnthropicNews(data: AnthropicNewsItem[]): IListItem[] {
   return data.map((n) => ({
     title: n.title,
     subtitle: n.category,
-    meta: n.date,
+    meta: formatDateZh(n.date) || n.date,
     url: n.url,
   }));
 }
 
 function mapQbitai(data: QbitaiItem[]): IListItem[] {
   return data.map((n) => {
-    const date = n.pubDate ? new Date(n.pubDate).toISOString().slice(0, 10) : '';
     const subtitleParts = [n.category, n.author].filter(Boolean);
     return {
       title: n.title,
       subtitle: subtitleParts.join(' · '),
-      meta: date,
+      meta: formatDateZh(n.pubDate),
       url: n.url,
     };
   });

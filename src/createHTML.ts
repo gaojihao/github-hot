@@ -4,13 +4,34 @@ import ejs from 'ejs';
 
 const rootPath: string = path.join(__dirname, 'html');
 
-function buildDateStr(): string {
-  const d = new Date();
-  const pad = (n: number) => (n < 10 ? `0${n}` : `${n}`);
-  return `${d.getUTCFullYear()}-${pad(d.getUTCMonth() + 1)}-${pad(d.getUTCDate())} ${pad(d.getUTCHours())}:${pad(d.getUTCMinutes())} UTC`;
+const SHANGHAI = 'Asia/Shanghai';
+
+export function formatDateTimeZh(input: string | number | Date): string {
+  const d = input instanceof Date ? input : new Date(input);
+  if (!d.getTime() || Number.isNaN(d.getTime())) return '';
+  const parts = new Intl.DateTimeFormat('zh-CN', {
+    timeZone: SHANGHAI,
+    year: 'numeric', month: '2-digit', day: '2-digit',
+    hour: '2-digit', minute: '2-digit', hour12: false,
+  }).formatToParts(d);
+  const m: Record<string, string> = {};
+  parts.forEach((p) => { m[p.type] = p.value; });
+  return `${m.year}年${m.month}月${m.day}日 ${m.hour}:${m.minute}`;
 }
 
-const dateStr: string = buildDateStr();
+export function formatDateZh(input: string | number | Date): string {
+  const d = input instanceof Date ? input : new Date(input);
+  if (!d.getTime() || Number.isNaN(d.getTime())) return '';
+  const parts = new Intl.DateTimeFormat('zh-CN', {
+    timeZone: SHANGHAI,
+    year: 'numeric', month: '2-digit', day: '2-digit',
+  }).formatToParts(d);
+  const m: Record<string, string> = {};
+  parts.forEach((p) => { m[p.type] = p.value; });
+  return `${m.year}年${m.month}月${m.day}日`;
+}
+
+const dateStr: string = formatDateTimeZh(new Date());
 
 export interface ICreateTrendingHTML {
   html_url: string;
