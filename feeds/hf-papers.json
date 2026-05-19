@@ -9,21 +9,28 @@
       "url": "https://huggingface.co/papers/2605.14038",
       "title": "Model-Adaptive Tool Necessity Reveals the Knowing-Doing Gap in LLM Tool Use",
       "summary": "2605.14038 · ▲ 6",
-      "date_published": "2026-05-19T02:22:13.316Z"
+      "date_published": "2026-05-19T02:30:48.545Z"
     },
     {
       "id": "https://huggingface.co/papers/2605.17199",
       "url": "https://huggingface.co/papers/2605.17199",
       "title": "Geometric Phase Transition Enables Extreme Hippocampal Memory Capacity",
       "summary": "2605.17199 · ▲ 1",
-      "date_published": "2026-05-19T02:22:13.316Z"
+      "date_published": "2026-05-19T02:30:48.545Z"
     },
     {
       "id": "https://huggingface.co/papers/2605.17842",
       "url": "https://huggingface.co/papers/2605.17842",
       "title": "SNLP: Layer-Parallel Inference via Structured Newton Corrections",
       "summary": "2605.17842 · ▲ 0",
-      "date_published": "2026-05-19T02:22:13.316Z"
+      "date_published": "2026-05-19T02:30:48.545Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.17260",
+      "url": "https://huggingface.co/papers/2605.17260",
+      "title": "LiteFrame: Efficient Vision Encoders Unlock Frame Scaling in Video LLMs",
+      "summary": "2605.17260 · ▲ 0",
+      "date_published": "2026-05-19T02:30:48.545Z"
     }
   ]
 }
