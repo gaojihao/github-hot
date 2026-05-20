@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "summary": "Global Affairs · 2026年05月20日",
+      "date_published": "2026-05-20T16:05:59.671Z"
+    },
+    {
       "id": "https://openai.com/index/introducing-openai-for-singapore",
       "url": "https://openai.com/index/introducing-openai-for-singapore",
       "title": "Introducing OpenAI for Singapore",
       "summary": "Global Affairs · 2026年05月20日",
-      "date_published": "2026-05-20T04:47:25.736Z"
+      "date_published": "2026-05-20T16:05:59.671Z"
     },
     {
       "id": "https://openai.com/index/advancing-content-provenance",
       "url": "https://openai.com/index/advancing-content-provenance",
       "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
       "summary": "Safety · 2026年05月19日",
-      "date_published": "2026-05-20T04:47:25.736Z"
+      "date_published": "2026-05-20T16:05:59.671Z"
     },
     {
       "id": "https://openai.com/index/dell-codex-enterprise-partnership",
       "url": "https://openai.com/index/dell-codex-enterprise-partnership",
       "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
       "summary": "Company · 2026年05月18日",
-      "date_published": "2026-05-20T04:47:25.736Z"
+      "date_published": "2026-05-20T16:05:59.671Z"
     },
     {
       "id": "https://openai.com/index/malta-chatgpt-plus-partnership",
       "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
       "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
       "summary": "Global Affairs · 2026年05月16日",
-      "date_published": "2026-05-20T04:47:25.736Z"
-    },
-    {
-      "id": "https://openai.com/index/databricks",
-      "url": "https://openai.com/index/databricks",
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "summary": "2026年05月15日",
-      "date_published": "2026-05-20T04:47:25.736Z"
+      "date_published": "2026-05-20T16:05:59.671Z"
     }
   ]
 }
