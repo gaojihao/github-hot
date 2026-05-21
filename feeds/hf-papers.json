@@ -5,263 +5,144 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2605.11609",
-      "url": "https://huggingface.co/papers/2605.11609",
-      "title": "Anti-Self-Distillation for Reasoning RL via Pointwise Mutual Information",
-      "summary": "2605.11609 · ▲ 60",
-      "date_published": "2026-05-20T16:05:59.671Z"
+      "id": "https://huggingface.co/papers/2605.19660",
+      "url": "https://huggingface.co/papers/2605.19660",
+      "title": "OScaR: The Occam's Razor for Extreme KV Cache Quantization in LLMs and Beyond",
+      "summary": "2605.19660 · ▲ 19",
+      "date_published": "2026-05-21T04:53:51.179Z"
     },
     {
-      "id": "https://huggingface.co/papers/2605.16403",
-      "url": "https://huggingface.co/papers/2605.16403",
-      "title": "When Vision Speaks for Sound",
-      "summary": "2605.16403 · ▲ 51",
-      "date_published": "2026-05-20T16:05:59.671Z"
+      "id": "https://huggingface.co/papers/2605.20258",
+      "url": "https://huggingface.co/papers/2605.20258",
+      "title": "It Takes Two: Complementary Self-Distillation for Contextual Integrity in LLMs",
+      "summary": "2605.20258 · ▲ 18",
+      "date_published": "2026-05-21T04:53:51.179Z"
     },
     {
-      "id": "https://huggingface.co/papers/2605.19577",
-      "url": "https://huggingface.co/papers/2605.19577",
-      "title": "GoLongRL: Capability-Oriented Long Context Reinforcement Learning with Multitask Alignment",
-      "summary": "2605.19577 · ▲ 50",
-      "date_published": "2026-05-20T16:05:59.671Z"
+      "id": "https://huggingface.co/papers/2605.20630",
+      "url": "https://huggingface.co/papers/2605.20630",
+      "title": "Evaluating Temporal Semantic Caching and Workflow Optimization in Agentic Plan-Execute Pipelines",
+      "summary": "2605.20630 · ▲ 8",
+      "date_published": "2026-05-21T04:53:51.179Z"
     },
     {
-      "id": "https://huggingface.co/papers/2605.19769",
-      "url": "https://huggingface.co/papers/2605.19769",
-      "title": "OpenComputer: Verifiable Software Worlds for Computer-Use Agents",
-      "summary": "2605.19769 · ▲ 49",
-      "date_published": "2026-05-20T16:05:59.671Z"
+      "id": "https://huggingface.co/papers/2605.19376",
+      "url": "https://huggingface.co/papers/2605.19376",
+      "title": "Generative Recursive Reasoning",
+      "summary": "2605.19376 · ▲ 8",
+      "date_published": "2026-05-21T04:53:51.179Z"
     },
     {
-      "id": "https://huggingface.co/papers/2605.20025",
-      "url": "https://huggingface.co/papers/2605.20025",
-      "title": "AutoResearchClaw: Self-Reinforcing Autonomous Research with Human-AI Collaboration",
-      "summary": "2605.20025 · ▲ 44",
-      "date_published": "2026-05-20T16:05:59.671Z"
+      "id": "https://huggingface.co/papers/2605.21487",
+      "url": "https://huggingface.co/papers/2605.21487",
+      "title": "Uni-Edit: Intelligent Editing Is A General Task For Unified Model Tuning",
+      "summary": "2605.21487 · ▲ 6",
+      "date_published": "2026-05-21T04:53:51.179Z"
     },
     {
-      "id": "https://huggingface.co/papers/2605.15529",
-      "url": "https://huggingface.co/papers/2605.15529",
-      "title": "Process Rewards with Learned Reliability",
-      "summary": "2605.15529 · ▲ 44",
-      "date_published": "2026-05-20T16:05:59.671Z"
+      "id": "https://huggingface.co/papers/2605.20668",
+      "url": "https://huggingface.co/papers/2605.20668",
+      "title": "On the limits and opportunities of AI reviewers: Reviewing the reviews of Nature-family papers with 45 expert scientists",
+      "summary": "2605.20668 · ▲ 5",
+      "date_published": "2026-05-21T04:53:51.179Z"
     },
     {
-      "id": "https://huggingface.co/papers/2605.14236",
-      "url": "https://huggingface.co/papers/2605.14236",
-      "title": "Active Learners as Efficient PRP Rerankers",
-      "summary": "2605.14236 · ▲ 41",
-      "date_published": "2026-05-20T16:05:59.671Z"
+      "id": "https://huggingface.co/papers/2605.21343",
+      "url": "https://huggingface.co/papers/2605.21343",
+      "title": "OcclusionFormer: Arranging Z-Order for Layout-Grounded Image Generation",
+      "summary": "2605.21343 · ▲ 2",
+      "date_published": "2026-05-21T04:53:51.179Z"
     },
     {
-      "id": "https://huggingface.co/papers/2605.18703",
-      "url": "https://huggingface.co/papers/2605.18703",
-      "title": "EnvFactory: Scaling Tool-Use Agents via Executable Environments Synthesis and Robust RL",
-      "summary": "2605.18703 · ▲ 38",
-      "date_published": "2026-05-20T16:05:59.671Z"
+      "id": "https://huggingface.co/papers/2605.20613",
+      "url": "https://huggingface.co/papers/2605.20613",
+      "title": "HRM-Text: Efficient Pretraining Beyond Scaling",
+      "summary": "2605.20613 · ▲ 2",
+      "date_published": "2026-05-21T04:53:51.179Z"
     },
     {
-      "id": "https://huggingface.co/papers/2605.19995",
-      "url": "https://huggingface.co/papers/2605.19995",
-      "title": "CogOmniControl: Reasoning-Driven Controllable Video Generation via Creative Intent Cognition",
-      "summary": "2605.19995 · ▲ 31",
-      "date_published": "2026-05-20T16:05:59.671Z"
+      "id": "https://huggingface.co/papers/2605.21131",
+      "url": "https://huggingface.co/papers/2605.21131",
+      "title": "UniT: Unified Geometry Learning with Group Autoregressive Transformer",
+      "summary": "2605.21131 · ▲ 2",
+      "date_published": "2026-05-21T04:53:51.179Z"
     },
     {
-      "id": "https://huggingface.co/papers/2605.18984",
-      "url": "https://huggingface.co/papers/2605.18984",
-      "title": "Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-Generated Videos",
-      "summary": "2605.18984 · ▲ 21",
-      "date_published": "2026-05-20T16:05:59.671Z"
+      "id": "https://huggingface.co/papers/2605.20834",
+      "url": "https://huggingface.co/papers/2605.20834",
+      "title": "Conditional Equivalence of DPO and RLHF: Implicit Assumption, Failure Modes, and Provable Alignment",
+      "summary": "2605.20834 · ▲ 1",
+      "date_published": "2026-05-21T04:53:51.179Z"
     },
     {
-      "id": "https://huggingface.co/papers/2605.18748",
-      "url": "https://huggingface.co/papers/2605.18748",
-      "title": "Aurora: Unified Video Editing with a Tool-Using Agent",
-      "summary": "2605.18748 · ▲ 15",
-      "date_published": "2026-05-20T16:05:59.671Z"
+      "id": "https://huggingface.co/papers/2605.21463",
+      "url": "https://huggingface.co/papers/2605.21463",
+      "title": "Mem-π: Adaptive Memory through Learning When and What to Generate",
+      "summary": "2605.21463 · ▲ 1",
+      "date_published": "2026-05-21T04:53:51.179Z"
     },
     {
-      "id": "https://huggingface.co/papers/2605.19436",
-      "url": "https://huggingface.co/papers/2605.19436",
-      "title": "CEPO: RLVR Self-Distillation using Contrastive Evidence Policy Optimization",
-      "summary": "2605.19436 · ▲ 12",
-      "date_published": "2026-05-20T16:05:59.671Z"
+      "id": "https://huggingface.co/papers/2605.20158",
+      "url": "https://huggingface.co/papers/2605.20158",
+      "title": "Rethinking Visual Attribution for Chest X-ray Reasoning in Large Vision Language Models",
+      "summary": "2605.20158 · ▲ 1",
+      "date_published": "2026-05-21T04:53:51.179Z"
     },
     {
-      "id": "https://huggingface.co/papers/2605.18758",
-      "url": "https://huggingface.co/papers/2605.18758",
-      "title": "OmniGUI: Benchmarking GUI Agents in Omni-Modal Smartphone Environments",
-      "summary": "2605.18758 · ▲ 12",
-      "date_published": "2026-05-20T16:05:59.671Z"
+      "id": "https://huggingface.co/papers/2605.17916",
+      "url": "https://huggingface.co/papers/2605.17916",
+      "title": "PanoWorld: A Generative Spatial World Model for Consistent Whole-House Panorama Synthesis",
+      "summary": "2605.17916 · ▲ 1",
+      "date_published": "2026-05-21T04:53:51.179Z"
     },
     {
-      "id": "https://huggingface.co/papers/2605.20183",
-      "url": "https://huggingface.co/papers/2605.20183",
-      "title": "MSAVBench: Towards Comprehensive and Reliable Evaluation of Multi-Shot Audio-Video Generation",
-      "summary": "2605.20183 · ▲ 11",
-      "date_published": "2026-05-20T16:05:59.671Z"
+      "id": "https://huggingface.co/papers/2605.21431",
+      "url": "https://huggingface.co/papers/2605.21431",
+      "title": "iTryOn: Mastering Interactive Video Virtual Try-On with Spatial-Semantic Guidance",
+      "summary": "2605.21431 · ▲ 0",
+      "date_published": "2026-05-21T04:53:51.179Z"
     },
     {
-      "id": "https://huggingface.co/papers/2605.20147",
-      "url": "https://huggingface.co/papers/2605.20147",
-      "title": "PixVerve: Advancing Native UHR Image Generation to 100MP with a Large-Scale High-Quality Dataset",
-      "summary": "2605.20147 · ▲ 8",
-      "date_published": "2026-05-20T16:05:59.671Z"
+      "id": "https://huggingface.co/papers/2605.20955",
+      "url": "https://huggingface.co/papers/2605.20955",
+      "title": "DrawMotion: Generating 3D Human Motions by Freehand Drawing",
+      "summary": "2605.20955 · ▲ 0",
+      "date_published": "2026-05-21T04:53:51.179Z"
     },
     {
-      "id": "https://huggingface.co/papers/2605.15458",
-      "url": "https://huggingface.co/papers/2605.15458",
-      "title": "Video Models Can Reason with Verifiable Rewards",
-      "summary": "2605.15458 · ▲ 8",
-      "date_published": "2026-05-20T16:05:59.671Z"
+      "id": "https://huggingface.co/papers/2605.20873",
+      "url": "https://huggingface.co/papers/2605.20873",
+      "title": "PlanningBench: Generating Scalable and Verifiable Planning Data for Evaluating and Training Large Language Models",
+      "summary": "2605.20873 · ▲ 0",
+      "date_published": "2026-05-21T04:53:51.179Z"
     },
     {
-      "id": "https://huggingface.co/papers/2605.18714",
-      "url": "https://huggingface.co/papers/2605.18714",
-      "title": "Semantic Generative Tuning for Unified Multimodal Models",
-      "summary": "2605.18714 · ▲ 7",
-      "date_published": "2026-05-20T16:05:59.671Z"
+      "id": "https://huggingface.co/papers/2605.21384",
+      "url": "https://huggingface.co/papers/2605.21384",
+      "title": "SpecBench: Measuring Reward Hacking in Long-Horizon Coding Agents",
+      "summary": "2605.21384 · ▲ 0",
+      "date_published": "2026-05-21T04:53:51.179Z"
     },
     {
-      "id": "https://huggingface.co/papers/2605.09640",
-      "url": "https://huggingface.co/papers/2605.09640",
-      "title": "Overcoming Catastrophic Forgetting in Visual Continual Learning with Reinforcement Fine-Tuning",
-      "summary": "2605.09640 · ▲ 5",
-      "date_published": "2026-05-20T16:05:59.671Z"
+      "id": "https://huggingface.co/papers/2605.18565",
+      "url": "https://huggingface.co/papers/2605.18565",
+      "title": "LongMINT: Evaluating Memory under Multi-Target Interference in Long-Horizon Agent Systems",
+      "summary": "2605.18565 · ▲ 0",
+      "date_published": "2026-05-21T04:53:51.179Z"
     },
     {
-      "id": "https://huggingface.co/papers/2605.20104",
-      "url": "https://huggingface.co/papers/2605.20104",
-      "title": "Draft Less, Retrieve More: Hybrid Tree Construction for Speculative Decoding",
-      "summary": "2605.20104 · ▲ 3",
-      "date_published": "2026-05-20T16:05:59.671Z"
+      "id": "https://huggingface.co/papers/2605.16787",
+      "url": "https://huggingface.co/papers/2605.16787",
+      "title": "The Unlearnability Phenomenon in RLVR for Language Models",
+      "summary": "2605.16787 · ▲ 0",
+      "date_published": "2026-05-21T04:53:51.179Z"
     },
     {
-      "id": "https://huggingface.co/papers/2605.17734",
-      "url": "https://huggingface.co/papers/2605.17734",
-      "title": "Harnessing LLM Agents with Skill Programs",
-      "summary": "2605.17734 · ▲ 3",
-      "date_published": "2026-05-20T16:05:59.671Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2605.18226",
-      "url": "https://huggingface.co/papers/2605.18226",
-      "title": "Context Memorization for Efficient Long Context Generation",
-      "summary": "2605.18226 · ▲ 3",
-      "date_published": "2026-05-20T16:05:59.671Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2605.18746",
-      "url": "https://huggingface.co/papers/2605.18746",
-      "title": "ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop",
-      "summary": "2605.18746 · ▲ 3",
-      "date_published": "2026-05-20T16:05:59.671Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2605.18855",
-      "url": "https://huggingface.co/papers/2605.18855",
-      "title": "Delta Attention Residuals",
-      "summary": "2605.18855 · ▲ 3",
-      "date_published": "2026-05-20T16:05:59.671Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2605.18827",
-      "url": "https://huggingface.co/papers/2605.18827",
-      "title": "Code-Guided Reasoning for Small Language Models: Evaluating Executable MCQA Scaffolds",
-      "summary": "2605.18827 · ▲ 3",
-      "date_published": "2026-05-20T16:05:59.671Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2605.19786",
-      "url": "https://huggingface.co/papers/2605.19786",
-      "title": "Fast 4D Mesh Generation by Spatio-Temporal Attention Chains",
-      "summary": "2605.19786 · ▲ 2",
-      "date_published": "2026-05-20T16:05:59.671Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2605.20150",
-      "url": "https://huggingface.co/papers/2605.20150",
-      "title": "TideGS: Scalable Training of Over One Billion 3D Gaussian Splatting Primitives via Out-of-Core Optimization",
-      "summary": "2605.20150 · ▲ 2",
-      "date_published": "2026-05-20T16:05:59.671Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2605.19908",
-      "url": "https://huggingface.co/papers/2605.19908",
-      "title": "Where Does Authorship Signal Emerge in Encoder-Based Language Models?",
-      "summary": "2605.19908 · ▲ 2",
-      "date_published": "2026-05-20T16:05:59.671Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2605.19932",
-      "url": "https://huggingface.co/papers/2605.19932",
-      "title": "PEEK: Context Map as an Orientation Cache for Long-Context LLM Agents",
-      "summary": "2605.19932 · ▲ 2",
-      "date_published": "2026-05-20T16:05:59.671Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2605.20035",
-      "url": "https://huggingface.co/papers/2605.20035",
-      "title": "Stage-adaptive Token Selection for Efficient Omni-modal LLMs",
-      "summary": "2605.20035 · ▲ 2",
-      "date_published": "2026-05-20T16:05:59.671Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2605.18646",
-      "url": "https://huggingface.co/papers/2605.18646",
-      "title": "Language-Switching Triggers Take a Latent Detour Through Language Models",
-      "summary": "2605.18646 · ▲ 2",
-      "date_published": "2026-05-20T16:05:59.671Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2605.12623",
-      "url": "https://huggingface.co/papers/2605.12623",
-      "title": "DocAtlas: Multilingual Document Understanding Across 80+ Languages",
-      "summary": "2605.12623 · ▲ 2",
-      "date_published": "2026-05-20T16:05:59.671Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2605.20075",
-      "url": "https://huggingface.co/papers/2605.20075",
-      "title": "CopT: Contrastive On-Policy Thinking with Continuous Spaces for General and Agentic Reasoning",
-      "summary": "2605.20075 · ▲ 1",
-      "date_published": "2026-05-20T16:05:59.671Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2605.19014",
-      "url": "https://huggingface.co/papers/2605.19014",
-      "title": "SAGA: A Sequence-Adaptive Generative Architecture for Multi-Horizon Probabilistic Forecasting with Adaptive Temporal Conformal Prediction",
-      "summary": "2605.19014 · ▲ 1",
-      "date_published": "2026-05-20T16:05:59.671Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2605.17360",
-      "url": "https://huggingface.co/papers/2605.17360",
-      "title": "Omni-DuplexEval: Evaluating Real-time Duplex Omni-modal Interaction",
-      "summary": "2605.17360 · ▲ 1",
-      "date_published": "2026-05-20T16:05:59.671Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2605.16003",
-      "url": "https://huggingface.co/papers/2605.16003",
-      "title": "Echo-Forcing: A Scene Memory Framework for Interactive Long Video Generation",
-      "summary": "2605.16003 · ▲ 1",
-      "date_published": "2026-05-20T16:05:59.671Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2605.14842",
-      "url": "https://huggingface.co/papers/2605.14842",
-      "title": "Editor's Choice: Evaluating Abstract Intent in Image Editing through Atomic Entity Analysis",
-      "summary": "2605.14842 · ▲ 1",
-      "date_published": "2026-05-20T16:05:59.671Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2605.19633",
-      "url": "https://huggingface.co/papers/2605.19633",
-      "title": "optimize_anything: A Universal API for Optimizing any Text Parameter",
-      "summary": "2605.19633 · ▲ 0",
-      "date_published": "2026-05-20T16:05:59.671Z"
+      "id": "https://huggingface.co/papers/2602.07892",
+      "url": "https://huggingface.co/papers/2602.07892",
+      "title": "Safety Alignment as Continual Learning: Mitigating the Alignment Tax via Orthogonal Gradient Projection",
+      "summary": "2602.07892 · ▲ 0",
+      "date_published": "2026-05-21T04:53:51.179Z"
     }
   ]
 }
