@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "summary": "AI Adoption · 2026年05月22日",
+      "date_published": "2026-05-23T04:25:55.617Z"
+    },
+    {
+      "id": "https://openai.com/index/virgin-atlantic",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "summary": "2026年05月22日",
+      "date_published": "2026-05-23T04:25:55.617Z"
+    },
+    {
       "id": "https://openai.com/index/adventhealth",
       "url": "https://openai.com/index/adventhealth",
       "title": "AdventHealth advances whole-person care with OpenAI",
       "summary": "2026年05月21日",
-      "date_published": "2026-05-22T15:35:24.187Z"
+      "date_published": "2026-05-23T04:25:55.617Z"
     },
     {
       "id": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "summary": "Research · 2026年05月20日",
-      "date_published": "2026-05-22T15:35:24.187Z"
+      "date_published": "2026-05-23T04:25:55.617Z"
     },
     {
       "id": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "title": "The next phase of OpenAI’s Education for Countries",
       "summary": "Global Affairs · 2026年05月20日",
-      "date_published": "2026-05-22T15:35:24.187Z"
-    },
-    {
-      "id": "https://openai.com/index/ramp",
-      "url": "https://openai.com/index/ramp",
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "summary": "2026年05月20日",
-      "date_published": "2026-05-22T15:35:24.187Z"
-    },
-    {
-      "id": "https://openai.com/index/introducing-openai-for-singapore",
-      "url": "https://openai.com/index/introducing-openai-for-singapore",
-      "title": "Introducing OpenAI for Singapore",
-      "summary": "Global Affairs · 2026年05月20日",
-      "date_published": "2026-05-22T15:35:24.187Z"
+      "date_published": "2026-05-23T04:25:55.617Z"
     }
   ]
 }
