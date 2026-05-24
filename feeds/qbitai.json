@@ -5,60 +5,67 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/qbitai.json",
   "items": [
     {
+      "id": "https://www.qbitai.com/2026/05/423421.html",
+      "url": "https://www.qbitai.com/2026/05/423421.html",
+      "title": "卷到今天，Agent的含金量还在提升丨AIGC2026圆桌论坛",
+      "summary": "AIGC产业峰会 · 梦瑶 · 2026年05月24日",
+      "date_published": "2026-05-24T14:08:37.924Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/05/423390.html",
+      "url": "https://www.qbitai.com/2026/05/423390.html",
+      "title": "谷歌CEO承认Coding落后了",
+      "summary": "谷歌 · 梦瑶 · 2026年05月24日",
+      "date_published": "2026-05-24T14:08:37.924Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/05/423382.html",
+      "url": "https://www.qbitai.com/2026/05/423382.html",
+      "title": "未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
+      "summary": "AIGC产业峰会 · 允中 · 2026年05月24日",
+      "date_published": "2026-05-24T14:08:37.924Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/05/423213.html",
+      "url": "https://www.qbitai.com/2026/05/423213.html",
+      "title": "什么！你说胡彦斌也在苦修Vibe Coding",
+      "summary": "Vibe Coding · 梦瑶 · 2026年05月24日",
+      "date_published": "2026-05-24T14:08:37.924Z"
+    },
+    {
       "id": "https://www.qbitai.com/2026/05/423202.html",
       "url": "https://www.qbitai.com/2026/05/423202.html",
       "title": "“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026",
       "summary": "昆仑万维 · 一水 · 2026年05月23日",
-      "date_published": "2026-05-24T04:48:15.396Z"
+      "date_published": "2026-05-24T14:08:37.924Z"
     },
     {
       "id": "https://www.qbitai.com/2026/05/423179.html",
       "url": "https://www.qbitai.com/2026/05/423179.html",
       "title": "OpenAI大神教你如何榨干Codex",
       "summary": "资讯 · 听雨 · 2026年05月23日",
-      "date_published": "2026-05-24T04:48:15.396Z"
+      "date_published": "2026-05-24T14:08:37.924Z"
     },
     {
       "id": "https://www.qbitai.com/2026/05/423162.html",
       "url": "https://www.qbitai.com/2026/05/423162.html",
       "title": "DeepSeek V4价格打骨折，宁王京东网易抢着入场，梁文锋：目标是AGI",
       "summary": "AI · 听雨 · 2026年05月23日",
-      "date_published": "2026-05-24T04:48:15.396Z"
+      "date_published": "2026-05-24T14:08:37.924Z"
     },
     {
       "id": "https://www.qbitai.com/2026/05/423159.html",
       "url": "https://www.qbitai.com/2026/05/423159.html",
       "title": "美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资",
       "summary": "具身智能 · 量子位的朋友们 · 2026年05月23日",
-      "date_published": "2026-05-24T04:48:15.396Z"
+      "date_published": "2026-05-24T14:08:37.924Z"
     },
     {
       "id": "https://www.qbitai.com/2026/05/422811.html",
       "url": "https://www.qbitai.com/2026/05/422811.html",
       "title": "龙虾养不动了？周鸿祎给虾搭了个云端办公室，专业私教在线炼虾",
       "summary": "360 · henry · 2026年05月22日",
-      "date_published": "2026-05-24T04:48:15.396Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/05/422738.html",
-      "url": "https://www.qbitai.com/2026/05/422738.html",
-      "title": "李飞飞再出手，空间智能的ImageNet来了",
-      "summary": "AI · 听雨 · 2026年05月22日",
-      "date_published": "2026-05-24T04:48:15.396Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/05/422624.html",
-      "url": "https://www.qbitai.com/2026/05/422624.html",
-      "title": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
-      "summary": "Deepseek · 梦瑶 · 2026年05月22日",
-      "date_published": "2026-05-24T04:48:15.396Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/05/422615.html",
-      "url": "https://www.qbitai.com/2026/05/422615.html",
-      "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
-      "summary": "Agent中间层 · 思邈 · 2026年05月22日",
-      "date_published": "2026-05-24T04:48:15.396Z"
+      "date_published": "2026-05-24T14:08:37.924Z"
     }
   ]
 }
