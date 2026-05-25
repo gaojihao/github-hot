@@ -5,137 +5,158 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2605.20708",
-      "url": "https://huggingface.co/papers/2605.20708",
-      "title": "Rethinking Cross-Layer Information Routing in Diffusion Transformers",
-      "summary": "2605.20708 · ▲ 49",
-      "date_published": "2026-05-25T05:06:08.932Z"
+      "id": "https://huggingface.co/papers/2605.23904",
+      "url": "https://huggingface.co/papers/2605.23904",
+      "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
+      "summary": "2605.23904 · ▲ 147",
+      "date_published": "2026-05-25T15:37:37.601Z"
     },
     {
       "id": "https://huggingface.co/papers/2605.21573",
       "url": "https://huggingface.co/papers/2605.21573",
       "title": "Lens: Rethinking Training Efficiency for Foundational Text-to-Image Models",
-      "summary": "2605.21573 · ▲ 33",
-      "date_published": "2026-05-25T05:06:08.932Z"
+      "summary": "2605.21573 · ▲ 87",
+      "date_published": "2026-05-25T15:37:37.601Z"
     },
     {
-      "id": "https://huggingface.co/papers/2605.23904",
-      "url": "https://huggingface.co/papers/2605.23904",
-      "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
-      "summary": "2605.23904 · ▲ 28",
-      "date_published": "2026-05-25T05:06:08.932Z"
+      "id": "https://huggingface.co/papers/2605.20708",
+      "url": "https://huggingface.co/papers/2605.20708",
+      "title": "Rethinking Cross-Layer Information Routing in Diffusion Transformers",
+      "summary": "2605.20708 · ▲ 82",
+      "date_published": "2026-05-25T15:37:37.601Z"
     },
     {
-      "id": "https://huggingface.co/papers/2605.18018",
-      "url": "https://huggingface.co/papers/2605.18018",
-      "title": "See What I Mean: Aligning Vision and Language Representations for Video Fine-grained Object Understanding",
-      "summary": "2605.18018 · ▲ 24",
-      "date_published": "2026-05-25T05:06:08.932Z"
+      "id": "https://huggingface.co/papers/2605.22878",
+      "url": "https://huggingface.co/papers/2605.22878",
+      "title": "SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research",
+      "summary": "2605.22878 · ▲ 44",
+      "date_published": "2026-05-25T15:37:37.601Z"
     },
     {
       "id": "https://huggingface.co/papers/2605.23463",
       "url": "https://huggingface.co/papers/2605.23463",
       "title": "StepAudio 2.5 Technical Report",
-      "summary": "2605.23463 · ▲ 20",
-      "date_published": "2026-05-25T05:06:08.932Z"
+      "summary": "2605.23463 · ▲ 35",
+      "date_published": "2026-05-25T15:37:37.601Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.18018",
+      "url": "https://huggingface.co/papers/2605.18018",
+      "title": "See What I Mean: Aligning Vision and Language Representations for Video Fine-grained Object Understanding",
+      "summary": "2605.18018 · ▲ 28",
+      "date_published": "2026-05-25T15:37:37.601Z"
     },
     {
       "id": "https://huggingface.co/papers/2605.23899",
       "url": "https://huggingface.co/papers/2605.23899",
       "title": "From Raw Experience to Skill Consumption: A Systematic Study of Model-Generated Agent Skills",
-      "summary": "2605.23899 · ▲ 9",
-      "date_published": "2026-05-25T05:06:08.932Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2605.21195",
-      "url": "https://huggingface.co/papers/2605.21195",
-      "title": "RankE: End-to-End Post-Training for Discrete Text-to-Image Generation with Decoder Co-Evolution",
-      "summary": "2605.21195 · ▲ 9",
-      "date_published": "2026-05-25T05:06:08.932Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2605.23345",
-      "url": "https://huggingface.co/papers/2605.23345",
-      "title": "SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models",
-      "summary": "2605.23345 · ▲ 7",
-      "date_published": "2026-05-25T05:06:08.932Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2605.22570",
-      "url": "https://huggingface.co/papers/2605.22570",
-      "title": "VGenST-Bench: A Benchmark for Spatio-Temporal Reasoning via Active Video Synthesis",
-      "summary": "2605.22570 · ▲ 6",
-      "date_published": "2026-05-25T05:06:08.932Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2605.23902",
-      "url": "https://huggingface.co/papers/2605.23902",
-      "title": "PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion",
-      "summary": "2605.23902 · ▲ 5",
-      "date_published": "2026-05-25T05:06:08.932Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2605.23903",
-      "url": "https://huggingface.co/papers/2605.23903",
-      "title": "Geo-Align: Video Generation Alignment via Metric Geometry Reward",
-      "summary": "2605.23903 · ▲ 4",
-      "date_published": "2026-05-25T05:06:08.932Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2605.23897",
-      "url": "https://huggingface.co/papers/2605.23897",
-      "title": "ETCHR: Editing To Clarify and Harness Reasoning",
-      "summary": "2605.23897 · ▲ 2",
-      "date_published": "2026-05-25T05:06:08.932Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2605.23901",
-      "url": "https://huggingface.co/papers/2605.23901",
-      "title": "LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws",
-      "summary": "2605.23901 · ▲ 2",
-      "date_published": "2026-05-25T05:06:08.932Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2605.19282",
-      "url": "https://huggingface.co/papers/2605.19282",
-      "title": "Rethinking Muon Beyond Pretraining: Spectral Failures and High-Pass Remedies for VLA and RLVR",
-      "summary": "2605.19282 · ▲ 2",
-      "date_published": "2026-05-25T05:06:08.932Z"
+      "summary": "2605.23899 · ▲ 21",
+      "date_published": "2026-05-25T15:37:37.601Z"
     },
     {
       "id": "https://huggingface.co/papers/2605.23771",
       "url": "https://huggingface.co/papers/2605.23771",
       "title": "PhotoFlow: Agentic 3D Virtual Photography Missions",
-      "summary": "2605.23771 · ▲ 1",
-      "date_published": "2026-05-25T05:06:08.932Z"
+      "summary": "2605.23771 · ▲ 20",
+      "date_published": "2026-05-25T15:37:37.601Z"
     },
     {
-      "id": "https://huggingface.co/papers/2605.23888",
-      "url": "https://huggingface.co/papers/2605.23888",
-      "title": "GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction",
-      "summary": "2605.23888 · ▲ 1",
-      "date_published": "2026-05-25T05:06:08.932Z"
+      "id": "https://huggingface.co/papers/2605.22570",
+      "url": "https://huggingface.co/papers/2605.22570",
+      "title": "VGenST-Bench: A Benchmark for Spatio-Temporal Reasoning via Active Video Synthesis",
+      "summary": "2605.22570 · ▲ 18",
+      "date_published": "2026-05-25T15:37:37.601Z"
     },
     {
-      "id": "https://huggingface.co/papers/2604.20665",
-      "url": "https://huggingface.co/papers/2604.20665",
-      "title": "The Expense of Seeing: Attaining Trustworthy Multimodal Reasoning Within the Monolithic Paradigm",
-      "summary": "2604.20665 · ▲ 1",
-      "date_published": "2026-05-25T05:06:08.932Z"
+      "id": "https://huggingface.co/papers/2605.23902",
+      "url": "https://huggingface.co/papers/2605.23902",
+      "title": "PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion",
+      "summary": "2605.23902 · ▲ 17",
+      "date_published": "2026-05-25T15:37:37.601Z"
     },
     {
-      "id": "https://huggingface.co/papers/2605.23892",
-      "url": "https://huggingface.co/papers/2605.23892",
-      "title": "Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers",
-      "summary": "2605.23892 · ▲ 0",
-      "date_published": "2026-05-25T05:06:08.932Z"
+      "id": "https://huggingface.co/papers/2605.21195",
+      "url": "https://huggingface.co/papers/2605.21195",
+      "title": "RankE: End-to-End Post-Training for Discrete Text-to-Image Generation with Decoder Co-Evolution",
+      "summary": "2605.21195 · ▲ 14",
+      "date_published": "2026-05-25T15:37:37.601Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.23897",
+      "url": "https://huggingface.co/papers/2605.23897",
+      "title": "ETCHR: Editing To Clarify and Harness Reasoning",
+      "summary": "2605.23897 · ▲ 9",
+      "date_published": "2026-05-25T15:37:37.601Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.23345",
+      "url": "https://huggingface.co/papers/2605.23345",
+      "title": "SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models",
+      "summary": "2605.23345 · ▲ 8",
+      "date_published": "2026-05-25T15:37:37.601Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.23901",
+      "url": "https://huggingface.co/papers/2605.23901",
+      "title": "LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws",
+      "summary": "2605.23901 · ▲ 7",
+      "date_published": "2026-05-25T15:37:37.601Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.23903",
+      "url": "https://huggingface.co/papers/2605.23903",
+      "title": "Geo-Align: Video Generation Alignment via Metric Geometry Reward",
+      "summary": "2605.23903 · ▲ 5",
+      "date_published": "2026-05-25T15:37:37.601Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.20177",
+      "url": "https://huggingface.co/papers/2605.20177",
+      "title": "From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models",
+      "summary": "2605.20177 · ▲ 5",
+      "date_published": "2026-05-25T15:37:37.601Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.19282",
+      "url": "https://huggingface.co/papers/2605.19282",
+      "title": "Rethinking Muon Beyond Pretraining: Spectral Failures and High-Pass Remedies for VLA and RLVR",
+      "summary": "2605.19282 · ▲ 4",
+      "date_published": "2026-05-25T15:37:37.601Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.17766",
+      "url": "https://huggingface.co/papers/2605.17766",
+      "title": "LatentUMM: Dual Latent Alignment for Unified Multimodal Models",
+      "summary": "2605.17766 · ▲ 4",
+      "date_published": "2026-05-25T15:37:37.601Z"
     },
     {
       "id": "https://huggingface.co/papers/2605.17873",
       "url": "https://huggingface.co/papers/2605.17873",
       "title": "HINT-SD: Targeted Hindsight Self-Distillation for Long-Horizon Agents",
-      "summary": "2605.17873 · ▲ 0",
-      "date_published": "2026-05-25T05:06:08.932Z"
+      "summary": "2605.17873 · ▲ 3",
+      "date_published": "2026-05-25T15:37:37.601Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.23892",
+      "url": "https://huggingface.co/papers/2605.23892",
+      "title": "Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers",
+      "summary": "2605.23892 · ▲ 2",
+      "date_published": "2026-05-25T15:37:37.601Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.23888",
+      "url": "https://huggingface.co/papers/2605.23888",
+      "title": "GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction",
+      "summary": "2605.23888 · ▲ 2",
+      "date_published": "2026-05-25T15:37:37.601Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2604.20665",
+      "url": "https://huggingface.co/papers/2604.20665",
+      "title": "The Expense of Seeing: Attaining Trustworthy Multimodal Reasoning Within the Monolithic Paradigm",
+      "summary": "2604.20665 · ▲ 2",
+      "date_published": "2026-05-25T15:37:37.601Z"
     }
   ]
 }
