@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "title": "Building self-improving tax agents with Codex",
+      "summary": "Engineering · 2026年05月27日",
+      "date_published": "2026-05-27T16:24:01.086Z"
+    },
+    {
       "id": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
       "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
       "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
       "summary": "Global Affairs · 2026年05月25日",
-      "date_published": "2026-05-27T04:56:38.958Z"
+      "date_published": "2026-05-27T16:24:01.086Z"
     },
     {
       "id": "https://openai.com/index/gartner-2026-agentic-coding-leader",
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
       "summary": "AI Adoption · 2026年05月22日",
-      "date_published": "2026-05-27T04:56:38.958Z"
+      "date_published": "2026-05-27T16:24:01.086Z"
     },
     {
       "id": "https://openai.com/index/virgin-atlantic",
       "url": "https://openai.com/index/virgin-atlantic",
       "title": "How Virgin Atlantic ships faster with Codex",
       "summary": "2026年05月22日",
-      "date_published": "2026-05-27T04:56:38.958Z"
+      "date_published": "2026-05-27T16:24:01.086Z"
     },
     {
       "id": "https://openai.com/index/adventhealth",
       "url": "https://openai.com/index/adventhealth",
       "title": "AdventHealth advances whole-person care with OpenAI",
       "summary": "2026年05月21日",
-      "date_published": "2026-05-27T04:56:38.958Z"
-    },
-    {
-      "id": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "summary": "Global Affairs · 2026年05月20日",
-      "date_published": "2026-05-27T04:56:38.958Z"
+      "date_published": "2026-05-27T16:24:01.086Z"
     }
   ]
 }
