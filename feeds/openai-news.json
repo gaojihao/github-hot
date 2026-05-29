@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/endava",
+      "url": "https://openai.com/index/endava",
+      "title": "How Endava builds an agentic organization with Codex",
+      "summary": "2026年05月28日",
+      "date_published": "2026-05-29T04:53:50.276Z"
+    },
+    {
       "id": "https://openai.com/index/openai-frontier-governance-framework",
       "url": "https://openai.com/index/openai-frontier-governance-framework",
       "title": "OpenAI’s Frontier Governance Framework",
       "summary": "Safety · 2026年05月28日",
-      "date_published": "2026-05-28T16:38:05.175Z"
+      "date_published": "2026-05-29T04:53:50.276Z"
     },
     {
       "id": "https://openai.com/index/cisco",
       "url": "https://openai.com/index/cisco",
       "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
       "summary": "2026年05月27日",
-      "date_published": "2026-05-28T16:38:05.175Z"
+      "date_published": "2026-05-29T04:53:50.276Z"
     },
     {
       "id": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
       "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
       "title": "Building self-improving tax agents with Codex",
       "summary": "Engineering · 2026年05月27日",
-      "date_published": "2026-05-28T16:38:05.175Z"
+      "date_published": "2026-05-29T04:53:50.276Z"
     },
     {
       "id": "https://openai.com/index/election-safeguards-2026",
       "url": "https://openai.com/index/election-safeguards-2026",
       "title": "Election information and safeguards in 2026",
       "summary": "Global Affairs · 2026年05月27日",
-      "date_published": "2026-05-28T16:38:05.175Z"
-    },
-    {
-      "id": "https://openai.com/index/warp",
-      "url": "https://openai.com/index/warp",
-      "title": "Warp’s big bet on building open source with GPT-5.5",
-      "summary": "Startup · 2026年05月27日",
-      "date_published": "2026-05-28T16:38:05.175Z"
+      "date_published": "2026-05-29T04:53:50.276Z"
     }
   ]
 }
