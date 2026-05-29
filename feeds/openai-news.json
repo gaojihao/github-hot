@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/boston-childrens-hospital",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "title": "Boston Children’s uses AI to unlock new diagnoses",
+      "summary": "2026年05月29日",
+      "date_published": "2026-05-29T16:23:27.484Z"
+    },
+    {
+      "id": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "summary": "Product · 2026年05月29日",
+      "date_published": "2026-05-29T16:23:27.484Z"
+    },
+    {
       "id": "https://openai.com/index/endava",
       "url": "https://openai.com/index/endava",
       "title": "How Endava builds an agentic organization with Codex",
       "summary": "2026年05月28日",
-      "date_published": "2026-05-29T04:53:50.276Z"
+      "date_published": "2026-05-29T16:23:27.484Z"
+    },
+    {
+      "id": "https://openai.com/index/mufg",
+      "url": "https://openai.com/index/mufg",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "summary": "2026年05月28日",
+      "date_published": "2026-05-29T16:23:27.484Z"
     },
     {
       "id": "https://openai.com/index/openai-frontier-governance-framework",
       "url": "https://openai.com/index/openai-frontier-governance-framework",
       "title": "OpenAI’s Frontier Governance Framework",
       "summary": "Safety · 2026年05月28日",
-      "date_published": "2026-05-29T04:53:50.276Z"
-    },
-    {
-      "id": "https://openai.com/index/cisco",
-      "url": "https://openai.com/index/cisco",
-      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-      "summary": "2026年05月27日",
-      "date_published": "2026-05-29T04:53:50.276Z"
-    },
-    {
-      "id": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-      "title": "Building self-improving tax agents with Codex",
-      "summary": "Engineering · 2026年05月27日",
-      "date_published": "2026-05-29T04:53:50.276Z"
-    },
-    {
-      "id": "https://openai.com/index/election-safeguards-2026",
-      "url": "https://openai.com/index/election-safeguards-2026",
-      "title": "Election information and safeguards in 2026",
-      "summary": "Global Affairs · 2026年05月27日",
-      "date_published": "2026-05-29T04:53:50.276Z"
+      "date_published": "2026-05-29T16:23:27.484Z"
     }
   ]
 }
