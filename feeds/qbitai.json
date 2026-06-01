@@ -5,60 +5,67 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/qbitai.json",
   "items": [
     {
+      "id": "https://www.qbitai.com/2026/05/427104.html",
+      "url": "https://www.qbitai.com/2026/05/427104.html",
+      "title": "DDIM之父宋佳铭，宣布离职",
+      "summary": "资讯 · Jay · 2026年05月31日",
+      "date_published": "2026-06-01T05:26:16.992Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/05/427005.html",
+      "url": "https://www.qbitai.com/2026/05/427005.html",
+      "title": "别光给Agent加Tool了，它根本选不明白！复旦×通义提出全新CUA训练范式",
+      "summary": "资讯 · Jay · 2026年05月31日",
+      "date_published": "2026-06-01T05:26:16.992Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/05/426991.html",
+      "url": "https://www.qbitai.com/2026/05/426991.html",
+      "title": "英伟达版「MacBook Pro」曝光：老黄自研了CPU！",
+      "summary": "资讯 · Jay · 2026年05月31日",
+      "date_published": "2026-06-01T05:26:16.992Z"
+    },
+    {
       "id": "https://www.qbitai.com/2026/05/426984.html",
       "url": "https://www.qbitai.com/2026/05/426984.html",
       "title": "机器人原生世界动作模型问世！首创时空一体架构，复旦系团队出品",
       "summary": "世界动作模型 · 思邈 · 2026年05月31日",
-      "date_published": "2026-05-31T14:18:20.614Z"
+      "date_published": "2026-06-01T05:26:16.992Z"
     },
     {
       "id": "https://www.qbitai.com/2026/05/426970.html",
       "url": "https://www.qbitai.com/2026/05/426970.html",
       "title": "Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026",
       "summary": "Agent · 思邈 · 2026年05月31日",
-      "date_published": "2026-05-31T14:18:20.614Z"
+      "date_published": "2026-06-01T05:26:16.992Z"
     },
     {
       "id": "https://www.qbitai.com/2026/05/426832.html",
       "url": "https://www.qbitai.com/2026/05/426832.html",
       "title": "τ0-WM：最大规模预训练的开源具身世界模型来了",
       "summary": "上海创智学院 · 衡宇 · 2026年05月31日",
-      "date_published": "2026-05-31T14:18:20.614Z"
+      "date_published": "2026-06-01T05:26:16.992Z"
     },
     {
       "id": "https://www.qbitai.com/2026/05/426819.html",
       "url": "https://www.qbitai.com/2026/05/426819.html",
       "title": "AI原生时代下，让世界适应Agent，而非教AI做人 | 港大黄超@AIGC2026",
       "summary": "Agent · 衡宇 · 2026年05月31日",
-      "date_published": "2026-05-31T14:18:20.614Z"
+      "date_published": "2026-06-01T05:26:16.992Z"
     },
     {
       "id": "https://www.qbitai.com/2026/05/426793.html",
       "url": "https://www.qbitai.com/2026/05/426793.html",
       "title": "从Token无上限到全员Agent：MiniMax的AI Native组织进化实践",
       "summary": "MiniMax · 梦晨 · 2026年05月31日",
-      "date_published": "2026-05-31T14:18:20.614Z"
+      "date_published": "2026-06-01T05:26:16.992Z"
     },
     {
       "id": "https://www.qbitai.com/2026/05/426706.html",
       "url": "https://www.qbitai.com/2026/05/426706.html",
       "title": "帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家",
       "summary": "Gemini · 听雨 · 2026年05月30日",
-      "date_published": "2026-05-31T14:18:20.614Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/05/426643.html",
-      "url": "https://www.qbitai.com/2026/05/426643.html",
-      "title": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
-      "summary": "世界模型 · 思邈 · 2026年05月30日",
-      "date_published": "2026-05-31T14:18:20.614Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/05/426557.html",
-      "url": "https://www.qbitai.com/2026/05/426557.html",
-      "title": "4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉",
-      "summary": "比亚迪 · 贾浩楠 · 2026年05月29日",
-      "date_published": "2026-05-31T14:18:20.614Z"
+      "date_published": "2026-06-01T05:26:16.992Z"
     }
   ]
 }
