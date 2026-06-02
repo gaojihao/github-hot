@@ -5,39 +5,53 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/travelers",
+      "url": "https://openai.com/index/travelers",
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "summary": "2026年06月02日",
+      "date_published": "2026-06-02T17:02:30.748Z"
+    },
+    {
+      "id": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "title": "Codex for every role, tool, and workflow",
+      "summary": "Product · 2026年06月02日",
+      "date_published": "2026-06-02T17:02:30.748Z"
+    },
+    {
+      "id": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "summary": "Global Affairs · 2026年06月02日",
+      "date_published": "2026-06-02T17:02:30.748Z"
+    },
+    {
+      "id": "https://openai.com/index/codex-for-knowledge-work",
+      "url": "https://openai.com/index/codex-for-knowledge-work",
+      "title": "Codex is becoming a productivity tool for everyone",
+      "summary": "Global Affairs · 2026年06月02日",
+      "date_published": "2026-06-02T17:02:30.748Z"
+    },
+    {
       "id": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
       "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
       "title": "Our views on AI policy and political advocacy",
       "summary": "Global Affairs · 2026年06月02日",
-      "date_published": "2026-06-02T05:11:42.331Z"
+      "date_published": "2026-06-02T17:02:30.748Z"
     },
     {
       "id": "https://openai.com/index/stargate-michigan-data-center",
       "url": "https://openai.com/index/stargate-michigan-data-center",
       "title": "Building the infrastructure for the Intelligence Age in Michigan",
       "summary": "Global Affairs · 2026年06月01日",
-      "date_published": "2026-06-02T05:11:42.331Z"
+      "date_published": "2026-06-02T17:02:30.748Z"
     },
     {
       "id": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
       "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
       "title": "OpenAI frontier models and Codex are now available on AWS",
       "summary": "Product · 2026年06月01日",
-      "date_published": "2026-06-02T05:11:42.331Z"
-    },
-    {
-      "id": "https://openai.com/index/boston-childrens-hospital",
-      "url": "https://openai.com/index/boston-childrens-hospital",
-      "title": "Boston Children’s uses AI to unlock new diagnoses",
-      "summary": "2026年05月29日",
-      "date_published": "2026-06-02T05:11:42.331Z"
-    },
-    {
-      "id": "https://openai.com/index/braintrust",
-      "url": "https://openai.com/index/braintrust",
-      "title": "How Braintrust turns customer requests into code with Codex",
-      "summary": "2026年05月29日",
-      "date_published": "2026-06-02T05:11:42.331Z"
+      "date_published": "2026-06-02T17:02:30.748Z"
     }
   ]
 }
