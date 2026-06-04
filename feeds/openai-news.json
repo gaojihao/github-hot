@@ -5,46 +5,53 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
-      "id": "https://openai.com/index/public-policy-agenda",
-      "url": "https://openai.com/index/public-policy-agenda",
-      "title": "OpenAI public policy agenda",
-      "summary": "Global Affairs · 2026年06月03日",
-      "date_published": "2026-06-03T17:27:28.003Z"
+      "id": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "summary": "Product · 2026年06月03日",
+      "date_published": "2026-06-04T05:23:08.354Z"
+    },
+    {
+      "id": "https://openai.com/index/wasmer",
+      "url": "https://openai.com/index/wasmer",
+      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "summary": "2026年06月03日",
+      "date_published": "2026-06-04T05:23:08.354Z"
     },
     {
       "id": "https://openai.com/index/frontier-safety-blueprint",
       "url": "https://openai.com/index/frontier-safety-blueprint",
       "title": "A blueprint for democratic governance of frontier AI",
       "summary": "Global Affairs · 2026年06月03日",
-      "date_published": "2026-06-03T17:27:28.003Z"
+      "date_published": "2026-06-04T05:23:08.354Z"
+    },
+    {
+      "id": "https://openai.com/index/public-policy-agenda",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "title": "OpenAI public policy agenda",
+      "summary": "Global Affairs · 2026年06月03日",
+      "date_published": "2026-06-04T05:23:08.354Z"
     },
     {
       "id": "https://openai.com/index/travelers",
       "url": "https://openai.com/index/travelers",
       "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
       "summary": "2026年06月02日",
-      "date_published": "2026-06-03T17:27:28.003Z"
+      "date_published": "2026-06-04T05:23:08.354Z"
     },
     {
       "id": "https://openai.com/index/codex-for-every-role-tool-workflow",
       "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
       "title": "Codex for every role, tool, and workflow",
       "summary": "Product · 2026年06月02日",
-      "date_published": "2026-06-03T17:27:28.003Z"
+      "date_published": "2026-06-04T05:23:08.354Z"
     },
     {
       "id": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
       "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
       "title": "Advancing youth safety and opportunity through global leadership",
       "summary": "Global Affairs · 2026年06月02日",
-      "date_published": "2026-06-03T17:27:28.003Z"
-    },
-    {
-      "id": "https://openai.com/index/codex-for-knowledge-work",
-      "url": "https://openai.com/index/codex-for-knowledge-work",
-      "title": "Codex is becoming a productivity tool for everyone",
-      "summary": "Global Affairs · 2026年06月02日",
-      "date_published": "2026-06-03T17:27:28.003Z"
+      "date_published": "2026-06-04T05:23:08.354Z"
     }
   ]
 }
