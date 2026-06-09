@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/openai-submits-confidential-s-1",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1",
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "summary": "Company · 2026年06月08日",
+      "date_published": "2026-06-09T04:46:13.619Z"
+    },
+    {
+      "id": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "title": "Built to benefit everyone: our plan",
+      "summary": "Company · 2026年06月08日",
+      "date_published": "2026-06-09T04:46:13.619Z"
+    },
+    {
+      "id": "https://openai.com/index/economic-research-exchange",
+      "url": "https://openai.com/index/economic-research-exchange",
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "summary": "Company · 2026年06月08日",
+      "date_published": "2026-06-09T04:46:13.619Z"
+    },
+    {
       "id": "https://openai.com/index/endava-frontiers",
       "url": "https://openai.com/index/endava-frontiers",
       "title": "How Endava is redesigning software delivery around AI agents",
       "summary": "2026年06月04日",
-      "date_published": "2026-06-08T16:35:40.918Z"
+      "date_published": "2026-06-09T04:46:13.619Z"
     },
     {
       "id": "https://openai.com/index/chatgpt-memory-dreaming",
       "url": "https://openai.com/index/chatgpt-memory-dreaming",
       "title": "Dreaming: Better memory for a more helpful ChatGPT",
       "summary": "Research · 2026年06月04日",
-      "date_published": "2026-06-08T16:35:40.918Z"
-    },
-    {
-      "id": "https://openai.com/index/biodefense-in-the-intelligence-age",
-      "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
-      "title": "Biodefense in the Intelligence Age",
-      "summary": "Global Affairs · 2026年06月04日",
-      "date_published": "2026-06-08T16:35:40.918Z"
-    },
-    {
-      "id": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-      "title": "Introducing new capabilities to GPT-Rosalind",
-      "summary": "Product · 2026年06月03日",
-      "date_published": "2026-06-08T16:35:40.918Z"
-    },
-    {
-      "id": "https://openai.com/index/wasmer",
-      "url": "https://openai.com/index/wasmer",
-      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-      "summary": "2026年06月03日",
-      "date_published": "2026-06-08T16:35:40.918Z"
+      "date_published": "2026-06-09T04:46:13.619Z"
     }
   ]
 }
