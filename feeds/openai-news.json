@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/lseg",
+      "url": "https://openai.com/index/lseg",
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "summary": "2026年06月10日",
+      "date_published": "2026-06-10T16:22:00.899Z"
+    },
+    {
       "id": "https://openai.com/index/nextdoor",
       "url": "https://openai.com/index/nextdoor",
       "title": "How engineers at Nextdoor use Codex to build without limits",
       "summary": "2026年06月09日",
-      "date_published": "2026-06-10T05:00:38.304Z"
+      "date_published": "2026-06-10T16:22:00.899Z"
     },
     {
       "id": "https://openai.com/index/notion",
       "url": "https://openai.com/index/notion",
       "title": "What Codex unlocks for Notion",
       "summary": "2026年06月09日",
-      "date_published": "2026-06-10T05:00:38.304Z"
+      "date_published": "2026-06-10T16:22:00.899Z"
     },
     {
       "id": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
       "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
       "title": "Industrial policy for the Intelligence Age",
       "summary": "Global Affairs · 2026年06月09日",
-      "date_published": "2026-06-10T05:00:38.304Z"
+      "date_published": "2026-06-10T16:22:00.899Z"
     },
     {
       "id": "https://openai.com/index/openai-submits-confidential-s-1",
       "url": "https://openai.com/index/openai-submits-confidential-s-1",
       "title": "Confidential submission of draft S-1 to the SEC",
       "summary": "Company · 2026年06月08日",
-      "date_published": "2026-06-10T05:00:38.304Z"
-    },
-    {
-      "id": "https://openai.com/index/built-to-benefit-everyone-our-plan",
-      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
-      "title": "Built to benefit everyone: our plan",
-      "summary": "Company · 2026年06月08日",
-      "date_published": "2026-06-10T05:00:38.304Z"
+      "date_published": "2026-06-10T16:22:00.899Z"
     }
   ]
 }
