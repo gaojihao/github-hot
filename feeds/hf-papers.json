@@ -5,130 +5,235 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2606.12191",
-      "url": "https://huggingface.co/papers/2606.12191",
-      "title": "Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application",
-      "summary": "2606.12191 · ▲ 31",
-      "date_published": "2026-06-11T05:10:43.125Z"
+      "id": "https://huggingface.co/papers/2606.12397",
+      "url": "https://huggingface.co/papers/2606.12397",
+      "title": "Redesign Mixture-of-Experts Routers with Manifold Power Iteration",
+      "summary": "2606.12397 · ▲ 74",
+      "date_published": "2026-06-11T16:36:52.626Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.11926",
       "url": "https://huggingface.co/papers/2606.11926",
       "title": "Toward Generalist Autonomous Research via Hypothesis-Tree Refinement",
-      "summary": "2606.11926 · ▲ 27",
-      "date_published": "2026-06-11T05:10:43.125Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.09076",
-      "url": "https://huggingface.co/papers/2606.09076",
-      "title": "Beyond Scalar Rewards by Internalizing Reasoning into Score Distributions",
-      "summary": "2606.09076 · ▲ 24",
-      "date_published": "2026-06-11T05:10:43.125Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.10728",
-      "url": "https://huggingface.co/papers/2606.10728",
-      "title": "DeNovoSWE: Scaling Long-Horizon Environments for Generating Entire Repositories from Scratch",
-      "summary": "2606.10728 · ▲ 21",
-      "date_published": "2026-06-11T05:10:43.125Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.09323",
-      "url": "https://huggingface.co/papers/2606.09323",
-      "title": "TRL-Bench: Standardizing Cross-Paradigm Representation-Level Evaluation of Tabular Encoders",
-      "summary": "2606.09323 · ▲ 19",
-      "date_published": "2026-06-11T05:10:43.125Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.12403",
-      "url": "https://huggingface.co/papers/2606.12403",
-      "title": "World Pilot: Steering Vision-Language-Action Models with World-Action Priors",
-      "summary": "2606.12403 · ▲ 15",
-      "date_published": "2026-06-11T05:10:43.125Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.10479",
-      "url": "https://huggingface.co/papers/2606.10479",
-      "title": "ComBench: A Benchmark for Rigorous Proof Reasoning and Constructive Realization in Olympiad-Level Combinatorics",
-      "summary": "2606.10479 · ▲ 14",
-      "date_published": "2026-06-11T05:10:43.125Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.12195",
-      "url": "https://huggingface.co/papers/2606.12195",
-      "title": "InternVideo3: Agentify Foundation Models with Multimodal Contextual Reasoning",
-      "summary": "2606.12195 · ▲ 8",
-      "date_published": "2026-06-11T05:10:43.125Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.11722",
-      "url": "https://huggingface.co/papers/2606.11722",
-      "title": "ICA Lens: Interpreting Language Models Without Training Another Dictionary",
-      "summary": "2606.11722 · ▲ 6",
-      "date_published": "2026-06-11T05:10:43.125Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.12397",
-      "url": "https://huggingface.co/papers/2606.12397",
-      "title": "Redesign Mixture-of-Experts Routers with Manifold Power Iteration",
-      "summary": "2606.12397 · ▲ 4",
-      "date_published": "2026-06-11T05:10:43.125Z"
+      "summary": "2606.11926 · ▲ 64",
+      "date_published": "2026-06-11T16:36:52.626Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.12344",
       "url": "https://huggingface.co/papers/2606.12344",
       "title": "Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks",
-      "summary": "2606.12344 · ▲ 4",
-      "date_published": "2026-06-11T05:10:43.125Z"
+      "summary": "2606.12344 · ▲ 55",
+      "date_published": "2026-06-11T16:36:52.626Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.12373",
-      "url": "https://huggingface.co/papers/2606.12373",
-      "title": "Verifiable Environments Are LEGO Bricks: Recursive Composition for Reasoning Generalization",
-      "summary": "2606.12373 · ▲ 3",
-      "date_published": "2026-06-11T05:10:43.125Z"
+      "id": "https://huggingface.co/papers/2606.12191",
+      "url": "https://huggingface.co/papers/2606.12191",
+      "title": "Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application",
+      "summary": "2606.12191 · ▲ 55",
+      "date_published": "2026-06-11T16:36:52.626Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.09076",
+      "url": "https://huggingface.co/papers/2606.09076",
+      "title": "Beyond Scalar Rewards by Internalizing Reasoning into Score Distributions",
+      "summary": "2606.09076 · ▲ 47",
+      "date_published": "2026-06-11T16:36:52.626Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.09323",
+      "url": "https://huggingface.co/papers/2606.09323",
+      "title": "TRL-Bench: Standardizing Cross-Paradigm Representation-Level Evaluation of Tabular Encoders",
+      "summary": "2606.09323 · ▲ 45",
+      "date_published": "2026-06-11T16:36:52.626Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.10728",
+      "url": "https://huggingface.co/papers/2606.10728",
+      "title": "DeNovoSWE: Scaling Long-Horizon Environments for Generating Entire Repositories from Scratch",
+      "summary": "2606.10728 · ▲ 27",
+      "date_published": "2026-06-11T16:36:52.626Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.11683",
       "url": "https://huggingface.co/papers/2606.11683",
       "title": "Reason, Then Re-reason: Cross-view Revisiting Improves Spatial Reasoning",
-      "summary": "2606.11683 · ▲ 2",
-      "date_published": "2026-06-11T05:10:43.125Z"
+      "summary": "2606.11683 · ▲ 26",
+      "date_published": "2026-06-11T16:36:52.626Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.12403",
+      "url": "https://huggingface.co/papers/2606.12403",
+      "title": "World Pilot: Steering Vision-Language-Action Models with World-Action Priors",
+      "summary": "2606.12403 · ▲ 22",
+      "date_published": "2026-06-11T16:36:52.626Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.12364",
+      "url": "https://huggingface.co/papers/2606.12364",
+      "title": "On Subquadratic Architectures: From Applications to Principles",
+      "summary": "2606.12364 · ▲ 20",
+      "date_published": "2026-06-11T16:36:52.626Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.10479",
+      "url": "https://huggingface.co/papers/2606.10479",
+      "title": "ComBench: A Benchmark for Rigorous Proof Reasoning and Constructive Realization in Olympiad-Level Combinatorics",
+      "summary": "2606.10479 · ▲ 18",
+      "date_published": "2026-06-11T16:36:52.626Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.11817",
+      "url": "https://huggingface.co/papers/2606.11817",
+      "title": "Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code",
+      "summary": "2606.11817 · ▲ 16",
+      "date_published": "2026-06-11T16:36:52.626Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.12195",
+      "url": "https://huggingface.co/papers/2606.12195",
+      "title": "InternVideo3: Agentify Foundation Models with Multimodal Contextual Reasoning",
+      "summary": "2606.12195 · ▲ 15",
+      "date_published": "2026-06-11T16:36:52.626Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.12370",
       "url": "https://huggingface.co/papers/2606.12370",
       "title": "Breaking Entropy Bounds: Accelerating RL Training via MTP with Rejection Sampling",
-      "summary": "2606.12370 · ▲ 2",
-      "date_published": "2026-06-11T05:10:43.125Z"
+      "summary": "2606.12370 · ▲ 15",
+      "date_published": "2026-06-11T16:36:52.626Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.11722",
+      "url": "https://huggingface.co/papers/2606.11722",
+      "title": "ICA Lens: Interpreting Language Models Without Training Another Dictionary",
+      "summary": "2606.11722 · ▲ 14",
+      "date_published": "2026-06-11T16:36:52.626Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.11119",
+      "url": "https://huggingface.co/papers/2606.11119",
+      "title": "TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning",
+      "summary": "2606.11119 · ▲ 14",
+      "date_published": "2026-06-11T16:36:52.626Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.12412",
+      "url": "https://huggingface.co/papers/2606.12412",
+      "title": "Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models",
+      "summary": "2606.12412 · ▲ 10",
+      "date_published": "2026-06-11T16:36:52.626Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.03108",
+      "url": "https://huggingface.co/papers/2606.03108",
+      "title": "EvoTrainer: Co-Evolving LLM Policies and Training Harnesses for Autonomous Agentic Reinforcement Learning",
+      "summary": "2606.03108 · ▲ 8",
+      "date_published": "2026-06-11T16:36:52.626Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.12373",
+      "url": "https://huggingface.co/papers/2606.12373",
+      "title": "Verifiable Environments Are LEGO Bricks: Recursive Composition for Reasoning Generalization",
+      "summary": "2606.12373 · ▲ 5",
+      "date_published": "2026-06-11T16:36:52.626Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.11324",
+      "url": "https://huggingface.co/papers/2606.11324",
+      "title": "Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models",
+      "summary": "2606.11324 · ▲ 5",
+      "date_published": "2026-06-11T16:36:52.626Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.07881",
+      "url": "https://huggingface.co/papers/2606.07881",
+      "title": "Breaking the Bubble: Asynchronous Pipeline Parallel Training with Bounded Weight Inconsistency",
+      "summary": "2606.07881 · ▲ 5",
+      "date_published": "2026-06-11T16:36:52.626Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.12072",
+      "url": "https://huggingface.co/papers/2606.12072",
+      "title": "World Model Self-Distillation: Training World Models to Solve General Tasks",
+      "summary": "2606.12072 · ▲ 4",
+      "date_published": "2026-06-11T16:36:52.626Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.07943",
+      "url": "https://huggingface.co/papers/2606.07943",
+      "title": "POISE: Position-Aware Undetectable Skill Injection on LLM Agents",
+      "summary": "2606.07943 · ▲ 3",
+      "date_published": "2026-06-11T16:36:52.626Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.11854",
+      "url": "https://huggingface.co/papers/2606.11854",
+      "title": "Fine-tuning Multi-modal LLMs with ART: Art-based Reinforcement Training",
+      "summary": "2606.11854 · ▲ 2",
+      "date_published": "2026-06-11T16:36:52.626Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.11990",
+      "url": "https://huggingface.co/papers/2606.11990",
+      "title": "Time-Series Foundation Model Embeddings for Remaining Useful Life Estimation",
+      "summary": "2606.11990 · ▲ 2",
+      "date_published": "2026-06-11T16:36:52.626Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.11289",
+      "url": "https://huggingface.co/papers/2606.11289",
+      "title": "i1: A Simple and Fully Open Recipe for Strong Text-to-Image Models",
+      "summary": "2606.11289 · ▲ 2",
+      "date_published": "2026-06-11T16:36:52.626Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.03437",
+      "url": "https://huggingface.co/papers/2606.03437",
+      "title": "Large Language Models Are Overconfident in Their Own Responses",
+      "summary": "2606.03437 · ▲ 2",
+      "date_published": "2026-06-11T16:36:52.626Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.12203",
+      "url": "https://huggingface.co/papers/2606.12203",
+      "title": "Adaptive Multi-Resolution Procedural Knowledge Compression for Large Language Models",
+      "summary": "2606.12203 · ▲ 1",
+      "date_published": "2026-06-11T16:36:52.626Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.11786",
       "url": "https://huggingface.co/papers/2606.11786",
       "title": "Lius: Translation Model Based Instructional Lingustic Using Continual Instruction Tuning In Kupang Malay",
       "summary": "2606.11786 · ▲ 1",
-      "date_published": "2026-06-11T05:10:43.125Z"
+      "date_published": "2026-06-11T16:36:52.626Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.12072",
-      "url": "https://huggingface.co/papers/2606.12072",
-      "title": "World Model Self-Distillation: Training World Models to Solve General Tasks",
-      "summary": "2606.12072 · ▲ 0",
-      "date_published": "2026-06-11T05:10:43.125Z"
+      "id": "https://huggingface.co/papers/2606.05758",
+      "url": "https://huggingface.co/papers/2606.05758",
+      "title": "DRIFT: A Residual Flow Adapter for Decoding Continuous Outputs in Vision-Language Models",
+      "summary": "2606.05758 · ▲ 1",
+      "date_published": "2026-06-11T16:36:52.626Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.11324",
-      "url": "https://huggingface.co/papers/2606.11324",
-      "title": "Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models",
-      "summary": "2606.11324 · ▲ 0",
-      "date_published": "2026-06-11T05:10:43.125Z"
+      "id": "https://huggingface.co/papers/2606.10156",
+      "url": "https://huggingface.co/papers/2606.10156",
+      "title": "τ-Rec: A Verifiable Benchmark for Agentic Recommender Systems",
+      "summary": "2606.10156 · ▲ 0",
+      "date_published": "2026-06-11T16:36:52.626Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.11289",
-      "url": "https://huggingface.co/papers/2606.11289",
-      "title": "i1: A Simple and Fully Open Recipe for Strong Text-to-Image Models",
-      "summary": "2606.11289 · ▲ 0",
-      "date_published": "2026-06-11T05:10:43.125Z"
+      "id": "https://huggingface.co/papers/2601.05212",
+      "url": "https://huggingface.co/papers/2601.05212",
+      "title": "FlowLet: Conditional 3D Brain MRI Synthesis using Wavelet Flow Matching",
+      "summary": "2601.05212 · ▲ 0",
+      "date_published": "2026-06-11T16:36:52.626Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2605.30861",
+      "url": "https://huggingface.co/papers/2605.30861",
+      "title": "Distilling LLM Feedback for Lean Theorem Proving",
+      "summary": "2605.30861 · ▲ 0",
+      "date_published": "2026-06-11T16:36:52.626Z"
     }
   ]
 }
