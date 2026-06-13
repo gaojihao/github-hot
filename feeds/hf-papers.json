@@ -8,309 +8,309 @@
       "id": "https://huggingface.co/papers/2606.13681",
       "url": "https://huggingface.co/papers/2606.13681",
       "title": "EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments",
-      "summary": "2606.13681 · ▲ 106",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "summary": "2606.13681 · ▲ 115",
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.13392",
       "url": "https://huggingface.co/papers/2606.13392",
       "title": "MiniMax Sparse Attention",
-      "summary": "2606.13392 · ▲ 85",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "summary": "2606.13392 · ▲ 96",
+      "date_published": "2026-06-13T14:38:42.605Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.09426",
+      "url": "https://huggingface.co/papers/2606.09426",
+      "title": "WeaveBench: A Long-Horizon, Real-World Benchmark for Computer-Use Agents with Hybrid Interfaces",
+      "summary": "2606.09426 · ▲ 93",
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.13673",
       "url": "https://huggingface.co/papers/2606.13673",
       "title": "SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning",
       "summary": "2606.13673 · ▲ 80",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.13679",
       "url": "https://huggingface.co/papers/2606.13679",
       "title": "InterleaveThinker: Reinforcing Agentic Interleaved Generation",
       "summary": "2606.13679 · ▲ 74",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.08063",
       "url": "https://huggingface.co/papers/2606.08063",
       "title": "Robust-U1: Can MLLMs Self-Recover Corrupted Visual Content for Robust Understanding?",
       "summary": "2606.08063 · ▲ 73",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.13473",
+      "url": "https://huggingface.co/papers/2606.13473",
+      "title": "MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Population-Level Test-Time Scaling",
+      "summary": "2606.13473 · ▲ 72",
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.12087",
       "url": "https://huggingface.co/papers/2606.12087",
       "title": "FORT-Searcher: Synthesizing Shortcut-Resistant Search Tasks for Training Deep Search Agents",
       "summary": "2606.12087 · ▲ 71",
-      "date_published": "2026-06-13T05:05:33.917Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.13473",
-      "url": "https://huggingface.co/papers/2606.13473",
-      "title": "MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Population-Level Test-Time Scaling",
-      "summary": "2606.13473 · ▲ 69",
-      "date_published": "2026-06-13T05:05:33.917Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.09426",
-      "url": "https://huggingface.co/papers/2606.09426",
-      "title": "WeaveBench: A Long-Horizon, Real-World Benchmark for Computer-Use Agents with Hybrid Interfaces",
-      "summary": "2606.09426 · ▲ 63",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.13578",
       "url": "https://huggingface.co/papers/2606.13578",
       "title": "LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories",
       "summary": "2606.13578 · ▲ 50",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.13289",
       "url": "https://huggingface.co/papers/2606.13289",
       "title": "HYDRA-X: Native Unified Multimodal Models with Holistic Visual Tokenizers",
-      "summary": "2606.13289 · ▲ 24",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "summary": "2606.13289 · ▲ 25",
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.10768",
       "url": "https://huggingface.co/papers/2606.10768",
       "title": "N-GRPO: Embedding-Level Neighbor Mixing for Enhanced Policy Optimization",
       "summary": "2606.10768 · ▲ 22",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.13662",
       "url": "https://huggingface.co/papers/2606.13662",
       "title": "EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery",
-      "summary": "2606.13662 · ▲ 19",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "summary": "2606.13662 · ▲ 21",
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.13106",
       "url": "https://huggingface.co/papers/2606.13106",
       "title": "Demystifying Hidden-State Recurrence: Switchable Latent Reasoning with On-Policy Reinforcement Learning",
-      "summary": "2606.13106 · ▲ 16",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "summary": "2606.13106 · ▲ 18",
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.13364",
       "url": "https://huggingface.co/papers/2606.13364",
       "title": "VideoMDM: Towards 3D Human Motion Generation From 2D Supervision",
-      "summary": "2606.13364 · ▲ 15",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "summary": "2606.13364 · ▲ 16",
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.12243",
       "url": "https://huggingface.co/papers/2606.12243",
       "title": "VIA-SD: Verification via Intra-Model Routing for Speculative Decoding",
       "summary": "2606.12243 · ▲ 14",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.06113",
       "url": "https://huggingface.co/papers/2606.06113",
       "title": "Where, What, Why, and Importance: Structured Defect Grounding for Text-to-Image Feedback",
       "summary": "2606.06113 · ▲ 13",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.12303",
       "url": "https://huggingface.co/papers/2606.12303",
       "title": "From 2D Grids to 1D Tokens: Reforming Shared Representations for Multimodal Image Fusion",
       "summary": "2606.12303 · ▲ 12",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.13376",
       "url": "https://huggingface.co/papers/2606.13376",
       "title": "MoVerse: Real-Time Video World Modeling with Panoramic Gaussian Scaffold",
       "summary": "2606.13376 · ▲ 10",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.11662",
       "url": "https://huggingface.co/papers/2606.11662",
       "title": "TreeSeeker: Tree-Structured Trial, Error, and Return in Deep Search",
       "summary": "2606.11662 · ▲ 10",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.12882",
       "url": "https://huggingface.co/papers/2606.12882",
       "title": "HarnessBridge: Learnable Bidirectional Controller for LLM Agent Harness",
-      "summary": "2606.12882 · ▲ 8",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "summary": "2606.12882 · ▲ 9",
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.11409",
       "url": "https://huggingface.co/papers/2606.11409",
       "title": "Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models",
       "summary": "2606.11409 · ▲ 8",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.12575",
       "url": "https://huggingface.co/papers/2606.12575",
       "title": "High-Fidelity Two-Step Image Generation via Teacher-Aligned End-to-End Distillation",
       "summary": "2606.12575 · ▲ 7",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.09290",
       "url": "https://huggingface.co/papers/2606.09290",
       "title": "Visual Para-Thinker++: A Single-Policy Multi-Agent Framework for Visual Reasoning",
       "summary": "2606.09290 · ▲ 7",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.09304",
       "url": "https://huggingface.co/papers/2606.09304",
       "title": "SG-OPD: Sign-Gated On-Policy Distillation via Sign-Consistency Gating and Phased Teacher Sampling",
       "summary": "2606.09304 · ▲ 6",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.12730",
+      "url": "https://huggingface.co/papers/2606.12730",
+      "title": "Rethinking Psychometric Evaluation of LLMs: When and Why Self-Reports Predict Behavior",
+      "summary": "2606.12730 · ▲ 5",
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.13120",
       "url": "https://huggingface.co/papers/2606.13120",
       "title": "EvoBrowseComp: Benchmarking Search Agents on Evolving Knowledge",
       "summary": "2606.13120 · ▲ 4",
-      "date_published": "2026-06-13T05:05:33.917Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.12730",
-      "url": "https://huggingface.co/papers/2606.12730",
-      "title": "Rethinking Psychometric Evaluation of LLMs: When and Why Self-Reports Predict Behavior",
-      "summary": "2606.12730 · ▲ 4",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.08788",
       "url": "https://huggingface.co/papers/2606.08788",
       "title": "MaskAlign: Token-Subset Representation Alignment for Efficient Diffusion Training",
       "summary": "2606.08788 · ▲ 4",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.13594",
+      "url": "https://huggingface.co/papers/2606.13594",
+      "title": "See What I See, Know What I Think: Dense Latent Communication Across Heterogeneous Agents",
+      "summary": "2606.13594 · ▲ 3",
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.12674",
       "url": "https://huggingface.co/papers/2606.12674",
       "title": "Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents",
       "summary": "2606.12674 · ▲ 3",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.08039",
       "url": "https://huggingface.co/papers/2606.08039",
       "title": "MuJoCo-Drones-Gym: A GPU-Accelerated Multi-Drone Simulator for Control and Reinforcement Learning",
       "summary": "2606.08039 · ▲ 3",
-      "date_published": "2026-06-13T05:05:33.917Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.13594",
-      "url": "https://huggingface.co/papers/2606.13594",
-      "title": "See What I See, Know What I Think: Dense Latent Communication Across Heterogeneous Agents",
-      "summary": "2606.13594 · ▲ 2",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.13174",
       "url": "https://huggingface.co/papers/2606.13174",
       "title": "Getting Better at Working With You: Compiling User Corrections into Runtime Enforcement for Coding Agents",
       "summary": "2606.13174 · ▲ 2",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.13572",
       "url": "https://huggingface.co/papers/2606.13572",
       "title": "ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in Indic Languages",
       "summary": "2606.13572 · ▲ 2",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.13672",
       "url": "https://huggingface.co/papers/2606.13672",
       "title": "WEAVER, Better, Faster, Longer: An Effective World Model for Robotic Manipulation",
       "summary": "2606.13672 · ▲ 2",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.13644",
       "url": "https://huggingface.co/papers/2606.13644",
       "title": "Surflo: Consistent 3D Surface Flow Model with Global State",
       "summary": "2606.13644 · ▲ 2",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.10423",
+      "url": "https://huggingface.co/papers/2606.10423",
+      "title": "WebChallenger: A Reliable and Efficient Generalist Web Agent",
+      "summary": "2606.10423 · ▲ 2",
+      "date_published": "2026-06-13T14:38:42.605Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.10896",
+      "url": "https://huggingface.co/papers/2606.10896",
+      "title": "Flash-GMM: A Memory-Efficient Kernel for Scalable Soft Clustering",
+      "summary": "2606.10896 · ▲ 2",
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.11096",
       "url": "https://huggingface.co/papers/2606.11096",
       "title": "IDEAL: In-DEpth ALignment Makes A Discrete Representation AutoEncoder",
       "summary": "2606.11096 · ▲ 2",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.08103",
+      "url": "https://huggingface.co/papers/2606.08103",
+      "title": "Revisiting Articulated Parts Perception in Robot Manipulation",
+      "summary": "2606.08103 · ▲ 2",
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.07867",
       "url": "https://huggingface.co/papers/2606.07867",
       "title": "The Cold-Start Safety Gap in LLM Agents",
       "summary": "2606.07867 · ▲ 2",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.12451",
       "url": "https://huggingface.co/papers/2606.12451",
       "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
       "summary": "2606.12451 · ▲ 2",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.12488",
       "url": "https://huggingface.co/papers/2606.12488",
       "title": "A Stationary (and Therefore Compatible) Representation is All You Need",
       "summary": "2606.12488 · ▲ 1",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.12282",
       "url": "https://huggingface.co/papers/2606.12282",
       "title": "PianoKontext: Expressive Performance Rendering from Deadpan Context",
       "summary": "2606.12282 · ▲ 1",
-      "date_published": "2026-06-13T05:05:33.917Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.10423",
-      "url": "https://huggingface.co/papers/2606.10423",
-      "title": "WebChallenger: A Reliable and Efficient Generalist Web Agent",
-      "summary": "2606.10423 · ▲ 1",
-      "date_published": "2026-06-13T05:05:33.917Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.10896",
-      "url": "https://huggingface.co/papers/2606.10896",
-      "title": "Flash-GMM: A Memory-Efficient Kernel for Scalable Soft Clustering",
-      "summary": "2606.10896 · ▲ 1",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.09446",
       "url": "https://huggingface.co/papers/2606.09446",
       "title": "Leveraging Morphology for Historical Script Metrological Analysis",
       "summary": "2606.09446 · ▲ 1",
-      "date_published": "2026-06-13T05:05:33.917Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.08103",
-      "url": "https://huggingface.co/papers/2606.08103",
-      "title": "Revisiting Articulated Parts Perception in Robot Manipulation",
-      "summary": "2606.08103 · ▲ 1",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.00467",
       "url": "https://huggingface.co/papers/2606.00467",
       "title": "On the Limits of LLM Adaptability: Impact of Model-Internalized Priors on Annotation Task Performance",
       "summary": "2606.00467 · ▲ 0",
-      "date_published": "2026-06-13T05:05:33.917Z"
+      "date_published": "2026-06-13T14:38:42.605Z"
     }
   ]
 }
