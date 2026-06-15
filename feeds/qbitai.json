@@ -5,39 +5,67 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/qbitai.json",
   "items": [
     {
+      "id": "https://www.qbitai.com/2026/06/435848.html",
+      "url": "https://www.qbitai.com/2026/06/435848.html",
+      "title": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
+      "summary": "资讯 · 量子位的朋友们 · 2026年06月15日",
+      "date_published": "2026-06-15T17:31:51.115Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/06/435841.html",
+      "url": "https://www.qbitai.com/2026/06/435841.html",
+      "title": "从ICRA到CVPR，机器人圈最近到底在聊什么？｜北京·周三晚",
+      "summary": "资讯 · 林樾 · 2026年06月15日",
+      "date_published": "2026-06-15T17:31:51.115Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/06/435817.html",
+      "url": "https://www.qbitai.com/2026/06/435817.html",
+      "title": "宇树机器人要登珠峰了！",
+      "summary": "机器人 · 听雨 · 2026年06月15日",
+      "date_published": "2026-06-15T17:31:51.115Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/06/435804.html",
+      "url": "https://www.qbitai.com/2026/06/435804.html",
+      "title": "89年哈工程校友，拿下全球海洋机器人领域最大单轮融资",
+      "summary": "具身智能 · 量子位的朋友们 · 2026年06月15日",
+      "date_published": "2026-06-15T17:31:51.115Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/06/435802.html",
+      "url": "https://www.qbitai.com/2026/06/435802.html",
+      "title": "4步出声，单卡0.24秒！Noiz AI联合港科大清华，开源音频生成大模型",
+      "summary": "Noiz AI · 思邈 · 2026年06月15日",
+      "date_published": "2026-06-15T17:31:51.115Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/06/435574.html",
+      "url": "https://www.qbitai.com/2026/06/435574.html",
+      "title": "刚成立一年就拿下车厂订单，这家清华系公司把具身智能送进真实产线",
+      "summary": "资讯 · 田, 晏林 · 2026年06月15日",
+      "date_published": "2026-06-15T17:31:51.115Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/06/435558.html",
+      "url": "https://www.qbitai.com/2026/06/435558.html",
+      "title": "低成本复刻Fable 5的路子找到了：OrcaRouter多模型组队，性能反超",
+      "summary": "Fable 5 · 思邈 · 2026年06月15日",
+      "date_published": "2026-06-15T17:31:51.115Z"
+    },
+    {
       "id": "https://www.qbitai.com/2026/06/435531.html",
       "url": "https://www.qbitai.com/2026/06/435531.html",
       "title": "Agent时代，华为云开始重新造地基了",
       "summary": "华为 · 梦晨 · 2026年06月15日",
-      "date_published": "2026-06-15T05:39:22.304Z"
+      "date_published": "2026-06-15T17:31:51.115Z"
     },
     {
       "id": "https://www.qbitai.com/2026/06/435520.html",
       "url": "https://www.qbitai.com/2026/06/435520.html",
       "title": "智源大会 | 天工AI重新定义世界模型，公布Matrix-Game 3.5 最新技术突破",
-      "summary": "昆仑万维 · 量子位的朋友们 · 2026年06月15日",
-      "date_published": "2026-06-15T05:39:22.304Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/06/435483.html",
-      "url": "https://www.qbitai.com/2026/06/435483.html",
-      "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
-      "summary": "推理模型 · 鹭羽 · 2026年06月13日",
-      "date_published": "2026-06-15T05:39:22.304Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/06/435455.html",
-      "url": "https://www.qbitai.com/2026/06/435455.html",
-      "title": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
-      "summary": "华为云 · 一水 · 2026年06月13日",
-      "date_published": "2026-06-15T05:39:22.304Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/06/435394.html",
-      "url": "https://www.qbitai.com/2026/06/435394.html",
-      "title": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
-      "summary": "智源研究院 · 量子位的朋友们 · 2026年06月13日",
-      "date_published": "2026-06-15T05:39:22.304Z"
+      "summary": "Matrix-Game 3.5 · 量子位的朋友们 · 2026年06月15日",
+      "date_published": "2026-06-15T17:31:51.115Z"
     }
   ]
 }
