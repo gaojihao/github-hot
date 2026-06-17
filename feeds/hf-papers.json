@@ -5,130 +5,193 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2606.17861",
-      "url": "https://huggingface.co/papers/2606.17861",
-      "title": "GameCraft-Bench: Can Agents Build Playable Games End-to-End in a Real Game Engine?",
-      "summary": "2606.17861 · ▲ 24",
-      "date_published": "2026-06-17T05:25:34.347Z"
+      "id": "https://huggingface.co/papers/2606.18023",
+      "url": "https://huggingface.co/papers/2606.18023",
+      "title": "LoopCoder-v2: Only Loop Once for Efficient Test-Time Computation Scaling",
+      "summary": "2606.18023 · ▲ 111",
+      "date_published": "2026-06-17T16:23:25.838Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.17200",
       "url": "https://huggingface.co/papers/2606.17200",
       "title": "ACE-Ego-0: Unifying Egocentric Human and Robotic Data for VLA Pretraining",
-      "summary": "2606.17200 · ▲ 24",
-      "date_published": "2026-06-17T05:25:34.347Z"
+      "summary": "2606.17200 · ▲ 40",
+      "date_published": "2026-06-17T16:23:25.838Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.18216",
       "url": "https://huggingface.co/papers/2606.18216",
       "title": "Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients",
-      "summary": "2606.18216 · ▲ 22",
-      "date_published": "2026-06-17T05:25:34.347Z"
+      "summary": "2606.18216 · ▲ 38",
+      "date_published": "2026-06-17T16:23:25.838Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.09030",
-      "url": "https://huggingface.co/papers/2606.09030",
-      "title": "TRIAGE: Dialectical Reasoning for Explainable Risk Prediction on Irregularly Sampled Medical Time Series with LLMs",
-      "summary": "2606.09030 · ▲ 22",
-      "date_published": "2026-06-17T05:25:34.347Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.17628",
-      "url": "https://huggingface.co/papers/2606.17628",
-      "title": "OPD-Evolver: Cultivating Holistic Agent Evolver via On-Policy Distillation",
-      "summary": "2606.17628 · ▲ 17",
-      "date_published": "2026-06-17T05:25:34.347Z"
+      "id": "https://huggingface.co/papers/2606.17861",
+      "url": "https://huggingface.co/papers/2606.17861",
+      "title": "GameCraft-Bench: Can Agents Build Playable Games End-to-End in a Real Game Engine?",
+      "summary": "2606.17861 · ▲ 35",
+      "date_published": "2026-06-17T16:23:25.838Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.16428",
       "url": "https://huggingface.co/papers/2606.16428",
       "title": "LectūraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching",
-      "summary": "2606.16428 · ▲ 17",
-      "date_published": "2026-06-17T05:25:34.347Z"
+      "summary": "2606.16428 · ▲ 30",
+      "date_published": "2026-06-17T16:23:25.838Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.09030",
+      "url": "https://huggingface.co/papers/2606.09030",
+      "title": "TRIAGE: Dialectical Reasoning for Explainable Risk Prediction on Irregularly Sampled Medical Time Series with LLMs",
+      "summary": "2606.09030 · ▲ 25",
+      "date_published": "2026-06-17T16:23:25.838Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.18195",
+      "url": "https://huggingface.co/papers/2606.18195",
+      "title": "Learning from the Self-future: On-policy Self-distillation for dLLMs",
+      "summary": "2606.18195 · ▲ 23",
+      "date_published": "2026-06-17T16:23:25.838Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.17628",
+      "url": "https://huggingface.co/papers/2606.17628",
+      "title": "OPD-Evolver: Cultivating Holistic Agent Evolver via On-Policy Distillation",
+      "summary": "2606.17628 · ▲ 20",
+      "date_published": "2026-06-17T16:23:25.838Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.15236",
       "url": "https://huggingface.co/papers/2606.15236",
       "title": "Show the Signal, Hide the Noise: Spectral Forcing for Pixel-Space Diffusion",
-      "summary": "2606.15236 · ▲ 11",
-      "date_published": "2026-06-17T05:25:34.347Z"
+      "summary": "2606.15236 · ▲ 15",
+      "date_published": "2026-06-17T16:23:25.838Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.16154",
-      "url": "https://huggingface.co/papers/2606.16154",
-      "title": "A Gradient Perspective on RLVR Stability and Winner Advantage Policy Optimization",
-      "summary": "2606.16154 · ▲ 5",
-      "date_published": "2026-06-17T05:25:34.347Z"
+      "id": "https://huggingface.co/papers/2606.15378",
+      "url": "https://huggingface.co/papers/2606.15378",
+      "title": "Rethinking the Role of Efficient Attention in Hybrid Architectures",
+      "summary": "2606.15378 · ▲ 11",
+      "date_published": "2026-06-17T16:23:25.838Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.16767",
+      "url": "https://huggingface.co/papers/2606.16767",
+      "title": "Text-Vision Co-Instructed Image Editing",
+      "summary": "2606.16767 · ▲ 10",
+      "date_published": "2026-06-17T16:23:25.838Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.18180",
+      "url": "https://huggingface.co/papers/2606.18180",
+      "title": "EgoCS-400K: An Egocentric Gameplay Dataset for World Models",
+      "summary": "2606.18180 · ▲ 7",
+      "date_published": "2026-06-17T16:23:25.838Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.17905",
       "url": "https://huggingface.co/papers/2606.17905",
       "title": "ChLogic: Evaluating Robustness of Logical Reasoning in Chinese Expressions",
-      "summary": "2606.17905 · ▲ 4",
-      "date_published": "2026-06-17T05:25:34.347Z"
+      "summary": "2606.17905 · ▲ 6",
+      "date_published": "2026-06-17T16:23:25.838Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.17730",
-      "url": "https://huggingface.co/papers/2606.17730",
-      "title": "ActWorld: From Explorable to Interactive World Model via Action-Aware Memory",
-      "summary": "2606.17730 · ▲ 2",
-      "date_published": "2026-06-17T05:25:34.347Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.18249",
-      "url": "https://huggingface.co/papers/2606.18249",
-      "title": "Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification",
-      "summary": "2606.18249 · ▲ 2",
-      "date_published": "2026-06-17T05:25:34.347Z"
+      "id": "https://huggingface.co/papers/2606.16154",
+      "url": "https://huggingface.co/papers/2606.16154",
+      "title": "A Gradient Perspective on RLVR Stability and Winner Advantage Policy Optimization",
+      "summary": "2606.16154 · ▲ 6",
+      "date_published": "2026-06-17T16:23:25.838Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.18246",
       "url": "https://huggingface.co/papers/2606.18246",
       "title": "Variable-Width Transformers",
-      "summary": "2606.18246 · ▲ 1",
-      "date_published": "2026-06-17T05:25:34.347Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.18023",
-      "url": "https://huggingface.co/papers/2606.18023",
-      "title": "LoopCoder-v2: Only Loop Once for Efficient Test-Time Computation Scaling",
-      "summary": "2606.18023 · ▲ 1",
-      "date_published": "2026-06-17T05:25:34.347Z"
+      "summary": "2606.18246 · ▲ 5",
+      "date_published": "2026-06-17T16:23:25.838Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.18208",
       "url": "https://huggingface.co/papers/2606.18208",
       "title": "Looped World Models",
-      "summary": "2606.18208 · ▲ 1",
-      "date_published": "2026-06-17T05:25:34.347Z"
+      "summary": "2606.18208 · ▲ 5",
+      "date_published": "2026-06-17T16:23:25.838Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.18249",
+      "url": "https://huggingface.co/papers/2606.18249",
+      "title": "Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification",
+      "summary": "2606.18249 · ▲ 5",
+      "date_published": "2026-06-17T16:23:25.838Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.14885",
+      "url": "https://huggingface.co/papers/2606.14885",
+      "title": "Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion",
+      "summary": "2606.14885 · ▲ 5",
+      "date_published": "2026-06-17T16:23:25.838Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.17730",
+      "url": "https://huggingface.co/papers/2606.17730",
+      "title": "ActWorld: From Explorable to Interactive World Model via Action-Aware Memory",
+      "summary": "2606.17730 · ▲ 4",
+      "date_published": "2026-06-17T16:23:25.838Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.17321",
       "url": "https://huggingface.co/papers/2606.17321",
       "title": "ProCUA-SFT Technical Report",
-      "summary": "2606.17321 · ▲ 1",
-      "date_published": "2026-06-17T05:25:34.347Z"
+      "summary": "2606.17321 · ▲ 4",
+      "date_published": "2026-06-17T16:23:25.838Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.15345",
       "url": "https://huggingface.co/papers/2606.15345",
       "title": "Beyond Monolingual Deep Research: Evaluating Agents and Retrievers with Cross-Lingual BrowseComp-Plus",
-      "summary": "2606.15345 · ▲ 1",
-      "date_published": "2026-06-17T05:25:34.347Z"
+      "summary": "2606.15345 · ▲ 4",
+      "date_published": "2026-06-17T16:23:25.838Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.15231",
+      "url": "https://huggingface.co/papers/2606.15231",
+      "title": "Visual-Seeker: Towards Visual-Native Multimodal Agentic Search via Active Visual Reasoning",
+      "summary": "2606.15231 · ▲ 3",
+      "date_published": "2026-06-17T16:23:25.838Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.17168",
+      "url": "https://huggingface.co/papers/2606.17168",
+      "title": "RepSelect: Robust LLM Unlearning via Representation Selectivity",
+      "summary": "2606.17168 · ▲ 2",
+      "date_published": "2026-06-17T16:23:25.838Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.13811",
       "url": "https://huggingface.co/papers/2606.13811",
       "title": "Aligning Quantum Operators with Large Language Models",
-      "summary": "2606.13811 · ▲ 1",
-      "date_published": "2026-06-17T05:25:34.347Z"
+      "summary": "2606.13811 · ▲ 2",
+      "date_published": "2026-06-17T16:23:25.838Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.15158",
+      "url": "https://huggingface.co/papers/2606.15158",
+      "title": "RefGC-SR^2: Reference-guided Generated Content Super-Resolution and Refinement",
+      "summary": "2606.15158 · ▲ 1",
+      "date_published": "2026-06-17T16:23:25.838Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.15142",
       "url": "https://huggingface.co/papers/2606.15142",
       "title": "MotionVLA: Vision-Language-Action Model for Humanoid Motion",
-      "summary": "2606.15142 · ▲ 0",
-      "date_published": "2026-06-17T05:25:34.347Z"
+      "summary": "2606.15142 · ▲ 1",
+      "date_published": "2026-06-17T16:23:25.838Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.17081",
+      "url": "https://huggingface.co/papers/2606.17081",
+      "title": "The Price of Anarchy in Disaggregated Inference",
+      "summary": "2606.17081 · ▲ 0",
+      "date_published": "2026-06-17T16:23:25.838Z"
     }
   ]
 }
