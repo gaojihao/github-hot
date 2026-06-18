@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "summary": "Applied AI · 2026年06月18日",
+      "date_published": "2026-06-18T15:59:56.676Z"
+    },
+    {
       "id": "https://openai.com/index/ai-chemist-improves-reaction",
       "url": "https://openai.com/index/ai-chemist-improves-reaction",
       "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
       "summary": "Research · 2026年06月17日",
-      "date_published": "2026-06-18T05:19:24.187Z"
+      "date_published": "2026-06-18T15:59:56.676Z"
     },
     {
       "id": "https://openai.com/index/introducing-life-sci-bench",
       "url": "https://openai.com/index/introducing-life-sci-bench",
       "title": "Introducing LifeSciBench",
       "summary": "Research · 2026年06月17日",
-      "date_published": "2026-06-18T05:19:24.187Z"
+      "date_published": "2026-06-18T15:59:56.676Z"
     },
     {
       "id": "https://openai.com/index/deployment-simulation",
       "url": "https://openai.com/index/deployment-simulation",
       "title": "Predicting model behavior before release by simulating deployment",
       "summary": "Research · 2026年06月16日",
-      "date_published": "2026-06-18T05:19:24.187Z"
+      "date_published": "2026-06-18T15:59:56.676Z"
     },
     {
       "id": "https://openai.com/index/introducing-openai-partner-network",
       "url": "https://openai.com/index/introducing-openai-partner-network",
       "title": "Introducing the OpenAI Partner Network",
       "summary": "Product · 2026年06月15日",
-      "date_published": "2026-06-18T05:19:24.187Z"
-    },
-    {
-      "id": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "title": "New OpenAI Academy courses for the next era of work",
-      "summary": "AI Adoption · 2026年06月12日",
-      "date_published": "2026-06-18T05:19:24.187Z"
+      "date_published": "2026-06-18T15:59:56.676Z"
     }
   ]
 }
