@@ -5,221 +5,123 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2606.19338",
-      "url": "https://huggingface.co/papers/2606.19338",
-      "title": "Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games",
-      "summary": "2606.19338 · ▲ 36",
-      "date_published": "2026-06-18T15:59:56.676Z"
+      "id": "https://huggingface.co/papers/2606.20515",
+      "url": "https://huggingface.co/papers/2606.20515",
+      "title": "S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence",
+      "summary": "2606.20515 · ▲ 17",
+      "date_published": "2026-06-19T05:34:18.942Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.16533",
-      "url": "https://huggingface.co/papers/2606.16533",
-      "title": "Kairos: A Native World Model Stack for Physical AI",
-      "summary": "2606.16533 · ▲ 25",
-      "date_published": "2026-06-18T15:59:56.676Z"
+      "id": "https://huggingface.co/papers/2606.19704",
+      "url": "https://huggingface.co/papers/2606.19704",
+      "title": "Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents",
+      "summary": "2606.19704 · ▲ 17",
+      "date_published": "2026-06-19T05:34:18.942Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.18363",
-      "url": "https://huggingface.co/papers/2606.18363",
-      "title": "Guava: An Effective and Universal Harness for Embodied Manipulation",
-      "summary": "2606.18363 · ▲ 22",
-      "date_published": "2026-06-18T15:59:56.676Z"
+      "id": "https://huggingface.co/papers/2606.19195",
+      "url": "https://huggingface.co/papers/2606.19195",
+      "title": "Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance",
+      "summary": "2606.19195 · ▲ 13",
+      "date_published": "2026-06-19T05:34:18.942Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.18322",
-      "url": "https://huggingface.co/papers/2606.18322",
-      "title": "SAE Interventions are Unreliable: Post-Intervention Recovery of Suppressed Behavior",
-      "summary": "2606.18322 · ▲ 14",
-      "date_published": "2026-06-18T15:59:56.676Z"
+      "id": "https://huggingface.co/papers/2606.20506",
+      "url": "https://huggingface.co/papers/2606.20506",
+      "title": "FreeStyle: Free Control of Style-Content Dual-Reference Generation from Community LoRA Mining",
+      "summary": "2606.20506 · ▲ 11",
+      "date_published": "2026-06-19T05:34:18.942Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.17539",
-      "url": "https://huggingface.co/papers/2606.17539",
-      "title": "Reinforcing Dual-Path Reasoning in Spatial Vision Language Models",
-      "summary": "2606.17539 · ▲ 13",
-      "date_published": "2026-06-18T15:59:56.676Z"
+      "id": "https://huggingface.co/papers/2606.20563",
+      "url": "https://huggingface.co/papers/2606.20563",
+      "title": "JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising",
+      "summary": "2606.20563 · ▲ 7",
+      "date_published": "2026-06-19T05:34:18.942Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.18101",
-      "url": "https://huggingface.co/papers/2606.18101",
-      "title": "Trust the Right Teacher: Quality-Aware Self-Distillation for GUI Grounding",
-      "summary": "2606.18101 · ▲ 13",
-      "date_published": "2026-06-18T15:59:56.676Z"
+      "id": "https://huggingface.co/papers/2606.19980",
+      "url": "https://huggingface.co/papers/2606.19980",
+      "title": "ENPIRE: Agentic Robot Policy Self-Improvement in the Real World",
+      "summary": "2606.19980 · ▲ 6",
+      "date_published": "2026-06-19T05:34:18.942Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.18967",
-      "url": "https://huggingface.co/papers/2606.18967",
-      "title": "EfficientRollout: System-Aware Self-Speculative Decoding for RL Rollouts",
-      "summary": "2606.18967 · ▲ 12",
-      "date_published": "2026-06-18T15:59:56.676Z"
+      "id": "https://huggingface.co/papers/2606.19419",
+      "url": "https://huggingface.co/papers/2606.19419",
+      "title": "Playful Agentic Robot Learning",
+      "summary": "2606.19419 · ▲ 4",
+      "date_published": "2026-06-19T05:34:18.942Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.17682",
-      "url": "https://huggingface.co/papers/2606.17682",
-      "title": "From Trainee to Trainer: LLM-Designed Training Environment for RL with Multi-Agent Reasoning",
-      "summary": "2606.17682 · ▲ 11",
-      "date_published": "2026-06-18T15:59:56.676Z"
+      "id": "https://huggingface.co/papers/2606.16122",
+      "url": "https://huggingface.co/papers/2606.16122",
+      "title": "Thinking with Visual Grounding",
+      "summary": "2606.16122 · ▲ 4",
+      "date_published": "2026-06-19T05:34:18.942Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.19341",
-      "url": "https://huggingface.co/papers/2606.19341",
-      "title": "Native Active Perception as Reasoning for Omni-Modal Understanding",
-      "summary": "2606.19341 · ▲ 10",
-      "date_published": "2026-06-18T15:59:56.676Z"
+      "id": "https://huggingface.co/papers/2606.16817",
+      "url": "https://huggingface.co/papers/2606.16817",
+      "title": "Understanding the Behaviors of Environment-aware Information Retrieval",
+      "summary": "2606.16817 · ▲ 3",
+      "date_published": "2026-06-19T05:34:18.942Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.19236",
-      "url": "https://huggingface.co/papers/2606.19236",
-      "title": "STARE: Surprisal-Guided Token-Level Advantage Reweighting for Policy Entropy Stability",
-      "summary": "2606.19236 · ▲ 8",
-      "date_published": "2026-06-18T15:59:56.676Z"
+      "id": "https://huggingface.co/papers/2606.19605",
+      "url": "https://huggingface.co/papers/2606.19605",
+      "title": "FAPO: Fully Autonomous Prompt Optimization of Multi-Step LLM Pipelines",
+      "summary": "2606.19605 · ▲ 2",
+      "date_published": "2026-06-19T05:34:18.942Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.18558",
-      "url": "https://huggingface.co/papers/2606.18558",
-      "title": "MolmoMotion: Forecasting Point Trajectories in 3D with Language Instruction",
-      "summary": "2606.18558 · ▲ 7",
-      "date_published": "2026-06-18T15:59:56.676Z"
+      "id": "https://huggingface.co/papers/2606.18231",
+      "url": "https://huggingface.co/papers/2606.18231",
+      "title": "Adaptive Volumetric Mechanical Property Fields Invariant to Resolution",
+      "summary": "2606.18231 · ▲ 2",
+      "date_published": "2026-06-19T05:34:18.942Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.19005",
-      "url": "https://huggingface.co/papers/2606.19005",
-      "title": "Sumi: Open Uniform Diffusion Language Model from Scratch",
-      "summary": "2606.19005 · ▲ 7",
-      "date_published": "2026-06-18T15:59:56.676Z"
+      "id": "https://huggingface.co/papers/2606.20083",
+      "url": "https://huggingface.co/papers/2606.20083",
+      "title": "Holo-World: Unified Camera, Object and Weather Control for Video World Model",
+      "summary": "2606.20083 · ▲ 1",
+      "date_published": "2026-06-19T05:34:18.942Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.17800",
-      "url": "https://huggingface.co/papers/2606.17800",
-      "title": "MaineCoon: Pursuing A Real-Time Audio-Visual Social World Model",
-      "summary": "2606.17800 · ▲ 7",
-      "date_published": "2026-06-18T15:59:56.676Z"
+      "id": "https://huggingface.co/papers/2606.19531",
+      "url": "https://huggingface.co/papers/2606.19531",
+      "title": "ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing?",
+      "summary": "2606.19531 · ▲ 1",
+      "date_published": "2026-06-19T05:34:18.942Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.05985",
-      "url": "https://huggingface.co/papers/2606.05985",
-      "title": "Beyond Alignment: Value Diversity as a Collective Property in Multicultural Agent Systems",
-      "summary": "2606.05985 · ▲ 7",
-      "date_published": "2026-06-18T15:59:56.676Z"
+      "id": "https://huggingface.co/papers/2606.15527",
+      "url": "https://huggingface.co/papers/2606.15527",
+      "title": "Selective Synergistic Learning for Video Object-Centric Learning",
+      "summary": "2606.15527 · ▲ 1",
+      "date_published": "2026-06-19T05:34:18.942Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.19162",
-      "url": "https://huggingface.co/papers/2606.19162",
-      "title": "The Reward Was in Your Data All Along: Correcting Flow Matching with Discriminator-Guided RL",
-      "summary": "2606.19162 · ▲ 4",
-      "date_published": "2026-06-18T15:59:56.676Z"
+      "id": "https://huggingface.co/papers/2606.20545",
+      "url": "https://huggingface.co/papers/2606.20545",
+      "title": "Current World Models Lack a Persistent State Core",
+      "summary": "2606.20545 · ▲ 0",
+      "date_published": "2026-06-19T05:34:18.942Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.18375",
-      "url": "https://huggingface.co/papers/2606.18375",
-      "title": "PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation",
-      "summary": "2606.18375 · ▲ 4",
-      "date_published": "2026-06-18T15:59:56.676Z"
+      "id": "https://huggingface.co/papers/2606.19830",
+      "url": "https://huggingface.co/papers/2606.19830",
+      "title": "JAMER: Project-Level Code Framework Dataset and Benchmark on Professional Game Engines",
+      "summary": "2606.19830 · ▲ 0",
+      "date_published": "2026-06-19T05:34:18.942Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.15872",
-      "url": "https://huggingface.co/papers/2606.15872",
-      "title": "SciOrch: Learning to Orchestrate Expert LLMs for Solving Frontier Multimodal Scientific Reasoning Tasks",
-      "summary": "2606.15872 · ▲ 4",
-      "date_published": "2026-06-18T15:59:56.676Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.14024",
-      "url": "https://huggingface.co/papers/2606.14024",
-      "title": "ViT-Up: Faithful Feature Upsampling for Vision Transformers",
-      "summary": "2606.14024 · ▲ 4",
-      "date_published": "2026-06-18T15:59:56.676Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.18543",
-      "url": "https://huggingface.co/papers/2606.18543",
-      "title": "CEO-Bench: Can Agents Play the Long Game?",
-      "summary": "2606.18543 · ▲ 3",
-      "date_published": "2026-06-18T15:59:56.676Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.19047",
-      "url": "https://huggingface.co/papers/2606.19047",
-      "title": "RODS: Reward-Driven Online Data Synthesis for Multi-Turn Tool-Use Agents",
-      "summary": "2606.19047 · ▲ 2",
-      "date_published": "2026-06-18T15:59:56.676Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.19336",
-      "url": "https://huggingface.co/papers/2606.19336",
-      "title": "Learning User Simulators with Turing Rewards",
-      "summary": "2606.19336 · ▲ 2",
-      "date_published": "2026-06-18T15:59:56.676Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.18874",
-      "url": "https://huggingface.co/papers/2606.18874",
-      "title": "Externalizing Research Synthesis and Validation in AI Scientists through a Research Harness",
-      "summary": "2606.18874 · ▲ 2",
-      "date_published": "2026-06-18T15:59:56.676Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.14383",
-      "url": "https://huggingface.co/papers/2606.14383",
-      "title": "IndustryBench-MIPU: Benchmarking Multi-Image Attribute Value Extraction for Industrial Products",
-      "summary": "2606.14383 · ▲ 2",
-      "date_published": "2026-06-18T15:59:56.676Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.12629",
-      "url": "https://huggingface.co/papers/2606.12629",
-      "title": "Bag of Dims: Training-Free Mechanistic Interpretability via Dimension-Level Sign Patterns",
-      "summary": "2606.12629 · ▲ 1",
-      "date_published": "2026-06-18T15:59:56.676Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.18943",
-      "url": "https://huggingface.co/papers/2606.18943",
-      "title": "Physics-IQ Verified",
-      "summary": "2606.18943 · ▲ 1",
-      "date_published": "2026-06-18T15:59:56.676Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.19120",
-      "url": "https://huggingface.co/papers/2606.19120",
-      "title": "Seeing Before Reasoning: Decoupling Perception and Reasoning for Shortcut-Resilient Multimodal On-Policy Self-Distillation",
-      "summary": "2606.19120 · ▲ 1",
-      "date_published": "2026-06-18T15:59:56.676Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.18717",
-      "url": "https://huggingface.co/papers/2606.18717",
-      "title": "Morpheus: A Morphology-Aware Neural Tokenizer and Word Embedder for Turkish",
-      "summary": "2606.18717 · ▲ 1",
-      "date_published": "2026-06-18T15:59:56.676Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.16748",
-      "url": "https://huggingface.co/papers/2606.16748",
-      "title": "MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents",
-      "summary": "2606.16748 · ▲ 1",
-      "date_published": "2026-06-18T15:59:56.676Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.09764",
-      "url": "https://huggingface.co/papers/2606.09764",
-      "title": "iOSWorld: A Benchmark for Personally Intelligent Phone Agents",
-      "summary": "2606.09764 · ▲ 1",
-      "date_published": "2026-06-18T15:59:56.676Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.13802",
-      "url": "https://huggingface.co/papers/2606.13802",
-      "title": "A Benchmark and Framework for Evaluating Next Action Predictions in Spreadsheets",
-      "summary": "2606.13802 · ▲ 0",
-      "date_published": "2026-06-18T15:59:56.676Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.11877",
-      "url": "https://huggingface.co/papers/2606.11877",
-      "title": "LLM-Enabled NWDAF: A Step Toward AI-Native 6G Network Intelligence",
-      "summary": "2606.11877 · ▲ 0",
-      "date_published": "2026-06-18T15:59:56.676Z"
+      "id": "https://huggingface.co/papers/2606.19495",
+      "url": "https://huggingface.co/papers/2606.19495",
+      "title": "LooseControlVideo: Directorial Video Control using Spatial Blocking",
+      "summary": "2606.19495 · ▲ 0",
+      "date_published": "2026-06-19T05:34:18.942Z"
     }
   ]
 }
