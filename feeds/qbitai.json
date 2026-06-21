@@ -3,5 +3,48 @@
   "title": "量子位",
   "home_page_url": "https://gaojihao.github.io/github-hot/qbitai.html",
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/qbitai.json",
-  "items": []
+  "items": [
+    {
+      "id": "https://www.qbitai.com/2026/06/437041.html",
+      "url": "https://www.qbitai.com/2026/06/437041.html",
+      "title": "英伟达开始搞机器人自己研究机器人那套了…",
+      "summary": "机器人 · henry · 2026年06月20日",
+      "date_published": "2026-06-21T05:26:17.992Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/06/437023.html",
+      "url": "https://www.qbitai.com/2026/06/437023.html",
+      "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
+      "summary": "陶哲轩 · 闻乐 · 2026年06月20日",
+      "date_published": "2026-06-21T05:26:17.992Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/06/436996.html",
+      "url": "https://www.qbitai.com/2026/06/436996.html",
+      "title": "撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
+      "summary": "AI · 听雨 · 2026年06月20日",
+      "date_published": "2026-06-21T05:26:17.992Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/06/436980.html",
+      "url": "https://www.qbitai.com/2026/06/436980.html",
+      "title": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将",
+      "summary": "AI · 听雨 · 2026年06月20日",
+      "date_published": "2026-06-21T05:26:17.992Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/06/436966.html",
+      "url": "https://www.qbitai.com/2026/06/436966.html",
+      "title": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶",
+      "summary": "AI · 听雨 · 2026年06月20日",
+      "date_published": "2026-06-21T05:26:17.992Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/06/436864.html",
+      "url": "https://www.qbitai.com/2026/06/436864.html",
+      "title": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
+      "summary": "开放式世界模型 · 闻乐 · 2026年06月19日",
+      "date_published": "2026-06-21T05:26:17.992Z"
+    }
+  ]
 }
