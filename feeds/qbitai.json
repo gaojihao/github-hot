@@ -5,53 +5,74 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/qbitai.json",
   "items": [
     {
+      "id": "https://www.qbitai.com/2026/06/437694.html",
+      "url": "https://www.qbitai.com/2026/06/437694.html",
+      "title": "正行创新完成近亿美元天使轮融资，正大集团、华勤技术等多家上市企业联合加持",
+      "summary": "资讯 · 量子位的朋友们 · 2026年06月23日",
+      "date_published": "2026-06-23T15:35:16.936Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/06/437672.html",
+      "url": "https://www.qbitai.com/2026/06/437672.html",
+      "title": "云计算一哥，让小鹏、Kimi和猎豹都爽了一把",
+      "summary": "AWS · 十三 · 2026年06月23日",
+      "date_published": "2026-06-23T15:35:16.936Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/06/437503.html",
+      "url": "https://www.qbitai.com/2026/06/437503.html",
+      "title": "刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码",
+      "summary": "火山引擎 · 十三 · 2026年06月23日",
+      "date_published": "2026-06-23T15:35:16.936Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/06/437425.html",
+      "url": "https://www.qbitai.com/2026/06/437425.html",
+      "title": "57场面试杀进OpenAI！华人博士开源「AI面经」，含泪推荐",
+      "summary": "资讯 · Jay · 2026年06月23日",
+      "date_published": "2026-06-23T15:35:16.936Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/06/437381.html",
+      "url": "https://www.qbitai.com/2026/06/437381.html",
+      "title": "可口可乐的世界杯TVC，居然是prompt生成的",
+      "summary": "AI · 听雨 · 2026年06月23日",
+      "date_published": "2026-06-23T15:35:16.936Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/06/437382.html",
+      "url": "https://www.qbitai.com/2026/06/437382.html",
+      "title": "机器人全栈操作系统！老黄率先抛出“具身版安卓”",
+      "summary": "具身智能 · henry · 2026年06月23日",
+      "date_published": "2026-06-23T15:35:16.936Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/06/437340.html",
+      "url": "https://www.qbitai.com/2026/06/437340.html",
+      "title": "马斯克又盯上AI基建：特斯拉要卖“算力积木”了",
+      "summary": "特斯拉 · 听雨 · 2026年06月23日",
+      "date_published": "2026-06-23T15:35:16.936Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/06/437489.html",
+      "url": "https://www.qbitai.com/2026/06/437489.html",
+      "title": "雷鸟创新 2026 上半年成绩单：618 销量五连冠、三大机构认证第一",
+      "summary": "AR 眼镜 · 量子位的朋友们 · 2026年06月23日",
+      "date_published": "2026-06-23T15:35:16.936Z"
+    },
+    {
       "id": "https://www.qbitai.com/2026/06/437330.html",
       "url": "https://www.qbitai.com/2026/06/437330.html",
       "title": "小扎「蒸馏员工」计划紧急喊停！私聊数据都泄露了…",
       "summary": "Meta · 鱼羊 · 2026年06月23日",
-      "date_published": "2026-06-23T04:42:08.731Z"
+      "date_published": "2026-06-23T15:35:16.936Z"
     },
     {
       "id": "https://www.qbitai.com/2026/06/437317.html",
       "url": "https://www.qbitai.com/2026/06/437317.html",
       "title": "阿里发布视频生成模型HappyHorse 1.1：五大维度全面升级",
       "summary": "HappyHorse · 量子位的朋友们 · 2026年06月22日",
-      "date_published": "2026-06-23T04:42:08.731Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/06/437308.html",
-      "url": "https://www.qbitai.com/2026/06/437308.html",
-      "title": "AI硬件席卷618，钉钉A1包揽天猫、抖音、京东销量冠军",
-      "summary": "钉钉 · 梦晨 · 2026年06月22日",
-      "date_published": "2026-06-23T04:42:08.731Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/06/437249.html",
-      "url": "https://www.qbitai.com/2026/06/437249.html",
-      "title": "DeepSeek缺Agent人才缺疯了！负责人各种贴广告",
-      "summary": "资讯 · Jay · 2026年06月22日",
-      "date_published": "2026-06-23T04:42:08.731Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/06/437235.html",
-      "url": "https://www.qbitai.com/2026/06/437235.html",
-      "title": "入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习",
-      "summary": "开源 · 思邈 · 2026年06月22日",
-      "date_published": "2026-06-23T04:42:08.731Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/06/437198.html",
-      "url": "https://www.qbitai.com/2026/06/437198.html",
-      "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
-      "summary": "具身智能 · 鱼羊 · 2026年06月21日",
-      "date_published": "2026-06-23T04:42:08.731Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/06/437141.html",
-      "url": "https://www.qbitai.com/2026/06/437141.html",
-      "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
-      "summary": "Deepseek · henry · 2026年06月21日",
-      "date_published": "2026-06-23T04:42:08.731Z"
+      "date_published": "2026-06-23T15:35:16.936Z"
     }
   ]
 }
