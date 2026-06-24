@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "summary": "Company · 2026年06月24日",
+      "date_published": "2026-06-24T15:19:10.371Z"
+    },
+    {
       "id": "https://openai.com/index/gpt-5-immunology-mystery",
       "url": "https://openai.com/index/gpt-5-immunology-mystery",
       "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
       "summary": "Applied AI · 2026年06月24日",
-      "date_published": "2026-06-24T04:47:10.584Z"
+      "date_published": "2026-06-24T15:19:10.371Z"
     },
     {
       "id": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
       "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
       "title": "Helping build shared standards for advanced AI",
       "summary": "Global Affairs · 2026年06月23日",
-      "date_published": "2026-06-24T04:47:10.584Z"
+      "date_published": "2026-06-24T15:19:10.371Z"
     },
     {
       "id": "https://openai.com/index/omio",
       "url": "https://openai.com/index/omio",
       "title": "How Omio is building the future of conversational travel",
       "summary": "2026年06月23日",
-      "date_published": "2026-06-24T04:47:10.584Z"
-    },
-    {
-      "id": "https://openai.com/index/daybreak-securing-the-world",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "summary": "Security · 2026年06月22日",
-      "date_published": "2026-06-24T04:47:10.584Z"
+      "date_published": "2026-06-24T15:19:10.371Z"
     },
     {
       "id": "https://openai.com/index/patch-the-planet",
       "url": "https://openai.com/index/patch-the-planet",
       "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
       "summary": "Security · 2026年06月22日",
-      "date_published": "2026-06-24T04:47:10.584Z"
+      "date_published": "2026-06-24T15:19:10.371Z"
     }
   ]
 }
