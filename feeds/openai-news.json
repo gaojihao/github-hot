@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/gpt-5-immunology-mystery",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery",
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "summary": "Applied AI · 2026年06月24日",
+      "date_published": "2026-06-24T04:47:10.584Z"
+    },
+    {
+      "id": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "title": "Helping build shared standards for advanced AI",
+      "summary": "Global Affairs · 2026年06月23日",
+      "date_published": "2026-06-24T04:47:10.584Z"
+    },
+    {
       "id": "https://openai.com/index/omio",
       "url": "https://openai.com/index/omio",
       "title": "How Omio is building the future of conversational travel",
       "summary": "2026年06月23日",
-      "date_published": "2026-06-23T15:35:16.936Z"
+      "date_published": "2026-06-24T04:47:10.584Z"
     },
     {
       "id": "https://openai.com/index/daybreak-securing-the-world",
       "url": "https://openai.com/index/daybreak-securing-the-world",
       "title": "Daybreak: Tools for securing every organization in the world",
       "summary": "Security · 2026年06月22日",
-      "date_published": "2026-06-23T15:35:16.936Z"
+      "date_published": "2026-06-24T04:47:10.584Z"
     },
     {
       "id": "https://openai.com/index/patch-the-planet",
       "url": "https://openai.com/index/patch-the-planet",
       "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
       "summary": "Security · 2026年06月22日",
-      "date_published": "2026-06-23T15:35:16.936Z"
-    },
-    {
-      "id": "https://openai.com/index/codex-maxxing-long-running-work",
-      "url": "https://openai.com/index/codex-maxxing-long-running-work",
-      "title": "Codex-maxxing for long-running work",
-      "summary": "AI Adoption · 2026年06月22日",
-      "date_published": "2026-06-23T15:35:16.936Z"
-    },
-    {
-      "id": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-      "summary": "Company · 2026年06月22日",
-      "date_published": "2026-06-23T15:35:16.936Z"
+      "date_published": "2026-06-24T04:47:10.584Z"
     }
   ]
 }
