@@ -5,179 +5,102 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2606.24597",
-      "url": "https://huggingface.co/papers/2606.24597",
-      "title": "Qwen-AgentWorld: Language World Models for General Agents",
-      "summary": "2606.24597 · ▲ 72",
-      "date_published": "2026-06-24T15:19:10.371Z"
+      "id": "https://huggingface.co/papers/2606.24775",
+      "url": "https://huggingface.co/papers/2606.24775",
+      "title": "Are We Ready For An Agent-Native Memory System?",
+      "summary": "2606.24775 · ▲ 35",
+      "date_published": "2026-06-25T04:46:31.573Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.24530",
-      "url": "https://huggingface.co/papers/2606.24530",
-      "title": "NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?",
-      "summary": "2606.24530 · ▲ 46",
-      "date_published": "2026-06-24T15:19:10.371Z"
+      "id": "https://huggingface.co/papers/2606.26058",
+      "url": "https://huggingface.co/papers/2606.26058",
+      "title": "DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation",
+      "summary": "2606.26058 · ▲ 31",
+      "date_published": "2026-06-25T04:46:31.573Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.19930",
-      "url": "https://huggingface.co/papers/2606.19930",
-      "title": "MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization",
-      "summary": "2606.19930 · ▲ 32",
-      "date_published": "2026-06-24T15:19:10.371Z"
+      "id": "https://huggingface.co/papers/2606.15932",
+      "url": "https://huggingface.co/papers/2606.15932",
+      "title": "Beyond NL2Code: A Structured Survey of Multimodal Code Intelligence",
+      "summary": "2606.15932 · ▲ 19",
+      "date_published": "2026-06-25T04:46:31.573Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.19926",
-      "url": "https://huggingface.co/papers/2606.19926",
-      "title": "MemGUI-Agent: An End-to-End Long-Horizon Mobile GUI Agent with Proactive Context Management",
-      "summary": "2606.19926 · ▲ 31",
-      "date_published": "2026-06-24T15:19:10.371Z"
+      "id": "https://huggingface.co/papers/2606.25041",
+      "url": "https://huggingface.co/papers/2606.25041",
+      "title": "Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models",
+      "summary": "2606.25041 · ▲ 18",
+      "date_published": "2026-06-25T04:46:31.573Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.23449",
-      "url": "https://huggingface.co/papers/2606.23449",
-      "title": "AOHP: An Open-Source OS-Level Agent Harness for Personalized, Efficient and Secure Interaction",
-      "summary": "2606.23449 · ▲ 25",
-      "date_published": "2026-06-24T15:19:10.371Z"
+      "id": "https://huggingface.co/papers/2606.24849",
+      "url": "https://huggingface.co/papers/2606.24849",
+      "title": "IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Generation",
+      "summary": "2606.24849 · ▲ 11",
+      "date_published": "2026-06-25T04:46:31.573Z"
     },
     {
-      "id": "https://huggingface.co/papers/2602.09379",
-      "url": "https://huggingface.co/papers/2602.09379",
-      "title": "LingxiDiagBench: A Multi-Agent Framework for Benchmarking LLMs in Chinese Psychiatric Consultation and Diagnosis",
-      "summary": "2602.09379 · ▲ 19",
-      "date_published": "2026-06-24T15:19:10.371Z"
+      "id": "https://huggingface.co/papers/2606.25331",
+      "url": "https://huggingface.co/papers/2606.25331",
+      "title": "Improved Large Language Diffusion Models",
+      "summary": "2606.25331 · ▲ 6",
+      "date_published": "2026-06-25T04:46:31.573Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.24855",
-      "url": "https://huggingface.co/papers/2606.24855",
-      "title": "OpenThoughts-Agent: Data Recipes for Agentic Models",
-      "summary": "2606.24855 · ▲ 13",
-      "date_published": "2026-06-24T15:19:10.371Z"
+      "id": "https://huggingface.co/papers/2606.24937",
+      "url": "https://huggingface.co/papers/2606.24937",
+      "title": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
+      "summary": "2606.24937 · ▲ 6",
+      "date_published": "2026-06-25T04:46:31.573Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.24876",
-      "url": "https://huggingface.co/papers/2606.24876",
-      "title": "FLAT: Feedforward Latent Triangle Splatting for Geometrically Accurate Scene Generation",
-      "summary": "2606.24876 · ▲ 10",
-      "date_published": "2026-06-24T15:19:10.371Z"
+      "id": "https://huggingface.co/papers/2606.25996",
+      "url": "https://huggingface.co/papers/2606.25996",
+      "title": "Autodata: An agentic data scientist to create high quality synthetic data",
+      "summary": "2606.25996 · ▲ 5",
+      "date_published": "2026-06-25T04:46:31.573Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.23679",
-      "url": "https://huggingface.co/papers/2606.23679",
-      "title": "Semantic Browsing: Controllable Diversity for Image Generation",
-      "summary": "2606.23679 · ▲ 10",
-      "date_published": "2026-06-24T15:19:10.371Z"
+      "id": "https://huggingface.co/papers/2606.22565",
+      "url": "https://huggingface.co/papers/2606.22565",
+      "title": "Look Light, Think Heavy: What Multimodal Chain-of-Thought Reasoning Can and Cannot Do",
+      "summary": "2606.22565 · ▲ 5",
+      "date_published": "2026-06-25T04:46:31.573Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.22875",
-      "url": "https://huggingface.co/papers/2606.22875",
-      "title": "FedOT: Ownership Verification and Leakage Tracing via Watermarks for Federated LDMs",
-      "summary": "2606.22875 · ▲ 9",
-      "date_published": "2026-06-24T15:19:10.371Z"
+      "id": "https://huggingface.co/papers/2606.26092",
+      "url": "https://huggingface.co/papers/2606.26092",
+      "title": "TryOnCrafter: Unleashing Camera Trajectories for Realistic Video Virtual Try-on via a Renderable 4D Try-on Proxy",
+      "summary": "2606.26092 · ▲ 4",
+      "date_published": "2026-06-25T04:46:31.573Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.24428",
-      "url": "https://huggingface.co/papers/2606.24428",
-      "title": "Escaping the Self-Confirmation Trap: An Execute-Distill-Verify Paradigm for Agentic Experience Learning",
-      "summary": "2606.24428 · ▲ 8",
-      "date_published": "2026-06-24T15:19:10.371Z"
+      "id": "https://huggingface.co/papers/2606.25473",
+      "url": "https://huggingface.co/papers/2606.25473",
+      "title": "Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models",
+      "summary": "2606.25473 · ▲ 4",
+      "date_published": "2026-06-25T04:46:31.573Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.24548",
-      "url": "https://huggingface.co/papers/2606.24548",
-      "title": "Are Text-to-Image Models Inductivist Turkeys? A Counterfactual Benchmark for Causal Reasoning",
-      "summary": "2606.24548 · ▲ 5",
-      "date_published": "2026-06-24T15:19:10.371Z"
+      "id": "https://huggingface.co/papers/2606.18239",
+      "url": "https://huggingface.co/papers/2606.18239",
+      "title": "EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies",
+      "summary": "2606.18239 · ▲ 4",
+      "date_published": "2026-06-25T04:46:31.573Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.24888",
-      "url": "https://huggingface.co/papers/2606.24888",
-      "title": "DiffusionBench: On Holistic Evaluation of Diffusion Transformers",
-      "summary": "2606.24888 · ▲ 4",
-      "date_published": "2026-06-24T15:19:10.371Z"
+      "id": "https://huggingface.co/papers/2606.24033",
+      "url": "https://huggingface.co/papers/2606.24033",
+      "title": "RoPE-Aware Bit Allocation for KV-Cache Quantization",
+      "summary": "2606.24033 · ▲ 2",
+      "date_published": "2026-06-25T04:46:31.573Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.24133",
-      "url": "https://huggingface.co/papers/2606.24133",
-      "title": "Holistic Data Scheduler for LLM Pre-training via Multi-Objective Reinforcement Learning",
-      "summary": "2606.24133 · ▲ 2",
-      "date_published": "2026-06-24T15:19:10.371Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.24231",
-      "url": "https://huggingface.co/papers/2606.24231",
-      "title": "FlowR2A: Learning Reward-to-Action Distribution for Multimodal Driving Planning",
-      "summary": "2606.24231 · ▲ 1",
-      "date_published": "2026-06-24T15:19:10.371Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.24667",
-      "url": "https://huggingface.co/papers/2606.24667",
-      "title": "DREAM: Dense Retrieval Embeddings via Autoregressive Modeling",
-      "summary": "2606.24667 · ▲ 1",
-      "date_published": "2026-06-24T15:19:10.371Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.24112",
-      "url": "https://huggingface.co/papers/2606.24112",
-      "title": "ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection",
-      "summary": "2606.24112 · ▲ 1",
-      "date_published": "2026-06-24T15:19:10.371Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.24742",
-      "url": "https://huggingface.co/papers/2606.24742",
-      "title": "World Value Models for Robotic Manipulation",
-      "summary": "2606.24742 · ▲ 1",
-      "date_published": "2026-06-24T15:19:10.371Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.23997",
-      "url": "https://huggingface.co/papers/2606.23997",
-      "title": "ChartWalker: Benchmarking the Cross-Chart RAG Task",
-      "summary": "2606.23997 · ▲ 1",
-      "date_published": "2026-06-24T15:19:10.371Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.20027",
-      "url": "https://huggingface.co/papers/2606.20027",
-      "title": "QG-MIL: A Gated Transformer Aggregator for Domain-Agnostic Multiple Instance Learning in Medical Imaging",
-      "summary": "2606.20027 · ▲ 1",
-      "date_published": "2026-06-24T15:19:10.371Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.20092",
-      "url": "https://huggingface.co/papers/2606.20092",
-      "title": "EventVLA: Event-Driven Visual Evidence Memory for Long-Horizon Vision-Language-Action Policies",
-      "summary": "2606.20092 · ▲ 1",
-      "date_published": "2026-06-24T15:19:10.371Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.24526",
-      "url": "https://huggingface.co/papers/2606.24526",
-      "title": "AGORA: An Archive-Grounded Benchmark for Agentic Workplace Document Reasoning",
-      "summary": "2606.24526 · ▲ 0",
-      "date_published": "2026-06-24T15:19:10.371Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.24874",
-      "url": "https://huggingface.co/papers/2606.24874",
-      "title": "FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation",
-      "summary": "2606.24874 · ▲ 0",
-      "date_published": "2026-06-24T15:19:10.371Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.22197",
-      "url": "https://huggingface.co/papers/2606.22197",
-      "title": "Multi4D: High-Fidelity Dynamic Gaussian Splatting via Multi-Level Competitive Allocation",
-      "summary": "2606.22197 · ▲ 0",
-      "date_published": "2026-06-24T15:19:10.371Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.12345",
-      "url": "https://huggingface.co/papers/2606.12345",
-      "title": "An Efficient Method for the Optimal Control of Microgrids Under Uncertainties using Local Reduction",
-      "summary": "2606.12345 · ▲ 0",
-      "date_published": "2026-06-24T15:19:10.371Z"
+      "id": "https://huggingface.co/papers/2606.24484",
+      "url": "https://huggingface.co/papers/2606.24484",
+      "title": "Advancing WordArt-Oriented Scene Text Recognition: Datasets and Methods",
+      "summary": "2606.24484 · ▲ 2",
+      "date_published": "2026-06-25T04:46:31.573Z"
     }
   ]
 }
