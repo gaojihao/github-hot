@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/how-agents-are-transforming-work",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "title": "How agents are transforming work",
+      "summary": "Company · 2026年06月25日",
+      "date_published": "2026-06-25T15:24:37.709Z"
+    },
+    {
       "id": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "summary": "Company · 2026年06月24日",
-      "date_published": "2026-06-25T04:46:31.573Z"
+      "date_published": "2026-06-25T15:24:37.709Z"
     },
     {
       "id": "https://openai.com/index/gpt-5-immunology-mystery",
       "url": "https://openai.com/index/gpt-5-immunology-mystery",
       "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
       "summary": "Applied AI · 2026年06月24日",
-      "date_published": "2026-06-25T04:46:31.573Z"
+      "date_published": "2026-06-25T15:24:37.709Z"
     },
     {
       "id": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
       "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
       "title": "Helping build shared standards for advanced AI",
       "summary": "Global Affairs · 2026年06月23日",
-      "date_published": "2026-06-25T04:46:31.573Z"
+      "date_published": "2026-06-25T15:24:37.709Z"
     },
     {
       "id": "https://openai.com/index/omio",
       "url": "https://openai.com/index/omio",
       "title": "How Omio is building the future of conversational travel",
       "summary": "2026年06月23日",
-      "date_published": "2026-06-25T04:46:31.573Z"
-    },
-    {
-      "id": "https://openai.com/index/daybreak-securing-the-world",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "summary": "Security · 2026年06月22日",
-      "date_published": "2026-06-25T04:46:31.573Z"
+      "date_published": "2026-06-25T15:24:37.709Z"
     }
   ]
 }

@@ -5,74 +5,74 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/qbitai.json",
   "items": [
     {
+      "id": "https://www.qbitai.com/2026/06/438364.html",
+      "url": "https://www.qbitai.com/2026/06/438364.html",
+      "title": "WAIC UP!｜AI圈都在聊参数，我们偏不",
+      "summary": "waic2026 · 量子位的朋友们 · 2026年06月25日",
+      "date_published": "2026-06-25T15:24:37.709Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/06/438658.html",
+      "url": "https://www.qbitai.com/2026/06/438658.html",
+      "title": "三体问世20周年，光帆科技与三体宇宙联合发布联名款AI全感穿戴设备及重磅视频《破晓》",
+      "summary": "资讯 · 量子位的朋友们 · 2026年06月25日",
+      "date_published": "2026-06-25T15:24:37.709Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/06/438638.html",
+      "url": "https://www.qbitai.com/2026/06/438638.html",
+      "title": "科大讯飞发布企业服务Claw平台：一句话搞定需求到方案全流程",
+      "summary": "资讯 · 量子位的朋友们 · 2026年06月25日",
+      "date_published": "2026-06-25T15:24:37.709Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/06/438468.html",
+      "url": "https://www.qbitai.com/2026/06/438468.html",
+      "title": "4秒出百万面！突破千万面精度+12K高清贴图，手握数亿的3D生成公司下一局怎么打？",
+      "summary": "3D生成 · 鹭羽 · 2026年06月25日",
+      "date_published": "2026-06-25T15:24:37.709Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/06/438365.html",
+      "url": "https://www.qbitai.com/2026/06/438365.html",
+      "title": "跟Claude谈个恋爱怎么了？Nature最新研究：真能给人聊傻了",
+      "summary": "资讯 · henry · 2026年06月25日",
+      "date_published": "2026-06-25T15:24:37.709Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/06/438351.html",
+      "url": "https://www.qbitai.com/2026/06/438351.html",
+      "title": "马斯克预测GLM明年Q1追平Fable，智谱唐杰：没那么久",
+      "summary": "资讯 · Jay · 2026年06月25日",
+      "date_published": "2026-06-25T15:24:37.709Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/06/438336.html",
+      "url": "https://www.qbitai.com/2026/06/438336.html",
+      "title": "不靠单款爆款吃红利，中国AI应用首现3亿ARR独角兽！腾讯顺为红杉继续加码",
+      "summary": "演语科技 · Jay · 2026年06月25日",
+      "date_published": "2026-06-25T15:24:37.709Z"
+    },
+    {
       "id": "https://www.qbitai.com/2026/06/438297.html",
       "url": "https://www.qbitai.com/2026/06/438297.html",
       "title": "聚焦GW级Token工厂，解码下一代算力底座｜6月30日，深圳",
       "summary": "token · 量子位的朋友们 · 2026年06月25日",
-      "date_published": "2026-06-25T04:46:31.573Z"
+      "date_published": "2026-06-25T15:24:37.709Z"
     },
     {
       "id": "https://www.qbitai.com/2026/06/438204.html",
       "url": "https://www.qbitai.com/2026/06/438204.html",
       "title": "豆包收费版第一天，我：充值…又得充值？我要再充值！",
       "summary": "AI · 听雨 · 2026年06月25日",
-      "date_published": "2026-06-25T04:46:31.573Z"
+      "date_published": "2026-06-25T15:24:37.709Z"
     },
     {
       "id": "https://www.qbitai.com/2026/06/438179.html",
       "url": "https://www.qbitai.com/2026/06/438179.html",
       "title": "世界模型混战，Momenta率先冲刺IPO",
       "summary": "Momenta · 贾浩楠 · 2026年06月25日",
-      "date_published": "2026-06-25T04:46:31.573Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/06/438174.html",
-      "url": "https://www.qbitai.com/2026/06/438174.html",
-      "title": "百度智能云发布百度千帆Token Plan企业版，提供GLM-5.2等模型",
-      "summary": "百度千帆 · 量子位的朋友们 · 2026年06月24日",
-      "date_published": "2026-06-25T04:46:31.573Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/06/438166.html",
-      "url": "https://www.qbitai.com/2026/06/438166.html",
-      "title": "1小时真机RL微调成功率破95%！HIL-ResRL：即插即用的VLA“外挂”神器",
-      "summary": "资讯 · 量子位的朋友们 · 2026年06月24日",
-      "date_published": "2026-06-25T04:46:31.573Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/06/438198.html",
-      "url": "https://www.qbitai.com/2026/06/438198.html",
-      "title": "“AI填志愿”成高考后新现象，超1400万人在和千问聊高考",
-      "summary": "千问 · 量子位的朋友们 · 2026年06月24日",
-      "date_published": "2026-06-25T04:46:31.573Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/06/438157.html",
-      "url": "https://www.qbitai.com/2026/06/438157.html",
-      "title": "Future Tech谁会成为下一个AI巨头？这175个早期项目站上WAIC2026",
-      "summary": "waic2026 · 量子位的朋友们 · 2026年06月24日",
-      "date_published": "2026-06-25T04:46:31.573Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/06/437853.html",
-      "url": "https://www.qbitai.com/2026/06/437853.html",
-      "title": "物理AI第一块万亿市场，在公路货运先跑通闭环了",
-      "summary": "智能车参考 · 杰西卡 · 2026年06月24日",
-      "date_published": "2026-06-25T04:46:31.573Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/06/437833.html",
-      "url": "https://www.qbitai.com/2026/06/437833.html",
-      "title": "华为天才少年一作，港大MaRS Lab拿下IEEE TRO傅京孙纪念最佳论文奖",
-      "summary": "华为天才少年 · 思邈 · 2026年06月24日",
-      "date_published": "2026-06-25T04:46:31.573Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/06/437834.html",
-      "url": "https://www.qbitai.com/2026/06/437834.html",
-      "title": "阿里QoderWork推“峰谷Token”，夜间使用Qwen3.7低至2折",
-      "summary": "阿里云 · 量子位的朋友们 · 2026年06月24日",
-      "date_published": "2026-06-25T04:46:31.573Z"
+      "date_published": "2026-06-25T15:24:37.709Z"
     }
   ]
 }
