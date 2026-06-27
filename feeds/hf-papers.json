@@ -8,155 +8,176 @@
       "id": "https://huggingface.co/papers/2606.27377",
       "url": "https://huggingface.co/papers/2606.27377",
       "title": "DanceOPD: On-Policy Generative Field Distillation",
-      "summary": "2606.27377 · ▲ 51",
-      "date_published": "2026-06-26T15:11:52.742Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.27313",
-      "url": "https://huggingface.co/papers/2606.27313",
-      "title": "ViQ: Text-Aligned Visual Quantized Representations at Any Resolution",
-      "summary": "2606.27313 · ▲ 34",
-      "date_published": "2026-06-26T15:11:52.742Z"
+      "summary": "2606.27377 · ▲ 56",
+      "date_published": "2026-06-27T04:35:46.948Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.26790",
       "url": "https://huggingface.co/papers/2606.26790",
       "title": "OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning",
-      "summary": "2606.26790 · ▲ 31",
-      "date_published": "2026-06-26T15:11:52.742Z"
+      "summary": "2606.26790 · ▲ 38",
+      "date_published": "2026-06-27T04:35:46.948Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.27313",
+      "url": "https://huggingface.co/papers/2606.27313",
+      "title": "ViQ: Text-Aligned Visual Quantized Representations at Any Resolution",
+      "summary": "2606.27313 · ▲ 37",
+      "date_published": "2026-06-27T04:35:46.948Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.26907",
       "url": "https://huggingface.co/papers/2606.26907",
       "title": "Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation",
-      "summary": "2606.26907 · ▲ 31",
-      "date_published": "2026-06-26T15:11:52.742Z"
+      "summary": "2606.26907 · ▲ 37",
+      "date_published": "2026-06-27T04:35:46.948Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.26300",
       "url": "https://huggingface.co/papers/2606.26300",
       "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
-      "summary": "2606.26300 · ▲ 23",
-      "date_published": "2026-06-26T15:11:52.742Z"
+      "summary": "2606.26300 · ▲ 35",
+      "date_published": "2026-06-27T04:35:46.948Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.18394",
       "url": "https://huggingface.co/papers/2606.18394",
       "title": "JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting",
-      "summary": "2606.18394 · ▲ 19",
-      "date_published": "2026-06-26T15:11:52.742Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.26027",
-      "url": "https://huggingface.co/papers/2606.26027",
-      "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
-      "summary": "2606.26027 · ▲ 10",
-      "date_published": "2026-06-26T15:11:52.742Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.14397",
-      "url": "https://huggingface.co/papers/2606.14397",
-      "title": "Running the Gauntlet: Re-evaluating the Capabilities of Agents Beyond Familiar Environments",
-      "summary": "2606.14397 · ▲ 9",
-      "date_published": "2026-06-26T15:11:52.742Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.27192",
-      "url": "https://huggingface.co/papers/2606.27192",
-      "title": "LISA: Likelihood Score Alignment for Visual-condition Controllable Generation",
-      "summary": "2606.27192 · ▲ 8",
-      "date_published": "2026-06-26T15:11:52.742Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.26904",
-      "url": "https://huggingface.co/papers/2606.26904",
-      "title": "Confidence-Aware Tool Orchestration for Robust Video Understanding",
-      "summary": "2606.26904 · ▲ 6",
-      "date_published": "2026-06-26T15:11:52.742Z"
+      "summary": "2606.18394 · ▲ 26",
+      "date_published": "2026-06-27T04:35:46.948Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.24551",
       "url": "https://huggingface.co/papers/2606.24551",
       "title": "GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents",
-      "summary": "2606.24551 · ▲ 6",
-      "date_published": "2026-06-26T15:11:52.742Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.26025",
-      "url": "https://huggingface.co/papers/2606.26025",
-      "title": "In-Context World Modeling for Robotic Control",
-      "summary": "2606.26025 · ▲ 5",
-      "date_published": "2026-06-26T15:11:52.742Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.16613",
-      "url": "https://huggingface.co/papers/2606.16613",
-      "title": "CoffeeBench: Benchmarking Long-Horizon LLM Agents in Heterogeneous Multi-Agent Economies",
-      "summary": "2606.16613 · ▲ 4",
-      "date_published": "2026-06-26T15:11:52.742Z"
+      "summary": "2606.24551 · ▲ 25",
+      "date_published": "2026-06-27T04:35:46.948Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.26217",
       "url": "https://huggingface.co/papers/2606.26217",
       "title": "Fast LeWorldModel",
-      "summary": "2606.26217 · ▲ 3",
-      "date_published": "2026-06-26T15:11:52.742Z"
+      "summary": "2606.26217 · ▲ 19",
+      "date_published": "2026-06-27T04:35:46.948Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.14397",
+      "url": "https://huggingface.co/papers/2606.14397",
+      "title": "Running the Gauntlet: Re-evaluating the Capabilities of Agents Beyond Familiar Environments",
+      "summary": "2606.14397 · ▲ 14",
+      "date_published": "2026-06-27T04:35:46.948Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.26025",
+      "url": "https://huggingface.co/papers/2606.26025",
+      "title": "In-Context World Modeling for Robotic Control",
+      "summary": "2606.26025 · ▲ 14",
+      "date_published": "2026-06-27T04:35:46.948Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.26027",
+      "url": "https://huggingface.co/papers/2606.26027",
+      "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
+      "summary": "2606.26027 · ▲ 14",
+      "date_published": "2026-06-27T04:35:46.948Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.27192",
+      "url": "https://huggingface.co/papers/2606.27192",
+      "title": "LISA: Likelihood Score Alignment for Visual-condition Controllable Generation",
+      "summary": "2606.27192 · ▲ 12",
+      "date_published": "2026-06-27T04:35:46.948Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.26904",
+      "url": "https://huggingface.co/papers/2606.26904",
+      "title": "Confidence-Aware Tool Orchestration for Robust Video Understanding",
+      "summary": "2606.26904 · ▲ 9",
+      "date_published": "2026-06-27T04:35:46.948Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.27364",
       "url": "https://huggingface.co/papers/2606.27364",
       "title": "PhysiFormer: Learning to Simulate Mechanics in World Space",
-      "summary": "2606.27364 · ▲ 2",
-      "date_published": "2026-06-26T15:11:52.742Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.21795",
-      "url": "https://huggingface.co/papers/2606.21795",
-      "title": "Discretizing Reward Models",
-      "summary": "2606.21795 · ▲ 2",
-      "date_published": "2026-06-26T15:11:52.742Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.27277",
-      "url": "https://huggingface.co/papers/2606.27277",
-      "title": "EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting",
-      "summary": "2606.27277 · ▲ 1",
-      "date_published": "2026-06-26T15:11:52.742Z"
+      "summary": "2606.27364 · ▲ 8",
+      "date_published": "2026-06-27T04:35:46.948Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.27326",
       "url": "https://huggingface.co/papers/2606.27326",
       "title": "Hallucination in World Models is Predictable and Preventable",
-      "summary": "2606.27326 · ▲ 1",
-      "date_published": "2026-06-26T15:11:52.742Z"
+      "summary": "2606.27326 · ▲ 7",
+      "date_published": "2026-06-27T04:35:46.948Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.16613",
+      "url": "https://huggingface.co/papers/2606.16613",
+      "title": "CoffeeBench: Benchmarking Long-Horizon LLM Agents in Heterogeneous Multi-Agent Economies",
+      "summary": "2606.16613 · ▲ 7",
+      "date_published": "2026-06-27T04:35:46.948Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.26080",
+      "url": "https://huggingface.co/papers/2606.26080",
+      "title": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
+      "summary": "2606.26080 · ▲ 6",
+      "date_published": "2026-06-27T04:35:46.948Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.21795",
+      "url": "https://huggingface.co/papers/2606.21795",
+      "title": "Discretizing Reward Models",
+      "summary": "2606.21795 · ▲ 6",
+      "date_published": "2026-06-27T04:35:46.948Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.26875",
+      "url": "https://huggingface.co/papers/2606.26875",
+      "title": "Information-Aware KV Cache Compression for Long Reasoning",
+      "summary": "2606.26875 · ▲ 5",
+      "date_published": "2026-06-27T04:35:46.948Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.27288",
       "url": "https://huggingface.co/papers/2606.27288",
       "title": "When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models",
-      "summary": "2606.27288 · ▲ 1",
-      "date_published": "2026-06-26T15:11:52.742Z"
+      "summary": "2606.27288 · ▲ 3",
+      "date_published": "2026-06-27T04:35:46.948Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.26299",
       "url": "https://huggingface.co/papers/2606.26299",
       "title": "COrigami: An AI Pipeline for Co-Designing Flat-Foldable Visually Recognisable Origami",
-      "summary": "2606.26299 · ▲ 1",
-      "date_published": "2026-06-26T15:11:52.742Z"
+      "summary": "2606.26299 · ▲ 3",
+      "date_published": "2026-06-27T04:35:46.948Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.21959",
       "url": "https://huggingface.co/papers/2606.21959",
       "title": "OpenBioRQ: Unsolved Biomedical Research Questions for Agents",
-      "summary": "2606.21959 · ▲ 1",
-      "date_published": "2026-06-26T15:11:52.742Z"
+      "summary": "2606.21959 · ▲ 3",
+      "date_published": "2026-06-27T04:35:46.948Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.16517",
       "url": "https://huggingface.co/papers/2606.16517",
       "title": "How Post-Training Shapes Biological Reasoning Models",
-      "summary": "2606.16517 · ▲ 0",
-      "date_published": "2026-06-26T15:11:52.742Z"
+      "summary": "2606.16517 · ▲ 3",
+      "date_published": "2026-06-27T04:35:46.948Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.27277",
+      "url": "https://huggingface.co/papers/2606.27277",
+      "title": "EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting",
+      "summary": "2606.27277 · ▲ 2",
+      "date_published": "2026-06-27T04:35:46.948Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.23835",
+      "url": "https://huggingface.co/papers/2606.23835",
+      "title": "ABACUS: Adapting Unified Foundation Model for Bridging Image Count Understanding and Generation",
+      "summary": "2606.23835 · ▲ 2",
+      "date_published": "2026-06-27T04:35:46.948Z"
     }
   ]
 }
