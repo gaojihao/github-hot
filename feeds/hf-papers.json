@@ -8,78 +8,134 @@
       "id": "https://huggingface.co/papers/2606.28128",
       "url": "https://huggingface.co/papers/2606.28128",
       "title": "PhysisForcing: Physics Reinforced World Simulator for Robotic Manipulation",
-      "summary": "2606.28128 · ▲ 16",
-      "date_published": "2026-06-29T05:13:38.724Z"
+      "summary": "2606.28128 · ▲ 32",
+      "date_published": "2026-06-29T16:24:41.657Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.28133",
       "url": "https://huggingface.co/papers/2606.28133",
       "title": "Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots",
-      "summary": "2606.28133 · ▲ 14",
-      "date_published": "2026-06-29T05:13:38.724Z"
+      "summary": "2606.28133 · ▲ 28",
+      "date_published": "2026-06-29T16:24:41.657Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.27608",
+      "url": "https://huggingface.co/papers/2606.27608",
+      "title": "Qwen-Image-2.0-RL Technical Report",
+      "summary": "2606.27608 · ▲ 23",
+      "date_published": "2026-06-29T16:24:41.657Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.27378",
+      "url": "https://huggingface.co/papers/2606.27378",
+      "title": "Formalizing Latent Thoughts: Four Axioms of Thought Representation in LLMs",
+      "summary": "2606.27378 · ▲ 17",
+      "date_published": "2026-06-29T16:24:41.657Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.28057",
+      "url": "https://huggingface.co/papers/2606.28057",
+      "title": "MultiHashFormer: Hash-based Generative Language Models",
+      "summary": "2606.28057 · ▲ 15",
+      "date_published": "2026-06-29T16:24:41.657Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.22873",
       "url": "https://huggingface.co/papers/2606.22873",
       "title": "SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning",
-      "summary": "2606.22873 · ▲ 10",
-      "date_published": "2026-06-29T05:13:38.724Z"
+      "summary": "2606.22873 · ▲ 11",
+      "date_published": "2026-06-29T16:24:41.657Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.26015",
+      "url": "https://huggingface.co/papers/2606.26015",
+      "title": "The Tatoxa System for Text Detoxification in Low-Resource Languages: The Case of Tatar",
+      "summary": "2606.26015 · ▲ 8",
+      "date_published": "2026-06-29T16:24:41.657Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.27974",
       "url": "https://huggingface.co/papers/2606.27974",
       "title": "ProMSA:Progressive Multimodal Search Agents for Knowledge-Based Visual Question Answering",
       "summary": "2606.27974 · ▲ 7",
-      "date_published": "2026-06-29T05:13:38.724Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.27608",
-      "url": "https://huggingface.co/papers/2606.27608",
-      "title": "Qwen-Image-2.0-RL Technical Report",
-      "summary": "2606.27608 · ▲ 7",
-      "date_published": "2026-06-29T05:13:38.724Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.27378",
-      "url": "https://huggingface.co/papers/2606.27378",
-      "title": "Formalizing Latent Thoughts: Four Axioms of Thought Representation in LLMs",
-      "summary": "2606.27378 · ▲ 4",
-      "date_published": "2026-06-29T05:13:38.724Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.27771",
-      "url": "https://huggingface.co/papers/2606.27771",
-      "title": "NormGuard: Reward-Preserving Norm Constraints in Flow-Matching Reinforcement Learning",
-      "summary": "2606.27771 · ▲ 1",
-      "date_published": "2026-06-29T05:13:38.724Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.27595",
-      "url": "https://huggingface.co/papers/2606.27595",
-      "title": "Ko-WideSearch: A Korean Breadth-Search Benchmark for Exhaustive Set Enumeration by Web Agents",
-      "summary": "2606.27595 · ▲ 1",
-      "date_published": "2026-06-29T05:13:38.724Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.28277",
-      "url": "https://huggingface.co/papers/2606.28277",
-      "title": "Towards Automating Scientific Review with Google's Paper Assistant Tool",
-      "summary": "2606.28277 · ▲ 0",
-      "date_published": "2026-06-29T05:13:38.724Z"
+      "date_published": "2026-06-29T16:24:41.657Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.28276",
       "url": "https://huggingface.co/papers/2606.28276",
       "title": "SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation",
-      "summary": "2606.28276 · ▲ 0",
-      "date_published": "2026-06-29T05:13:38.724Z"
+      "summary": "2606.28276 · ▲ 6",
+      "date_published": "2026-06-29T16:24:41.657Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.27978",
+      "url": "https://huggingface.co/papers/2606.27978",
+      "title": "Parallel Rollout Approximation for Pixel-Space Autoregressive Image Generation",
+      "summary": "2606.27978 · ▲ 4",
+      "date_published": "2026-06-29T16:24:41.657Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.28187",
+      "url": "https://huggingface.co/papers/2606.28187",
+      "title": "GBC: Gradient-Based Connections for Optimizing Multi-Agent Systems",
+      "summary": "2606.28187 · ▲ 4",
+      "date_published": "2026-06-29T16:24:41.657Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.27163",
+      "url": "https://huggingface.co/papers/2606.27163",
+      "title": "Learning to Fold: prizewinning solution at LeHome Challenge 2026 (1st place online, 2nd offline)",
+      "summary": "2606.27163 · ▲ 4",
+      "date_published": "2026-06-29T16:24:41.657Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.27595",
+      "url": "https://huggingface.co/papers/2606.27595",
+      "title": "Ko-WideSearch: A Korean Breadth-Search Benchmark for Exhaustive Set Enumeration by Web Agents",
+      "summary": "2606.27595 · ▲ 4",
+      "date_published": "2026-06-29T16:24:41.657Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2511.07397",
+      "url": "https://huggingface.co/papers/2511.07397",
+      "title": "Thinking While Speaking: Inference-Time Knowledge Transfer for Responsive and Intelligent Conversational Voice Agents",
+      "summary": "2511.07397 · ▲ 4",
+      "date_published": "2026-06-29T16:24:41.657Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.27771",
+      "url": "https://huggingface.co/papers/2606.27771",
+      "title": "NormGuard: Reward-Preserving Norm Constraints in Flow-Matching Reinforcement Learning",
+      "summary": "2606.27771 · ▲ 3",
+      "date_published": "2026-06-29T16:24:41.657Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.28277",
+      "url": "https://huggingface.co/papers/2606.28277",
+      "title": "Towards Automating Scientific Review with Google's Paper Assistant Tool",
+      "summary": "2606.28277 · ▲ 3",
+      "date_published": "2026-06-29T16:24:41.657Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.18953",
+      "url": "https://huggingface.co/papers/2606.18953",
+      "title": "Object-Centric Residual RL for Zero-Shot Sim-to-Real VLA Enhancement",
+      "summary": "2606.18953 · ▲ 3",
+      "date_published": "2026-06-29T16:24:41.657Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.27457",
+      "url": "https://huggingface.co/papers/2606.27457",
+      "title": "Cluster, Route, Escalate: Cascaded Framework for Cost-Aware LLM Serving",
+      "summary": "2606.27457 · ▲ 1",
+      "date_published": "2026-06-29T16:24:41.657Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.26519",
       "url": "https://huggingface.co/papers/2606.26519",
       "title": "Boundary-Aware Context Grounding for A Low-Channel EEG Agent",
       "summary": "2606.26519 · ▲ 0",
-      "date_published": "2026-06-29T05:13:38.724Z"
+      "date_published": "2026-06-29T16:24:41.657Z"
     }
   ]
 }
