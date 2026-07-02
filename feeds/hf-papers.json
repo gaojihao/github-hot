@@ -5,200 +5,88 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2606.30534",
-      "url": "https://huggingface.co/papers/2606.30534",
-      "title": "Orca: The World is in Your Mind",
-      "summary": "2606.30534 · ▲ 172",
-      "date_published": "2026-07-01T15:20:03.625Z"
+      "id": "https://huggingface.co/papers/2606.19271",
+      "url": "https://huggingface.co/papers/2606.19271",
+      "title": "TurboServe: Serving Streaming Video Generation Efficiently and Economically",
+      "summary": "2606.19271 · ▲ 13",
+      "date_published": "2026-07-02T04:41:48.666Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.28436",
-      "url": "https://huggingface.co/papers/2606.28436",
-      "title": "Dockerless: Environment-Free Program Verifier for Coding Agents",
-      "summary": "2606.28436 · ▲ 80",
-      "date_published": "2026-07-01T15:20:03.625Z"
+      "id": "https://huggingface.co/papers/2607.00666",
+      "url": "https://huggingface.co/papers/2607.00666",
+      "title": "Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts",
+      "summary": "2607.00666 · ▲ 11",
+      "date_published": "2026-07-02T04:41:48.666Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.30626",
-      "url": "https://huggingface.co/papers/2606.30626",
-      "title": "DOPD: Dual On-policy Distillation",
-      "summary": "2606.30626 · ▲ 70",
-      "date_published": "2026-07-01T15:20:03.625Z"
+      "id": "https://huggingface.co/papers/2607.01104",
+      "url": "https://huggingface.co/papers/2607.01104",
+      "title": "CausalMix: Data Mixture as Causal Inference for Language Model Training",
+      "summary": "2607.01104 · ▲ 7",
+      "date_published": "2026-07-02T04:41:48.666Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.31315",
-      "url": "https://huggingface.co/papers/2606.31315",
-      "title": "BlockPilot: Instance-Adaptive Policy Learning for Diffusion-based Speculative Decoding",
-      "summary": "2606.31315 · ▲ 66",
-      "date_published": "2026-07-01T15:20:03.625Z"
+      "id": "https://huggingface.co/papers/2606.20997",
+      "url": "https://huggingface.co/papers/2606.20997",
+      "title": "BioInsight: Multi-Agent Orchestration for Interactive Biomedical Knowledge Discovery",
+      "summary": "2606.20997 · ▲ 6",
+      "date_published": "2026-07-02T04:41:48.666Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.29513",
-      "url": "https://huggingface.co/papers/2606.29513",
-      "title": "Scenes as Objects, Not Primitives: Instance-Structured 3D Tokenization from Unposed Views",
-      "summary": "2606.29513 · ▲ 28",
-      "date_published": "2026-07-01T15:20:03.625Z"
+      "id": "https://huggingface.co/papers/2607.01191",
+      "url": "https://huggingface.co/papers/2607.01191",
+      "title": "Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning",
+      "summary": "2607.01191 · ▲ 5",
+      "date_published": "2026-07-02T04:41:48.666Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.32039",
-      "url": "https://huggingface.co/papers/2606.32039",
-      "title": "GEAR: Guided End-to-End AutoRegression for Image Synthesis",
-      "summary": "2606.32039 · ▲ 26",
-      "date_published": "2026-07-01T15:20:03.625Z"
+      "id": "https://huggingface.co/papers/2607.01218",
+      "url": "https://huggingface.co/papers/2607.01218",
+      "title": "The State-Prediction Separation Hypothesis",
+      "summary": "2607.01218 · ▲ 3",
+      "date_published": "2026-07-02T04:41:48.666Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.29215",
-      "url": "https://huggingface.co/papers/2606.29215",
-      "title": "Multi-Block Diffusion Language Models",
-      "summary": "2606.29215 · ▲ 20",
-      "date_published": "2026-07-01T15:20:03.625Z"
+      "id": "https://huggingface.co/papers/2607.00678",
+      "url": "https://huggingface.co/papers/2607.00678",
+      "title": "ABot-M0.5: Unified Mobility-and-Manipulation World Action Model",
+      "summary": "2607.00678 · ▲ 2",
+      "date_published": "2026-07-02T04:41:48.666Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.29082",
-      "url": "https://huggingface.co/papers/2606.29082",
-      "title": "Evolution Fine-Tuning: Learning to Discover Across 371 Optimization Tasks",
-      "summary": "2606.29082 · ▲ 20",
-      "date_published": "2026-07-01T15:20:03.625Z"
+      "id": "https://huggingface.co/papers/2607.01131",
+      "url": "https://huggingface.co/papers/2607.01131",
+      "title": "Autonomous Scientific Discovery via Iterative Meta-Reflection",
+      "summary": "2607.01131 · ▲ 2",
+      "date_published": "2026-07-02T04:41:48.666Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.08671",
-      "url": "https://huggingface.co/papers/2606.08671",
-      "title": "SkillHone: A Harness for Continual Agent Skill Evolution Through Persistent Decision History",
-      "summary": "2606.08671 · ▲ 20",
-      "date_published": "2026-07-01T15:20:03.625Z"
+      "id": "https://huggingface.co/papers/2606.32029",
+      "url": "https://huggingface.co/papers/2606.32029",
+      "title": "When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors",
+      "summary": "2606.32029 · ▲ 2",
+      "date_published": "2026-07-02T04:41:48.666Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.31734",
-      "url": "https://huggingface.co/papers/2606.31734",
-      "title": "MemLearner: Learning to Query Context memory for Video World Models",
-      "summary": "2606.31734 · ▲ 18",
-      "date_published": "2026-07-01T15:20:03.625Z"
+      "id": "https://huggingface.co/papers/2606.31551",
+      "url": "https://huggingface.co/papers/2606.31551",
+      "title": "AutoTrainess: Teaching Language Models to Improve Language Models Autonomously",
+      "summary": "2606.31551 · ▲ 2",
+      "date_published": "2026-07-02T04:41:48.666Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.23127",
-      "url": "https://huggingface.co/papers/2606.23127",
-      "title": "Managing Procedural Memory in LLM Agents: Control, Adaptation, and Evaluation",
-      "summary": "2606.23127 · ▲ 17",
-      "date_published": "2026-07-01T15:20:03.625Z"
+      "id": "https://huggingface.co/papers/2607.00917",
+      "url": "https://huggingface.co/papers/2607.00917",
+      "title": "Valdi: Value Diffusion World Models",
+      "summary": "2607.00917 · ▲ 1",
+      "date_published": "2026-07-02T04:41:48.666Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.31537",
-      "url": "https://huggingface.co/papers/2606.31537",
-      "title": "DataEvolver: Self-Evolving Multi-Agent Data Construction for Text-Rich Image Generation",
-      "summary": "2606.31537 · ▲ 16",
-      "date_published": "2026-07-01T15:20:03.625Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.26968",
-      "url": "https://huggingface.co/papers/2606.26968",
-      "title": "RedVox: Safety and Fairness Gaps in Speech Models Across Languages",
-      "summary": "2606.26968 · ▲ 12",
-      "date_published": "2026-07-01T15:20:03.625Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.32032",
-      "url": "https://huggingface.co/papers/2606.32032",
-      "title": "Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs",
-      "summary": "2606.32032 · ▲ 11",
-      "date_published": "2026-07-01T15:20:03.625Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.30062",
-      "url": "https://huggingface.co/papers/2606.30062",
-      "title": "Little Brains, Big Feats: Exploring Compact Language Models",
-      "summary": "2606.30062 · ▲ 10",
-      "date_published": "2026-07-01T15:20:03.625Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.32034",
-      "url": "https://huggingface.co/papers/2606.32034",
-      "title": "QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents",
-      "summary": "2606.32034 · ▲ 8",
-      "date_published": "2026-07-01T15:20:03.625Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.30673",
-      "url": "https://huggingface.co/papers/2606.30673",
-      "title": "PolyFlow: Continuous Topology Embedding Flow Matching for Artist-style Mesh Generation",
-      "summary": "2606.30673 · ▲ 8",
-      "date_published": "2026-07-01T15:20:03.625Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.31410",
-      "url": "https://huggingface.co/papers/2606.31410",
-      "title": "Xiaomi-GUI-0 Technical Report",
-      "summary": "2606.31410 · ▲ 7",
-      "date_published": "2026-07-01T15:20:03.625Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.29667",
-      "url": "https://huggingface.co/papers/2606.29667",
-      "title": "Unlocking the Visual Record of Materials Science: A Large-Scale Multimodal Dataset from Scientific Literature",
-      "summary": "2606.29667 · ▲ 7",
-      "date_published": "2026-07-01T15:20:03.625Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.30319",
-      "url": "https://huggingface.co/papers/2606.30319",
-      "title": "BrainJanus: A Unified Model for Understanding and Generation across Brain, Vision, and Language",
-      "summary": "2606.30319 · ▲ 5",
-      "date_published": "2026-07-01T15:20:03.625Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.30968",
-      "url": "https://huggingface.co/papers/2606.30968",
-      "title": "PhotoQuilt: Training-Free Arbitrary-Resolution Photomosaics via Bootstrapped Tiled Denoising",
-      "summary": "2606.30968 · ▲ 3",
-      "date_published": "2026-07-01T15:20:03.625Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.30811",
-      "url": "https://huggingface.co/papers/2606.30811",
-      "title": "AVTok: 1D Unified Tokenization for Holistic Audio-Video Generation",
-      "summary": "2606.30811 · ▲ 3",
-      "date_published": "2026-07-01T15:20:03.625Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.31811",
-      "url": "https://huggingface.co/papers/2606.31811",
-      "title": "MuSViT: A Foundation Vision Model for Sheet Music Representation",
-      "summary": "2606.31811 · ▲ 2",
-      "date_published": "2026-07-01T15:20:03.625Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.31029",
-      "url": "https://huggingface.co/papers/2606.31029",
-      "title": "TerraDiT-Ω: Unified Spatial Control for Satellite Image Synthesis with Any Geospatial Primitive",
-      "summary": "2606.31029 · ▲ 2",
-      "date_published": "2026-07-01T15:20:03.625Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.30406",
-      "url": "https://huggingface.co/papers/2606.30406",
-      "title": "MOPD: Multi-Teacher On-Policy Distillation for Capability Integration in LLM Post-Training",
-      "summary": "2606.30406 · ▲ 2",
-      "date_published": "2026-07-01T15:20:03.625Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.30697",
-      "url": "https://huggingface.co/papers/2606.30697",
-      "title": "LUMOS: A Semantic Operating-System Layer for Accessibility-Grounded AI Agents",
-      "summary": "2606.30697 · ▲ 2",
-      "date_published": "2026-07-01T15:20:03.625Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.30599",
-      "url": "https://huggingface.co/papers/2606.30599",
-      "title": "Goku: A Million-Scale Universal Dataset and Benchmark for Instruction-Based Video Editing",
-      "summary": "2606.30599 · ▲ 1",
-      "date_published": "2026-07-01T15:20:03.625Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.31247",
-      "url": "https://huggingface.co/papers/2606.31247",
-      "title": "FlexiSLM: A Dynamic and Controllable Frame Rate Spoken Language Model",
-      "summary": "2606.31247 · ▲ 0",
-      "date_published": "2026-07-01T15:20:03.625Z"
+      "id": "https://huggingface.co/papers/2606.31292",
+      "url": "https://huggingface.co/papers/2606.31292",
+      "title": "AtomiMed: Hierarchical Atomic Fact-Checking for Universal Clinical-Aware Medical Report Evaluation",
+      "summary": "2606.31292 · ▲ 1",
+      "date_published": "2026-07-02T04:41:48.666Z"
     }
   ]
 }
