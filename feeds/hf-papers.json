@@ -8,162 +8,190 @@
       "id": "https://huggingface.co/papers/2607.02512",
       "url": "https://huggingface.co/papers/2607.02512",
       "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
-      "summary": "2607.02512 · ▲ 42",
-      "date_published": "2026-07-03T14:52:19.914Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.02440",
-      "url": "https://huggingface.co/papers/2607.02440",
-      "title": "EvoPolicyGym: Evaluating Autonomous Policy Evolution in Interactive Environments",
-      "summary": "2607.02440 · ▲ 38",
-      "date_published": "2026-07-03T14:52:19.914Z"
+      "summary": "2607.02512 · ▲ 59",
+      "date_published": "2026-07-04T04:20:44.228Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.02255",
       "url": "https://huggingface.co/papers/2607.02255",
       "title": "AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents",
-      "summary": "2607.02255 · ▲ 38",
-      "date_published": "2026-07-03T14:52:19.914Z"
+      "summary": "2607.02255 · ▲ 41",
+      "date_published": "2026-07-04T04:20:44.228Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.02440",
+      "url": "https://huggingface.co/papers/2607.02440",
+      "title": "EvoPolicyGym: Evaluating Autonomous Policy Evolution in Interactive Environments",
+      "summary": "2607.02440 · ▲ 40",
+      "date_published": "2026-07-04T04:20:44.228Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.30562",
       "url": "https://huggingface.co/papers/2606.30562",
       "title": "Morphing into Hybrid Attention Models",
-      "summary": "2606.30562 · ▲ 28",
-      "date_published": "2026-07-03T14:52:19.914Z"
+      "summary": "2606.30562 · ▲ 33",
+      "date_published": "2026-07-04T04:20:44.228Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.01647",
       "url": "https://huggingface.co/papers/2607.01647",
       "title": "AgenticDataBench: A Comprehensive Benchmark for Data Agents",
-      "summary": "2607.01647 · ▲ 18",
-      "date_published": "2026-07-03T14:52:19.914Z"
+      "summary": "2607.01647 · ▲ 24",
+      "date_published": "2026-07-04T04:20:44.228Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.01642",
       "url": "https://huggingface.co/papers/2607.01642",
       "title": "Multi-Resolution Flow Matching: Training-Free Diffusion Acceleration via Staged Sampling",
-      "summary": "2607.01642 · ▲ 17",
-      "date_published": "2026-07-03T14:52:19.914Z"
+      "summary": "2607.01642 · ▲ 22",
+      "date_published": "2026-07-04T04:20:44.228Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.02517",
       "url": "https://huggingface.co/papers/2607.02517",
       "title": "WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory",
-      "summary": "2607.02517 · ▲ 15",
-      "date_published": "2026-07-03T14:52:19.914Z"
+      "summary": "2607.02517 · ▲ 18",
+      "date_published": "2026-07-04T04:20:44.228Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.31825",
       "url": "https://huggingface.co/papers/2606.31825",
       "title": "Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning",
-      "summary": "2606.31825 · ▲ 13",
-      "date_published": "2026-07-03T14:52:19.914Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.02291",
-      "url": "https://huggingface.co/papers/2607.02291",
-      "title": "Optimizing Visual Generative Models via Distribution-wise Rewards",
-      "summary": "2607.02291 · ▲ 11",
-      "date_published": "2026-07-03T14:52:19.914Z"
+      "summary": "2606.31825 · ▲ 15",
+      "date_published": "2026-07-04T04:20:44.228Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.01874",
       "url": "https://huggingface.co/papers/2607.01874",
       "title": "SkillCoach: Self-Evolving Rubrics for Evaluating and Enhancing Agentic Skill-Use",
-      "summary": "2607.01874 · ▲ 10",
-      "date_published": "2026-07-03T14:52:19.914Z"
+      "summary": "2607.01874 · ▲ 14",
+      "date_published": "2026-07-04T04:20:44.228Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.02271",
-      "url": "https://huggingface.co/papers/2607.02271",
-      "title": "AGVBench: A Reliability-Oriented Benchmark of Data Augmentation for Vein Recognition",
-      "summary": "2607.02271 · ▲ 9",
-      "date_published": "2026-07-03T14:52:19.914Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.02508",
-      "url": "https://huggingface.co/papers/2607.02508",
-      "title": "From SRA to Self-Flow: Data Augmentation or Self-Supervision?",
-      "summary": "2607.02508 · ▲ 9",
-      "date_published": "2026-07-03T14:52:19.914Z"
+      "id": "https://huggingface.co/papers/2607.02291",
+      "url": "https://huggingface.co/papers/2607.02291",
+      "title": "Optimizing Visual Generative Models via Distribution-wise Rewards",
+      "summary": "2607.02291 · ▲ 12",
+      "date_published": "2026-07-04T04:20:44.228Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.01002",
       "url": "https://huggingface.co/papers/2607.01002",
       "title": "Logit-Contribution Scoring Identifies Non-Literal Retrieval Heads",
-      "summary": "2607.01002 · ▲ 8",
-      "date_published": "2026-07-03T14:52:19.914Z"
+      "summary": "2607.01002 · ▲ 12",
+      "date_published": "2026-07-04T04:20:44.228Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.02271",
+      "url": "https://huggingface.co/papers/2607.02271",
+      "title": "AGVBench: A Reliability-Oriented Benchmark of Data Augmentation for Vein Recognition",
+      "summary": "2607.02271 · ▲ 11",
+      "date_published": "2026-07-04T04:20:44.228Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.02508",
+      "url": "https://huggingface.co/papers/2607.02508",
+      "title": "From SRA to Self-Flow: Data Augmentation or Self-Supervision?",
+      "summary": "2607.02508 · ▲ 10",
+      "date_published": "2026-07-04T04:20:44.228Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.31924",
+      "url": "https://huggingface.co/papers/2606.31924",
+      "title": "InstanceControl: Controllable Complex Image Generation without Instance Labeling",
+      "summary": "2606.31924 · ▲ 8",
+      "date_published": "2026-07-04T04:20:44.228Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.27669",
+      "url": "https://huggingface.co/papers/2606.27669",
+      "title": "When Search Agents Should Ask: DiscoBench for Clarification-Aware Deep Search",
+      "summary": "2606.27669 · ▲ 8",
+      "date_published": "2026-07-04T04:20:44.228Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.02269",
       "url": "https://huggingface.co/papers/2607.02269",
       "title": "AnyGroundBench: A Specialized-Domain Benchmark for Video Grounding in Vision-Language Models",
       "summary": "2607.02269 · ▲ 7",
-      "date_published": "2026-07-03T14:52:19.914Z"
+      "date_published": "2026-07-04T04:20:44.228Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.27669",
-      "url": "https://huggingface.co/papers/2606.27669",
-      "title": "When Search Agents Should Ask: DiscoBench for Clarification-Aware Deep Search",
-      "summary": "2606.27669 · ▲ 7",
-      "date_published": "2026-07-03T14:52:19.914Z"
+      "id": "https://huggingface.co/papers/2607.01224",
+      "url": "https://huggingface.co/papers/2607.01224",
+      "title": "AutoMem: Automated Learning of Memory as a Cognitive Skill",
+      "summary": "2607.01224 · ▲ 6",
+      "date_published": "2026-07-04T04:20:44.228Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.02032",
+      "url": "https://huggingface.co/papers/2607.02032",
+      "title": "PACE: A Proxy for Agentic Capability Evaluation",
+      "summary": "2607.02032 · ▲ 5",
+      "date_published": "2026-07-04T04:20:44.228Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.02375",
       "url": "https://huggingface.co/papers/2607.02375",
       "title": "Representation Distribution Matching for One-Step Visual Generation",
       "summary": "2607.02375 · ▲ 4",
-      "date_published": "2026-07-03T14:52:19.914Z"
+      "date_published": "2026-07-04T04:20:44.228Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.02466",
+      "url": "https://huggingface.co/papers/2607.02466",
+      "title": "Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs",
+      "summary": "2607.02466 · ▲ 4",
+      "date_published": "2026-07-04T04:20:44.228Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.01763",
       "url": "https://huggingface.co/papers/2607.01763",
       "title": "Denser neq Better: Limits of On-Policy Self-Distillation for Continual Post-Training",
       "summary": "2607.01763 · ▲ 4",
-      "date_published": "2026-07-03T14:52:19.914Z"
+      "date_published": "2026-07-04T04:20:44.228Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.01436",
       "url": "https://huggingface.co/papers/2607.01436",
       "title": "Discrete Diffusion Language Models for Interactive Radiology Report Drafting",
       "summary": "2607.01436 · ▲ 4",
-      "date_published": "2026-07-03T14:52:19.914Z"
+      "date_published": "2026-07-04T04:20:44.228Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.31924",
-      "url": "https://huggingface.co/papers/2606.31924",
-      "title": "InstanceControl: Controllable Complex Image Generation without Instance Labeling",
-      "summary": "2606.31924 · ▲ 4",
-      "date_published": "2026-07-03T14:52:19.914Z"
+      "id": "https://huggingface.co/papers/2607.01686",
+      "url": "https://huggingface.co/papers/2607.01686",
+      "title": "WARP: Weight-Space Analysis for Recovering Training Data Portfolios",
+      "summary": "2607.01686 · ▲ 3",
+      "date_published": "2026-07-04T04:20:44.228Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.02032",
-      "url": "https://huggingface.co/papers/2607.02032",
-      "title": "PACE: A Proxy for Agentic Capability Evaluation",
-      "summary": "2607.02032 · ▲ 3",
-      "date_published": "2026-07-03T14:52:19.914Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.02466",
-      "url": "https://huggingface.co/papers/2607.02466",
-      "title": "Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs",
-      "summary": "2607.02466 · ▲ 3",
-      "date_published": "2026-07-03T14:52:19.914Z"
+      "id": "https://huggingface.co/papers/2606.29961",
+      "url": "https://huggingface.co/papers/2606.29961",
+      "title": "DuoMem: Towards Capable On-Device Memory Agents via Dual-Space Distillation",
+      "summary": "2606.29961 · ▲ 3",
+      "date_published": "2026-07-04T04:20:44.228Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.25178",
       "url": "https://huggingface.co/papers/2606.25178",
       "title": "Transferability for General Reasoning: An Automated Curriculum for Multi-Domain RLVR",
       "summary": "2606.25178 · ▲ 3",
-      "date_published": "2026-07-03T14:52:19.914Z"
+      "date_published": "2026-07-04T04:20:44.228Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.29961",
-      "url": "https://huggingface.co/papers/2606.29961",
-      "title": "DuoMem: Towards Capable On-Device Memory Agents via Dual-Space Distillation",
-      "summary": "2606.29961 · ▲ 2",
-      "date_published": "2026-07-03T14:52:19.914Z"
+      "id": "https://huggingface.co/papers/2606.27821",
+      "url": "https://huggingface.co/papers/2606.27821",
+      "title": "Parameter-Efficient Quantum-Inspired Fast Weight Programmers for Traffic-Matrix Forecasting",
+      "summary": "2606.27821 · ▲ 1",
+      "date_published": "2026-07-04T04:20:44.228Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.01283",
+      "url": "https://huggingface.co/papers/2607.01283",
+      "title": "Scaling Laws for Grid-Based Approximate Nearest Neighbor Search in High Dimensions",
+      "summary": "2607.01283 · ▲ 0",
+      "date_published": "2026-07-04T04:20:44.228Z"
     }
   ]
 }
