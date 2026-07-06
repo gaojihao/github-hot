@@ -8,36 +8,71 @@
       "id": "https://huggingface.co/papers/2606.29526",
       "url": "https://huggingface.co/papers/2606.29526",
       "title": "The Mirage of Optimizing Training Policies: Monotonic Inference Policies as the Real Objective for LLM Reinforcement Learning",
-      "summary": "2606.29526 · ▲ 5",
-      "date_published": "2026-07-06T04:53:11.199Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2606.31227",
-      "url": "https://huggingface.co/papers/2606.31227",
-      "title": "Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming",
-      "summary": "2606.31227 · ▲ 2",
-      "date_published": "2026-07-06T04:53:11.199Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.00052",
-      "url": "https://huggingface.co/papers/2607.00052",
-      "title": "AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation",
-      "summary": "2607.00052 · ▲ 2",
-      "date_published": "2026-07-06T04:53:11.199Z"
+      "summary": "2606.29526 · ▲ 91",
+      "date_published": "2026-07-06T16:01:10.901Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.02501",
       "url": "https://huggingface.co/papers/2607.02501",
       "title": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots",
-      "summary": "2607.02501 · ▲ 1",
-      "date_published": "2026-07-06T04:53:11.199Z"
+      "summary": "2607.02501 · ▲ 33",
+      "date_published": "2026-07-06T16:01:10.901Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.01804",
       "url": "https://huggingface.co/papers/2607.01804",
       "title": "VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon",
-      "summary": "2607.01804 · ▲ 0",
-      "date_published": "2026-07-06T04:53:11.199Z"
+      "summary": "2607.01804 · ▲ 22",
+      "date_published": "2026-07-06T16:01:10.901Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.02461",
+      "url": "https://huggingface.co/papers/2607.02461",
+      "title": "OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers",
+      "summary": "2607.02461 · ▲ 17",
+      "date_published": "2026-07-06T16:01:10.901Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.28551",
+      "url": "https://huggingface.co/papers/2606.28551",
+      "title": "DataComp-VLM: Improved Open Datasets for Vision-Language Models",
+      "summary": "2606.28551 · ▲ 10",
+      "date_published": "2026-07-06T16:01:10.901Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.31227",
+      "url": "https://huggingface.co/papers/2606.31227",
+      "title": "Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming",
+      "summary": "2606.31227 · ▲ 7",
+      "date_published": "2026-07-06T16:01:10.901Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.02471",
+      "url": "https://huggingface.co/papers/2607.02471",
+      "title": "Interpretation-Oriented Cloud Removal via Observation-Anchored Residual Flow with Geo-Contextual Alignment",
+      "summary": "2607.02471 · ▲ 4",
+      "date_published": "2026-07-06T16:01:10.901Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.01420",
+      "url": "https://huggingface.co/papers/2607.01420",
+      "title": "MultAttnAttrib: Training-Free Multimodal Attribution in Long Document Question Answering",
+      "summary": "2607.01420 · ▲ 4",
+      "date_published": "2026-07-06T16:01:10.901Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.00052",
+      "url": "https://huggingface.co/papers/2607.00052",
+      "title": "AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation",
+      "summary": "2607.00052 · ▲ 3",
+      "date_published": "2026-07-06T16:01:10.901Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.31959",
+      "url": "https://huggingface.co/papers/2606.31959",
+      "title": "AnyBokeh: Physics-Guided Any-to-Any Bokeh Editing with Optical Fingerprint Transfer",
+      "summary": "2606.31959 · ▲ 2",
+      "date_published": "2026-07-06T16:01:10.901Z"
     }
   ]
 }
