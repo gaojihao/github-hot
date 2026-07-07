@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/anthropic-news.json",
   "items": [
     {
+      "id": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+      "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+      "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "summary": "Case Study · 2026年07月06日",
+      "date_published": "2026-07-07T04:33:49.576Z"
+    },
+    {
       "id": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
       "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
       "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
       "summary": "Announcements · 2026年07月02日",
-      "date_published": "2026-07-06T16:01:10.901Z"
+      "date_published": "2026-07-07T04:33:49.576Z"
     },
     {
       "id": "https://www.anthropic.com/news/redeploying-fable-5",
       "url": "https://www.anthropic.com/news/redeploying-fable-5",
       "title": "Redeploying Fable 5",
       "summary": "Announcements · 2026年06月30日",
-      "date_published": "2026-07-06T16:01:10.901Z"
+      "date_published": "2026-07-07T04:33:49.576Z"
     },
     {
       "id": "https://www.anthropic.com/news/claude-sonnet-5",
       "url": "https://www.anthropic.com/news/claude-sonnet-5",
       "title": "Introducing Claude Sonnet 5",
       "summary": "Product · 2026年06月30日",
-      "date_published": "2026-07-06T16:01:10.901Z"
+      "date_published": "2026-07-07T04:33:49.576Z"
     },
     {
       "id": "https://www.anthropic.com/news/claude-science-ai-workbench",
       "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
       "title": "Claude Science, an AI workbench for scientists, is now available",
       "summary": "Announcements · 2026年06月30日",
-      "date_published": "2026-07-06T16:01:10.901Z"
-    },
-    {
-      "id": "https://www.anthropic.com/news/introducing-claude-tag",
-      "url": "https://www.anthropic.com/news/introducing-claude-tag",
-      "title": "Introducing Claude Tag",
-      "summary": "Product · 2026年06月23日",
-      "date_published": "2026-07-06T16:01:10.901Z"
+      "date_published": "2026-07-07T04:33:49.576Z"
     }
   ]
 }

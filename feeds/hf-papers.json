@@ -5,74 +5,130 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2606.29526",
-      "url": "https://huggingface.co/papers/2606.29526",
-      "title": "The Mirage of Optimizing Training Policies: Monotonic Inference Policies as the Real Objective for LLM Reinforcement Learning",
-      "summary": "2606.29526 · ▲ 91",
-      "date_published": "2026-07-06T16:01:10.901Z"
+      "id": "https://huggingface.co/papers/2607.04438",
+      "url": "https://huggingface.co/papers/2607.04438",
+      "title": "ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog",
+      "summary": "2607.04438 · ▲ 20",
+      "date_published": "2026-07-07T04:33:49.576Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.02501",
-      "url": "https://huggingface.co/papers/2607.02501",
-      "title": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots",
-      "summary": "2607.02501 · ▲ 33",
-      "date_published": "2026-07-06T16:01:10.901Z"
+      "id": "https://huggingface.co/papers/2607.04439",
+      "url": "https://huggingface.co/papers/2607.04439",
+      "title": "ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes",
+      "summary": "2607.04439 · ▲ 18",
+      "date_published": "2026-07-07T04:33:49.576Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.01804",
-      "url": "https://huggingface.co/papers/2607.01804",
-      "title": "VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon",
-      "summary": "2607.01804 · ▲ 22",
-      "date_published": "2026-07-06T16:01:10.901Z"
+      "id": "https://huggingface.co/papers/2607.02642",
+      "url": "https://huggingface.co/papers/2607.02642",
+      "title": "GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation",
+      "summary": "2607.02642 · ▲ 17",
+      "date_published": "2026-07-07T04:33:49.576Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.02461",
-      "url": "https://huggingface.co/papers/2607.02461",
-      "title": "OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers",
-      "summary": "2607.02461 · ▲ 17",
-      "date_published": "2026-07-06T16:01:10.901Z"
+      "id": "https://huggingface.co/papers/2607.04443",
+      "url": "https://huggingface.co/papers/2607.04443",
+      "title": "Wan-Streamer v0.2: Higher Resolution, Same Latency",
+      "summary": "2607.04443 · ▲ 12",
+      "date_published": "2026-07-07T04:33:49.576Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.28551",
-      "url": "https://huggingface.co/papers/2606.28551",
-      "title": "DataComp-VLM: Improved Open Datasets for Vision-Language Models",
-      "summary": "2606.28551 · ▲ 10",
-      "date_published": "2026-07-06T16:01:10.901Z"
+      "id": "https://huggingface.co/papers/2607.04425",
+      "url": "https://huggingface.co/papers/2607.04425",
+      "title": "UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning",
+      "summary": "2607.04425 · ▲ 7",
+      "date_published": "2026-07-07T04:33:49.576Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.31227",
-      "url": "https://huggingface.co/papers/2606.31227",
-      "title": "Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming",
-      "summary": "2606.31227 · ▲ 7",
-      "date_published": "2026-07-06T16:01:10.901Z"
+      "id": "https://huggingface.co/papers/2607.02646",
+      "url": "https://huggingface.co/papers/2607.02646",
+      "title": "EVA-Client: A Unified Data Collection, Inference, and Deployment Framework for Embodied Policies on Real Robots",
+      "summary": "2607.02646 · ▲ 6",
+      "date_published": "2026-07-07T04:33:49.576Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.02471",
-      "url": "https://huggingface.co/papers/2607.02471",
-      "title": "Interpretation-Oriented Cloud Removal via Observation-Anchored Residual Flow with Geo-Contextual Alignment",
-      "summary": "2607.02471 · ▲ 4",
-      "date_published": "2026-07-06T16:01:10.901Z"
+      "id": "https://huggingface.co/papers/2607.05391",
+      "url": "https://huggingface.co/papers/2607.05391",
+      "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
+      "summary": "2607.05391 · ▲ 2",
+      "date_published": "2026-07-07T04:33:49.576Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.01420",
-      "url": "https://huggingface.co/papers/2607.01420",
-      "title": "MultAttnAttrib: Training-Free Multimodal Attribution in Long Document Question Answering",
-      "summary": "2607.01420 · ▲ 4",
-      "date_published": "2026-07-06T16:01:10.901Z"
+      "id": "https://huggingface.co/papers/2607.05247",
+      "url": "https://huggingface.co/papers/2607.05247",
+      "title": "Vision Pretraining for Dense Spatial Perception",
+      "summary": "2607.05247 · ▲ 2",
+      "date_published": "2026-07-07T04:33:49.576Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.00052",
-      "url": "https://huggingface.co/papers/2607.00052",
-      "title": "AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation",
-      "summary": "2607.00052 · ▲ 3",
-      "date_published": "2026-07-06T16:01:10.901Z"
+      "id": "https://huggingface.co/papers/2607.01793",
+      "url": "https://huggingface.co/papers/2607.01793",
+      "title": "Safety Testing LLM Agents at Scale: From Risk Discovery to Evidence-Grounded Verification",
+      "summary": "2607.01793 · ▲ 2",
+      "date_published": "2026-07-07T04:33:49.576Z"
     },
     {
-      "id": "https://huggingface.co/papers/2606.31959",
-      "url": "https://huggingface.co/papers/2606.31959",
-      "title": "AnyBokeh: Physics-Guided Any-to-Any Bokeh Editing with Optical Fingerprint Transfer",
-      "summary": "2606.31959 · ▲ 2",
-      "date_published": "2026-07-06T16:01:10.901Z"
+      "id": "https://huggingface.co/papers/2607.01764",
+      "url": "https://huggingface.co/papers/2607.01764",
+      "title": "Mastermind: Strategy-grounded Learning for Repository-Scale Vulnerability Reproduction",
+      "summary": "2607.01764 · ▲ 2",
+      "date_published": "2026-07-07T04:33:49.576Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.05352",
+      "url": "https://huggingface.co/papers/2607.05352",
+      "title": "Multiplayer Interactive World Models with Representation Autoencoders",
+      "summary": "2607.05352 · ▲ 1",
+      "date_published": "2026-07-07T04:33:49.576Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.05390",
+      "url": "https://huggingface.co/papers/2607.05390",
+      "title": "Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models",
+      "summary": "2607.05390 · ▲ 1",
+      "date_published": "2026-07-07T04:33:49.576Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.04988",
+      "url": "https://huggingface.co/papers/2607.04988",
+      "title": "InternVLA-A1.5: Unifying Understanding, Latent Foresight, and Action for Compositional Generalization",
+      "summary": "2607.04988 · ▲ 1",
+      "date_published": "2026-07-07T04:33:49.576Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.02881",
+      "url": "https://huggingface.co/papers/2607.02881",
+      "title": "PraMem: Practice-derived Experiential Memory for Long-horizon Behavior Prediction",
+      "summary": "2607.02881 · ▲ 1",
+      "date_published": "2026-07-07T04:33:49.576Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.05155",
+      "url": "https://huggingface.co/papers/2607.05155",
+      "title": "EdgeBench: Unveiling Scaling Laws of Learning from Real-World Environments",
+      "summary": "2607.05155 · ▲ 0",
+      "date_published": "2026-07-07T04:33:49.576Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.05373",
+      "url": "https://huggingface.co/papers/2607.05373",
+      "title": "PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space",
+      "summary": "2607.05373 · ▲ 0",
+      "date_published": "2026-07-07T04:33:49.576Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.04064",
+      "url": "https://huggingface.co/papers/2607.04064",
+      "title": "Speaker-Disentangled Chunk-Wise Regression for Syllabic Tokenization",
+      "summary": "2607.04064 · ▲ 0",
+      "date_published": "2026-07-07T04:33:49.576Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.03068",
+      "url": "https://huggingface.co/papers/2607.03068",
+      "title": "PixCon: Clean-Positive Contrastive Learning for Foundation-Model Semi-Supervised Segmentation",
+      "summary": "2607.03068 · ▲ 0",
+      "date_published": "2026-07-07T04:33:49.576Z"
     }
   ]
 }
