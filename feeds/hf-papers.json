@@ -5,109 +5,228 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
+      "id": "https://huggingface.co/papers/2607.06559",
+      "url": "https://huggingface.co/papers/2607.06559",
+      "title": "RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation",
+      "summary": "2607.06559 · ▲ 70",
+      "date_published": "2026-07-08T14:56:32.825Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.06558",
+      "url": "https://huggingface.co/papers/2607.06558",
+      "title": "RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation",
+      "summary": "2607.06558 · ▲ 65",
+      "date_published": "2026-07-08T14:56:32.825Z"
+    },
+    {
       "id": "https://huggingface.co/papers/2607.06291",
       "url": "https://huggingface.co/papers/2607.06291",
       "title": "AlayaWorld: Long-Horizon and Playable Video World Generation",
-      "summary": "2607.06291 · ▲ 34",
-      "date_published": "2026-07-08T03:55:14.855Z"
+      "summary": "2607.06291 · ▲ 64",
+      "date_published": "2026-07-08T14:56:32.825Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.02980",
+      "url": "https://huggingface.co/papers/2607.02980",
+      "title": "Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling",
+      "summary": "2607.02980 · ▲ 31",
+      "date_published": "2026-07-08T14:56:32.825Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.06560",
+      "url": "https://huggingface.co/papers/2607.06560",
+      "title": "Vision as Unified Multimodal Generation",
+      "summary": "2607.06560 · ▲ 28",
+      "date_published": "2026-07-08T14:56:32.825Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.02770",
+      "url": "https://huggingface.co/papers/2607.02770",
+      "title": "Gemma 4 Technical Report",
+      "summary": "2607.02770 · ▲ 20",
+      "date_published": "2026-07-08T14:56:32.825Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.05511",
       "url": "https://huggingface.co/papers/2607.05511",
       "title": "Light-Omni: Reflex over Reasoning in Agentic Video Understanding with Long-Term Memory",
-      "summary": "2607.05511 · ▲ 13",
-      "date_published": "2026-07-08T03:55:14.855Z"
+      "summary": "2607.05511 · ▲ 19",
+      "date_published": "2026-07-08T14:56:32.825Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.02963",
       "url": "https://huggingface.co/papers/2607.02963",
       "title": "Parallelized Autoregressive Decoding for Omni-Modal Dense Video Captioning",
-      "summary": "2607.02963 · ▲ 9",
-      "date_published": "2026-07-08T03:55:14.855Z"
+      "summary": "2607.02963 · ▲ 16",
+      "date_published": "2026-07-08T14:56:32.825Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.03451",
       "url": "https://huggingface.co/papers/2607.03451",
       "title": "SkillOpt-Lite: Better and Faster Agent Self-evolution via One Line of Vibe",
-      "summary": "2607.03451 · ▲ 8",
-      "date_published": "2026-07-08T03:55:14.855Z"
+      "summary": "2607.03451 · ▲ 15",
+      "date_published": "2026-07-08T14:56:32.825Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.05147",
+      "url": "https://huggingface.co/papers/2607.05147",
+      "title": "DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation",
+      "summary": "2607.05147 · ▲ 13",
+      "date_published": "2026-07-08T14:56:32.825Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.06403",
+      "url": "https://huggingface.co/papers/2607.06403",
+      "title": "From Foundation to Application: Improving VLA Models in Practice",
+      "summary": "2607.06403 · ▲ 10",
+      "date_published": "2026-07-08T14:56:32.825Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.03530",
+      "url": "https://huggingface.co/papers/2607.03530",
+      "title": "MentalThink: Shaping Thoughts in Mental SVG World",
+      "summary": "2607.03530 · ▲ 10",
+      "date_published": "2026-07-08T14:56:32.825Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.05804",
+      "url": "https://huggingface.co/papers/2607.05804",
+      "title": "TurnOPD: Making On-Policy Distillation Turn-Aware for Efficient Long-Horizon Agent Training",
+      "summary": "2607.05804 · ▲ 9",
+      "date_published": "2026-07-08T14:56:32.825Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.05465",
+      "url": "https://huggingface.co/papers/2607.05465",
+      "title": "CanvasAgent: Enabling Complex Image Creation and Editing via Visual Tool Orchestration",
+      "summary": "2607.05465 · ▲ 8",
+      "date_published": "2026-07-08T14:56:32.825Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.05722",
+      "url": "https://huggingface.co/papers/2607.05722",
+      "title": "Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding",
+      "summary": "2607.05722 · ▲ 6",
+      "date_published": "2026-07-08T14:56:32.825Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.05339",
       "url": "https://huggingface.co/papers/2607.05339",
       "title": "TREK: Distill to Explore, Reinforce to Refine",
       "summary": "2607.05339 · ▲ 6",
-      "date_published": "2026-07-08T03:55:14.855Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.02980",
-      "url": "https://huggingface.co/papers/2607.02980",
-      "title": "Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling",
-      "summary": "2607.02980 · ▲ 4",
-      "date_published": "2026-07-08T03:55:14.855Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.05722",
-      "url": "https://huggingface.co/papers/2607.05722",
-      "title": "Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding",
-      "summary": "2607.05722 · ▲ 2",
-      "date_published": "2026-07-08T03:55:14.855Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.06558",
-      "url": "https://huggingface.co/papers/2607.06558",
-      "title": "RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation",
-      "summary": "2607.06558 · ▲ 2",
-      "date_published": "2026-07-08T03:55:14.855Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.06559",
-      "url": "https://huggingface.co/papers/2607.06559",
-      "title": "RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation",
-      "summary": "2607.06559 · ▲ 2",
-      "date_published": "2026-07-08T03:55:14.855Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.05147",
-      "url": "https://huggingface.co/papers/2607.05147",
-      "title": "DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation",
-      "summary": "2607.05147 · ▲ 2",
-      "date_published": "2026-07-08T03:55:14.855Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.06442",
-      "url": "https://huggingface.co/papers/2607.06442",
-      "title": "SIEVE: Structure-Aware Data Selection for Imitation Learning with VLA Models",
-      "summary": "2607.06442 · ▲ 1",
-      "date_published": "2026-07-08T03:55:14.855Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.05803",
-      "url": "https://huggingface.co/papers/2607.05803",
-      "title": "Quantifying and Expanding the Theoretical Capacity of Late-Interaction Retrieval Models",
-      "summary": "2607.05803 · ▲ 0",
-      "date_published": "2026-07-08T03:55:14.855Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.02920",
-      "url": "https://huggingface.co/papers/2607.02920",
-      "title": "Layer-wise Cross-Lingual Depression Detection from Speech: Analysis with Contrastive Alignment",
-      "summary": "2607.02920 · ▲ 0",
-      "date_published": "2026-07-08T03:55:14.855Z"
+      "date_published": "2026-07-08T14:56:32.825Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.03509",
       "url": "https://huggingface.co/papers/2607.03509",
       "title": "Flex-Forcing: Towards a Unified Autoregressive and Bidirectional Video Diffusion Model",
-      "summary": "2607.03509 · ▲ 0",
-      "date_published": "2026-07-08T03:55:14.855Z"
+      "summary": "2607.03509 · ▲ 6",
+      "date_published": "2026-07-08T14:56:32.825Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.02515",
+      "url": "https://huggingface.co/papers/2607.02515",
+      "title": "PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation",
+      "summary": "2607.02515 · ▲ 6",
+      "date_published": "2026-07-08T14:56:32.825Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.03819",
+      "url": "https://huggingface.co/papers/2607.03819",
+      "title": "CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation",
+      "summary": "2607.03819 · ▲ 4",
+      "date_published": "2026-07-08T14:56:32.825Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.01897",
+      "url": "https://huggingface.co/papers/2607.01897",
+      "title": "Rank-Then-Act: Reward-Free Control from Frame-Order Progress",
+      "summary": "2607.01897 · ▲ 4",
+      "date_published": "2026-07-08T14:56:32.825Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.00394",
+      "url": "https://huggingface.co/papers/2607.00394",
+      "title": "When Classic Cache Policies Fail: Learning-Augmented Replacement for Semantic Retrieval Buffers",
+      "summary": "2607.00394 · ▲ 4",
+      "date_published": "2026-07-08T14:56:32.825Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2606.31329",
+      "url": "https://huggingface.co/papers/2606.31329",
+      "title": "3D HAMSTER: Bridging Planning and Control in Hierarchical Vision Language Action Models through 3D Trajectory Guidance",
+      "summary": "2606.31329 · ▲ 4",
+      "date_published": "2026-07-08T14:56:32.825Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.05992",
+      "url": "https://huggingface.co/papers/2607.05992",
+      "title": "PluraMath: Extending Mathematical Reasoning Evaluation Beyond High-Resource Languages",
+      "summary": "2607.05992 · ▲ 3",
+      "date_published": "2026-07-08T14:56:32.825Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.05803",
+      "url": "https://huggingface.co/papers/2607.05803",
+      "title": "Quantifying and Expanding the Theoretical Capacity of Late-Interaction Retrieval Models",
+      "summary": "2607.05803 · ▲ 3",
+      "date_published": "2026-07-08T14:56:32.825Z"
     },
     {
       "id": "https://huggingface.co/papers/2606.30026",
       "url": "https://huggingface.co/papers/2606.30026",
       "title": "MuseBench: Benchmarking Intent-Level Audiovisual Arts Understanding in MLLMs",
-      "summary": "2606.30026 · ▲ 0",
-      "date_published": "2026-07-08T03:55:14.855Z"
+      "summary": "2606.30026 · ▲ 3",
+      "date_published": "2026-07-08T14:56:32.825Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.06442",
+      "url": "https://huggingface.co/papers/2607.06442",
+      "title": "SIEVE: Structure-Aware Data Selection for Imitation Learning with VLA Models",
+      "summary": "2607.06442 · ▲ 2",
+      "date_published": "2026-07-08T14:56:32.825Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.04884",
+      "url": "https://huggingface.co/papers/2607.04884",
+      "title": "HunyuanOCR-1.5: Making Lightweight OCR VLMs Faster and Better",
+      "summary": "2607.04884 · ▲ 2",
+      "date_published": "2026-07-08T14:56:32.825Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.02920",
+      "url": "https://huggingface.co/papers/2607.02920",
+      "title": "Layer-wise Cross-Lingual Depression Detection from Speech: Analysis with Contrastive Alignment",
+      "summary": "2607.02920 · ▲ 2",
+      "date_published": "2026-07-08T14:56:32.825Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.05691",
+      "url": "https://huggingface.co/papers/2607.05691",
+      "title": "Where to cut, how deep: BPE and Unigram-LM on chemistry SMILES",
+      "summary": "2607.05691 · ▲ 1",
+      "date_published": "2026-07-08T14:56:32.825Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.05435",
+      "url": "https://huggingface.co/papers/2607.05435",
+      "title": "Bibby AI: An Editor-Native Agentic Platform for Academic Research, Writing, and Publishing",
+      "summary": "2607.05435 · ▲ 1",
+      "date_published": "2026-07-08T14:56:32.825Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.05765",
+      "url": "https://huggingface.co/papers/2607.05765",
+      "title": "Image2Sim: Scaling Embodied Navigation via Generative Neural Simulator",
+      "summary": "2607.05765 · ▲ 0",
+      "date_published": "2026-07-08T14:56:32.825Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.04044",
+      "url": "https://huggingface.co/papers/2607.04044",
+      "title": "SiamJEPA: On the Role of Siamese Student Encoders in JEPA",
+      "summary": "2607.04044 · ▲ 0",
+      "date_published": "2026-07-08T14:56:32.825Z"
     }
   ]
 }
