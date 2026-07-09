@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/government-national-security-partnerships",
+      "url": "https://openai.com/index/government-national-security-partnerships",
+      "title": "Our approach to government and national security partnerships",
+      "summary": "Global Affairs · 2026年07月08日",
+      "date_published": "2026-07-09T04:32:14.517Z"
+    },
+    {
+      "id": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "title": "Separating signal from noise in coding evaluations",
+      "summary": "Research · 2026年07月08日",
+      "date_published": "2026-07-09T04:32:14.517Z"
+    },
+    {
+      "id": "https://openai.com/index/k-12-educators-practical-skills",
+      "url": "https://openai.com/index/k-12-educators-practical-skills",
+      "title": "Helping K–12 educators build practical AI skills",
+      "summary": "Global Affairs · 2026年07月08日",
+      "date_published": "2026-07-09T04:32:14.517Z"
+    },
+    {
+      "id": "https://openai.com/index/introducing-gpt-live",
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "title": "Introducing GPT-Live",
+      "summary": "Product · 2026年07月08日",
+      "date_published": "2026-07-09T04:32:14.517Z"
+    },
+    {
       "id": "https://openai.com/index/australian-payments-plus",
       "url": "https://openai.com/index/australian-payments-plus",
       "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
       "summary": "2026年07月07日",
-      "date_published": "2026-07-08T14:56:32.825Z"
-    },
-    {
-      "id": "https://openai.com/index/mufg",
-      "url": "https://openai.com/index/mufg",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "summary": "2026年07月07日",
-      "date_published": "2026-07-08T14:56:32.825Z"
-    },
-    {
-      "id": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "title": "How ChatGPT adoption has expanded",
-      "summary": "Global Affairs · 2026年06月30日",
-      "date_published": "2026-07-08T14:56:32.825Z"
-    },
-    {
-      "id": "https://openai.com/index/genebench-pro/case-studies",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
-      "title": "Inside Genebench-Pro",
-      "summary": "2026年06月30日",
-      "date_published": "2026-07-08T14:56:32.825Z"
-    },
-    {
-      "id": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "summary": "Engineering · 2026年06月30日",
-      "date_published": "2026-07-08T14:56:32.825Z"
+      "date_published": "2026-07-09T04:32:14.517Z"
     }
   ]
 }
