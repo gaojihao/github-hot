@@ -5,39 +5,53 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "summary": "Product · 2026年07月09日",
+      "date_published": "2026-07-10T04:34:36.948Z"
+    },
+    {
+      "id": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "summary": "Product · 2026年07月09日",
+      "date_published": "2026-07-10T04:34:36.948Z"
+    },
+    {
+      "id": "https://openai.com/index/bio-bug-bounty",
+      "url": "https://openai.com/index/bio-bug-bounty",
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "summary": "Safety · 2026年07月09日",
+      "date_published": "2026-07-10T04:34:36.948Z"
+    },
+    {
+      "id": "https://openai.com/index/gpt-5-6",
+      "url": "https://openai.com/index/gpt-5-6",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "summary": "Product · 2026年07月09日",
+      "date_published": "2026-07-10T04:34:36.948Z"
+    },
+    {
       "id": "https://openai.com/index/government-national-security-partnerships",
       "url": "https://openai.com/index/government-national-security-partnerships",
       "title": "Our approach to government and national security partnerships",
       "summary": "Global Affairs · 2026年07月08日",
-      "date_published": "2026-07-09T15:41:44.583Z"
+      "date_published": "2026-07-10T04:34:36.948Z"
     },
     {
       "id": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "title": "Separating signal from noise in coding evaluations",
       "summary": "Research · 2026年07月08日",
-      "date_published": "2026-07-09T15:41:44.583Z"
+      "date_published": "2026-07-10T04:34:36.948Z"
     },
     {
       "id": "https://openai.com/index/k-12-educators-practical-skills",
       "url": "https://openai.com/index/k-12-educators-practical-skills",
       "title": "Helping K–12 educators build practical AI skills",
       "summary": "Global Affairs · 2026年07月08日",
-      "date_published": "2026-07-09T15:41:44.583Z"
-    },
-    {
-      "id": "https://openai.com/index/introducing-gpt-live",
-      "url": "https://openai.com/index/introducing-gpt-live",
-      "title": "Introducing GPT-Live",
-      "summary": "Product · 2026年07月08日",
-      "date_published": "2026-07-09T15:41:44.583Z"
-    },
-    {
-      "id": "https://openai.com/index/australian-payments-plus",
-      "url": "https://openai.com/index/australian-payments-plus",
-      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "summary": "2026年07月07日",
-      "date_published": "2026-07-09T15:41:44.583Z"
+      "date_published": "2026-07-10T04:34:36.948Z"
     }
   ]
 }
