@@ -8,71 +8,99 @@
       "id": "https://huggingface.co/papers/2607.08964",
       "url": "https://huggingface.co/papers/2607.08964",
       "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
-      "summary": "2607.08964 · ▲ 11",
-      "date_published": "2026-07-13T04:09:31.654Z"
+      "summary": "2607.08964 · ▲ 38",
+      "date_published": "2026-07-13T15:22:47.110Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.09657",
       "url": "https://huggingface.co/papers/2607.09657",
       "title": "Scalable Visual Pretraining for Language Intelligence",
-      "summary": "2607.09657 · ▲ 10",
-      "date_published": "2026-07-13T04:09:31.654Z"
+      "summary": "2607.09657 · ▲ 36",
+      "date_published": "2026-07-13T15:22:47.110Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.09024",
       "url": "https://huggingface.co/papers/2607.09024",
       "title": "Video Generation Models are General-Purpose Vision Learners",
-      "summary": "2607.09024 · ▲ 8",
-      "date_published": "2026-07-13T04:09:31.654Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.09661",
-      "url": "https://huggingface.co/papers/2607.09661",
-      "title": "PanoWorld: Real-World Panoramic Generation",
-      "summary": "2607.09661 · ▲ 4",
-      "date_published": "2026-07-13T04:09:31.654Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.06553",
-      "url": "https://huggingface.co/papers/2607.06553",
-      "title": "From RGB Generation to Dense Field Readout: Pixel-Space Dense Prediction with Text-to-Image Models",
-      "summary": "2607.06553 · ▲ 4",
-      "date_published": "2026-07-13T04:09:31.654Z"
+      "summary": "2607.09024 · ▲ 32",
+      "date_published": "2026-07-13T15:22:47.110Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.04751",
       "url": "https://huggingface.co/papers/2607.04751",
       "title": "Trust Region Policy Distillation",
-      "summary": "2607.04751 · ▲ 3",
-      "date_published": "2026-07-13T04:09:31.654Z"
+      "summary": "2607.04751 · ▲ 15",
+      "date_published": "2026-07-13T15:22:47.110Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.09020",
-      "url": "https://huggingface.co/papers/2607.09020",
-      "title": "Phone Segmentation and Recognition through Phonological Activation Mapping",
-      "summary": "2607.09020 · ▲ 1",
-      "date_published": "2026-07-13T04:09:31.654Z"
+      "id": "https://huggingface.co/papers/2607.07964",
+      "url": "https://huggingface.co/papers/2607.07964",
+      "title": "KronQ: LLM Quantization via Kronecker-Factored Hessian",
+      "summary": "2607.07964 · ▲ 10",
+      "date_published": "2026-07-13T15:22:47.110Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.08393",
-      "url": "https://huggingface.co/papers/2607.08393",
-      "title": "Towards Mechanistically Understanding Why Memorized Knowledge Fails to Generalize in Large Language Model Finetuning",
-      "summary": "2607.08393 · ▲ 1",
-      "date_published": "2026-07-13T04:09:31.654Z"
+      "id": "https://huggingface.co/papers/2607.09661",
+      "url": "https://huggingface.co/papers/2607.09661",
+      "title": "PanoWorld: Real-World Panoramic Generation",
+      "summary": "2607.09661 · ▲ 7",
+      "date_published": "2026-07-13T15:22:47.110Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.06553",
+      "url": "https://huggingface.co/papers/2607.06553",
+      "title": "From RGB Generation to Dense Field Readout: Pixel-Space Dense Prediction with Text-to-Image Models",
+      "summary": "2607.06553 · ▲ 7",
+      "date_published": "2026-07-13T15:22:47.110Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.09415",
       "url": "https://huggingface.co/papers/2607.09415",
       "title": "Self-Guided Test-Time Training for Long-Context LLMs",
-      "summary": "2607.09415 · ▲ 0",
-      "date_published": "2026-07-13T04:09:31.654Z"
+      "summary": "2607.09415 · ▲ 6",
+      "date_published": "2026-07-13T15:22:47.110Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.08393",
+      "url": "https://huggingface.co/papers/2607.08393",
+      "title": "Towards Mechanistically Understanding Why Memorized Knowledge Fails to Generalize in Large Language Model Finetuning",
+      "summary": "2607.08393 · ▲ 3",
+      "date_published": "2026-07-13T15:22:47.110Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.06957",
+      "url": "https://huggingface.co/papers/2607.06957",
+      "title": "Flow-ERD: Agent-type Aware Flow Matching with Entropy-Regularized Distillation for Diverse Traffic Simulation",
+      "summary": "2607.06957 · ▲ 3",
+      "date_published": "2026-07-13T15:22:47.110Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.09020",
+      "url": "https://huggingface.co/papers/2607.09020",
+      "title": "Phone Segmentation and Recognition through Phonological Activation Mapping",
+      "summary": "2607.09020 · ▲ 2",
+      "date_published": "2026-07-13T15:22:47.110Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.09424",
       "url": "https://huggingface.co/papers/2607.09424",
       "title": "A Sovereign, Open-Source Foundation Model for German and English",
       "summary": "2607.09424 · ▲ 0",
-      "date_published": "2026-07-13T04:09:31.654Z"
+      "date_published": "2026-07-13T15:22:47.110Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.07673",
+      "url": "https://huggingface.co/papers/2607.07673",
+      "title": "MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models",
+      "summary": "2607.07673 · ▲ 0",
+      "date_published": "2026-07-13T15:22:47.110Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.06374",
+      "url": "https://huggingface.co/papers/2607.06374",
+      "title": "VaseMuseum: Digital Intelligent Museum for Ancient Greek Pottery",
+      "summary": "2607.06374 · ▲ 0",
+      "date_published": "2026-07-13T15:22:47.110Z"
     }
   ]
 }
