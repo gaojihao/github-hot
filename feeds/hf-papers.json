@@ -5,165 +5,74 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2607.03118",
-      "url": "https://huggingface.co/papers/2607.03118",
-      "title": "Vidu S1: A Real-Time Interactive Video Generation Model",
-      "summary": "2607.03118 · ▲ 120",
-      "date_published": "2026-07-12T14:05:40.099Z"
+      "id": "https://huggingface.co/papers/2607.08964",
+      "url": "https://huggingface.co/papers/2607.08964",
+      "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
+      "summary": "2607.08964 · ▲ 11",
+      "date_published": "2026-07-13T04:09:31.654Z"
     },
     {
-      "id": "https://huggingface.co/papers/2603.29616",
-      "url": "https://huggingface.co/papers/2603.29616",
-      "title": "Video-Oasis: Rethinking Evaluation of Video Understanding",
-      "summary": "2603.29616 · ▲ 51",
-      "date_published": "2026-07-12T14:05:40.099Z"
+      "id": "https://huggingface.co/papers/2607.09657",
+      "url": "https://huggingface.co/papers/2607.09657",
+      "title": "Scalable Visual Pretraining for Language Intelligence",
+      "summary": "2607.09657 · ▲ 10",
+      "date_published": "2026-07-13T04:09:31.654Z"
     },
     {
-      "id": "https://huggingface.co/papers/2601.16211",
-      "url": "https://huggingface.co/papers/2601.16211",
-      "title": "Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition",
-      "summary": "2601.16211 · ▲ 48",
-      "date_published": "2026-07-12T14:05:40.099Z"
+      "id": "https://huggingface.co/papers/2607.09024",
+      "url": "https://huggingface.co/papers/2607.09024",
+      "title": "Video Generation Models are General-Purpose Vision Learners",
+      "summary": "2607.09024 · ▲ 8",
+      "date_published": "2026-07-13T04:09:31.654Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.08758",
-      "url": "https://huggingface.co/papers/2607.08758",
-      "title": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
-      "summary": "2607.08758 · ▲ 30",
-      "date_published": "2026-07-12T14:05:40.099Z"
+      "id": "https://huggingface.co/papers/2607.09661",
+      "url": "https://huggingface.co/papers/2607.09661",
+      "title": "PanoWorld: Real-World Panoramic Generation",
+      "summary": "2607.09661 · ▲ 4",
+      "date_published": "2026-07-13T04:09:31.654Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.08770",
-      "url": "https://huggingface.co/papers/2607.08770",
-      "title": "LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models",
-      "summary": "2607.08770 · ▲ 27",
-      "date_published": "2026-07-12T14:05:40.099Z"
+      "id": "https://huggingface.co/papers/2607.06553",
+      "url": "https://huggingface.co/papers/2607.06553",
+      "title": "From RGB Generation to Dense Field Readout: Pixel-Space Dense Prediction with Text-to-Image Models",
+      "summary": "2607.06553 · ▲ 4",
+      "date_published": "2026-07-13T04:09:31.654Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.08768",
-      "url": "https://huggingface.co/papers/2607.08768",
-      "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
-      "summary": "2607.08768 · ▲ 27",
-      "date_published": "2026-07-12T14:05:40.099Z"
+      "id": "https://huggingface.co/papers/2607.04751",
+      "url": "https://huggingface.co/papers/2607.04751",
+      "title": "Trust Region Policy Distillation",
+      "summary": "2607.04751 · ▲ 3",
+      "date_published": "2026-07-13T04:09:31.654Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.08765",
-      "url": "https://huggingface.co/papers/2607.08765",
-      "title": "Enhancing In-context Panoramic Generation via Geometric-aware Pretraining",
-      "summary": "2607.08765 · ▲ 17",
-      "date_published": "2026-07-12T14:05:40.099Z"
+      "id": "https://huggingface.co/papers/2607.09020",
+      "url": "https://huggingface.co/papers/2607.09020",
+      "title": "Phone Segmentation and Recognition through Phonological Activation Mapping",
+      "summary": "2607.09020 · ▲ 1",
+      "date_published": "2026-07-13T04:09:31.654Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.08404",
-      "url": "https://huggingface.co/papers/2607.08404",
-      "title": "DrugGen 2: A disease-aware language model for enhancing drug discovery",
-      "summary": "2607.08404 · ▲ 16",
-      "date_published": "2026-07-12T14:05:40.099Z"
+      "id": "https://huggingface.co/papers/2607.08393",
+      "url": "https://huggingface.co/papers/2607.08393",
+      "title": "Towards Mechanistically Understanding Why Memorized Knowledge Fails to Generalize in Large Language Model Finetuning",
+      "summary": "2607.08393 · ▲ 1",
+      "date_published": "2026-07-13T04:09:31.654Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.07740",
-      "url": "https://huggingface.co/papers/2607.07740",
-      "title": "Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE",
-      "summary": "2607.07740 · ▲ 14",
-      "date_published": "2026-07-12T14:05:40.099Z"
+      "id": "https://huggingface.co/papers/2607.09415",
+      "url": "https://huggingface.co/papers/2607.09415",
+      "title": "Self-Guided Test-Time Training for Long-Context LLMs",
+      "summary": "2607.09415 · ▲ 0",
+      "date_published": "2026-07-13T04:09:31.654Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.03803",
-      "url": "https://huggingface.co/papers/2607.03803",
-      "title": "CineMobile: On-Device Image-to-Video Diffusion for Cinematic Camera Motion Generation",
-      "summary": "2607.03803 · ▲ 12",
-      "date_published": "2026-07-12T14:05:40.099Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.08763",
-      "url": "https://huggingface.co/papers/2607.08763",
-      "title": "OpenCoF: Learning to Reason Through Video Generation",
-      "summary": "2607.08763 · ▲ 11",
-      "date_published": "2026-07-12T14:05:40.099Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.07953",
-      "url": "https://huggingface.co/papers/2607.07953",
-      "title": "Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing",
-      "summary": "2607.07953 · ▲ 11",
-      "date_published": "2026-07-12T14:05:40.099Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.08716",
-      "url": "https://huggingface.co/papers/2607.08716",
-      "title": "Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents",
-      "summary": "2607.08716 · ▲ 9",
-      "date_published": "2026-07-12T14:05:40.099Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.06987",
-      "url": "https://huggingface.co/papers/2607.06987",
-      "title": "UP: Unbounded Positive Asymmetric Optimization for Breaking the Exploration-Stability Dilemma",
-      "summary": "2607.06987 · ▲ 7",
-      "date_published": "2026-07-12T14:05:40.099Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.08741",
-      "url": "https://huggingface.co/papers/2607.08741",
-      "title": "ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation",
-      "summary": "2607.08741 · ▲ 6",
-      "date_published": "2026-07-12T14:05:40.099Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.08688",
-      "url": "https://huggingface.co/papers/2607.08688",
-      "title": "SAM-MT: Real-Time Interactive Multi-Target Video Segmentation",
-      "summary": "2607.08688 · ▲ 5",
-      "date_published": "2026-07-12T14:05:40.099Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.07816",
-      "url": "https://huggingface.co/papers/2607.07816",
-      "title": "A Sparse and Truncated State Vector Simulator for Peaked Circuits",
-      "summary": "2607.07816 · ▲ 5",
-      "date_published": "2026-07-12T14:05:40.099Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.06238",
-      "url": "https://huggingface.co/papers/2607.06238",
-      "title": "PhyMRI-SR: Toward Physics-Aware MRI Image Super-Resolution",
-      "summary": "2607.06238 · ▲ 4",
-      "date_published": "2026-07-12T14:05:40.099Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.04461",
-      "url": "https://huggingface.co/papers/2607.04461",
-      "title": "Flash-BoN: Instant Drafts for Inference-Time Scaling in Diffusion Models",
-      "summary": "2607.04461 · ▲ 4",
-      "date_published": "2026-07-12T14:05:40.099Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.08526",
-      "url": "https://huggingface.co/papers/2607.08526",
-      "title": "A Quantized Native Runtime for On-Device Semantic Audio Generation",
-      "summary": "2607.08526 · ▲ 3",
-      "date_published": "2026-07-12T14:05:40.099Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.08093",
-      "url": "https://huggingface.co/papers/2607.08093",
-      "title": "CausalDS: Benchmarking Causal Reasoning in Data-Science Agents",
-      "summary": "2607.08093 · ▲ 3",
-      "date_published": "2026-07-12T14:05:40.099Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.03936",
-      "url": "https://huggingface.co/papers/2607.03936",
-      "title": "Can Dialects Be Steered Like Languages? Sparse Neurons and Distributed Directions in Arabic LLMs",
-      "summary": "2607.03936 · ▲ 3",
-      "date_published": "2026-07-12T14:05:40.099Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.04690",
-      "url": "https://huggingface.co/papers/2607.04690",
-      "title": "PAST-TIDE: Prototype-Anchored Statement Tuning with Topic-Invariant Normalization for Stance Detection",
-      "summary": "2607.04690 · ▲ 1",
-      "date_published": "2026-07-12T14:05:40.099Z"
+      "id": "https://huggingface.co/papers/2607.09424",
+      "url": "https://huggingface.co/papers/2607.09424",
+      "title": "A Sovereign, Open-Source Foundation Model for German and English",
+      "summary": "2607.09424 · ▲ 0",
+      "date_published": "2026-07-13T04:09:31.654Z"
     }
   ]
 }
