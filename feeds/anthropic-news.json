@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/anthropic-news.json",
   "items": [
     {
+      "id": "https://www.anthropic.com/news/claude-for-teachers",
+      "url": "https://www.anthropic.com/news/claude-for-teachers",
+      "title": "Introducing Claude for Teachers",
+      "summary": "Product · 2026年07月14日",
+      "date_published": "2026-07-15T03:45:05.663Z"
+    },
+    {
       "id": "https://www.anthropic.com/news/canadian-ai-research",
       "url": "https://www.anthropic.com/news/canadian-ai-research",
       "title": "Anthropic commits $10 million to Canadian AI research",
       "summary": "Announcements · 2026年07月14日",
-      "date_published": "2026-07-14T14:25:09.670Z"
+      "date_published": "2026-07-15T03:45:05.663Z"
     },
     {
       "id": "https://www.anthropic.com/news/hard-questions",
       "url": "https://www.anthropic.com/news/hard-questions",
       "title": "Inviting hard questions",
       "summary": "Announcements · 2026年07月09日",
-      "date_published": "2026-07-14T14:25:09.670Z"
+      "date_published": "2026-07-15T03:45:05.663Z"
     },
     {
       "id": "https://www.anthropic.com/news/ust-claude",
       "url": "https://www.anthropic.com/news/ust-claude",
       "title": "UST is bringing Claude to physical AI",
       "summary": "Case Study · 2026年07月09日",
-      "date_published": "2026-07-14T14:25:09.670Z"
+      "date_published": "2026-07-15T03:45:05.663Z"
     },
     {
       "id": "https://www.anthropic.com/news/ben-bernanke",
       "url": "https://www.anthropic.com/news/ben-bernanke",
       "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
       "summary": "Announcements · 2026年07月09日",
-      "date_published": "2026-07-14T14:25:09.670Z"
-    },
-    {
-      "id": "https://www.anthropic.com/news/reflect-with-claude",
-      "url": "https://www.anthropic.com/news/reflect-with-claude",
-      "title": "Introducing a way to reflect on how you use Claude",
-      "summary": "Announcements · 2026年07月09日",
-      "date_published": "2026-07-14T14:25:09.670Z"
+      "date_published": "2026-07-15T03:45:05.663Z"
     }
   ]
 }
