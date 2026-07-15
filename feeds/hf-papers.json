@@ -8,15 +8,57 @@
       "id": "https://huggingface.co/papers/2607.11886",
       "url": "https://huggingface.co/papers/2607.11886",
       "title": "Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation",
-      "summary": "2607.11886 · ▲ 11",
-      "date_published": "2026-07-15T03:45:05.663Z"
+      "summary": "2607.11886 · ▲ 26",
+      "date_published": "2026-07-15T14:21:01.369Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.08317",
+      "url": "https://huggingface.co/papers/2607.08317",
+      "title": "Blind-Spots-Bench: Evaluating Blind Spots in Multimodal Models",
+      "summary": "2607.08317 · ▲ 12",
+      "date_published": "2026-07-15T14:21:01.369Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.11111",
       "url": "https://huggingface.co/papers/2607.11111",
       "title": "Know Before Fix: QA-Driven Repository Knowledge Acquisition for Software Issue Resolution",
-      "summary": "2607.11111 · ▲ 0",
-      "date_published": "2026-07-15T03:45:05.663Z"
+      "summary": "2607.11111 · ▲ 4",
+      "date_published": "2026-07-15T14:21:01.369Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.08168",
+      "url": "https://huggingface.co/papers/2607.08168",
+      "title": "MuScriptor: An Open Model for Multi-Instrument Music Transcription",
+      "summary": "2607.08168 · ▲ 3",
+      "date_published": "2026-07-15T14:21:01.369Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.07769",
+      "url": "https://huggingface.co/papers/2607.07769",
+      "title": "Principled Analysis of Deep Reinforcement Learning Evaluation and Design Paradigms",
+      "summary": "2607.07769 · ▲ 2",
+      "date_published": "2026-07-15T14:21:01.369Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.12450",
+      "url": "https://huggingface.co/papers/2607.12450",
+      "title": "Let RGB Be the Language of Vision",
+      "summary": "2607.12450 · ▲ 1",
+      "date_published": "2026-07-15T14:21:01.369Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.11562",
+      "url": "https://huggingface.co/papers/2607.11562",
+      "title": "MonkeyOCRv2: A Visual-Text Foundation Model for Document AI",
+      "summary": "2607.11562 · ▲ 1",
+      "date_published": "2026-07-15T14:21:01.369Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.10522",
+      "url": "https://huggingface.co/papers/2607.10522",
+      "title": "Towards Autonomous and Auditable Medical Imaging Model Development",
+      "summary": "2607.10522 · ▲ 1",
+      "date_published": "2026-07-15T14:21:01.369Z"
     }
   ]
 }
