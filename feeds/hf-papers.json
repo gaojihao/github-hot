@@ -5,137 +5,88 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2607.13285",
-      "url": "https://huggingface.co/papers/2607.13285",
-      "title": "Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable",
-      "summary": "2607.13285 · ▲ 155",
-      "date_published": "2026-07-16T14:33:36.030Z"
+      "id": "https://huggingface.co/papers/2607.14777",
+      "url": "https://huggingface.co/papers/2607.14777",
+      "title": "SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning",
+      "summary": "2607.14777 · ▲ 21",
+      "date_published": "2026-07-17T03:47:58.067Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.13125",
-      "url": "https://huggingface.co/papers/2607.13125",
-      "title": "Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation",
-      "summary": "2607.13125 · ▲ 103",
-      "date_published": "2026-07-16T14:33:36.030Z"
+      "id": "https://huggingface.co/papers/2607.15207",
+      "url": "https://huggingface.co/papers/2607.15207",
+      "title": "BadWAM: When World-Action Models Dream Right but Act Wrong",
+      "summary": "2607.15207 · ▲ 15",
+      "date_published": "2026-07-17T03:47:58.067Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.12395",
-      "url": "https://huggingface.co/papers/2607.12395",
-      "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
-      "summary": "2607.12395 · ▲ 75",
-      "date_published": "2026-07-16T14:33:36.030Z"
+      "id": "https://huggingface.co/papers/2607.14189",
+      "url": "https://huggingface.co/papers/2607.14189",
+      "title": "MultiRef-Compass: Towards Comprehensive Evaluation of Multi-Reference-to-Audio-Video Generation",
+      "summary": "2607.14189 · ▲ 12",
+      "date_published": "2026-07-17T03:47:58.067Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.12625",
-      "url": "https://huggingface.co/papers/2607.12625",
-      "title": "KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Evolving Memory and Skill",
-      "summary": "2607.12625 · ▲ 42",
-      "date_published": "2026-07-16T14:33:36.030Z"
+      "id": "https://huggingface.co/papers/2607.14202",
+      "url": "https://huggingface.co/papers/2607.14202",
+      "title": "KeyFrame-Compass: Towards Comprehensive Evaluation of Keyframe-Conditioned Video Generation",
+      "summary": "2607.14202 · ▲ 12",
+      "date_published": "2026-07-17T03:47:58.067Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.13639",
-      "url": "https://huggingface.co/papers/2607.13639",
-      "title": "OvisOCR2 Technical Report",
-      "summary": "2607.13639 · ▲ 42",
-      "date_published": "2026-07-16T14:33:36.030Z"
+      "id": "https://huggingface.co/papers/2607.13188",
+      "url": "https://huggingface.co/papers/2607.13188",
+      "title": "Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Processes",
+      "summary": "2607.13188 · ▲ 10",
+      "date_published": "2026-07-17T03:47:58.067Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.05910",
-      "url": "https://huggingface.co/papers/2607.05910",
-      "title": "PolicyShiftGuard: Benchmarking and Improving Policy-Adaptive Image Guardrails",
-      "summary": "2607.05910 · ▲ 29",
-      "date_published": "2026-07-16T14:33:36.030Z"
+      "id": "https://huggingface.co/papers/2607.15257",
+      "url": "https://huggingface.co/papers/2607.15257",
+      "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
+      "summary": "2607.15257 · ▲ 8",
+      "date_published": "2026-07-17T03:47:58.067Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.13960",
-      "url": "https://huggingface.co/papers/2607.13960",
-      "title": "GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch",
-      "summary": "2607.13960 · ▲ 21",
-      "date_published": "2026-07-16T14:33:36.030Z"
+      "id": "https://huggingface.co/papers/2607.15038",
+      "url": "https://huggingface.co/papers/2607.15038",
+      "title": "Video = World + Event Stream",
+      "summary": "2607.15038 · ▲ 7",
+      "date_published": "2026-07-17T03:47:58.067Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.12000",
-      "url": "https://huggingface.co/papers/2607.12000",
-      "title": "MetaView: Monocular Novel View Synthesis with Scale-Aware Implicit Geometry Priors",
-      "summary": "2607.12000 · ▲ 20",
-      "date_published": "2026-07-16T14:33:36.030Z"
+      "id": "https://huggingface.co/papers/2607.15275",
+      "url": "https://huggingface.co/papers/2607.15275",
+      "title": "RoboTTT: Context Scaling for Robot Policies",
+      "summary": "2607.15275 · ▲ 3",
+      "date_published": "2026-07-17T03:47:58.067Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.12752",
-      "url": "https://huggingface.co/papers/2607.12752",
-      "title": "Hallo4D: Multi-Modal Hallucination Mitigation for Consistent Spatio-Temporal Generation",
-      "summary": "2607.12752 · ▲ 11",
-      "date_published": "2026-07-16T14:33:36.030Z"
+      "id": "https://huggingface.co/papers/2607.13399",
+      "url": "https://huggingface.co/papers/2607.13399",
+      "title": "Demystifying On-Policy Distillation: Roles, Pathologies, and Regulations",
+      "summary": "2607.13399 · ▲ 2",
+      "date_published": "2026-07-17T03:47:58.067Z"
     },
     {
-      "id": "https://huggingface.co/papers/2605.16147",
-      "url": "https://huggingface.co/papers/2605.16147",
-      "title": "Registers Matter for Pixel-Space Diffusion Transformers",
-      "summary": "2605.16147 · ▲ 11",
-      "date_published": "2026-07-16T14:33:36.030Z"
+      "id": "https://huggingface.co/papers/2607.14749",
+      "url": "https://huggingface.co/papers/2607.14749",
+      "title": "WanSong v1.0 Technical Report",
+      "summary": "2607.14749 · ▲ 1",
+      "date_published": "2026-07-17T03:47:58.067Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.13124",
-      "url": "https://huggingface.co/papers/2607.13124",
-      "title": "ShortOPD: Recovering Pruned LLMs with Short-to-Long On-Policy Distillation",
-      "summary": "2607.13124 · ▲ 10",
-      "date_published": "2026-07-16T14:33:36.030Z"
+      "id": "https://huggingface.co/papers/2607.14431",
+      "url": "https://huggingface.co/papers/2607.14431",
+      "title": "Smarter and Cheaper at Once: Byte-Exact KV-Cache Grafting Turns a Frozen Small Model into a Verified-Knowledge Flywheel",
+      "summary": "2607.14431 · ▲ 1",
+      "date_published": "2026-07-17T03:47:58.067Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.11523",
-      "url": "https://huggingface.co/papers/2607.11523",
-      "title": "Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos",
-      "summary": "2607.11523 · ▲ 7",
-      "date_published": "2026-07-16T14:33:36.030Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.13705",
-      "url": "https://huggingface.co/papers/2607.13705",
-      "title": "AgentCompass: A Unified Evaluation Infrastructure for Agent Capabilities",
-      "summary": "2607.13705 · ▲ 6",
-      "date_published": "2026-07-16T14:33:36.030Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.13104",
-      "url": "https://huggingface.co/papers/2607.13104",
-      "title": "Self-Improvements in Modern Agentic Systems: A Survey",
-      "summary": "2607.13104 · ▲ 6",
-      "date_published": "2026-07-16T14:33:36.030Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.12747",
-      "url": "https://huggingface.co/papers/2607.12747",
-      "title": "Tracing Agentic Failure from the Flow of Success",
-      "summary": "2607.12747 · ▲ 5",
-      "date_published": "2026-07-16T14:33:36.030Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.07702",
-      "url": "https://huggingface.co/papers/2607.07702",
-      "title": "From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization",
-      "summary": "2607.07702 · ▲ 5",
-      "date_published": "2026-07-16T14:33:36.030Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.13027",
-      "url": "https://huggingface.co/papers/2607.13027",
-      "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
-      "summary": "2607.13027 · ▲ 3",
-      "date_published": "2026-07-16T14:33:36.030Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2605.10834",
-      "url": "https://huggingface.co/papers/2605.10834",
-      "title": "From Controlled to the Wild: Evaluation of Pentesting Agents for the Real-World",
-      "summary": "2605.10834 · ▲ 1",
-      "date_published": "2026-07-16T14:33:36.030Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.13250",
-      "url": "https://huggingface.co/papers/2607.13250",
-      "title": "AffectFlow-DINO: Uncertainty-Aware Multi-Task Affect Estimation via Conditional Rectified Flow",
-      "summary": "2607.13250 · ▲ 0",
-      "date_published": "2026-07-16T14:33:36.030Z"
+      "id": "https://huggingface.co/papers/2607.15273",
+      "url": "https://huggingface.co/papers/2607.15273",
+      "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
+      "summary": "2607.15273 · ▲ 0",
+      "date_published": "2026-07-17T03:47:58.067Z"
     }
   ]
 }
