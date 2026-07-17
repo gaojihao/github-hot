@@ -5,88 +5,165 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
+      "id": "https://huggingface.co/papers/2607.14935",
+      "url": "https://huggingface.co/papers/2607.14935",
+      "title": "VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding",
+      "summary": "2607.14935 · ▲ 103",
+      "date_published": "2026-07-17T14:12:56.132Z"
+    },
+    {
       "id": "https://huggingface.co/papers/2607.14777",
       "url": "https://huggingface.co/papers/2607.14777",
       "title": "SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning",
-      "summary": "2607.14777 · ▲ 21",
-      "date_published": "2026-07-17T03:47:58.067Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.15207",
-      "url": "https://huggingface.co/papers/2607.15207",
-      "title": "BadWAM: When World-Action Models Dream Right but Act Wrong",
-      "summary": "2607.15207 · ▲ 15",
-      "date_published": "2026-07-17T03:47:58.067Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.14189",
-      "url": "https://huggingface.co/papers/2607.14189",
-      "title": "MultiRef-Compass: Towards Comprehensive Evaluation of Multi-Reference-to-Audio-Video Generation",
-      "summary": "2607.14189 · ▲ 12",
-      "date_published": "2026-07-17T03:47:58.067Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.14202",
-      "url": "https://huggingface.co/papers/2607.14202",
-      "title": "KeyFrame-Compass: Towards Comprehensive Evaluation of Keyframe-Conditioned Video Generation",
-      "summary": "2607.14202 · ▲ 12",
-      "date_published": "2026-07-17T03:47:58.067Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.13188",
-      "url": "https://huggingface.co/papers/2607.13188",
-      "title": "Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Processes",
-      "summary": "2607.13188 · ▲ 10",
-      "date_published": "2026-07-17T03:47:58.067Z"
+      "summary": "2607.14777 · ▲ 59",
+      "date_published": "2026-07-17T14:12:56.132Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.15257",
       "url": "https://huggingface.co/papers/2607.15257",
       "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
-      "summary": "2607.15257 · ▲ 8",
-      "date_published": "2026-07-17T03:47:58.067Z"
+      "summary": "2607.15257 · ▲ 45",
+      "date_published": "2026-07-17T14:12:56.132Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.15207",
+      "url": "https://huggingface.co/papers/2607.15207",
+      "title": "BadWAM: When World-Action Models Dream Right but Act Wrong",
+      "summary": "2607.15207 · ▲ 33",
+      "date_published": "2026-07-17T14:12:56.132Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.14952",
+      "url": "https://huggingface.co/papers/2607.14952",
+      "title": "LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget",
+      "summary": "2607.14952 · ▲ 32",
+      "date_published": "2026-07-17T14:12:56.132Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.14202",
+      "url": "https://huggingface.co/papers/2607.14202",
+      "title": "KeyFrame-Compass: Towards Comprehensive Evaluation of Keyframe-Conditioned Video Generation",
+      "summary": "2607.14202 · ▲ 30",
+      "date_published": "2026-07-17T14:12:56.132Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.14189",
+      "url": "https://huggingface.co/papers/2607.14189",
+      "title": "MultiRef-Compass: Towards Comprehensive Evaluation of Multi-Reference-to-Audio-Video Generation",
+      "summary": "2607.14189 · ▲ 28",
+      "date_published": "2026-07-17T14:12:56.132Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.12800",
+      "url": "https://huggingface.co/papers/2607.12800",
+      "title": "UniVR: Thinking in Visual Space for Unified Visual Reasoning",
+      "summary": "2607.12800 · ▲ 20",
+      "date_published": "2026-07-17T14:12:56.132Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.13188",
+      "url": "https://huggingface.co/papers/2607.13188",
+      "title": "Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Processes",
+      "summary": "2607.13188 · ▲ 20",
+      "date_published": "2026-07-17T14:12:56.132Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.14076",
+      "url": "https://huggingface.co/papers/2607.14076",
+      "title": "From Pixels to States: Rethinking Interactive World Models as Game Engines",
+      "summary": "2607.14076 · ▲ 19",
+      "date_published": "2026-07-17T14:12:56.132Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.03065",
+      "url": "https://huggingface.co/papers/2607.03065",
+      "title": "Spectral Rewiring for Exploration, Purification, and Model Merging",
+      "summary": "2607.03065 · ▲ 17",
+      "date_published": "2026-07-17T14:12:56.132Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.15038",
       "url": "https://huggingface.co/papers/2607.15038",
       "title": "Video = World + Event Stream",
-      "summary": "2607.15038 · ▲ 7",
-      "date_published": "2026-07-17T03:47:58.067Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.15275",
-      "url": "https://huggingface.co/papers/2607.15275",
-      "title": "RoboTTT: Context Scaling for Robot Policies",
-      "summary": "2607.15275 · ▲ 3",
-      "date_published": "2026-07-17T03:47:58.067Z"
+      "summary": "2607.15038 · ▲ 12",
+      "date_published": "2026-07-17T14:12:56.132Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.13399",
       "url": "https://huggingface.co/papers/2607.13399",
       "title": "Demystifying On-Policy Distillation: Roles, Pathologies, and Regulations",
-      "summary": "2607.13399 · ▲ 2",
-      "date_published": "2026-07-17T03:47:58.067Z"
+      "summary": "2607.13399 · ▲ 12",
+      "date_published": "2026-07-17T14:12:56.132Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.15275",
+      "url": "https://huggingface.co/papers/2607.15275",
+      "title": "RoboTTT: Context Scaling for Robot Policies",
+      "summary": "2607.15275 · ▲ 11",
+      "date_published": "2026-07-17T14:12:56.132Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.14749",
       "url": "https://huggingface.co/papers/2607.14749",
       "title": "WanSong v1.0 Technical Report",
-      "summary": "2607.14749 · ▲ 1",
-      "date_published": "2026-07-17T03:47:58.067Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.14431",
-      "url": "https://huggingface.co/papers/2607.14431",
-      "title": "Smarter and Cheaper at Once: Byte-Exact KV-Cache Grafting Turns a Frozen Small Model into a Verified-Knowledge Flywheel",
-      "summary": "2607.14431 · ▲ 1",
-      "date_published": "2026-07-17T03:47:58.067Z"
+      "summary": "2607.14749 · ▲ 7",
+      "date_published": "2026-07-17T14:12:56.132Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.15273",
       "url": "https://huggingface.co/papers/2607.15273",
       "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
-      "summary": "2607.15273 · ▲ 0",
-      "date_published": "2026-07-17T03:47:58.067Z"
+      "summary": "2607.15273 · ▲ 7",
+      "date_published": "2026-07-17T14:12:56.132Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.14660",
+      "url": "https://huggingface.co/papers/2607.14660",
+      "title": "VIABench: A Comprehensive Video Benchmark Collected from Blind Individuals for Visual Impairment Assistance",
+      "summary": "2607.14660 · ▲ 6",
+      "date_published": "2026-07-17T14:12:56.132Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.15277",
+      "url": "https://huggingface.co/papers/2607.15277",
+      "title": "Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
+      "summary": "2607.15277 · ▲ 4",
+      "date_published": "2026-07-17T14:12:56.132Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.10995",
+      "url": "https://huggingface.co/papers/2607.10995",
+      "title": "AsySplat: Efficient Asymmetric 3D Gaussian Splatting for Long-Sequence Scene Modeling",
+      "summary": "2607.10995 · ▲ 4",
+      "date_published": "2026-07-17T14:12:56.132Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.10463",
+      "url": "https://huggingface.co/papers/2607.10463",
+      "title": "GRASP: GRanularity-Aware Search Policy for Agentic RAG",
+      "summary": "2607.10463 · ▲ 4",
+      "date_published": "2026-07-17T14:12:56.132Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.13491",
+      "url": "https://huggingface.co/papers/2607.13491",
+      "title": "DeepLoop: Depth Scaling for Looped Transformers",
+      "summary": "2607.13491 · ▲ 3",
+      "date_published": "2026-07-17T14:12:56.132Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.14431",
+      "url": "https://huggingface.co/papers/2607.14431",
+      "title": "Smarter and Cheaper at Once: Byte-Exact KV-Cache Grafting Turns a Frozen Small Model into a Verified-Knowledge Flywheel",
+      "summary": "2607.14431 · ▲ 3",
+      "date_published": "2026-07-17T14:12:56.132Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.15058",
+      "url": "https://huggingface.co/papers/2607.15058",
+      "title": "SUFLECA: Scaling Up Feature Learning for CAD-to-image Alignment",
+      "summary": "2607.15058 · ▲ 2",
+      "date_published": "2026-07-17T14:12:56.132Z"
     }
   ]
 }
