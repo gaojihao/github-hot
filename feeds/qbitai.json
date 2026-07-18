@@ -5,74 +5,74 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/qbitai.json",
   "items": [
     {
+      "id": "https://www.qbitai.com/2026/07/453506.html",
+      "url": "https://www.qbitai.com/2026/07/453506.html",
+      "title": "全球首款720°连续后空翻机器狗来了！宇泛智能携“灵猫”双馆联袂首秀WAIC",
+      "summary": "宇泛智能 · 量子位的朋友们 · 2026年07月18日",
+      "date_published": "2026-07-18T03:41:58.223Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/07/453467.html",
+      "url": "https://www.qbitai.com/2026/07/453467.html",
+      "title": "PPIO发布智能模型网关，打造面向Agent时代的智能Token工厂",
+      "summary": "PPIO · 量子位的朋友们 · 2026年07月18日",
+      "date_published": "2026-07-18T03:41:58.223Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/07/453352.html",
+      "url": "https://www.qbitai.com/2026/07/453352.html",
+      "title": "逛完WAIC 2026我悟了：国产AI芯片的真对手，根本不是英伟达的GPU",
+      "summary": "国产算力 · 思邈 · 2026年07月18日",
+      "date_published": "2026-07-18T03:41:58.223Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/07/453245.html",
+      "url": "https://www.qbitai.com/2026/07/453245.html",
+      "title": "给AI发工号、定岗位、做绩效，数字员工终于能落地了",
+      "summary": "Agent · 思邈 · 2026年07月18日",
+      "date_published": "2026-07-18T03:41:58.223Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/07/453246.html",
+      "url": "https://www.qbitai.com/2026/07/453246.html",
+      "title": "WAIC直击 | 十大开源社区「挤」进了一家GPU展台，沐曦凭什么？",
+      "summary": "GPU · 闻乐 · 2026年07月18日",
+      "date_published": "2026-07-18T03:41:58.223Z"
+    },
+    {
       "id": "https://www.qbitai.com/2026/07/453237.html",
       "url": "https://www.qbitai.com/2026/07/453237.html",
       "title": "达卯科技WAIC首发算电协同2.0：构筑AI算力与绿色能源融合新范式",
       "summary": "WAIC 2026 · 量子位的朋友们 · 2026年07月17日",
-      "date_published": "2026-07-17T14:12:56.132Z"
+      "date_published": "2026-07-18T03:41:58.223Z"
     },
     {
       "id": "https://www.qbitai.com/2026/07/453217.html",
       "url": "https://www.qbitai.com/2026/07/453217.html",
       "title": "WAIC 2026 | 如果Agent有性格，你的智能伙伴会是什么样的？",
       "summary": "WAIC 2026 · 量子位的朋友们 · 2026年07月17日",
-      "date_published": "2026-07-17T14:12:56.132Z"
+      "date_published": "2026-07-18T03:41:58.223Z"
     },
     {
       "id": "https://www.qbitai.com/2026/07/453211.html",
       "url": "https://www.qbitai.com/2026/07/453211.html",
       "title": "WAIC 2026商汤大装置发布算电协同Agent，单位电力成本Token产出提升80%",
       "summary": "商汤科技 · 量子位的朋友们 · 2026年07月17日",
-      "date_published": "2026-07-17T14:12:56.132Z"
+      "date_published": "2026-07-18T03:41:58.223Z"
     },
     {
       "id": "https://www.qbitai.com/2026/07/453208.html",
       "url": "https://www.qbitai.com/2026/07/453208.html",
       "title": "算力的尽头，不是更多算力——全球顶尖科学家7月18日聚首上海，共议AI时代的“未来计算”",
       "summary": "WAIC 2026 · 量子位的朋友们 · 2026年07月17日",
-      "date_published": "2026-07-17T14:12:56.132Z"
+      "date_published": "2026-07-18T03:41:58.223Z"
     },
     {
       "id": "https://www.qbitai.com/2026/07/453203.html",
       "url": "https://www.qbitai.com/2026/07/453203.html",
       "title": "从仰望星空到落地创新：WAIC青年菁英会即将硬核开场，最新成果首发在即",
       "summary": "WAIC 2026 · 量子位的朋友们 · 2026年07月17日",
-      "date_published": "2026-07-17T14:12:56.132Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/07/453084.html",
-      "url": "https://www.qbitai.com/2026/07/453084.html",
-      "title": "上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下",
-      "summary": "振华重工 · 量子位的朋友们 · 2026年07月17日",
-      "date_published": "2026-07-17T14:12:56.132Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/07/452961.html",
-      "url": "https://www.qbitai.com/2026/07/452961.html",
-      "title": "文远发布物理AI大模型WITT：让每一公里都变成模型能力",
-      "summary": "智能车参考 · 杰西卡 · 2026年07月17日",
-      "date_published": "2026-07-17T14:12:56.132Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/07/452956.html",
-      "url": "https://www.qbitai.com/2026/07/452956.html",
-      "title": "WAIC 2026：全球DAA将达7940万个百度AI重磅升级发布",
-      "summary": "百度 · 量子位的朋友们 · 2026年07月17日",
-      "date_published": "2026-07-17T14:12:56.132Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/07/452942.html",
-      "url": "https://www.qbitai.com/2026/07/452942.html",
-      "title": "397B参数追平万亿模型，上海AI Lab发布科学智能体新基座 | WAIC 2026",
-      "summary": "AI for Science · 量子位的朋友们 · 2026年07月17日",
-      "date_published": "2026-07-17T14:12:56.132Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/07/452914.html",
-      "url": "https://www.qbitai.com/2026/07/452914.html",
-      "title": "IDC报告：中国AI Coding市占率阿里Qoder断层第一，超过二三四五名总和",
-      "summary": "阿里 · 梦瑶 · 2026年07月17日",
-      "date_published": "2026-07-17T14:12:56.132Z"
+      "date_published": "2026-07-18T03:41:58.223Z"
     }
   ]
 }
