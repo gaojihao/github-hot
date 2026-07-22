@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "title": "Building AI infrastructure with the Effingham County community",
+      "summary": "Global Affairs · 2026年07月22日",
+      "date_published": "2026-07-22T14:34:48.656Z"
+    },
+    {
+      "id": "https://openai.com/index/introducing-openai-presence",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "title": "Introducing OpenAI Presence",
+      "summary": "Product · 2026年07月22日",
+      "date_published": "2026-07-22T14:34:48.656Z"
+    },
+    {
       "id": "https://openai.com/index/introducing-chatgpt-small-business-program",
       "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
       "title": "Introducing the ChatGPT for small business program",
       "summary": "AI Adoption · 2026年07月22日",
-      "date_published": "2026-07-22T03:57:59.458Z"
+      "date_published": "2026-07-22T14:34:48.656Z"
     },
     {
       "id": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
       "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
       "summary": "Security · 2026年07月21日",
-      "date_published": "2026-07-22T03:57:59.458Z"
+      "date_published": "2026-07-22T14:34:48.656Z"
     },
     {
       "id": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
       "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
       "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
       "summary": "Company · 2026年07月21日",
-      "date_published": "2026-07-22T03:57:59.458Z"
-    },
-    {
-      "id": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "title": "Safety and alignment in an era of long-horizon models",
-      "summary": "Safety · 2026年07月20日",
-      "date_published": "2026-07-22T03:57:59.458Z"
-    },
-    {
-      "id": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "title": "A scorecard for the AI age",
-      "summary": "Company · 2026年07月17日",
-      "date_published": "2026-07-22T03:57:59.458Z"
+      "date_published": "2026-07-22T14:34:48.656Z"
     }
   ]
 }

@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/anthropic-news.json",
   "items": [
     {
+      "id": "https://www.anthropic.com/news/donation-public-first-action",
+      "url": "https://www.anthropic.com/news/donation-public-first-action",
+      "title": "Anthropic is donating another $20 million to Public First Action",
+      "summary": "Announcements · 2026年07月21日",
+      "date_published": "2026-07-22T14:34:48.656Z"
+    },
+    {
       "id": "https://www.anthropic.com/news/rare-disease-research-grants",
       "url": "https://www.anthropic.com/news/rare-disease-research-grants",
       "title": "Apply for Anthropic’s AI for Science rare disease research grants",
       "summary": "Announcements · 2026年07月20日",
-      "date_published": "2026-07-22T03:57:59.458Z"
+      "date_published": "2026-07-22T14:34:48.656Z"
     },
     {
       "id": "https://www.anthropic.com/news/claude-for-teachers",
       "url": "https://www.anthropic.com/news/claude-for-teachers",
       "title": "Introducing Claude for Teachers",
       "summary": "Product · 2026年07月14日",
-      "date_published": "2026-07-22T03:57:59.458Z"
+      "date_published": "2026-07-22T14:34:48.656Z"
     },
     {
       "id": "https://www.anthropic.com/news/canadian-ai-research",
       "url": "https://www.anthropic.com/news/canadian-ai-research",
       "title": "Anthropic commits $10 million to Canadian AI research",
       "summary": "Announcements · 2026年07月14日",
-      "date_published": "2026-07-22T03:57:59.458Z"
+      "date_published": "2026-07-22T14:34:48.656Z"
     },
     {
       "id": "https://www.anthropic.com/news/hard-questions",
       "url": "https://www.anthropic.com/news/hard-questions",
       "title": "Inviting hard questions",
       "summary": "Announcements · 2026年07月09日",
-      "date_published": "2026-07-22T03:57:59.458Z"
-    },
-    {
-      "id": "https://www.anthropic.com/news/ust-claude",
-      "url": "https://www.anthropic.com/news/ust-claude",
-      "title": "UST is bringing Claude to physical AI",
-      "summary": "Case Study · 2026年07月09日",
-      "date_published": "2026-07-22T03:57:59.458Z"
+      "date_published": "2026-07-22T14:34:48.656Z"
     }
   ]
 }
