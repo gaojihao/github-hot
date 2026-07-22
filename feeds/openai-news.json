@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "title": "Introducing the ChatGPT for small business program",
+      "summary": "AI Adoption · 2026年07月22日",
+      "date_published": "2026-07-22T03:57:59.458Z"
+    },
+    {
+      "id": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "summary": "Security · 2026年07月21日",
+      "date_published": "2026-07-22T03:57:59.458Z"
+    },
+    {
+      "id": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "summary": "Company · 2026年07月21日",
+      "date_published": "2026-07-22T03:57:59.458Z"
+    },
+    {
       "id": "https://openai.com/index/safety-alignment-long-horizon-models",
       "url": "https://openai.com/index/safety-alignment-long-horizon-models",
       "title": "Safety and alignment in an era of long-horizon models",
       "summary": "Safety · 2026年07月20日",
-      "date_published": "2026-07-21T14:35:09.035Z"
+      "date_published": "2026-07-22T03:57:59.458Z"
     },
     {
       "id": "https://openai.com/index/a-scorecard-for-the-ai-age",
       "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
       "title": "A scorecard for the AI age",
       "summary": "Company · 2026年07月17日",
-      "date_published": "2026-07-21T14:35:09.035Z"
-    },
-    {
-      "id": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "title": "Why teens deserve access to safe AI",
-      "summary": "Safety · 2026年07月17日",
-      "date_published": "2026-07-21T14:35:09.035Z"
-    },
-    {
-      "id": "https://openai.com/index/cars24",
-      "url": "https://openai.com/index/cars24",
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "summary": "2026年07月16日",
-      "date_published": "2026-07-21T14:35:09.035Z"
-    },
-    {
-      "id": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "title": "The US is advancing AI safety through state and federal action",
-      "summary": "Global Affairs · 2026年07月15日",
-      "date_published": "2026-07-21T14:35:09.035Z"
+      "date_published": "2026-07-22T03:57:59.458Z"
     }
   ]
 }
