@@ -8,57 +8,120 @@
       "id": "https://huggingface.co/papers/2607.20145",
       "url": "https://huggingface.co/papers/2607.20145",
       "title": "SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD",
-      "summary": "2607.20145 · ▲ 18",
-      "date_published": "2026-07-23T03:55:10.907Z"
+      "summary": "2607.20145 · ▲ 40",
+      "date_published": "2026-07-23T14:41:26.679Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.20368",
       "url": "https://huggingface.co/papers/2607.20368",
       "title": "Self Gradient Forcing: Native Long Video Extrapolation",
-      "summary": "2607.20368 · ▲ 11",
-      "date_published": "2026-07-23T03:55:10.907Z"
+      "summary": "2607.20368 · ▲ 27",
+      "date_published": "2026-07-23T14:41:26.679Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.19747",
       "url": "https://huggingface.co/papers/2607.19747",
       "title": "Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking",
-      "summary": "2607.19747 · ▲ 4",
-      "date_published": "2026-07-23T03:55:10.907Z"
+      "summary": "2607.19747 · ▲ 22",
+      "date_published": "2026-07-23T14:41:26.679Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.16165",
+      "url": "https://huggingface.co/papers/2607.16165",
+      "title": "An Exam for Active Observers",
+      "summary": "2607.16165 · ▲ 12",
+      "date_published": "2026-07-23T14:41:26.679Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.19604",
+      "url": "https://huggingface.co/papers/2607.19604",
+      "title": "Scaling Laws for Hypernetwork-Based Knowledge Injection in Large Language Models",
+      "summary": "2607.19604 · ▲ 9",
+      "date_published": "2026-07-23T14:41:26.679Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.10169",
+      "url": "https://huggingface.co/papers/2607.10169",
+      "title": "Beyond Euclidean Clipping: Overcoming Exploration Collapse in LLM RL via Riemannian Isometric Policy Optimization",
+      "summary": "2607.10169 · ▲ 7",
+      "date_published": "2026-07-23T14:41:26.679Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.13429",
       "url": "https://huggingface.co/papers/2607.13429",
       "title": "Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment",
-      "summary": "2607.13429 · ▲ 2",
-      "date_published": "2026-07-23T03:55:10.907Z"
+      "summary": "2607.13429 · ▲ 6",
+      "date_published": "2026-07-23T14:41:26.679Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.16190",
+      "url": "https://huggingface.co/papers/2607.16190",
+      "title": "FVAttn: Adaptive Sparse Attention with Runtime Load Balancing for Video Generation",
+      "summary": "2607.16190 · ▲ 4",
+      "date_published": "2026-07-23T14:41:26.679Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.19790",
+      "url": "https://huggingface.co/papers/2607.19790",
+      "title": "Trace: A Taxonomy-Guided Environment for Multidomain Visual Reasoning",
+      "summary": "2607.19790 · ▲ 3",
+      "date_published": "2026-07-23T14:41:26.679Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.19865",
+      "url": "https://huggingface.co/papers/2607.19865",
+      "title": "DocOps: A Verifiable Benchmark for Autonomous Agents in Complex Document Operations",
+      "summary": "2607.19865 · ▲ 3",
+      "date_published": "2026-07-23T14:41:26.679Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.19691",
       "url": "https://huggingface.co/papers/2607.19691",
       "title": "SLPO: Scaling Latent Reasoning via a Surrogate Policy",
-      "summary": "2607.19691 · ▲ 1",
-      "date_published": "2026-07-23T03:55:10.907Z"
+      "summary": "2607.19691 · ▲ 2",
+      "date_published": "2026-07-23T14:41:26.679Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.19942",
       "url": "https://huggingface.co/papers/2607.19942",
       "title": "G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection",
-      "summary": "2607.19942 · ▲ 0",
-      "date_published": "2026-07-23T03:55:10.907Z"
+      "summary": "2607.19942 · ▲ 2",
+      "date_published": "2026-07-23T14:41:26.679Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.20379",
+      "url": "https://huggingface.co/papers/2607.20379",
+      "title": "Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations",
+      "summary": "2607.20379 · ▲ 1",
+      "date_published": "2026-07-23T14:41:26.679Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.20417",
+      "url": "https://huggingface.co/papers/2607.20417",
+      "title": "ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion",
+      "summary": "2607.20417 · ▲ 1",
+      "date_published": "2026-07-23T14:41:26.679Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.20207",
       "url": "https://huggingface.co/papers/2607.20207",
       "title": "SeededGrasp: Language-Guided Grasping in Complex Scenes with Multiple Embodiments",
       "summary": "2607.20207 · ▲ 0",
-      "date_published": "2026-07-23T03:55:10.907Z"
+      "date_published": "2026-07-23T14:41:26.679Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.20417",
-      "url": "https://huggingface.co/papers/2607.20417",
-      "title": "ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion",
-      "summary": "2607.20417 · ▲ 0",
-      "date_published": "2026-07-23T03:55:10.907Z"
+      "id": "https://huggingface.co/papers/2607.18789",
+      "url": "https://huggingface.co/papers/2607.18789",
+      "title": "Moving Alphabet: A Controlled Study of Training Data for Text-to-Video Generation",
+      "summary": "2607.18789 · ▲ 0",
+      "date_published": "2026-07-23T14:41:26.679Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.17699",
+      "url": "https://huggingface.co/papers/2607.17699",
+      "title": "SLAM in Low-Light Environments: Project Report",
+      "summary": "2607.17699 · ▲ 0",
+      "date_published": "2026-07-23T14:41:26.679Z"
     }
   ]
 }
