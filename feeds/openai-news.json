@@ -5,46 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/health-in-chatgpt",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "title": "Launching Health in ChatGPT",
+      "summary": "Product · 2026年07月23日",
+      "date_published": "2026-07-24T03:54:44.544Z"
+    },
+    {
       "id": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
       "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
       "title": "Building AI infrastructure with the Effingham County community",
       "summary": "Global Affairs · 2026年07月22日",
-      "date_published": "2026-07-23T14:41:26.679Z"
+      "date_published": "2026-07-24T03:54:44.544Z"
     },
     {
       "id": "https://openai.com/index/how-news-organizations-are-using-ai",
       "url": "https://openai.com/index/how-news-organizations-are-using-ai",
       "title": "How news organizations are using AI to advance their vital missions",
       "summary": "Company · 2026年07月22日",
-      "date_published": "2026-07-23T14:41:26.679Z"
+      "date_published": "2026-07-24T03:54:44.544Z"
     },
     {
       "id": "https://openai.com/index/advancing-the-next-era-of-national-science",
       "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
       "title": "Advancing the next era of national science",
       "summary": "Global Affairs · 2026年07月22日",
-      "date_published": "2026-07-23T14:41:26.679Z"
+      "date_published": "2026-07-24T03:54:44.544Z"
     },
     {
       "id": "https://openai.com/index/introducing-openai-presence",
       "url": "https://openai.com/index/introducing-openai-presence",
       "title": "Introducing OpenAI Presence",
       "summary": "Product · 2026年07月22日",
-      "date_published": "2026-07-23T14:41:26.679Z"
-    },
-    {
-      "id": "https://openai.com/index/ntt-data",
-      "url": "https://openai.com/index/ntt-data",
-      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-      "summary": "2026年07月22日",
-      "date_published": "2026-07-23T14:41:26.679Z"
-    },
-    {
-      "id": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "title": "Introducing the ChatGPT for small business program",
-      "summary": "AI Adoption · 2026年07月22日",
-      "date_published": "2026-07-23T14:41:26.679Z"
+      "date_published": "2026-07-24T03:54:44.544Z"
     }
   ]
 }

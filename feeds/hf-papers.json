@@ -5,123 +5,60 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2607.20145",
-      "url": "https://huggingface.co/papers/2607.20145",
-      "title": "SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD",
-      "summary": "2607.20145 · ▲ 40",
-      "date_published": "2026-07-23T14:41:26.679Z"
+      "id": "https://huggingface.co/papers/2607.21461",
+      "url": "https://huggingface.co/papers/2607.21461",
+      "title": "AREX: Towards a Recursively Self-Improving Agent for Deep Research",
+      "summary": "2607.21461 · ▲ 31",
+      "date_published": "2026-07-24T03:54:44.544Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.20368",
-      "url": "https://huggingface.co/papers/2607.20368",
-      "title": "Self Gradient Forcing: Native Long Video Extrapolation",
-      "summary": "2607.20368 · ▲ 27",
-      "date_published": "2026-07-23T14:41:26.679Z"
+      "id": "https://huggingface.co/papers/2607.20911",
+      "url": "https://huggingface.co/papers/2607.20911",
+      "title": "Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction",
+      "summary": "2607.20911 · ▲ 6",
+      "date_published": "2026-07-24T03:54:44.544Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.19747",
-      "url": "https://huggingface.co/papers/2607.19747",
-      "title": "Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking",
-      "summary": "2607.19747 · ▲ 22",
-      "date_published": "2026-07-23T14:41:26.679Z"
+      "id": "https://huggingface.co/papers/2607.20061",
+      "url": "https://huggingface.co/papers/2607.20061",
+      "title": "ReferTrack: Referring Then Tracking for Embodied Visual Tracking",
+      "summary": "2607.20061 · ▲ 6",
+      "date_published": "2026-07-24T03:54:44.544Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.16165",
-      "url": "https://huggingface.co/papers/2607.16165",
-      "title": "An Exam for Active Observers",
-      "summary": "2607.16165 · ▲ 12",
-      "date_published": "2026-07-23T14:41:26.679Z"
+      "id": "https://huggingface.co/papers/2607.20709",
+      "url": "https://huggingface.co/papers/2607.20709",
+      "title": "NVIDIA-labs OO Agents: Native Python Object-Oriented Agents",
+      "summary": "2607.20709 · ▲ 3",
+      "date_published": "2026-07-24T03:54:44.544Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.19604",
-      "url": "https://huggingface.co/papers/2607.19604",
-      "title": "Scaling Laws for Hypernetwork-Based Knowledge Injection in Large Language Models",
-      "summary": "2607.19604 · ▲ 9",
-      "date_published": "2026-07-23T14:41:26.679Z"
+      "id": "https://huggingface.co/papers/2607.10848",
+      "url": "https://huggingface.co/papers/2607.10848",
+      "title": "Predictive Divergence Masks for LLM RL",
+      "summary": "2607.10848 · ▲ 2",
+      "date_published": "2026-07-24T03:54:44.544Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.10169",
-      "url": "https://huggingface.co/papers/2607.10169",
-      "title": "Beyond Euclidean Clipping: Overcoming Exploration Collapse in LLM RL via Riemannian Isometric Policy Optimization",
-      "summary": "2607.10169 · ▲ 7",
-      "date_published": "2026-07-23T14:41:26.679Z"
+      "id": "https://huggingface.co/papers/2607.21594",
+      "url": "https://huggingface.co/papers/2607.21594",
+      "title": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
+      "summary": "2607.21594 · ▲ 1",
+      "date_published": "2026-07-24T03:54:44.544Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.13429",
-      "url": "https://huggingface.co/papers/2607.13429",
-      "title": "Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment",
-      "summary": "2607.13429 · ▲ 6",
-      "date_published": "2026-07-23T14:41:26.679Z"
+      "id": "https://huggingface.co/papers/2607.21580",
+      "url": "https://huggingface.co/papers/2607.21580",
+      "title": "GraphVid: Interactive Graph-Controllable Video Generation",
+      "summary": "2607.21580 · ▲ 0",
+      "date_published": "2026-07-24T03:54:44.544Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.16190",
-      "url": "https://huggingface.co/papers/2607.16190",
-      "title": "FVAttn: Adaptive Sparse Attention with Runtime Load Balancing for Video Generation",
-      "summary": "2607.16190 · ▲ 4",
-      "date_published": "2026-07-23T14:41:26.679Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.19790",
-      "url": "https://huggingface.co/papers/2607.19790",
-      "title": "Trace: A Taxonomy-Guided Environment for Multidomain Visual Reasoning",
-      "summary": "2607.19790 · ▲ 3",
-      "date_published": "2026-07-23T14:41:26.679Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.19865",
-      "url": "https://huggingface.co/papers/2607.19865",
-      "title": "DocOps: A Verifiable Benchmark for Autonomous Agents in Complex Document Operations",
-      "summary": "2607.19865 · ▲ 3",
-      "date_published": "2026-07-23T14:41:26.679Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.19691",
-      "url": "https://huggingface.co/papers/2607.19691",
-      "title": "SLPO: Scaling Latent Reasoning via a Surrogate Policy",
-      "summary": "2607.19691 · ▲ 2",
-      "date_published": "2026-07-23T14:41:26.679Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.19942",
-      "url": "https://huggingface.co/papers/2607.19942",
-      "title": "G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection",
-      "summary": "2607.19942 · ▲ 2",
-      "date_published": "2026-07-23T14:41:26.679Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.20379",
-      "url": "https://huggingface.co/papers/2607.20379",
-      "title": "Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations",
-      "summary": "2607.20379 · ▲ 1",
-      "date_published": "2026-07-23T14:41:26.679Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.20417",
-      "url": "https://huggingface.co/papers/2607.20417",
-      "title": "ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion",
-      "summary": "2607.20417 · ▲ 1",
-      "date_published": "2026-07-23T14:41:26.679Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.20207",
-      "url": "https://huggingface.co/papers/2607.20207",
-      "title": "SeededGrasp: Language-Guided Grasping in Complex Scenes with Multiple Embodiments",
-      "summary": "2607.20207 · ▲ 0",
-      "date_published": "2026-07-23T14:41:26.679Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.18789",
-      "url": "https://huggingface.co/papers/2607.18789",
-      "title": "Moving Alphabet: A Controlled Study of Training Data for Text-to-Video Generation",
-      "summary": "2607.18789 · ▲ 0",
-      "date_published": "2026-07-23T14:41:26.679Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.17699",
-      "url": "https://huggingface.co/papers/2607.17699",
-      "title": "SLAM in Low-Light Environments: Project Report",
-      "summary": "2607.17699 · ▲ 0",
-      "date_published": "2026-07-23T14:41:26.679Z"
+      "id": "https://huggingface.co/papers/2607.21017",
+      "url": "https://huggingface.co/papers/2607.21017",
+      "title": "TableVerse: A Large-scale Tabletop Dataset with Real-world Grounded Layouts for Generalizable Manipulation",
+      "summary": "2607.21017 · ▲ 0",
+      "date_published": "2026-07-24T03:54:44.544Z"
     }
   ]
 }
