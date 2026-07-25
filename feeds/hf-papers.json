@@ -8,141 +8,155 @@
       "id": "https://huggingface.co/papers/2607.21461",
       "url": "https://huggingface.co/papers/2607.21461",
       "title": "AREX: Towards a Recursively Self-Improving Agent for Deep Research",
-      "summary": "2607.21461 · ▲ 100",
-      "date_published": "2026-07-24T14:20:56.583Z"
+      "summary": "2607.21461 · ▲ 118",
+      "date_published": "2026-07-25T03:49:17.351Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.20061",
       "url": "https://huggingface.co/papers/2607.20061",
       "title": "ReferTrack: Referring Then Tracking for Embodied Visual Tracking",
-      "summary": "2607.20061 · ▲ 40",
-      "date_published": "2026-07-24T14:20:56.583Z"
+      "summary": "2607.20061 · ▲ 45",
+      "date_published": "2026-07-25T03:49:17.351Z"
     },
     {
       "id": "https://huggingface.co/papers/2605.09635",
       "url": "https://huggingface.co/papers/2605.09635",
       "title": "K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs",
-      "summary": "2605.09635 · ▲ 38",
-      "date_published": "2026-07-24T14:20:56.583Z"
+      "summary": "2605.09635 · ▲ 42",
+      "date_published": "2026-07-25T03:49:17.351Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.21556",
       "url": "https://huggingface.co/papers/2607.21556",
       "title": "Visual Contrastive Self-Distillation",
-      "summary": "2607.21556 · ▲ 38",
-      "date_published": "2026-07-24T14:20:56.583Z"
+      "summary": "2607.21556 · ▲ 41",
+      "date_published": "2026-07-25T03:49:17.351Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.21072",
       "url": "https://huggingface.co/papers/2607.21072",
       "title": "Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text",
       "summary": "2607.21072 · ▲ 34",
-      "date_published": "2026-07-24T14:20:56.583Z"
+      "date_published": "2026-07-25T03:49:17.351Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.20709",
+      "url": "https://huggingface.co/papers/2607.20709",
+      "title": "NVIDIA-labs OO Agents: Native Python Object-Oriented Agents",
+      "summary": "2607.20709 · ▲ 19",
+      "date_published": "2026-07-25T03:49:17.351Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.20911",
       "url": "https://huggingface.co/papers/2607.20911",
       "title": "Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction",
-      "summary": "2607.20911 · ▲ 17",
-      "date_published": "2026-07-24T14:20:56.583Z"
+      "summary": "2607.20911 · ▲ 18",
+      "date_published": "2026-07-25T03:49:17.351Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.12746",
       "url": "https://huggingface.co/papers/2607.12746",
       "title": "Color Pass-Through via Camera-Display Coupling",
       "summary": "2607.12746 · ▲ 17",
-      "date_published": "2026-07-24T14:20:56.583Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.20709",
-      "url": "https://huggingface.co/papers/2607.20709",
-      "title": "NVIDIA-labs OO Agents: Native Python Object-Oriented Agents",
-      "summary": "2607.20709 · ▲ 14",
-      "date_published": "2026-07-24T14:20:56.583Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.21576",
-      "url": "https://huggingface.co/papers/2607.21576",
-      "title": "Self-Supervised Learning of Structured Dynamics from Videos",
-      "summary": "2607.21576 · ▲ 12",
-      "date_published": "2026-07-24T14:20:56.583Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.20734",
-      "url": "https://huggingface.co/papers/2607.20734",
-      "title": "LLMs Get Lost in Evolving User Intent",
-      "summary": "2607.20734 · ▲ 12",
-      "date_published": "2026-07-24T14:20:56.583Z"
+      "date_published": "2026-07-25T03:49:17.351Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.21553",
       "url": "https://huggingface.co/papers/2607.21553",
       "title": "SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation",
-      "summary": "2607.21553 · ▲ 10",
-      "date_published": "2026-07-24T14:20:56.583Z"
+      "summary": "2607.21553 · ▲ 16",
+      "date_published": "2026-07-25T03:49:17.351Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.21051",
-      "url": "https://huggingface.co/papers/2607.21051",
-      "title": "Sample-Efficient Learning from Agent Experience",
-      "summary": "2607.21051 · ▲ 7",
-      "date_published": "2026-07-24T14:20:56.583Z"
+      "id": "https://huggingface.co/papers/2607.20734",
+      "url": "https://huggingface.co/papers/2607.20734",
+      "title": "LLMs Get Lost in Evolving User Intent",
+      "summary": "2607.20734 · ▲ 16",
+      "date_published": "2026-07-25T03:49:17.351Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.21576",
+      "url": "https://huggingface.co/papers/2607.21576",
+      "title": "Self-Supervised Learning of Structured Dynamics from Videos",
+      "summary": "2607.21576 · ▲ 14",
+      "date_published": "2026-07-25T03:49:17.351Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.21594",
       "url": "https://huggingface.co/papers/2607.21594",
       "title": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
-      "summary": "2607.21594 · ▲ 7",
-      "date_published": "2026-07-24T14:20:56.583Z"
+      "summary": "2607.21594 · ▲ 10",
+      "date_published": "2026-07-25T03:49:17.351Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.21051",
+      "url": "https://huggingface.co/papers/2607.21051",
+      "title": "Sample-Efficient Learning from Agent Experience",
+      "summary": "2607.21051 · ▲ 8",
+      "date_published": "2026-07-25T03:49:17.351Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.20785",
+      "url": "https://huggingface.co/papers/2607.20785",
+      "title": "Robostral Navigate",
+      "summary": "2607.20785 · ▲ 8",
+      "date_published": "2026-07-25T03:49:17.351Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.04763",
+      "url": "https://huggingface.co/papers/2607.04763",
+      "title": "Multi-Turn On-Policy Distillation with Prefix Replay",
+      "summary": "2607.04763 · ▲ 8",
+      "date_published": "2026-07-25T03:49:17.351Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.10848",
+      "url": "https://huggingface.co/papers/2607.10848",
+      "title": "Predictive Divergence Masks for LLM RL",
+      "summary": "2607.10848 · ▲ 8",
+      "date_published": "2026-07-25T03:49:17.351Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.21485",
       "url": "https://huggingface.co/papers/2607.21485",
       "title": "Recurrent Sinusoidal INRs for Efficient High-Fidelity Representation",
       "summary": "2607.21485 · ▲ 6",
-      "date_published": "2026-07-24T14:20:56.583Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.20785",
-      "url": "https://huggingface.co/papers/2607.20785",
-      "title": "Robostral Navigate",
-      "summary": "2607.20785 · ▲ 6",
-      "date_published": "2026-07-24T14:20:56.583Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.10848",
-      "url": "https://huggingface.co/papers/2607.10848",
-      "title": "Predictive Divergence Masks for LLM RL",
-      "summary": "2607.10848 · ▲ 6",
-      "date_published": "2026-07-24T14:20:56.583Z"
+      "date_published": "2026-07-25T03:49:17.351Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.21017",
       "url": "https://huggingface.co/papers/2607.21017",
       "title": "TableVerse: A Large-scale Tabletop Dataset with Real-world Grounded Layouts for Generalizable Manipulation",
       "summary": "2607.21017 · ▲ 5",
-      "date_published": "2026-07-24T14:20:56.583Z"
+      "date_published": "2026-07-25T03:49:17.351Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.21557",
+      "url": "https://huggingface.co/papers/2607.21557",
+      "title": "OpenForgeRL: Train Harness-native Agents in Any Environment",
+      "summary": "2607.21557 · ▲ 5",
+      "date_published": "2026-07-25T03:49:17.351Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.19238",
       "url": "https://huggingface.co/papers/2607.19238",
       "title": "FinanceComplexQA: Benchmarking Agentic Reasoning on Industrial-grade Financial Documents",
-      "summary": "2607.19238 · ▲ 3",
-      "date_published": "2026-07-24T14:20:56.583Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.04763",
-      "url": "https://huggingface.co/papers/2607.04763",
-      "title": "Multi-Turn On-Policy Distillation with Prefix Replay",
-      "summary": "2607.04763 · ▲ 3",
-      "date_published": "2026-07-24T14:20:56.583Z"
+      "summary": "2607.19238 · ▲ 5",
+      "date_published": "2026-07-25T03:49:17.351Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.21580",
       "url": "https://huggingface.co/papers/2607.21580",
       "title": "GraphVid: Interactive Graph-Controllable Video Generation",
       "summary": "2607.21580 · ▲ 2",
-      "date_published": "2026-07-24T14:20:56.583Z"
+      "date_published": "2026-07-25T03:49:17.351Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.16859",
+      "url": "https://huggingface.co/papers/2607.16859",
+      "title": "Dataset Distillation by Influence Matching",
+      "summary": "2607.16859 · ▲ 0",
+      "date_published": "2026-07-25T03:49:17.351Z"
     }
   ]
 }
