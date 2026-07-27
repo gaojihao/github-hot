@@ -5,67 +5,53 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/qbitai.json",
   "items": [
     {
+      "id": "https://www.qbitai.com/2026/07/461149.html",
+      "url": "https://www.qbitai.com/2026/07/461149.html",
+      "title": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
+      "summary": "蚂蚁百灵 · 量子位的朋友们 · 2026年07月27日",
+      "date_published": "2026-07-27T04:23:05.725Z"
+    },
+    {
       "id": "https://www.qbitai.com/2026/07/460962.html",
       "url": "https://www.qbitai.com/2026/07/460962.html",
       "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
       "summary": "具身智能 · 鱼羊 · 2026年07月26日",
-      "date_published": "2026-07-26T14:09:47.744Z"
+      "date_published": "2026-07-27T04:23:05.725Z"
     },
     {
       "id": "https://www.qbitai.com/2026/07/460892.html",
       "url": "https://www.qbitai.com/2026/07/460892.html",
       "title": "100%开源！吴恩达做了个个人桌面Agent",
       "summary": "吴恩达 · 文婷 · 2026年07月25日",
-      "date_published": "2026-07-26T14:09:47.744Z"
+      "date_published": "2026-07-27T04:23:05.725Z"
     },
     {
       "id": "https://www.qbitai.com/2026/07/460542.html",
       "url": "https://www.qbitai.com/2026/07/460542.html",
       "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
       "summary": "rss · henry · 2026年07月25日",
-      "date_published": "2026-07-26T14:09:47.744Z"
+      "date_published": "2026-07-27T04:23:05.725Z"
     },
     {
       "id": "https://www.qbitai.com/2026/07/460253.html",
       "url": "https://www.qbitai.com/2026/07/460253.html",
       "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
       "summary": "Claude · 克雷西 · 2026年07月25日",
-      "date_published": "2026-07-26T14:09:47.744Z"
+      "date_published": "2026-07-27T04:23:05.725Z"
     },
     {
       "id": "https://www.qbitai.com/2026/07/460234.html",
       "url": "https://www.qbitai.com/2026/07/460234.html",
       "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
       "summary": "机器人 · 克雷西 · 2026年07月25日",
-      "date_published": "2026-07-26T14:09:47.744Z"
+      "date_published": "2026-07-27T04:23:05.725Z"
     },
     {
       "id": "https://www.qbitai.com/2026/07/460186.html",
       "url": "https://www.qbitai.com/2026/07/460186.html",
       "title": "北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡",
       "summary": "Agent · 十三 · 2026年07月25日",
-      "date_published": "2026-07-26T14:09:47.744Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/07/460174.html",
-      "url": "https://www.qbitai.com/2026/07/460174.html",
-      "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
-      "summary": "多模态 · henry · 2026年07月25日",
-      "date_published": "2026-07-26T14:09:47.744Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/07/460154.html",
-      "url": "https://www.qbitai.com/2026/07/460154.html",
-      "title": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
-      "summary": "AI独角兽 · 思邈 · 2026年07月24日",
-      "date_published": "2026-07-26T14:09:47.744Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/07/460041.html",
-      "url": "https://www.qbitai.com/2026/07/460041.html",
-      "title": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
-      "summary": "世界模型 · 思邈 · 2026年07月24日",
-      "date_published": "2026-07-26T14:09:47.744Z"
+      "date_published": "2026-07-27T04:23:05.725Z"
     }
   ]
 }
