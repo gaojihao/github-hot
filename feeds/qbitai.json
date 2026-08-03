@@ -3,5 +3,48 @@
   "title": "量子位",
   "home_page_url": "https://gaojihao.github.io/github-hot/qbitai.html",
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/qbitai.json",
-  "items": []
+  "items": [
+    {
+      "id": "https://www.qbitai.com/2026/08/464835.html",
+      "url": "https://www.qbitai.com/2026/08/464835.html",
+      "title": "AI不再用完即忘：华为诺亚开源MindMemOS，记忆和Skill一起进化",
+      "summary": "华为 · 梦晨 · 2026年08月03日",
+      "date_published": "2026-08-03T04:07:05.128Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/08/464781.html",
+      "url": "https://www.qbitai.com/2026/08/464781.html",
+      "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
+      "summary": "具身智能 · Jay · 2026年08月01日",
+      "date_published": "2026-08-03T04:07:05.128Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/08/464761.html",
+      "url": "https://www.qbitai.com/2026/08/464761.html",
+      "title": "获奖之后，王虹最想感谢的人",
+      "summary": "王虹 · 程浅 · 2026年08月01日",
+      "date_published": "2026-08-03T04:07:05.128Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/08/464713.html",
+      "url": "https://www.qbitai.com/2026/08/464713.html",
+      "title": "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了",
+      "summary": "AI · 闻乐 · 2026年08月01日",
+      "date_published": "2026-08-03T04:07:05.128Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/08/464693.html",
+      "url": "https://www.qbitai.com/2026/08/464693.html",
+      "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
+      "summary": "OpenAI · 一水 · 2026年08月01日",
+      "date_published": "2026-08-03T04:07:05.128Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/08/464532.html",
+      "url": "https://www.qbitai.com/2026/08/464532.html",
+      "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
+      "summary": "无问智科 · 一水 · 2026年08月01日",
+      "date_published": "2026-08-03T04:07:05.128Z"
+    }
+  ]
 }
