@@ -5,81 +5,242 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2607.28590",
-      "url": "https://huggingface.co/papers/2607.28590",
-      "title": "VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation",
-      "summary": "2607.28590 · ▲ 19",
-      "date_published": "2026-08-04T03:49:20.550Z"
+      "id": "https://huggingface.co/papers/2608.01964",
+      "url": "https://huggingface.co/papers/2608.01964",
+      "title": "LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks",
+      "summary": "2608.01964 · ▲ 112",
+      "date_published": "2026-08-04T15:03:05.057Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.02023",
       "url": "https://huggingface.co/papers/2608.02023",
       "title": "SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks",
-      "summary": "2608.02023 · ▲ 17",
-      "date_published": "2026-08-04T03:49:20.550Z"
+      "summary": "2608.02023 · ▲ 110",
+      "date_published": "2026-08-04T15:03:05.057Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.29613",
-      "url": "https://huggingface.co/papers/2607.29613",
-      "title": "WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning",
-      "summary": "2607.29613 · ▲ 10",
-      "date_published": "2026-08-04T03:49:20.550Z"
+      "id": "https://huggingface.co/papers/2608.01735",
+      "url": "https://huggingface.co/papers/2608.01735",
+      "title": "DAPD: Dual-Anchored Policy Distillation",
+      "summary": "2608.01735 · ▲ 44",
+      "date_published": "2026-08-04T15:03:05.057Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.02499",
-      "url": "https://huggingface.co/papers/2608.02499",
-      "title": "SWE-Touch: Benchmarking Coding Agents When Users Touch the Code",
-      "summary": "2608.02499 · ▲ 6",
-      "date_published": "2026-08-04T03:49:20.550Z"
+      "id": "https://huggingface.co/papers/2608.01678",
+      "url": "https://huggingface.co/papers/2608.01678",
+      "title": "Progressive Agent Skill Generation via Reinforcement Learning",
+      "summary": "2608.01678 · ▲ 43",
+      "date_published": "2026-08-04T15:03:05.057Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.02583",
-      "url": "https://huggingface.co/papers/2608.02583",
-      "title": "UEmbed: Unified Sparse and Dense Multimodal Embeddings",
-      "summary": "2608.02583 · ▲ 5",
-      "date_published": "2026-08-04T03:49:20.550Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.01954",
-      "url": "https://huggingface.co/papers/2608.01954",
-      "title": "StyleForge: Indoor Furniture Styling by Counterfactual Reasoning in a Hypergraph Field",
-      "summary": "2608.01954 · ▲ 5",
-      "date_published": "2026-08-04T03:49:20.550Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.01973",
-      "url": "https://huggingface.co/papers/2608.01973",
-      "title": "Roomer: Reflective Object-Grounded Model Editing and Repair for 3D Indoor Layout Synthesis",
-      "summary": "2608.01973 · ▲ 5",
-      "date_published": "2026-08-04T03:49:20.550Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.02358",
-      "url": "https://huggingface.co/papers/2608.02358",
-      "title": "ScrambleToolBench: Agents Search Exhaustively Even When Their Own Map Points to the Next Step",
-      "summary": "2608.02358 · ▲ 2",
-      "date_published": "2026-08-04T03:49:20.550Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.00440",
-      "url": "https://huggingface.co/papers/2608.00440",
-      "title": "Poplar: A Scalable Pipeline for Human-Centric Image Dataset Synthesis",
-      "summary": "2608.00440 · ▲ 2",
-      "date_published": "2026-08-04T03:49:20.550Z"
+      "id": "https://huggingface.co/papers/2607.28590",
+      "url": "https://huggingface.co/papers/2607.28590",
+      "title": "VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation",
+      "summary": "2607.28590 · ▲ 43",
+      "date_published": "2026-08-04T15:03:05.057Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.02603",
       "url": "https://huggingface.co/papers/2608.02603",
       "title": "WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity",
-      "summary": "2608.02603 · ▲ 0",
-      "date_published": "2026-08-04T03:49:20.550Z"
+      "summary": "2608.02603 · ▲ 29",
+      "date_published": "2026-08-04T15:03:05.057Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.02583",
+      "url": "https://huggingface.co/papers/2608.02583",
+      "title": "UEmbed: Unified Sparse and Dense Multimodal Embeddings",
+      "summary": "2608.02583 · ▲ 29",
+      "date_published": "2026-08-04T15:03:05.057Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.00799",
+      "url": "https://huggingface.co/papers/2608.00799",
+      "title": "CADENA: Stepwise CAD Reverse Engineering",
+      "summary": "2608.00799 · ▲ 27",
+      "date_published": "2026-08-04T15:03:05.057Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.01755",
       "url": "https://huggingface.co/papers/2608.01755",
       "title": "Deferred Exposure of Future Trajectories for Verifiable Reasoning in Autonomous Driving VLMs",
-      "summary": "2608.01755 · ▲ 0",
-      "date_published": "2026-08-04T03:49:20.550Z"
+      "summary": "2608.01755 · ▲ 25",
+      "date_published": "2026-08-04T15:03:05.057Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.02287",
+      "url": "https://huggingface.co/papers/2608.02287",
+      "title": "SKT: Skill-Use Training at Scale via Verified Synthetic Data Generation",
+      "summary": "2608.02287 · ▲ 25",
+      "date_published": "2026-08-04T15:03:05.057Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.02499",
+      "url": "https://huggingface.co/papers/2608.02499",
+      "title": "SWE-Touch: Benchmarking Coding Agents When Users Touch the Code",
+      "summary": "2608.02499 · ▲ 22",
+      "date_published": "2026-08-04T15:03:05.057Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.29613",
+      "url": "https://huggingface.co/papers/2607.29613",
+      "title": "WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning",
+      "summary": "2607.29613 · ▲ 21",
+      "date_published": "2026-08-04T15:03:05.057Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.01628",
+      "url": "https://huggingface.co/papers/2608.01628",
+      "title": "Motion Beyond Morphology: Bootstrapping Cross-Category Motion Transfer from Abstract Motion Representations",
+      "summary": "2608.01628 · ▲ 20",
+      "date_published": "2026-08-04T15:03:05.057Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.02585",
+      "url": "https://huggingface.co/papers/2608.02585",
+      "title": "GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning",
+      "summary": "2608.02585 · ▲ 19",
+      "date_published": "2026-08-04T15:03:05.057Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.00146",
+      "url": "https://huggingface.co/papers/2608.00146",
+      "title": "DiffusionGemma Technical Report",
+      "summary": "2608.00146 · ▲ 18",
+      "date_published": "2026-08-04T15:03:05.057Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.01973",
+      "url": "https://huggingface.co/papers/2608.01973",
+      "title": "Roomer: Reflective Object-Grounded Model Editing and Repair for 3D Indoor Layout Synthesis",
+      "summary": "2608.01973 · ▲ 16",
+      "date_published": "2026-08-04T15:03:05.057Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.27042",
+      "url": "https://huggingface.co/papers/2607.27042",
+      "title": "GPTQ-2D: Cubic-Time Two-Sided Adaptive Rounding",
+      "summary": "2607.27042 · ▲ 16",
+      "date_published": "2026-08-04T15:03:05.057Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.01827",
+      "url": "https://huggingface.co/papers/2608.01827",
+      "title": "DeepVoyager-VL: Incentivizing Vision-in-the-Loop Search for Long-Horizon Multimodal Agents",
+      "summary": "2608.01827 · ▲ 14",
+      "date_published": "2026-08-04T15:03:05.057Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.01185",
+      "url": "https://huggingface.co/papers/2608.01185",
+      "title": "3DZip: Spatial-Aware Feature Diversity-Guided Token Compression for 3D Question Answering",
+      "summary": "2608.01185 · ▲ 14",
+      "date_published": "2026-08-04T15:03:05.057Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.00079",
+      "url": "https://huggingface.co/papers/2608.00079",
+      "title": "LeapTalk: Breaking the Latency-Quality Trade-off in Talking Head Generation",
+      "summary": "2608.00079 · ▲ 13",
+      "date_published": "2026-08-04T15:03:05.057Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.01954",
+      "url": "https://huggingface.co/papers/2608.01954",
+      "title": "StyleForge: Indoor Furniture Styling by Counterfactual Reasoning in a Hypergraph Field",
+      "summary": "2608.01954 · ▲ 12",
+      "date_published": "2026-08-04T15:03:05.057Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.00486",
+      "url": "https://huggingface.co/papers/2608.00486",
+      "title": "DreamTraj: Generating 6-DoF Object Trajectories by Reading Unrendered Video Diffusion Latents",
+      "summary": "2608.00486 · ▲ 11",
+      "date_published": "2026-08-04T15:03:05.057Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.00440",
+      "url": "https://huggingface.co/papers/2608.00440",
+      "title": "Poplar: A Scalable Pipeline for Human-Centric Image Dataset Synthesis",
+      "summary": "2608.00440 · ▲ 10",
+      "date_published": "2026-08-04T15:03:05.057Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.02358",
+      "url": "https://huggingface.co/papers/2608.02358",
+      "title": "ScrambleToolBench: Agents Search Exhaustively Even When Their Own Map Points to the Next Step",
+      "summary": "2608.02358 · ▲ 9",
+      "date_published": "2026-08-04T15:03:05.057Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.00574",
+      "url": "https://huggingface.co/papers/2608.00574",
+      "title": "Relax Within, Balance Across: Geometry-Guided Load Balancing for Vision-Language Mixture-of-Experts",
+      "summary": "2608.00574 · ▲ 6",
+      "date_published": "2026-08-04T15:03:05.057Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.29241",
+      "url": "https://huggingface.co/papers/2607.29241",
+      "title": "RecHarness: A Bandit-Routed Agentic Harness for Self-Evolving Recommender Systems",
+      "summary": "2607.29241 · ▲ 6",
+      "date_published": "2026-08-04T15:03:05.057Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.28802",
+      "url": "https://huggingface.co/papers/2607.28802",
+      "title": "Model or Harness? An Interaction-Centric Taxonomy for Localizing Agent Failures",
+      "summary": "2607.28802 · ▲ 5",
+      "date_published": "2026-08-04T15:03:05.057Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.26848",
+      "url": "https://huggingface.co/papers/2607.26848",
+      "title": "ICDAR 2026 Competition on Information Extraction from Atomic Layer Deposition/Etching (ALD/E) Scientific Figures",
+      "summary": "2607.26848 · ▲ 4",
+      "date_published": "2026-08-04T15:03:05.057Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.23693",
+      "url": "https://huggingface.co/papers/2607.23693",
+      "title": "Compute Globally, Materialize Locally: The Memory Contract of Sparse Event-KV",
+      "summary": "2607.23693 · ▲ 2",
+      "date_published": "2026-08-04T15:03:05.057Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.02315",
+      "url": "https://huggingface.co/papers/2608.02315",
+      "title": "GEOID-Flood: A Large-Scale Multi-Modal Benchmark Dataset for Flood Segmentation",
+      "summary": "2608.02315 · ▲ 1",
+      "date_published": "2026-08-04T15:03:05.057Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.01462",
+      "url": "https://huggingface.co/papers/2608.01462",
+      "title": "Loud or Silent? A Reusable Framework for Per-Modality Failure Analysis in Multimodal Clinical AI",
+      "summary": "2608.01462 · ▲ 1",
+      "date_published": "2026-08-04T15:03:05.057Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.29122",
+      "url": "https://huggingface.co/papers/2607.29122",
+      "title": "A Frozen Pixel-Space Diffusion Model Can Guide Itself with Its Own Samples",
+      "summary": "2607.29122 · ▲ 1",
+      "date_published": "2026-08-04T15:03:05.057Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.29377",
+      "url": "https://huggingface.co/papers/2607.29377",
+      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+      "summary": "2607.29377 · ▲ 1",
+      "date_published": "2026-08-04T15:03:05.057Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.26326",
+      "url": "https://huggingface.co/papers/2607.26326",
+      "title": "Seeing or Knowing? Visual Context Sensitivity in Multimodal Large Language Models",
+      "summary": "2607.26326 · ▲ 0",
+      "date_published": "2026-08-04T15:03:05.057Z"
     }
   ]
 }
