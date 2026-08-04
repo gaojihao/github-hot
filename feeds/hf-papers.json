@@ -5,179 +5,81 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2607.23802",
-      "url": "https://huggingface.co/papers/2607.23802",
-      "title": "From RLVR to RLSVR: Task Transformation Induces Self-Verifiable Rewards for Open-Ended LLM Self-Improvement",
-      "summary": "2607.23802 · ▲ 64",
-      "date_published": "2026-08-03T15:25:51.123Z"
+      "id": "https://huggingface.co/papers/2607.28590",
+      "url": "https://huggingface.co/papers/2607.28590",
+      "title": "VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation",
+      "summary": "2607.28590 · ▲ 19",
+      "date_published": "2026-08-04T03:49:20.550Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.23782",
-      "url": "https://huggingface.co/papers/2607.23782",
-      "title": "N_0-VTLA: Scaling Vision-Tactile-Language-Action Model with Latent Tactile Tokens",
-      "summary": "2607.23782 · ▲ 47",
-      "date_published": "2026-08-03T15:25:51.123Z"
+      "id": "https://huggingface.co/papers/2608.02023",
+      "url": "https://huggingface.co/papers/2608.02023",
+      "title": "SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks",
+      "summary": "2608.02023 · ▲ 17",
+      "date_published": "2026-08-04T03:49:20.550Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.27201",
-      "url": "https://huggingface.co/papers/2607.27201",
-      "title": "Mental World Modeling",
-      "summary": "2607.27201 · ▲ 46",
-      "date_published": "2026-08-03T15:25:51.123Z"
+      "id": "https://huggingface.co/papers/2607.29613",
+      "url": "https://huggingface.co/papers/2607.29613",
+      "title": "WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning",
+      "summary": "2607.29613 · ▲ 10",
+      "date_published": "2026-08-04T03:49:20.550Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.28675",
-      "url": "https://huggingface.co/papers/2607.28675",
-      "title": "Meshy T2: Fast Native Mesh Generation with Flow Matching",
-      "summary": "2607.28675 · ▲ 40",
-      "date_published": "2026-08-03T15:25:51.123Z"
+      "id": "https://huggingface.co/papers/2608.02499",
+      "url": "https://huggingface.co/papers/2608.02499",
+      "title": "SWE-Touch: Benchmarking Coding Agents When Users Touch the Code",
+      "summary": "2608.02499 · ▲ 6",
+      "date_published": "2026-08-04T03:49:20.550Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.28617",
-      "url": "https://huggingface.co/papers/2607.28617",
-      "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
-      "summary": "2607.28617 · ▲ 29",
-      "date_published": "2026-08-03T15:25:51.123Z"
+      "id": "https://huggingface.co/papers/2608.02583",
+      "url": "https://huggingface.co/papers/2608.02583",
+      "title": "UEmbed: Unified Sparse and Dense Multimodal Embeddings",
+      "summary": "2608.02583 · ▲ 5",
+      "date_published": "2026-08-04T03:49:20.550Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.23783",
-      "url": "https://huggingface.co/papers/2607.23783",
-      "title": "N_0-TWAM: Scaling Tactile-Native World-Action Model for Contact-Rich Manipulation",
-      "summary": "2607.23783 · ▲ 24",
-      "date_published": "2026-08-03T15:25:51.123Z"
+      "id": "https://huggingface.co/papers/2608.01954",
+      "url": "https://huggingface.co/papers/2608.01954",
+      "title": "StyleForge: Indoor Furniture Styling by Counterfactual Reasoning in a Hypergraph Field",
+      "summary": "2608.01954 · ▲ 5",
+      "date_published": "2026-08-04T03:49:20.550Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.29679",
-      "url": "https://huggingface.co/papers/2607.29679",
-      "title": "Scaling Properties of Text Conditioning in Visual Generation",
-      "summary": "2607.29679 · ▲ 23",
-      "date_published": "2026-08-03T15:25:51.123Z"
+      "id": "https://huggingface.co/papers/2608.01973",
+      "url": "https://huggingface.co/papers/2608.01973",
+      "title": "Roomer: Reflective Object-Grounded Model Editing and Repair for 3D Indoor Layout Synthesis",
+      "summary": "2608.01973 · ▲ 5",
+      "date_published": "2026-08-04T03:49:20.550Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.28415",
-      "url": "https://huggingface.co/papers/2607.28415",
-      "title": "QQWorld: Quantile-Quantile Matching for World Model Regularization",
-      "summary": "2607.28415 · ▲ 23",
-      "date_published": "2026-08-03T15:25:51.123Z"
+      "id": "https://huggingface.co/papers/2608.02358",
+      "url": "https://huggingface.co/papers/2608.02358",
+      "title": "ScrambleToolBench: Agents Search Exhaustively Even When Their Own Map Points to the Next Step",
+      "summary": "2608.02358 · ▲ 2",
+      "date_published": "2026-08-04T03:49:20.550Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.29209",
-      "url": "https://huggingface.co/papers/2607.29209",
-      "title": "SAF-OPD: Stable Advantage Fusion for On-Policy Distillation",
-      "summary": "2607.29209 · ▲ 21",
-      "date_published": "2026-08-03T15:25:51.123Z"
+      "id": "https://huggingface.co/papers/2608.00440",
+      "url": "https://huggingface.co/papers/2608.00440",
+      "title": "Poplar: A Scalable Pipeline for Human-Centric Image Dataset Synthesis",
+      "summary": "2608.00440 · ▲ 2",
+      "date_published": "2026-08-04T03:49:20.550Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.26611",
-      "url": "https://huggingface.co/papers/2607.26611",
-      "title": "Fewer Clarifications, Better Code: Benchmarking Cross-Session Personalized Ambiguity Adaptation in Coding Assistants",
-      "summary": "2607.26611 · ▲ 18",
-      "date_published": "2026-08-03T15:25:51.123Z"
+      "id": "https://huggingface.co/papers/2608.02603",
+      "url": "https://huggingface.co/papers/2608.02603",
+      "title": "WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity",
+      "summary": "2608.02603 · ▲ 0",
+      "date_published": "2026-08-04T03:49:20.550Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.18082",
-      "url": "https://huggingface.co/papers/2607.18082",
-      "title": "Enhancing Rubric-based RL via Self-Distillation",
-      "summary": "2607.18082 · ▲ 14",
-      "date_published": "2026-08-03T15:25:51.123Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.29677",
-      "url": "https://huggingface.co/papers/2607.29677",
-      "title": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
-      "summary": "2607.29677 · ▲ 13",
-      "date_published": "2026-08-03T15:25:51.123Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.29025",
-      "url": "https://huggingface.co/papers/2607.29025",
-      "title": "Evaluation-Verification Reward for Consistent Multi-Reference Image Editing",
-      "summary": "2607.29025 · ▲ 11",
-      "date_published": "2026-08-03T15:25:51.123Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.27924",
-      "url": "https://huggingface.co/papers/2607.27924",
-      "title": "ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow",
-      "summary": "2607.27924 · ▲ 7",
-      "date_published": "2026-08-03T15:25:51.123Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.26991",
-      "url": "https://huggingface.co/papers/2607.26991",
-      "title": "RL^2-VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models",
-      "summary": "2607.26991 · ▲ 4",
-      "date_published": "2026-08-03T15:25:51.123Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.28229",
-      "url": "https://huggingface.co/papers/2607.28229",
-      "title": "EMBL AI Librarian: Life-Sciences Knowledge Layer for AI Agents",
-      "summary": "2607.28229 · ▲ 3",
-      "date_published": "2026-08-03T15:25:51.123Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.28443",
-      "url": "https://huggingface.co/papers/2607.28443",
-      "title": "One Future, Every Robot: Label-Efficient Collective-State Prediction with Decentralized JEPA",
-      "summary": "2607.28443 · ▲ 3",
-      "date_published": "2026-08-03T15:25:51.123Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.29684",
-      "url": "https://huggingface.co/papers/2607.29684",
-      "title": "Toward Robust and 3D-Aware RGB-NIR Imaging in the Dark",
-      "summary": "2607.29684 · ▲ 2",
-      "date_published": "2026-08-03T15:25:51.123Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.27888",
-      "url": "https://huggingface.co/papers/2607.27888",
-      "title": "Not All Tokens Deserve Equal Credit: Counterfactual Sensitivity Credit Reallocation for Long-CoT Reasoning",
-      "summary": "2607.27888 · ▲ 2",
-      "date_published": "2026-08-03T15:25:51.123Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.28996",
-      "url": "https://huggingface.co/papers/2607.28996",
-      "title": "SULAND v2: A Refined RGB Dataset and Deep Learning Object Detection Benchmark for UAV/UGV-Based SUrface LANDmine Detection Under Domain Shift",
-      "summary": "2607.28996 · ▲ 1",
-      "date_published": "2026-08-03T15:25:51.123Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.27851",
-      "url": "https://huggingface.co/papers/2607.27851",
-      "title": "Beyond Feeling Better: Capability-Sustaining Emotional Dialogue as a Longitudinal Research Paradigm",
-      "summary": "2607.27851 · ▲ 1",
-      "date_published": "2026-08-03T15:25:51.123Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.27951",
-      "url": "https://huggingface.co/papers/2607.27951",
-      "title": "Safeguards Based on Copyable Context Cannot Provide Reliable Safety for LLMs",
-      "summary": "2607.27951 · ▲ 1",
-      "date_published": "2026-08-03T15:25:51.123Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.15820",
-      "url": "https://huggingface.co/papers/2607.15820",
-      "title": "In the Driver's Seat: A Multi-Company Study on the Reality of Autonomous Driving System Testing",
-      "summary": "2607.15820 · ▲ 1",
-      "date_published": "2026-08-03T15:25:51.123Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.28478",
-      "url": "https://huggingface.co/papers/2607.28478",
-      "title": "Would You Walk to the Car Wash? Revealing the Salience Bias of Large Language Models in Commonsense Reasoning",
-      "summary": "2607.28478 · ▲ 0",
-      "date_published": "2026-08-03T15:25:51.123Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.25388",
-      "url": "https://huggingface.co/papers/2607.25388",
-      "title": "SGTP: Sampling-based Game-Theoretic Planning for Real-Time Multi-Vehicle Autonomous Racing",
-      "summary": "2607.25388 · ▲ 0",
-      "date_published": "2026-08-03T15:25:51.123Z"
+      "id": "https://huggingface.co/papers/2608.01755",
+      "url": "https://huggingface.co/papers/2608.01755",
+      "title": "Deferred Exposure of Future Trajectories for Verifiable Reasoning in Autonomous Driving VLMs",
+      "summary": "2608.01755 · ▲ 0",
+      "date_published": "2026-08-04T03:49:20.550Z"
     }
   ]
 }

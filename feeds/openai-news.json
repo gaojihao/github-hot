@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "summary": "Engineering · 2026年08月03日",
+      "date_published": "2026-08-04T03:49:20.550Z"
+    },
+    {
+      "id": "https://openai.com/index/circles",
+      "url": "https://openai.com/index/circles",
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "summary": "2026年08月03日",
+      "date_published": "2026-08-04T03:49:20.550Z"
+    },
+    {
       "id": "https://openai.com/index/ten-advances-in-mathematics",
       "url": "https://openai.com/index/ten-advances-in-mathematics",
       "title": "Ten advances in mathematics and theoretical computer science",
       "summary": "Publication · 2026年08月01日",
-      "date_published": "2026-08-03T15:25:51.123Z"
+      "date_published": "2026-08-04T03:49:20.550Z"
     },
     {
       "id": "https://openai.com/index/advancing-responsible-ai-across-europe",
       "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
       "title": "Advancing responsible AI across Europe",
       "summary": "Global Affairs · 2026年07月31日",
-      "date_published": "2026-08-03T15:25:51.123Z"
+      "date_published": "2026-08-04T03:49:20.550Z"
     },
     {
       "id": "https://openai.com/index/building-abundant-intelligence",
       "url": "https://openai.com/index/building-abundant-intelligence",
       "title": "Building abundant intelligence",
       "summary": "Company · 2026年07月31日",
-      "date_published": "2026-08-03T15:25:51.123Z"
-    },
-    {
-      "id": "https://openai.com/index/unive",
-      "url": "https://openai.com/index/unive",
-      "title": "Univé builds an AI-ready workforce",
-      "summary": "2026年07月31日",
-      "date_published": "2026-08-03T15:25:51.123Z"
-    },
-    {
-      "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "title": "Disrupting a Criminal Scam Operation",
-      "summary": "2026年07月31日",
-      "date_published": "2026-08-03T15:25:51.123Z"
+      "date_published": "2026-08-04T03:49:20.550Z"
     }
   ]
 }
