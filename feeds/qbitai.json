@@ -3,5 +3,76 @@
   "title": "量子位",
   "home_page_url": "https://gaojihao.github.io/github-hot/qbitai.html",
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/qbitai.json",
-  "items": []
+  "items": [
+    {
+      "id": "https://www.qbitai.com/2026/08/467871.html",
+      "url": "https://www.qbitai.com/2026/08/467871.html",
+      "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
+      "summary": "蚂蚁 · 量子位的朋友们 · 2026年08月07日",
+      "date_published": "2026-08-07T03:30:13.193Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/08/467840.html",
+      "url": "https://www.qbitai.com/2026/08/467840.html",
+      "title": "AI SSD：大模型推理的存储范式转移",
+      "summary": "AI SSD · 思邈 · 2026年08月07日",
+      "date_published": "2026-08-07T03:30:13.193Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/08/467834.html",
+      "url": "https://www.qbitai.com/2026/08/467834.html",
+      "title": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商",
+      "summary": "PPIO · 量子位的朋友们 · 2026年08月07日",
+      "date_published": "2026-08-07T03:30:13.193Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/08/467730.html",
+      "url": "https://www.qbitai.com/2026/08/467730.html",
+      "title": "智元下架了首席科学家罗剑岚",
+      "summary": "具身智能 · henry · 2026年08月07日",
+      "date_published": "2026-08-07T03:30:13.193Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/08/467663.html",
+      "url": "https://www.qbitai.com/2026/08/467663.html",
+      "title": "Show me《指环王》！卡帕西强推大模型评测新基准",
+      "summary": "资讯 · henry · 2026年08月07日",
+      "date_published": "2026-08-07T03:30:13.193Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/08/467486.html",
+      "url": "https://www.qbitai.com/2026/08/467486.html",
+      "title": "冲刺全球首个100万小时具身数据！三家国产公司，联手了",
+      "summary": "黎曼动力 · 一水 · 2026年08月07日",
+      "date_published": "2026-08-07T03:30:13.193Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/08/467487.html",
+      "url": "https://www.qbitai.com/2026/08/467487.html",
+      "title": "DeepSeek豪掷1.4亿护航宇树IPO，杭州绝代双骄战略合体",
+      "summary": "Deepseek · 衡宇 · 2026年08月07日",
+      "date_published": "2026-08-07T03:30:13.193Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/08/467478.html",
+      "url": "https://www.qbitai.com/2026/08/467478.html",
+      "title": "美学升维，流畅突破：荣耀MagicOS11双架构重塑体验",
+      "summary": "荣耀 · 量子位的朋友们 · 2026年08月06日",
+      "date_published": "2026-08-07T03:30:13.193Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/08/467447.html",
+      "url": "https://www.qbitai.com/2026/08/467447.html",
+      "title": "没有人靠段子永载GitHub，除非谷歌姐夫",
+      "summary": "谷歌 · Jay · 2026年08月06日",
+      "date_published": "2026-08-07T03:30:13.193Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/08/467444.html",
+      "url": "https://www.qbitai.com/2026/08/467444.html",
+      "title": "Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一",
+      "summary": "阿里巴巴 · 量子位的朋友们 · 2026年08月06日",
+      "date_published": "2026-08-07T03:30:13.193Z"
+    }
+  ]
 }
