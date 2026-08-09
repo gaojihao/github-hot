@@ -5,74 +5,74 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/qbitai.json",
   "items": [
     {
+      "id": "https://www.qbitai.com/2026/08/469010.html",
+      "url": "https://www.qbitai.com/2026/08/469010.html",
+      "title": "180万刀，连亚马逊都烧不起Claude了",
+      "summary": "Claude · 程浅 · 2026年08月09日",
+      "date_published": "2026-08-09T13:31:49.930Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/08/468913.html",
+      "url": "https://www.qbitai.com/2026/08/468913.html",
+      "title": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
+      "summary": "数学 · 克雷西 · 2026年08月09日",
+      "date_published": "2026-08-09T13:31:49.930Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/08/468782.html",
+      "url": "https://www.qbitai.com/2026/08/468782.html",
+      "title": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
+      "summary": "资讯 · 闻乐 · 2026年08月09日",
+      "date_published": "2026-08-09T13:31:49.930Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/08/468766.html",
+      "url": "https://www.qbitai.com/2026/08/468766.html",
+      "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
+      "summary": "AI · 听雨 · 2026年08月09日",
+      "date_published": "2026-08-09T13:31:49.930Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/08/468715.html",
+      "url": "https://www.qbitai.com/2026/08/468715.html",
+      "title": "爆料：哈萨比斯原本要和Jeff Dean一起走！",
+      "summary": "AI · 听雨 · 2026年08月09日",
+      "date_published": "2026-08-09T13:31:49.930Z"
+    },
+    {
       "id": "https://www.qbitai.com/2026/08/468631.html",
       "url": "https://www.qbitai.com/2026/08/468631.html",
       "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
       "summary": "OpenAI · Jay · 2026年08月08日",
-      "date_published": "2026-08-09T02:35:48.515Z"
+      "date_published": "2026-08-09T13:31:49.930Z"
     },
     {
       "id": "https://www.qbitai.com/2026/08/468555.html",
       "url": "https://www.qbitai.com/2026/08/468555.html",
       "title": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
       "summary": "EverMind · Jay · 2026年08月08日",
-      "date_published": "2026-08-09T02:35:48.515Z"
+      "date_published": "2026-08-09T13:31:49.930Z"
     },
     {
       "id": "https://www.qbitai.com/2026/08/468498.html",
       "url": "https://www.qbitai.com/2026/08/468498.html",
       "title": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱",
       "summary": "AI创业 · 衡宇 · 2026年08月08日",
-      "date_published": "2026-08-09T02:35:48.515Z"
+      "date_published": "2026-08-09T13:31:49.930Z"
     },
     {
       "id": "https://www.qbitai.com/2026/08/468462.html",
       "url": "https://www.qbitai.com/2026/08/468462.html",
       "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
       "summary": "OpenAI · Jay · 2026年08月08日",
-      "date_published": "2026-08-09T02:35:48.515Z"
+      "date_published": "2026-08-09T13:31:49.930Z"
     },
     {
       "id": "https://www.qbitai.com/2026/08/468398.html",
       "url": "https://www.qbitai.com/2026/08/468398.html",
       "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
       "summary": "AI编程 · 衡宇 · 2026年08月08日",
-      "date_published": "2026-08-09T02:35:48.515Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/08/468338.html",
-      "url": "https://www.qbitai.com/2026/08/468338.html",
-      "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
-      "summary": "AI越狱 · 衡宇 · 2026年08月08日",
-      "date_published": "2026-08-09T02:35:48.515Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/08/468324.html",
-      "url": "https://www.qbitai.com/2026/08/468324.html",
-      "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
-      "summary": "阿里巴巴 · 梦晨 · 2026年08月07日",
-      "date_published": "2026-08-09T02:35:48.515Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/08/466738.html",
-      "url": "https://www.qbitai.com/2026/08/466738.html",
-      "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
-      "summary": "Apple · 程浅 · 2026年08月07日",
-      "date_published": "2026-08-09T02:35:48.515Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/08/468305.html",
-      "url": "https://www.qbitai.com/2026/08/468305.html",
-      "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
-      "summary": "Agent · 思邈 · 2026年08月07日",
-      "date_published": "2026-08-09T02:35:48.515Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/08/467878.html",
-      "url": "https://www.qbitai.com/2026/08/467878.html",
-      "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
-      "summary": "Keep · 一水 · 2026年08月07日",
-      "date_published": "2026-08-09T02:35:48.515Z"
+      "date_published": "2026-08-09T13:31:49.930Z"
     }
   ]
 }
