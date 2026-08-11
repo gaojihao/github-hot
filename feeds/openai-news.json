@@ -5,39 +5,60 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/building-an-ai-native-finance-function",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "title": "What building an AI-native finance function taught me",
+      "summary": "Company · 2026年08月11日",
+      "date_published": "2026-08-11T02:35:33.993Z"
+    },
+    {
+      "id": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "summary": "Global Affairs · 2026年08月10日",
+      "date_published": "2026-08-11T02:35:33.993Z"
+    },
+    {
       "id": "https://openai.com/index/model-ml",
       "url": "https://openai.com/index/model-ml",
       "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
       "summary": "Startup · 2026年08月10日",
-      "date_published": "2026-08-10T13:56:38.883Z"
+      "date_published": "2026-08-11T02:35:33.993Z"
     },
     {
-      "id": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "summary": "Security · 2026年08月07日",
-      "date_published": "2026-08-10T13:56:38.883Z"
+      "id": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "summary": "Security · 2026年08月10日",
+      "date_published": "2026-08-11T02:35:33.993Z"
     },
     {
-      "id": "https://openai.com/index/hsp-gruppe",
-      "url": "https://openai.com/index/hsp-gruppe",
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "summary": "2026年08月07日",
-      "date_published": "2026-08-10T13:56:38.883Z"
+      "id": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "title": "Putting frontier cyber models in more trusted hands",
+      "summary": "Security · 2026年08月10日",
+      "date_published": "2026-08-11T02:35:33.993Z"
     },
     {
-      "id": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "summary": "Product · 2026年08月06日",
-      "date_published": "2026-08-10T13:56:38.883Z"
+      "id": "https://openai.com/index/premium-seats-chatgpt-business",
+      "url": "https://openai.com/index/premium-seats-chatgpt-business",
+      "title": "Premium seats are coming to ChatGPT Business",
+      "summary": "Product · 2026年08月10日",
+      "date_published": "2026-08-11T02:35:33.993Z"
     },
     {
-      "id": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "title": "Working with the American Psychological Association on youth mental health and AI",
-      "summary": "Company · 2026年08月06日",
-      "date_published": "2026-08-10T13:56:38.883Z"
+      "id": "https://openai.com/index/zapier",
+      "url": "https://openai.com/index/zapier",
+      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "summary": "2026年08月10日",
+      "date_published": "2026-08-11T02:35:33.993Z"
+    },
+    {
+      "id": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "summary": "2026年08月10日",
+      "date_published": "2026-08-11T02:35:33.993Z"
     }
   ]
 }
