@@ -5,18 +5,186 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
+      "id": "https://huggingface.co/papers/2608.09802",
+      "url": "https://huggingface.co/papers/2608.09802",
+      "title": "SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring",
+      "summary": "2608.09802 · ▲ 113",
+      "date_published": "2026-08-11T13:55:47.669Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.09819",
+      "url": "https://huggingface.co/papers/2608.09819",
+      "title": "Macaron-V1: Towards Open Continual Learning with Self-Improvement and Mixture-of-LoRA",
+      "summary": "2608.09819 · ▲ 100",
+      "date_published": "2026-08-11T13:55:47.669Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.09888",
+      "url": "https://huggingface.co/papers/2608.09888",
+      "title": "BDH-CQ: In-Context Learning with Recurrent Latent Reasoning",
+      "summary": "2608.09888 · ▲ 76",
+      "date_published": "2026-08-11T13:55:47.669Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.08311",
+      "url": "https://huggingface.co/papers/2608.08311",
+      "title": "Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution",
+      "summary": "2608.08311 · ▲ 54",
+      "date_published": "2026-08-11T13:55:47.669Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.07169",
+      "url": "https://huggingface.co/papers/2608.07169",
+      "title": "Agent Memory Distillation: Empowering Small LLM Agents with Hierarchical Teacher Memory",
+      "summary": "2608.07169 · ▲ 27",
+      "date_published": "2026-08-11T13:55:47.669Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.09119",
+      "url": "https://huggingface.co/papers/2608.09119",
+      "title": "Motif 3: Technical Report",
+      "summary": "2608.09119 · ▲ 24",
+      "date_published": "2026-08-11T13:55:47.669Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.09873",
+      "url": "https://huggingface.co/papers/2608.09873",
+      "title": "Sci-VBench: Evaluating Knowledge- and Reasoning-Intensive Video Generation in Science Domains",
+      "summary": "2608.09873 · ▲ 22",
+      "date_published": "2026-08-11T13:55:47.669Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.07565",
+      "url": "https://huggingface.co/papers/2608.07565",
+      "title": "What to Edit Next: Visually Aligned Image-Editing Follow-Up Suggestions in Conversational Systems",
+      "summary": "2608.07565 · ▲ 21",
+      "date_published": "2026-08-11T13:55:47.669Z"
+    },
+    {
       "id": "https://huggingface.co/papers/2608.04419",
       "url": "https://huggingface.co/papers/2608.04419",
       "title": "SPOT: Sparse Probing and Outcome Calibration for On-Policy Distillation",
-      "summary": "2608.04419 · ▲ 14",
-      "date_published": "2026-08-11T02:35:33.993Z"
+      "summary": "2608.04419 · ▲ 16",
+      "date_published": "2026-08-11T13:55:47.669Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.08097",
+      "url": "https://huggingface.co/papers/2608.08097",
+      "title": "OasisKV: Scaling In-Decode KV Cache Beyond HBM with Lookahead Sparse Prefetching",
+      "summary": "2608.08097 · ▲ 15",
+      "date_published": "2026-08-11T13:55:47.669Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.09867",
+      "url": "https://huggingface.co/papers/2608.09867",
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "summary": "2608.09867 · ▲ 10",
+      "date_published": "2026-08-11T13:55:47.669Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.07594",
+      "url": "https://huggingface.co/papers/2608.07594",
+      "title": "Scaling Inherently Interpretable Language Models",
+      "summary": "2608.07594 · ▲ 10",
+      "date_published": "2026-08-11T13:55:47.669Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.02508",
+      "url": "https://huggingface.co/papers/2608.02508",
+      "title": "RoMeRL: Balancing Feedback Coverage and the Memory-Reward Trap in Self-Evolving Agent Memory via Reduced-Order Utility States",
+      "summary": "2608.02508 · ▲ 9",
+      "date_published": "2026-08-11T13:55:47.669Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.08021",
       "url": "https://huggingface.co/papers/2608.08021",
       "title": "Evidence-RL: Towards Evidence-intensive Visual Reasoning",
-      "summary": "2608.08021 · ▲ 4",
-      "date_published": "2026-08-11T02:35:33.993Z"
+      "summary": "2608.08021 · ▲ 8",
+      "date_published": "2026-08-11T13:55:47.669Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.09096",
+      "url": "https://huggingface.co/papers/2608.09096",
+      "title": "Evo-Bench: Can Language Models Improve Agent Harness?",
+      "summary": "2608.09096 · ▲ 7",
+      "date_published": "2026-08-11T13:55:47.669Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.09853",
+      "url": "https://huggingface.co/papers/2608.09853",
+      "title": "RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance",
+      "summary": "2608.09853 · ▲ 6",
+      "date_published": "2026-08-11T13:55:47.669Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.07346",
+      "url": "https://huggingface.co/papers/2608.07346",
+      "title": "A^2E : An End-to-End Agent Auditing Engine",
+      "summary": "2608.07346 · ▲ 5",
+      "date_published": "2026-08-11T13:55:47.669Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.09420",
+      "url": "https://huggingface.co/papers/2608.09420",
+      "title": "Intent Speaks Louder: Controllable User Simulation Beyond Response Imitation",
+      "summary": "2608.09420 · ▲ 3",
+      "date_published": "2026-08-11T13:55:47.669Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.06614",
+      "url": "https://huggingface.co/papers/2608.06614",
+      "title": "Factorized Hypothesis Search for Evidence-to-Taxonomy Retrieval",
+      "summary": "2608.06614 · ▲ 2",
+      "date_published": "2026-08-11T13:55:47.669Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.08285",
+      "url": "https://huggingface.co/papers/2608.08285",
+      "title": "Ego-OSCAR: Egocentric Open source Stereo CAptuRe System",
+      "summary": "2608.08285 · ▲ 1",
+      "date_published": "2026-08-11T13:55:47.669Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.07886",
+      "url": "https://huggingface.co/papers/2608.07886",
+      "title": "Vision-Language Grounding as Bidirectional Concept Correspondence",
+      "summary": "2608.07886 · ▲ 1",
+      "date_published": "2026-08-11T13:55:47.669Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.05136",
+      "url": "https://huggingface.co/papers/2608.05136",
+      "title": "The Loss Does Not See the Basis, but Adam Does",
+      "summary": "2608.05136 · ▲ 1",
+      "date_published": "2026-08-11T13:55:47.669Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.03499",
+      "url": "https://huggingface.co/papers/2608.03499",
+      "title": "WeClawArena: An Auditable Sandbox and Benchmark for Cross-User Agents Collaboration and Security in Human-Centered Agent Networks",
+      "summary": "2608.03499 · ▲ 1",
+      "date_published": "2026-08-11T13:55:47.669Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.27637",
+      "url": "https://huggingface.co/papers/2607.27637",
+      "title": "MMOOC: A Comprehensive Benchmark for Out-of-Context Evaluation in Multimodal Large Language Models",
+      "summary": "2607.27637 · ▲ 1",
+      "date_published": "2026-08-11T13:55:47.669Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.09043",
+      "url": "https://huggingface.co/papers/2608.09043",
+      "title": "Don't Scroll Back: Missing-Evidence Memory for Streaming Dialogue Summarization",
+      "summary": "2608.09043 · ▲ 0",
+      "date_published": "2026-08-11T13:55:47.669Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.09848",
+      "url": "https://huggingface.co/papers/2608.09848",
+      "title": "CEAA: A Cognitive Embodied Agents Architecture for Interactive Computing Systems",
+      "summary": "2608.09848 · ▲ 0",
+      "date_published": "2026-08-11T13:55:47.669Z"
     }
   ]
 }
