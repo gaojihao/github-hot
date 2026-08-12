@@ -5,53 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "summary": "Company · 2026年08月12日",
+      "date_published": "2026-08-12T13:58:03.832Z"
+    },
+    {
       "id": "https://openai.com/index/testing-ads-in-chatgpt",
       "url": "https://openai.com/index/testing-ads-in-chatgpt",
       "title": "Testing ads in ChatGPT",
       "summary": "Company · 2026年08月11日",
-      "date_published": "2026-08-12T03:04:35.853Z"
+      "date_published": "2026-08-12T13:58:03.832Z"
     },
     {
       "id": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
       "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
       "title": "Daybreak models are now available on AWS",
       "summary": "Product · 2026年08月11日",
-      "date_published": "2026-08-12T03:04:35.853Z"
+      "date_published": "2026-08-12T13:58:03.832Z"
     },
     {
       "id": "https://openai.com/index/building-an-ai-native-finance-function",
       "url": "https://openai.com/index/building-an-ai-native-finance-function",
       "title": "What building an AI-native finance function taught me",
       "summary": "Company · 2026年08月11日",
-      "date_published": "2026-08-12T03:04:35.853Z"
+      "date_published": "2026-08-12T13:58:03.832Z"
     },
     {
       "id": "https://openai.com/index/responsible-ai-infrastructure-texas",
       "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
       "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
       "summary": "Global Affairs · 2026年08月10日",
-      "date_published": "2026-08-12T03:04:35.853Z"
-    },
-    {
-      "id": "https://openai.com/index/model-ml",
-      "url": "https://openai.com/index/model-ml",
-      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "summary": "Startup · 2026年08月10日",
-      "date_published": "2026-08-12T03:04:35.853Z"
-    },
-    {
-      "id": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "summary": "Security · 2026年08月10日",
-      "date_published": "2026-08-12T03:04:35.853Z"
-    },
-    {
-      "id": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-      "title": "Putting frontier cyber models in more trusted hands",
-      "summary": "Security · 2026年08月10日",
-      "date_published": "2026-08-12T03:04:35.853Z"
+      "date_published": "2026-08-12T13:58:03.832Z"
     }
   ]
 }
