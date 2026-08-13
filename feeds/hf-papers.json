@@ -5,158 +5,81 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2608.10915",
-      "url": "https://huggingface.co/papers/2608.10915",
-      "title": "ComBodied Agents: a New Paradigm of Human-Centric Agentic AI",
-      "summary": "2608.10915 · ▲ 125",
-      "date_published": "2026-08-12T13:58:03.832Z"
+      "id": "https://huggingface.co/papers/2608.12307",
+      "url": "https://huggingface.co/papers/2608.12307",
+      "title": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
+      "summary": "2608.12307 · ▲ 22",
+      "date_published": "2026-08-13T03:08:41.636Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.10744",
-      "url": "https://huggingface.co/papers/2608.10744",
-      "title": "Beyond Pixels: From Video Priors to 4D Worlds",
-      "summary": "2608.10744 · ▲ 98",
-      "date_published": "2026-08-12T13:58:03.832Z"
+      "id": "https://huggingface.co/papers/2608.12314",
+      "url": "https://huggingface.co/papers/2608.12314",
+      "title": "StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization",
+      "summary": "2608.12314 · ▲ 8",
+      "date_published": "2026-08-13T03:08:41.636Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.10299",
-      "url": "https://huggingface.co/papers/2608.10299",
-      "title": "Co-Evolution in Agentic Systems: Toward Self-Directed Evolution Beyond Human Design",
-      "summary": "2608.10299 · ▲ 96",
-      "date_published": "2026-08-12T13:58:03.832Z"
+      "id": "https://huggingface.co/papers/2608.11562",
+      "url": "https://huggingface.co/papers/2608.11562",
+      "title": "From Synthesis to Removal: Physics-Grounded Reflection Simulation and Diffusion-Based Video Dereflection",
+      "summary": "2608.11562 · ▲ 3",
+      "date_published": "2026-08-13T03:08:41.636Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.27749",
-      "url": "https://huggingface.co/papers/2607.27749",
-      "title": "Articulated Object Reconstruction from Rest-State Observation",
-      "summary": "2607.27749 · ▲ 31",
-      "date_published": "2026-08-12T13:58:03.832Z"
+      "id": "https://huggingface.co/papers/2608.11878",
+      "url": "https://huggingface.co/papers/2608.11878",
+      "title": "ToolHazard: Scaling Adversarial Environments for Security Evaluation and Alignment of LLM-based Agents",
+      "summary": "2608.11878 · ▲ 2",
+      "date_published": "2026-08-13T03:08:41.636Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.11205",
-      "url": "https://huggingface.co/papers/2608.11205",
-      "title": "AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance Loss",
-      "summary": "2608.11205 · ▲ 16",
-      "date_published": "2026-08-12T13:58:03.832Z"
+      "id": "https://huggingface.co/papers/2608.11616",
+      "url": "https://huggingface.co/papers/2608.11616",
+      "title": "MBA: Multimodal Benchmark and Agents for Real-World Business Ideation",
+      "summary": "2608.11616 · ▲ 1",
+      "date_published": "2026-08-13T03:08:41.636Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.07645",
-      "url": "https://huggingface.co/papers/2608.07645",
-      "title": "Mendel Gödel Machine: Recursive Self-Improving Coding Agents via Comparative Evolution",
-      "summary": "2608.07645 · ▲ 15",
-      "date_published": "2026-08-12T13:58:03.832Z"
+      "id": "https://huggingface.co/papers/2608.11924",
+      "url": "https://huggingface.co/papers/2608.11924",
+      "title": "Spark-to-Paper: End-to-End Research Paper Generation as a Composable Skill",
+      "summary": "2608.11924 · ▲ 1",
+      "date_published": "2026-08-13T03:08:41.636Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.10875",
-      "url": "https://huggingface.co/papers/2608.10875",
-      "title": "VibeLifeBench: Can Your Life Agent Be Proactive and Persistent in a Living World?",
-      "summary": "2608.10875 · ▲ 11",
-      "date_published": "2026-08-12T13:58:03.832Z"
+      "id": "https://huggingface.co/papers/2608.11274",
+      "url": "https://huggingface.co/papers/2608.11274",
+      "title": "Agent Safety Should Be a Runtime Contract",
+      "summary": "2608.11274 · ▲ 1",
+      "date_published": "2026-08-13T03:08:41.636Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.10720",
-      "url": "https://huggingface.co/papers/2608.10720",
-      "title": "Ex-Omni-2D: Expressive Omni-Modal Dialogue Models with Native Visual Presence",
-      "summary": "2608.10720 · ▲ 9",
-      "date_published": "2026-08-12T13:58:03.832Z"
+      "id": "https://huggingface.co/papers/2608.08107",
+      "url": "https://huggingface.co/papers/2608.08107",
+      "title": "NeuPAT: Neuron-aware Plasticity Allocation Tuning for Language-Preserving MLLMs",
+      "summary": "2608.08107 · ▲ 1",
+      "date_published": "2026-08-13T03:08:41.636Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.09900",
-      "url": "https://huggingface.co/papers/2608.09900",
-      "title": "Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robustness",
-      "summary": "2608.09900 · ▲ 7",
-      "date_published": "2026-08-12T13:58:03.832Z"
+      "id": "https://huggingface.co/papers/2608.06270",
+      "url": "https://huggingface.co/papers/2608.06270",
+      "title": "The Illusion of Visual Tool-Use: A Causal Audit of Thinking with Images",
+      "summary": "2608.06270 · ▲ 1",
+      "date_published": "2026-08-13T03:08:41.636Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.11079",
-      "url": "https://huggingface.co/papers/2608.11079",
-      "title": "SkillZip: Evaluation-Free Skill Compression for Self-Evolving Agents by Discovering Reusable Structure",
-      "summary": "2608.11079 · ▲ 6",
-      "date_published": "2026-08-12T13:58:03.832Z"
+      "id": "https://huggingface.co/papers/2608.11216",
+      "url": "https://huggingface.co/papers/2608.11216",
+      "title": "AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research",
+      "summary": "2608.11216 · ▲ 1",
+      "date_published": "2026-08-13T03:08:41.636Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.10692",
-      "url": "https://huggingface.co/papers/2608.10692",
-      "title": "SPIEval: Evaluating Large Language Models as Mobile Assistants over Scattered Personal Information",
-      "summary": "2608.10692 · ▲ 5",
-      "date_published": "2026-08-12T13:58:03.832Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.08389",
-      "url": "https://huggingface.co/papers/2608.08389",
-      "title": "Not Worth Another Token: Marginal Value Estimation for Efficient Deep Research Agents",
-      "summary": "2608.08389 · ▲ 5",
-      "date_published": "2026-08-12T13:58:03.832Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.10628",
-      "url": "https://huggingface.co/papers/2608.10628",
-      "title": "InSight-doc: Agentic Visual Perception for Long-Document Understanding",
-      "summary": "2608.10628 · ▲ 4",
-      "date_published": "2026-08-12T13:58:03.832Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.10812",
-      "url": "https://huggingface.co/papers/2608.10812",
-      "title": "Reference-Free Post-Training of Open Large Language Models for Multilingual Machine Translation",
-      "summary": "2608.10812 · ▲ 4",
-      "date_published": "2026-08-12T13:58:03.832Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.08627",
-      "url": "https://huggingface.co/papers/2608.08627",
-      "title": "UniMoMo: Expert Merging-Based MoE Acceleration for Large Recommendation Models",
-      "summary": "2608.08627 · ▲ 4",
-      "date_published": "2026-08-12T13:58:03.832Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.10636",
-      "url": "https://huggingface.co/papers/2608.10636",
-      "title": "DistilVDR: A Compact End-to-End Visual Document Retriever via Dual-Student Distillation",
-      "summary": "2608.10636 · ▲ 3",
-      "date_published": "2026-08-12T13:58:03.832Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.08814",
-      "url": "https://huggingface.co/papers/2608.08814",
-      "title": "360CityArena: A Realistic Virtual Urban Navigation Benchmark for Embodied Agents",
-      "summary": "2608.08814 · ▲ 3",
-      "date_published": "2026-08-12T13:58:03.832Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.03216",
-      "url": "https://huggingface.co/papers/2608.03216",
-      "title": "iFAN: Inference-Aware Learning for Plain Mask Transformers",
-      "summary": "2608.03216 · ▲ 3",
-      "date_published": "2026-08-12T13:58:03.832Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.08119",
-      "url": "https://huggingface.co/papers/2608.08119",
-      "title": "TSDS-Toolbox: A Toolbox for Measuring Time-Series Dataset Similarity",
-      "summary": "2608.08119 · ▲ 2",
-      "date_published": "2026-08-12T13:58:03.832Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.27670",
-      "url": "https://huggingface.co/papers/2607.27670",
-      "title": "JigShape: Evaluating Visual-Geometric Reasoning in VLMs through Jigsaw Puzzles",
-      "summary": "2607.27670 · ▲ 2",
-      "date_published": "2026-08-12T13:58:03.832Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.10366",
-      "url": "https://huggingface.co/papers/2608.10366",
-      "title": "DSAgentBench: Can Agents Automate End-to-End Data-Science Workflows in Real Computer Environments?",
-      "summary": "2608.10366 · ▲ 1",
-      "date_published": "2026-08-12T13:58:03.832Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.10288",
-      "url": "https://huggingface.co/papers/2608.10288",
-      "title": "Power law graph attention: exact generalization of scaled dot-product attention, empirical collapse at inference",
-      "summary": "2608.10288 · ▲ 0",
-      "date_published": "2026-08-12T13:58:03.832Z"
+      "id": "https://huggingface.co/papers/2608.12313",
+      "url": "https://huggingface.co/papers/2608.12313",
+      "title": "AVA-Encoder: Towards Agent-Native Video Representation Learning",
+      "summary": "2608.12313 · ▲ 0",
+      "date_published": "2026-08-13T03:08:41.636Z"
     }
   ]
 }
