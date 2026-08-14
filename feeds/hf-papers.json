@@ -5,172 +5,81 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2608.00677",
-      "url": "https://huggingface.co/papers/2608.00677",
-      "title": "OpenART: Scaling Agent Red Teaming via Open-Ended Environment Evolution",
-      "summary": "2608.00677 · ▲ 128",
-      "date_published": "2026-08-13T13:58:34.147Z"
+      "id": "https://huggingface.co/papers/2608.12743",
+      "url": "https://huggingface.co/papers/2608.12743",
+      "title": "Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence",
+      "summary": "2608.12743 · ▲ 12",
+      "date_published": "2026-08-14T03:07:00.890Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.11924",
-      "url": "https://huggingface.co/papers/2608.11924",
-      "title": "Spark-to-Paper: End-to-End Research Paper Generation as a Composable Skill",
-      "summary": "2608.11924 · ▲ 124",
-      "date_published": "2026-08-13T13:58:34.147Z"
+      "id": "https://huggingface.co/papers/2608.12149",
+      "url": "https://huggingface.co/papers/2608.12149",
+      "title": "Massive Activations in Hybrid Linear Attention Large Language Models: Pre-Attention Spikes and Inter-Spike Plateaus",
+      "summary": "2608.12149 · ▲ 7",
+      "date_published": "2026-08-14T03:07:00.890Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.12307",
-      "url": "https://huggingface.co/papers/2608.12307",
-      "title": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
-      "summary": "2608.12307 · ▲ 74",
-      "date_published": "2026-08-13T13:58:34.147Z"
+      "id": "https://huggingface.co/papers/2608.13560",
+      "url": "https://huggingface.co/papers/2608.13560",
+      "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+      "summary": "2608.13560 · ▲ 6",
+      "date_published": "2026-08-14T03:07:00.890Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.12036",
-      "url": "https://huggingface.co/papers/2608.12036",
-      "title": "Mechanist: AI as a Scientific Instrument for Discovering the Mechanisms of Intelligence",
-      "summary": "2608.12036 · ▲ 68",
-      "date_published": "2026-08-13T13:58:34.147Z"
+      "id": "https://huggingface.co/papers/2608.13552",
+      "url": "https://huggingface.co/papers/2608.13552",
+      "title": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
+      "summary": "2608.13552 · ▲ 6",
+      "date_published": "2026-08-14T03:07:00.890Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.05604",
-      "url": "https://huggingface.co/papers/2608.05604",
-      "title": "SkillZip: Contract-Preserving Graph Compression for Scalable Agent Skill Libraries",
-      "summary": "2608.05604 · ▲ 27",
-      "date_published": "2026-08-13T13:58:34.147Z"
+      "id": "https://huggingface.co/papers/2608.08975",
+      "url": "https://huggingface.co/papers/2608.08975",
+      "title": "How Can Rhetoric Reward-Hack AI Reviewers? Dissecting Rhetorical Sensitivity in AI-Based Peer Review",
+      "summary": "2608.08975 · ▲ 5",
+      "date_published": "2026-08-14T03:07:00.890Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.08160",
-      "url": "https://huggingface.co/papers/2608.08160",
-      "title": "Can LLM Agents Stick to the Script? A Benchmark for Long-Horizon Consistency in Interactive Narratives",
-      "summary": "2608.08160 · ▲ 26",
-      "date_published": "2026-08-13T13:58:34.147Z"
+      "id": "https://huggingface.co/papers/2608.13546",
+      "url": "https://huggingface.co/papers/2608.13546",
+      "title": "Alaya-EVOKE: From Linear-Scaling Supervision to Endless World",
+      "summary": "2608.13546 · ▲ 4",
+      "date_published": "2026-08-14T03:07:00.890Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.12314",
-      "url": "https://huggingface.co/papers/2608.12314",
-      "title": "StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization",
-      "summary": "2608.12314 · ▲ 23",
-      "date_published": "2026-08-13T13:58:34.147Z"
+      "id": "https://huggingface.co/papers/2608.13505",
+      "url": "https://huggingface.co/papers/2608.13505",
+      "title": "Intern-S2-Preview: Scientific Agentic Foundation Model",
+      "summary": "2608.13505 · ▲ 4",
+      "date_published": "2026-08-14T03:07:00.890Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.10708",
-      "url": "https://huggingface.co/papers/2608.10708",
-      "title": "Self-Geometry: GT-Free and Plug-and-Play Test-Time Adaptation for Geometrically Consistent 3D Vision Foundation Models",
-      "summary": "2608.10708 · ▲ 11",
-      "date_published": "2026-08-13T13:58:34.147Z"
+      "id": "https://huggingface.co/papers/2608.08888",
+      "url": "https://huggingface.co/papers/2608.08888",
+      "title": "Full-bandwidth transformer",
+      "summary": "2608.08888 · ▲ 4",
+      "date_published": "2026-08-14T03:07:00.890Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.11562",
-      "url": "https://huggingface.co/papers/2608.11562",
-      "title": "From Synthesis to Removal: Physics-Grounded Reflection Simulation and Diffusion-Based Video Dereflection",
-      "summary": "2608.11562 · ▲ 6",
-      "date_published": "2026-08-13T13:58:34.147Z"
+      "id": "https://huggingface.co/papers/2608.07545",
+      "url": "https://huggingface.co/papers/2608.07545",
+      "title": "DarwinX: Evolving Agent Harnesses Through Natural Selection",
+      "summary": "2608.07545 · ▲ 4",
+      "date_published": "2026-08-14T03:07:00.890Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.11878",
-      "url": "https://huggingface.co/papers/2608.11878",
-      "title": "ToolHazard: Scaling Adversarial Environments for Security Evaluation and Alignment of LLM-based Agents",
-      "summary": "2608.11878 · ▲ 6",
-      "date_published": "2026-08-13T13:58:34.147Z"
+      "id": "https://huggingface.co/papers/2608.13558",
+      "url": "https://huggingface.co/papers/2608.13558",
+      "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
+      "summary": "2608.13558 · ▲ 2",
+      "date_published": "2026-08-14T03:07:00.890Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.11350",
-      "url": "https://huggingface.co/papers/2608.11350",
-      "title": "Self-Evolving Embodied Agents via Skill-Harness Evolution",
-      "summary": "2608.11350 · ▲ 6",
-      "date_published": "2026-08-13T13:58:34.147Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.06270",
-      "url": "https://huggingface.co/papers/2608.06270",
-      "title": "The Illusion of Visual Tool-Use: A Causal Audit of Thinking with Images",
-      "summary": "2608.06270 · ▲ 6",
-      "date_published": "2026-08-13T13:58:34.147Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.10615",
-      "url": "https://huggingface.co/papers/2608.10615",
-      "title": "Simplex Relaxation for Discrete Diffusion",
-      "summary": "2608.10615 · ▲ 3",
-      "date_published": "2026-08-13T13:58:34.147Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.11274",
-      "url": "https://huggingface.co/papers/2608.11274",
-      "title": "Agent Safety Should Be a Runtime Contract",
-      "summary": "2608.11274 · ▲ 3",
-      "date_published": "2026-08-13T13:58:34.147Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.10450",
-      "url": "https://huggingface.co/papers/2608.10450",
-      "title": "Persistent Recursive Worlds Enable Autonomous Software Evolution",
-      "summary": "2608.10450 · ▲ 2",
-      "date_published": "2026-08-13T13:58:34.147Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.11616",
-      "url": "https://huggingface.co/papers/2608.11616",
-      "title": "MBA: Multimodal Benchmark and Agents for Real-World Business Ideation",
-      "summary": "2608.11616 · ▲ 2",
-      "date_published": "2026-08-13T13:58:34.147Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.12313",
-      "url": "https://huggingface.co/papers/2608.12313",
-      "title": "AVA-Encoder: Towards Agent-Native Video Representation Learning",
-      "summary": "2608.12313 · ▲ 2",
-      "date_published": "2026-08-13T13:58:34.147Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.11216",
-      "url": "https://huggingface.co/papers/2608.11216",
-      "title": "AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research",
-      "summary": "2608.11216 · ▲ 2",
-      "date_published": "2026-08-13T13:58:34.147Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.11574",
-      "url": "https://huggingface.co/papers/2608.11574",
-      "title": "Hand Visibility Detector: Per-Keypoint Visibility Estimation for Hands",
-      "summary": "2608.11574 · ▲ 1",
-      "date_published": "2026-08-13T13:58:34.147Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.12123",
-      "url": "https://huggingface.co/papers/2608.12123",
-      "title": "Ready Cohorts: Bounding GPU Opportunity and Avoiding Host Round Trips in LLM-Agent Control",
-      "summary": "2608.12123 · ▲ 1",
-      "date_published": "2026-08-13T13:58:34.147Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.09805",
-      "url": "https://huggingface.co/papers/2608.09805",
-      "title": "Parameter Exploration for RLVR via Variational Learning",
-      "summary": "2608.09805 · ▲ 1",
-      "date_published": "2026-08-13T13:58:34.147Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.08107",
-      "url": "https://huggingface.co/papers/2608.08107",
-      "title": "NeuPAT: Neuron-aware Plasticity Allocation Tuning for Language-Preserving MLLMs",
-      "summary": "2608.08107 · ▲ 1",
-      "date_published": "2026-08-13T13:58:34.147Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.06729",
-      "url": "https://huggingface.co/papers/2608.06729",
-      "title": "AtlasVLA: Persistent World-Ego State Modeling for Vision-Language-Action Models",
-      "summary": "2608.06729 · ▲ 1",
-      "date_published": "2026-08-13T13:58:34.147Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.11215",
-      "url": "https://huggingface.co/papers/2608.11215",
-      "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
-      "summary": "2608.11215 · ▲ 1",
-      "date_published": "2026-08-13T13:58:34.147Z"
+      "id": "https://huggingface.co/papers/2608.12990",
+      "url": "https://huggingface.co/papers/2608.12990",
+      "title": "LycheeMemory V2: Efficient Long-Term Memory for LLM Agents via Semantic Segment-Level Consolidation",
+      "summary": "2608.12990 · ▲ 1",
+      "date_published": "2026-08-14T03:07:00.890Z"
     }
   ]
 }
