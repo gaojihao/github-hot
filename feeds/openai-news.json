@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/the-defenders-window",
+      "url": "https://openai.com/index/the-defenders-window",
+      "title": "The Defender’s Window",
+      "summary": "Security · 2026年08月17日",
+      "date_published": "2026-08-17T13:21:47.386Z"
+    },
+    {
+      "id": "https://openai.com/index/openai-joins-ports-pike-project",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "title": "OpenAI joins PORTS-Pike project",
+      "summary": "Global Affairs · 2026年08月17日",
+      "date_published": "2026-08-17T13:21:47.386Z"
+    },
+    {
+      "id": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "title": "New policy ideas for the Intelligence Age",
+      "summary": "Global Affairs · 2026年08月17日",
+      "date_published": "2026-08-17T13:21:47.386Z"
+    },
+    {
       "id": "https://openai.com/index/builders-guide-to-gpt-5-6",
       "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
       "title": "The builder’s guide to GPT‑5.6",
       "summary": "Applied AI · 2026年08月13日",
-      "date_published": "2026-08-17T02:04:34.589Z"
+      "date_published": "2026-08-17T13:21:47.386Z"
     },
     {
       "id": "https://openai.com/index/previewing-ultrafast",
       "url": "https://openai.com/index/previewing-ultrafast",
       "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
       "summary": "Product · 2026年08月13日",
-      "date_published": "2026-08-17T02:04:34.589Z"
-    },
-    {
-      "id": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "summary": "Company · 2026年08月13日",
-      "date_published": "2026-08-17T02:04:34.589Z"
-    },
-    {
-      "id": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "summary": "Company · 2026年08月12日",
-      "date_published": "2026-08-17T02:04:34.589Z"
-    },
-    {
-      "id": "https://openai.com/index/ringcentral",
-      "url": "https://openai.com/index/ringcentral",
-      "title": "How RingCentral builds AI-native work from engineering to ops",
-      "summary": "2026年08月12日",
-      "date_published": "2026-08-17T02:04:34.589Z"
+      "date_published": "2026-08-17T13:21:47.386Z"
     }
   ]
 }
