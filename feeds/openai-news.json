@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/partnering-with-codeai",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "summary": "Company · 2026年08月18日",
+      "date_published": "2026-08-18T13:24:35.881Z"
+    },
+    {
+      "id": "https://openai.com/index/chatgpt-for-teens",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "summary": "Product · 2026年08月18日",
+      "date_published": "2026-08-18T13:24:35.881Z"
+    },
+    {
       "id": "https://openai.com/index/the-defenders-window",
       "url": "https://openai.com/index/the-defenders-window",
       "title": "The Defender’s Window",
       "summary": "Security · 2026年08月17日",
-      "date_published": "2026-08-18T01:58:33.113Z"
+      "date_published": "2026-08-18T13:24:35.881Z"
     },
     {
       "id": "https://openai.com/index/openai-joins-ports-pike-project",
       "url": "https://openai.com/index/openai-joins-ports-pike-project",
       "title": "OpenAI joins PORTS-Pike project",
       "summary": "Global Affairs · 2026年08月17日",
-      "date_published": "2026-08-18T01:58:33.113Z"
+      "date_published": "2026-08-18T13:24:35.881Z"
     },
     {
       "id": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
       "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
       "title": "New policy ideas for the Intelligence Age",
       "summary": "Global Affairs · 2026年08月17日",
-      "date_published": "2026-08-18T01:58:33.113Z"
-    },
-    {
-      "id": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "title": "The builder’s guide to GPT‑5.6",
-      "summary": "Applied AI · 2026年08月13日",
-      "date_published": "2026-08-18T01:58:33.113Z"
-    },
-    {
-      "id": "https://openai.com/index/previewing-ultrafast",
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "summary": "Product · 2026年08月13日",
-      "date_published": "2026-08-18T01:58:33.113Z"
+      "date_published": "2026-08-18T13:24:35.881Z"
     }
   ]
 }
