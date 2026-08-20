@@ -5,53 +5,60 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "title": "Offering Zero Data Retention for frontier models",
+      "summary": "Company · 2026年08月20日",
+      "date_published": "2026-08-20T02:00:44.618Z"
+    },
+    {
+      "id": "https://openai.com/index/replit",
+      "url": "https://openai.com/index/replit",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "summary": "Startup · 2026年08月19日",
+      "date_published": "2026-08-20T02:00:44.618Z"
+    },
+    {
       "id": "https://openai.com/index/chatgpt-ads-expands-across-europe",
       "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
       "title": "ChatGPT Ads expands across Europe",
       "summary": "Product · 2026年08月19日",
-      "date_published": "2026-08-19T13:25:40.787Z"
+      "date_published": "2026-08-20T02:00:44.618Z"
     },
     {
       "id": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
       "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
       "title": "Strengthening democratic oversight in national security",
       "summary": "Global Affairs · 2026年08月19日",
-      "date_published": "2026-08-19T13:25:40.787Z"
+      "date_published": "2026-08-20T02:00:44.618Z"
     },
     {
       "id": "https://openai.com/index/partnering-with-codeai",
       "url": "https://openai.com/index/partnering-with-codeai",
       "title": "Partnering with CodeAI to prepare the first AI generation",
       "summary": "Company · 2026年08月18日",
-      "date_published": "2026-08-19T13:25:40.787Z"
+      "date_published": "2026-08-20T02:00:44.618Z"
     },
     {
       "id": "https://openai.com/index/pacing-model-development-cyber-capabilities",
       "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
       "title": "Pacing model development in an era of cyber-critical capabilities",
       "summary": "Company · 2026年08月18日",
-      "date_published": "2026-08-19T13:25:40.787Z"
+      "date_published": "2026-08-20T02:00:44.618Z"
     },
     {
       "id": "https://openai.com/index/chatgpt-for-teens",
       "url": "https://openai.com/index/chatgpt-for-teens",
       "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
       "summary": "Product · 2026年08月18日",
-      "date_published": "2026-08-19T13:25:40.787Z"
+      "date_published": "2026-08-20T02:00:44.618Z"
     },
     {
       "id": "https://openai.com/index/asana",
       "url": "https://openai.com/index/asana",
       "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
       "summary": "2026年08月18日",
-      "date_published": "2026-08-19T13:25:40.787Z"
-    },
-    {
-      "id": "https://openai.com/index/nvidia/chatgpt-work",
-      "url": "https://openai.com/index/nvidia/chatgpt-work",
-      "title": "How NVIDIA scales expertise with ChatGPT Work",
-      "summary": "2026年08月18日",
-      "date_published": "2026-08-19T13:25:40.787Z"
+      "date_published": "2026-08-20T02:00:44.618Z"
     }
   ]
 }
