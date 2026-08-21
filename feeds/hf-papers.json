@@ -5,46 +5,144 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2608.18580",
-      "url": "https://huggingface.co/papers/2608.18580",
-      "title": "FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis",
-      "summary": "2608.18580 · ▲ 5",
-      "date_published": "2026-08-21T02:08:17.171Z"
-    },
-    {
       "id": "https://huggingface.co/papers/2608.19880",
       "url": "https://huggingface.co/papers/2608.19880",
       "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
-      "summary": "2608.19880 · ▲ 4",
-      "date_published": "2026-08-21T02:08:17.171Z"
+      "summary": "2608.19880 · ▲ 214",
+      "date_published": "2026-08-21T13:26:29.587Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.14022",
-      "url": "https://huggingface.co/papers/2608.14022",
-      "title": "ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World Models",
-      "summary": "2608.14022 · ▲ 2",
-      "date_published": "2026-08-21T02:08:17.171Z"
+      "id": "https://huggingface.co/papers/2608.18580",
+      "url": "https://huggingface.co/papers/2608.18580",
+      "title": "FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis",
+      "summary": "2608.18580 · ▲ 89",
+      "date_published": "2026-08-21T13:26:29.587Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.19799",
+      "url": "https://huggingface.co/papers/2608.19799",
+      "title": "SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?",
+      "summary": "2608.19799 · ▲ 47",
+      "date_published": "2026-08-21T13:26:29.587Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.20335",
+      "url": "https://huggingface.co/papers/2608.20335",
+      "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
+      "summary": "2608.20335 · ▲ 43",
+      "date_published": "2026-08-21T13:26:29.587Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.20336",
       "url": "https://huggingface.co/papers/2608.20336",
       "title": "WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
-      "summary": "2608.20336 · ▲ 1",
-      "date_published": "2026-08-21T02:08:17.171Z"
+      "summary": "2608.20336 · ▲ 32",
+      "date_published": "2026-08-21T13:26:29.587Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.20202",
+      "url": "https://huggingface.co/papers/2608.20202",
+      "title": "MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use",
+      "summary": "2608.20202 · ▲ 24",
+      "date_published": "2026-08-21T13:26:29.587Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.13120",
+      "url": "https://huggingface.co/papers/2608.13120",
+      "title": "SkillEvo: Self-Renewing Evolution Gradients from Multi-Turn Interaction Feedback",
+      "summary": "2608.13120 · ▲ 20",
+      "date_published": "2026-08-21T13:26:29.587Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.14022",
+      "url": "https://huggingface.co/papers/2608.14022",
+      "title": "ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World Models",
+      "summary": "2608.14022 · ▲ 13",
+      "date_published": "2026-08-21T13:26:29.587Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.19854",
+      "url": "https://huggingface.co/papers/2608.19854",
+      "title": "Repo0: Design-Driven Zero-to-All Code Generation",
+      "summary": "2608.19854 · ▲ 9",
+      "date_published": "2026-08-21T13:26:29.587Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.19758",
+      "url": "https://huggingface.co/papers/2608.19758",
+      "title": "FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving",
+      "summary": "2608.19758 · ▲ 6",
+      "date_published": "2026-08-21T13:26:29.587Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.20281",
+      "url": "https://huggingface.co/papers/2608.20281",
+      "title": "Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization",
+      "summary": "2608.20281 · ▲ 3",
+      "date_published": "2026-08-21T13:26:29.587Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.19891",
       "url": "https://huggingface.co/papers/2608.19891",
       "title": "EXIMO: VLM Guided Exploration of VLA Policies",
-      "summary": "2608.19891 · ▲ 1",
-      "date_published": "2026-08-21T02:08:17.171Z"
+      "summary": "2608.19891 · ▲ 3",
+      "date_published": "2026-08-21T13:26:29.587Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.17744",
+      "url": "https://huggingface.co/papers/2608.17744",
+      "title": "Thinking in a Low-Resource Language: What SFT Builds, What RL Fixes, What Accuracy Cannot See",
+      "summary": "2608.17744 · ▲ 3",
+      "date_published": "2026-08-21T13:26:29.587Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.19936",
+      "url": "https://huggingface.co/papers/2608.19936",
+      "title": "Towards Quantifying Benchmark Optimization in ASR Models",
+      "summary": "2608.19936 · ▲ 2",
+      "date_published": "2026-08-21T13:26:29.587Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.19861",
       "url": "https://huggingface.co/papers/2608.19861",
       "title": "PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-Compliant LLM Agents",
-      "summary": "2608.19861 · ▲ 1",
-      "date_published": "2026-08-21T02:08:17.171Z"
+      "summary": "2608.19861 · ▲ 2",
+      "date_published": "2026-08-21T13:26:29.587Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.18027",
+      "url": "https://huggingface.co/papers/2608.18027",
+      "title": "Chain-of-Experience for Continual LLM Improvement",
+      "summary": "2608.18027 · ▲ 2",
+      "date_published": "2026-08-21T13:26:29.587Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.13210",
+      "url": "https://huggingface.co/papers/2608.13210",
+      "title": "NARU: A Benchmark for NARrative Evolution and Cultural Nuance Understanding in Japanese Extreme Long Video",
+      "summary": "2608.13210 · ▲ 2",
+      "date_published": "2026-08-21T13:26:29.587Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.19759",
+      "url": "https://huggingface.co/papers/2608.19759",
+      "title": "GOAG: Generative and Object-Agnostic Grasp Planner for Dexterous Robotic Manipulation",
+      "summary": "2608.19759 · ▲ 1",
+      "date_published": "2026-08-21T13:26:29.587Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.19776",
+      "url": "https://huggingface.co/papers/2608.19776",
+      "title": "CoToGrasp: Contact-Topology-Conditioned Dexterous Grasp Synthesis via Canonical Workspace Learning",
+      "summary": "2608.19776 · ▲ 1",
+      "date_published": "2026-08-21T13:26:29.587Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.19863",
+      "url": "https://huggingface.co/papers/2608.19863",
+      "title": "Listening Forward: Next Patch Embedding Prediction Enables Scalable Audio Learners",
+      "summary": "2608.19863 · ▲ 1",
+      "date_published": "2026-08-21T13:26:29.587Z"
     }
   ]
 }
