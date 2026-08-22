@@ -8,183 +8,183 @@
       "id": "https://huggingface.co/papers/2608.19880",
       "url": "https://huggingface.co/papers/2608.19880",
       "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
-      "summary": "2608.19880 · ▲ 236",
-      "date_published": "2026-08-22T01:58:20.266Z"
+      "summary": "2608.19880 · ▲ 245",
+      "date_published": "2026-08-22T13:09:51.703Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.18580",
       "url": "https://huggingface.co/papers/2608.18580",
       "title": "FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis",
-      "summary": "2608.18580 · ▲ 108",
-      "date_published": "2026-08-22T01:58:20.266Z"
+      "summary": "2608.18580 · ▲ 111",
+      "date_published": "2026-08-22T13:09:51.703Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.20335",
       "url": "https://huggingface.co/papers/2608.20335",
       "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
-      "summary": "2608.20335 · ▲ 58",
-      "date_published": "2026-08-22T01:58:20.266Z"
+      "summary": "2608.20335 · ▲ 62",
+      "date_published": "2026-08-22T13:09:51.703Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.19799",
       "url": "https://huggingface.co/papers/2608.19799",
       "title": "SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?",
-      "summary": "2608.19799 · ▲ 57",
-      "date_published": "2026-08-22T01:58:20.266Z"
+      "summary": "2608.19799 · ▲ 58",
+      "date_published": "2026-08-22T13:09:51.703Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.20336",
       "url": "https://huggingface.co/papers/2608.20336",
       "title": "WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
-      "summary": "2608.20336 · ▲ 38",
-      "date_published": "2026-08-22T01:58:20.266Z"
+      "summary": "2608.20336 · ▲ 39",
+      "date_published": "2026-08-22T13:09:51.703Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.20202",
       "url": "https://huggingface.co/papers/2608.20202",
       "title": "MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use",
-      "summary": "2608.20202 · ▲ 30",
-      "date_published": "2026-08-22T01:58:20.266Z"
+      "summary": "2608.20202 · ▲ 31",
+      "date_published": "2026-08-22T13:09:51.703Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.13120",
       "url": "https://huggingface.co/papers/2608.13120",
       "title": "SkillEvo: Self-Renewing Evolution Gradients from Multi-Turn Interaction Feedback",
-      "summary": "2608.13120 · ▲ 28",
-      "date_published": "2026-08-22T01:58:20.266Z"
+      "summary": "2608.13120 · ▲ 29",
+      "date_published": "2026-08-22T13:09:51.703Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.14022",
       "url": "https://huggingface.co/papers/2608.14022",
       "title": "ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World Models",
-      "summary": "2608.14022 · ▲ 20",
-      "date_published": "2026-08-22T01:58:20.266Z"
+      "summary": "2608.14022 · ▲ 22",
+      "date_published": "2026-08-22T13:09:51.703Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.19854",
       "url": "https://huggingface.co/papers/2608.19854",
       "title": "Repo0: Design-Driven Zero-to-All Code Generation",
       "summary": "2608.19854 · ▲ 16",
-      "date_published": "2026-08-22T01:58:20.266Z"
+      "date_published": "2026-08-22T13:09:51.703Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.19758",
       "url": "https://huggingface.co/papers/2608.19758",
       "title": "FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving",
       "summary": "2608.19758 · ▲ 14",
-      "date_published": "2026-08-22T01:58:20.266Z"
+      "date_published": "2026-08-22T13:09:51.703Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.17744",
       "url": "https://huggingface.co/papers/2608.17744",
       "title": "Thinking in a Low-Resource Language: What SFT Builds, What RL Fixes, What Accuracy Cannot See",
       "summary": "2608.17744 · ▲ 13",
-      "date_published": "2026-08-22T01:58:20.266Z"
+      "date_published": "2026-08-22T13:09:51.703Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.20281",
       "url": "https://huggingface.co/papers/2608.20281",
       "title": "Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization",
       "summary": "2608.20281 · ▲ 10",
-      "date_published": "2026-08-22T01:58:20.266Z"
+      "date_published": "2026-08-22T13:09:51.703Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.19891",
       "url": "https://huggingface.co/papers/2608.19891",
       "title": "EXIMO: VLM Guided Exploration of VLA Policies",
       "summary": "2608.19891 · ▲ 10",
-      "date_published": "2026-08-22T01:58:20.266Z"
+      "date_published": "2026-08-22T13:09:51.703Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.08466",
+      "url": "https://huggingface.co/papers/2608.08466",
+      "title": "Hierarchical Self-Improvement: A Framework for Task-Specific Evolvable Agent Harnesses",
+      "summary": "2608.08466 · ▲ 9",
+      "date_published": "2026-08-22T13:09:51.703Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.19936",
       "url": "https://huggingface.co/papers/2608.19936",
       "title": "Towards Quantifying Benchmark Optimization in ASR Models",
       "summary": "2608.19936 · ▲ 8",
-      "date_published": "2026-08-22T01:58:20.266Z"
+      "date_published": "2026-08-22T13:09:51.703Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.15767",
+      "url": "https://huggingface.co/papers/2608.15767",
+      "title": "TinyCast: Probabilistic Zero-Shot Forecasting with Computed Periodicity",
+      "summary": "2608.15767 · ▲ 8",
+      "date_published": "2026-08-22T13:09:51.703Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.13210",
+      "url": "https://huggingface.co/papers/2608.13210",
+      "title": "NARU: A Benchmark for NARrative Evolution and Cultural Nuance Understanding in Japanese Extreme Long Video",
+      "summary": "2608.13210 · ▲ 8",
+      "date_published": "2026-08-22T13:09:51.703Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.19861",
       "url": "https://huggingface.co/papers/2608.19861",
       "title": "PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-Compliant LLM Agents",
       "summary": "2608.19861 · ▲ 7",
-      "date_published": "2026-08-22T01:58:20.266Z"
+      "date_published": "2026-08-22T13:09:51.703Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.18027",
       "url": "https://huggingface.co/papers/2608.18027",
       "title": "Chain-of-Experience for Continual LLM Improvement",
       "summary": "2608.18027 · ▲ 7",
-      "date_published": "2026-08-22T01:58:20.266Z"
+      "date_published": "2026-08-22T13:09:51.703Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.16885",
       "url": "https://huggingface.co/papers/2608.16885",
       "title": "τ_0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation",
       "summary": "2608.16885 · ▲ 7",
-      "date_published": "2026-08-22T01:58:20.266Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.15767",
-      "url": "https://huggingface.co/papers/2608.15767",
-      "title": "TinyCast: Probabilistic Zero-Shot Forecasting with Computed Periodicity",
-      "summary": "2608.15767 · ▲ 7",
-      "date_published": "2026-08-22T01:58:20.266Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.13210",
-      "url": "https://huggingface.co/papers/2608.13210",
-      "title": "NARU: A Benchmark for NARrative Evolution and Cultural Nuance Understanding in Japanese Extreme Long Video",
-      "summary": "2608.13210 · ▲ 7",
-      "date_published": "2026-08-22T01:58:20.266Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.08466",
-      "url": "https://huggingface.co/papers/2608.08466",
-      "title": "Hierarchical Self-Improvement: A Framework for Task-Specific Evolvable Agent Harnesses",
-      "summary": "2608.08466 · ▲ 7",
-      "date_published": "2026-08-22T01:58:20.266Z"
+      "date_published": "2026-08-22T13:09:51.703Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.19759",
       "url": "https://huggingface.co/papers/2608.19759",
       "title": "GOAG: Generative and Object-Agnostic Grasp Planner for Dexterous Robotic Manipulation",
       "summary": "2608.19759 · ▲ 6",
-      "date_published": "2026-08-22T01:58:20.266Z"
+      "date_published": "2026-08-22T13:09:51.703Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.19776",
       "url": "https://huggingface.co/papers/2608.19776",
       "title": "CoToGrasp: Contact-Topology-Conditioned Dexterous Grasp Synthesis via Canonical Workspace Learning",
       "summary": "2608.19776 · ▲ 6",
-      "date_published": "2026-08-22T01:58:20.266Z"
+      "date_published": "2026-08-22T13:09:51.703Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.12875",
       "url": "https://huggingface.co/papers/2608.12875",
       "title": "The Embedder's Dilemma: LLMs Are Better, but at What Cost?",
       "summary": "2608.12875 · ▲ 6",
-      "date_published": "2026-08-22T01:58:20.266Z"
+      "date_published": "2026-08-22T13:09:51.703Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.13547",
       "url": "https://huggingface.co/papers/2608.13547",
       "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
       "summary": "2608.13547 · ▲ 6",
-      "date_published": "2026-08-22T01:58:20.266Z"
+      "date_published": "2026-08-22T13:09:51.703Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.19863",
       "url": "https://huggingface.co/papers/2608.19863",
       "title": "Listening Forward: Next Patch Embedding Prediction Enables Scalable Audio Learners",
       "summary": "2608.19863 · ▲ 5",
-      "date_published": "2026-08-22T01:58:20.266Z"
+      "date_published": "2026-08-22T13:09:51.703Z"
     },
     {
       "id": "https://huggingface.co/papers/2607.21596",
       "url": "https://huggingface.co/papers/2607.21596",
       "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
       "summary": "2607.21596 · ▲ 2",
-      "date_published": "2026-08-22T01:58:20.266Z"
+      "date_published": "2026-08-22T13:09:51.703Z"
     }
   ]
 }
