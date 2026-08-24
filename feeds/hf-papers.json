@@ -5,32 +5,123 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
+      "id": "https://huggingface.co/papers/2608.21156",
+      "url": "https://huggingface.co/papers/2608.21156",
+      "title": "Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence",
+      "summary": "2608.21156 · ▲ 25",
+      "date_published": "2026-08-24T13:31:07.358Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.20061",
+      "url": "https://huggingface.co/papers/2608.20061",
+      "title": "Let's Scale Step by Step: Compute-Efficient Hyperparameter Transfer for Large-Scale Mixture-of-Experts",
+      "summary": "2608.20061 · ▲ 25",
+      "date_published": "2026-08-24T13:31:07.358Z"
+    },
+    {
       "id": "https://huggingface.co/papers/2608.20910",
       "url": "https://huggingface.co/papers/2608.20910",
       "title": "InfinityEdit: Infinite Video Editing with a Lightweight Edit-Ignition Adapter",
-      "summary": "2608.20910 · ▲ 1",
-      "date_published": "2026-08-24T02:08:17.524Z"
+      "summary": "2608.20910 · ▲ 21",
+      "date_published": "2026-08-24T13:31:07.358Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.21360",
+      "url": "https://huggingface.co/papers/2608.21360",
+      "title": "OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs",
+      "summary": "2608.21360 · ▲ 21",
+      "date_published": "2026-08-24T13:31:07.358Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.16425",
+      "url": "https://huggingface.co/papers/2608.16425",
+      "title": "ParaTempo: Efficient Parallel Reasoning via Temporal Confidence",
+      "summary": "2608.16425 · ▲ 18",
+      "date_published": "2026-08-24T13:31:07.358Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.16647",
+      "url": "https://huggingface.co/papers/2608.16647",
+      "title": "Every Coin Has Two Sides: On the Dual Nature of Generalization in On-Policy Distillation of Large Language Models",
+      "summary": "2608.16647 · ▲ 11",
+      "date_published": "2026-08-24T13:31:07.358Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.20886",
+      "url": "https://huggingface.co/papers/2608.20886",
+      "title": "EviRank: Structured Relevance Evidence for Multimodal Image Re-ranking",
+      "summary": "2608.20886 · ▲ 9",
+      "date_published": "2026-08-24T13:31:07.358Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.12781",
       "url": "https://huggingface.co/papers/2608.12781",
       "title": "Beyond Correctness: Benchmarking and Aligning Response Behaviors in Hybrid-Thinking MLLMs",
-      "summary": "2608.12781 · ▲ 1",
-      "date_published": "2026-08-24T02:08:17.524Z"
+      "summary": "2608.12781 · ▲ 5",
+      "date_published": "2026-08-24T13:31:07.358Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.08676",
+      "url": "https://huggingface.co/papers/2608.08676",
+      "title": "UniSpace: Unified Visual Representation and Scalable Multimodal Modeling",
+      "summary": "2608.08676 · ▲ 5",
+      "date_published": "2026-08-24T13:31:07.358Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.20634",
+      "url": "https://huggingface.co/papers/2608.20634",
+      "title": "AgentMercury: Your Agent Can Synthesize Verifiable Environments for Business Scenarios at scale",
+      "summary": "2608.20634 · ▲ 4",
+      "date_published": "2026-08-24T13:31:07.358Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.20707",
+      "url": "https://huggingface.co/papers/2608.20707",
+      "title": "Towards Faithful Simulation of Human Shopping Behavior",
+      "summary": "2608.20707 · ▲ 4",
+      "date_published": "2026-08-24T13:31:07.358Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.20210",
+      "url": "https://huggingface.co/papers/2608.20210",
+      "title": "Daedalus-150M: A Convolution-Attention Hybrid Designed for CPU Inference",
+      "summary": "2608.20210 · ▲ 2",
+      "date_published": "2026-08-24T13:31:07.358Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.18184",
+      "url": "https://huggingface.co/papers/2608.18184",
+      "title": "Human-Centric Intelligence in the Era of Foundation Models: A Survey",
+      "summary": "2608.18184 · ▲ 2",
+      "date_published": "2026-08-24T13:31:07.358Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.21278",
       "url": "https://huggingface.co/papers/2608.21278",
       "title": "CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment",
-      "summary": "2608.21278 · ▲ 0",
-      "date_published": "2026-08-24T02:08:17.524Z"
+      "summary": "2608.21278 · ▲ 1",
+      "date_published": "2026-08-24T13:31:07.358Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.21134",
       "url": "https://huggingface.co/papers/2608.21134",
       "title": "Llama-Mobile: Efficient 2.7-Bit Quantization of VLMs",
-      "summary": "2608.21134 · ▲ 0",
-      "date_published": "2026-08-24T02:08:17.524Z"
+      "summary": "2608.21134 · ▲ 1",
+      "date_published": "2026-08-24T13:31:07.358Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.20574",
+      "url": "https://huggingface.co/papers/2608.20574",
+      "title": "FlavourBench: Ranking Frontier Language Models with Executable Culinary Ground Truth",
+      "summary": "2608.20574 · ▲ 1",
+      "date_published": "2026-08-24T13:31:07.358Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.20364",
+      "url": "https://huggingface.co/papers/2608.20364",
+      "title": "Hadith computational science in the age of large language models: a critical narrative review",
+      "summary": "2608.20364 · ▲ 1",
+      "date_published": "2026-08-24T13:31:07.358Z"
     }
   ]
 }
