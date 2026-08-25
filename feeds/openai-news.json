@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "summary": "Global Affairs · 2026年08月25日",
+      "date_published": "2026-08-25T13:29:05.870Z"
+    },
+    {
       "id": "https://openai.com/index/gpt-5-6-in-kiro",
       "url": "https://openai.com/index/gpt-5-6-in-kiro",
       "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
       "summary": "Product · 2026年08月24日",
-      "date_published": "2026-08-25T02:04:57.627Z"
+      "date_published": "2026-08-25T13:29:05.870Z"
     },
     {
       "id": "https://openai.com/index/introducing-ai-futures",
       "url": "https://openai.com/index/introducing-ai-futures",
       "title": "Introducing AI Futures",
       "summary": "AI Futures · 2026年08月20日",
-      "date_published": "2026-08-25T02:04:57.627Z"
+      "date_published": "2026-08-25T13:29:05.870Z"
     },
     {
       "id": "https://openai.com/index/stampli",
       "url": "https://openai.com/index/stampli",
       "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
       "summary": "2026年08月20日",
-      "date_published": "2026-08-25T02:04:57.627Z"
+      "date_published": "2026-08-25T13:29:05.870Z"
     },
     {
       "id": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "title": "Offering Zero Data Retention for frontier models",
       "summary": "Company · 2026年08月20日",
-      "date_published": "2026-08-25T02:04:57.627Z"
-    },
-    {
-      "id": "https://openai.com/index/replit",
-      "url": "https://openai.com/index/replit",
-      "title": "Replit expands access to software creation with GPT-5.6 Luna",
-      "summary": "Startup · 2026年08月19日",
-      "date_published": "2026-08-25T02:04:57.627Z"
+      "date_published": "2026-08-25T13:29:05.870Z"
     }
   ]
 }

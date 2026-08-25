@@ -5,158 +5,214 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2608.20061",
-      "url": "https://huggingface.co/papers/2608.20061",
-      "title": "Let's Scale Step by Step: Compute-Efficient Hyperparameter Transfer for Large-Scale Mixture-of-Experts",
-      "summary": "2608.20061 · ▲ 35",
-      "date_published": "2026-08-25T02:04:57.627Z"
+      "id": "https://huggingface.co/papers/2608.23283",
+      "url": "https://huggingface.co/papers/2608.23283",
+      "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
+      "summary": "2608.23283 · ▲ 156",
+      "date_published": "2026-08-25T13:29:05.870Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.21156",
-      "url": "https://huggingface.co/papers/2608.21156",
-      "title": "Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence",
-      "summary": "2608.21156 · ▲ 34",
-      "date_published": "2026-08-25T02:04:57.627Z"
+      "id": "https://huggingface.co/papers/2608.23189",
+      "url": "https://huggingface.co/papers/2608.23189",
+      "title": "EchoWM: Open and Enterable Omnimodal World Models",
+      "summary": "2608.23189 · ▲ 59",
+      "date_published": "2026-08-25T13:29:05.870Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.20910",
-      "url": "https://huggingface.co/papers/2608.20910",
-      "title": "InfinityEdit: Infinite Video Editing with a Lightweight Edit-Ignition Adapter",
-      "summary": "2608.20910 · ▲ 33",
-      "date_published": "2026-08-25T02:04:57.627Z"
+      "id": "https://huggingface.co/papers/2608.20958",
+      "url": "https://huggingface.co/papers/2608.20958",
+      "title": "TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming",
+      "summary": "2608.20958 · ▲ 49",
+      "date_published": "2026-08-25T13:29:05.870Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.16425",
-      "url": "https://huggingface.co/papers/2608.16425",
-      "title": "ParaTempo: Efficient Parallel Reasoning via Temporal Confidence",
-      "summary": "2608.16425 · ▲ 29",
-      "date_published": "2026-08-25T02:04:57.627Z"
+      "id": "https://huggingface.co/papers/2608.16812",
+      "url": "https://huggingface.co/papers/2608.16812",
+      "title": "Unlocking the Potential of Image Editing via Concept Scaling and Dense Supervision",
+      "summary": "2608.16812 · ▲ 43",
+      "date_published": "2026-08-25T13:29:05.870Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.21360",
-      "url": "https://huggingface.co/papers/2608.21360",
-      "title": "OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs",
-      "summary": "2608.21360 · ▲ 27",
-      "date_published": "2026-08-25T02:04:57.627Z"
+      "id": "https://huggingface.co/papers/2608.23035",
+      "url": "https://huggingface.co/papers/2608.23035",
+      "title": "MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks",
+      "summary": "2608.23035 · ▲ 33",
+      "date_published": "2026-08-25T13:29:05.870Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.12781",
-      "url": "https://huggingface.co/papers/2608.12781",
-      "title": "Beyond Correctness: Benchmarking and Aligning Response Behaviors in Hybrid-Thinking MLLMs",
-      "summary": "2608.12781 · ▲ 21",
-      "date_published": "2026-08-25T02:04:57.627Z"
+      "id": "https://huggingface.co/papers/2608.23552",
+      "url": "https://huggingface.co/papers/2608.23552",
+      "title": "Prime Agent: A Self-Improving RLM Harness",
+      "summary": "2608.23552 · ▲ 26",
+      "date_published": "2026-08-25T13:29:05.870Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.16647",
-      "url": "https://huggingface.co/papers/2608.16647",
-      "title": "Every Coin Has Two Sides: On the Dual Nature of Generalization in On-Policy Distillation of Large Language Models",
-      "summary": "2608.16647 · ▲ 15",
-      "date_published": "2026-08-25T02:04:57.627Z"
+      "id": "https://huggingface.co/papers/2608.19567",
+      "url": "https://huggingface.co/papers/2608.19567",
+      "title": "Block3D: Efficient Text-to-3D Generation via Block-Wise Diffusion",
+      "summary": "2608.19567 · ▲ 25",
+      "date_published": "2026-08-25T13:29:05.870Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.20886",
-      "url": "https://huggingface.co/papers/2608.20886",
-      "title": "EviRank: Structured Relevance Evidence for Multimodal Image Re-ranking",
-      "summary": "2608.20886 · ▲ 11",
-      "date_published": "2026-08-25T02:04:57.627Z"
+      "id": "https://huggingface.co/papers/2608.20430",
+      "url": "https://huggingface.co/papers/2608.20430",
+      "title": "RISE: Adaptive Imagination for World Action Models",
+      "summary": "2608.20430 · ▲ 23",
+      "date_published": "2026-08-25T13:29:05.870Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.08676",
-      "url": "https://huggingface.co/papers/2608.08676",
-      "title": "UniSpace: Unified Visual Representation and Scalable Multimodal Modeling",
-      "summary": "2608.08676 · ▲ 10",
-      "date_published": "2026-08-25T02:04:57.627Z"
+      "id": "https://huggingface.co/papers/2608.23392",
+      "url": "https://huggingface.co/papers/2608.23392",
+      "title": "Towards a Densing Law for User Representation Learning at Billion-Scale Capacity",
+      "summary": "2608.23392 · ▲ 16",
+      "date_published": "2026-08-25T13:29:05.870Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.18484",
-      "url": "https://huggingface.co/papers/2608.18484",
-      "title": "Partition the Support, Reconstruct the Residual: Training-Free Sparse Attention for Video Generation and World Models",
-      "summary": "2608.18484 · ▲ 8",
-      "date_published": "2026-08-25T02:04:57.627Z"
+      "id": "https://huggingface.co/papers/2608.13622",
+      "url": "https://huggingface.co/papers/2608.13622",
+      "title": "ARC: Fair Relative Advantage Comparison in Open-Ended Real-World Interaction",
+      "summary": "2608.13622 · ▲ 14",
+      "date_published": "2026-08-25T13:29:05.870Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.20634",
-      "url": "https://huggingface.co/papers/2608.20634",
-      "title": "AgentMercury: Your Agent Can Synthesize Verifiable Environments for Business Scenarios at scale",
-      "summary": "2608.20634 · ▲ 7",
-      "date_published": "2026-08-25T02:04:57.627Z"
+      "id": "https://huggingface.co/papers/2608.23565",
+      "url": "https://huggingface.co/papers/2608.23565",
+      "title": "ReWorld: An Interactive World Model with Long-Horizon Memory",
+      "summary": "2608.23565 · ▲ 13",
+      "date_published": "2026-08-25T13:29:05.870Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.20210",
-      "url": "https://huggingface.co/papers/2608.20210",
-      "title": "Daedalus-150M: A Convolution-Attention Hybrid Designed for CPU Inference",
-      "summary": "2608.20210 · ▲ 7",
-      "date_published": "2026-08-25T02:04:57.627Z"
+      "id": "https://huggingface.co/papers/2608.23311",
+      "url": "https://huggingface.co/papers/2608.23311",
+      "title": "Beyond the Stability-Exploration Dilemma: Environmental Regularization for LLM Policy Optimization",
+      "summary": "2608.23311 · ▲ 12",
+      "date_published": "2026-08-25T13:29:05.870Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.20707",
-      "url": "https://huggingface.co/papers/2608.20707",
-      "title": "Towards Faithful Simulation of Human Shopping Behavior",
-      "summary": "2608.20707 · ▲ 5",
-      "date_published": "2026-08-25T02:04:57.627Z"
+      "id": "https://huggingface.co/papers/2608.21833",
+      "url": "https://huggingface.co/papers/2608.21833",
+      "title": "GameXpert-Bench: How Far Are Coding Agents from Expert Game Development?",
+      "summary": "2608.21833 · ▲ 10",
+      "date_published": "2026-08-25T13:29:05.870Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.21134",
-      "url": "https://huggingface.co/papers/2608.21134",
-      "title": "Llama-Mobile: Efficient 2.7-Bit Quantization of VLMs",
-      "summary": "2608.21134 · ▲ 5",
-      "date_published": "2026-08-25T02:04:57.627Z"
+      "id": "https://huggingface.co/papers/2608.19741",
+      "url": "https://huggingface.co/papers/2608.19741",
+      "title": "One Success Isn't Reliability: Thinkingbox, a Sandbox and Benchmark for Agents in Stateful Business Workflows",
+      "summary": "2608.19741 · ▲ 7",
+      "date_published": "2026-08-25T13:29:05.870Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.18077",
-      "url": "https://huggingface.co/papers/2608.18077",
-      "title": "Hydra-0: Action Flow for Generalist World Modeling and Control",
-      "summary": "2608.18077 · ▲ 5",
-      "date_published": "2026-08-25T02:04:57.627Z"
+      "id": "https://huggingface.co/papers/2608.19408",
+      "url": "https://huggingface.co/papers/2608.19408",
+      "title": "Beyond Imitation: Filtering On-Policy Distillation by Reasoning Progress",
+      "summary": "2608.19408 · ▲ 6",
+      "date_published": "2026-08-25T13:29:05.870Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.18184",
-      "url": "https://huggingface.co/papers/2608.18184",
-      "title": "Human-Centric Intelligence in the Era of Foundation Models: A Survey",
-      "summary": "2608.18184 · ▲ 5",
-      "date_published": "2026-08-25T02:04:57.627Z"
+      "id": "https://huggingface.co/papers/2608.20953",
+      "url": "https://huggingface.co/papers/2608.20953",
+      "title": "Quantization-Aware Healing: A Practical Recipe for Recovering Compressed, 4-Bit LLMs",
+      "summary": "2608.20953 · ▲ 5",
+      "date_published": "2026-08-25T13:29:05.870Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.21031",
-      "url": "https://huggingface.co/papers/2608.21031",
-      "title": "PhysCaP: Grounding Code-as-Policy Agent with Physics-Informed Exploration",
-      "summary": "2608.21031 · ▲ 3",
-      "date_published": "2026-08-25T02:04:57.627Z"
+      "id": "https://huggingface.co/papers/2608.20169",
+      "url": "https://huggingface.co/papers/2608.20169",
+      "title": "Task-CoEvolve: Efficient Harness Optimization via Adaptive Validation Task Selection",
+      "summary": "2608.20169 · ▲ 4",
+      "date_published": "2026-08-25T13:29:05.870Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.21278",
-      "url": "https://huggingface.co/papers/2608.21278",
-      "title": "CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment",
-      "summary": "2608.21278 · ▲ 3",
-      "date_published": "2026-08-25T02:04:57.627Z"
+      "id": "https://huggingface.co/papers/2606.13610",
+      "url": "https://huggingface.co/papers/2606.13610",
+      "title": "One Polluted Page Is Enough: Evaluating Web Content Pollution in LLM Recommenders",
+      "summary": "2606.13610 · ▲ 4",
+      "date_published": "2026-08-25T13:29:05.870Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.20438",
-      "url": "https://huggingface.co/papers/2608.20438",
-      "title": "Peer-Voted LLM-Agent Stress Tests Find Feed-Induced Lexical Convergence but No Reliable Matched-Exposure Advantage for Distributed Sources",
-      "summary": "2608.20438 · ▲ 3",
-      "date_published": "2026-08-25T02:04:57.627Z"
+      "id": "https://huggingface.co/papers/2608.22872",
+      "url": "https://huggingface.co/papers/2608.22872",
+      "title": "Better Retrieval, Worse Robustness:How Multi-hop RAG Amplifies Upstream ASR Errors",
+      "summary": "2608.22872 · ▲ 4",
+      "date_published": "2026-08-25T13:29:05.870Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.20574",
-      "url": "https://huggingface.co/papers/2608.20574",
-      "title": "FlavourBench: Ranking Frontier Language Models with Executable Culinary Ground Truth",
-      "summary": "2608.20574 · ▲ 3",
-      "date_published": "2026-08-25T02:04:57.627Z"
+      "id": "https://huggingface.co/papers/2608.17906",
+      "url": "https://huggingface.co/papers/2608.17906",
+      "title": "AutoResearch: Insight In, Hallucination Out",
+      "summary": "2608.17906 · ▲ 4",
+      "date_published": "2026-08-25T13:29:05.870Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.21439",
-      "url": "https://huggingface.co/papers/2608.21439",
-      "title": "WorldMind: Decoupled Game World Model for State-Aware NPC Behavior",
-      "summary": "2608.21439 · ▲ 3",
-      "date_published": "2026-08-25T02:04:57.627Z"
+      "id": "https://huggingface.co/papers/2608.23200",
+      "url": "https://huggingface.co/papers/2608.23200",
+      "title": "LongWoF-Bench: Evaluating EvoMap Genes for Verifiable Long-Workflow Tasks",
+      "summary": "2608.23200 · ▲ 3",
+      "date_published": "2026-08-25T13:29:05.870Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.20364",
-      "url": "https://huggingface.co/papers/2608.20364",
-      "title": "Hadith computational science in the age of large language models: a critical narrative review",
-      "summary": "2608.20364 · ▲ 2",
-      "date_published": "2026-08-25T02:04:57.627Z"
+      "id": "https://huggingface.co/papers/2608.22856",
+      "url": "https://huggingface.co/papers/2608.22856",
+      "title": "Same Agent, Different Answers: A Repeat-Aware Audit of Corpus-Induced Answer Churn in Retrieval-Augmented QA",
+      "summary": "2608.22856 · ▲ 3",
+      "date_published": "2026-08-25T13:29:05.870Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.22849",
+      "url": "https://huggingface.co/papers/2608.22849",
+      "title": "RIBOSPAN: A Long-Context RNA Foundation Model for Versatile RNA Modeling",
+      "summary": "2608.22849 · ▲ 3",
+      "date_published": "2026-08-25T13:29:05.870Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.17336",
+      "url": "https://huggingface.co/papers/2608.17336",
+      "title": "TileMix: Tile-Centric Mixed-Precision Attention for LLM Inference Acceleration",
+      "summary": "2608.17336 · ▲ 3",
+      "date_published": "2026-08-25T13:29:05.870Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.13914",
+      "url": "https://huggingface.co/papers/2608.13914",
+      "title": "Hybrid Quantum-inspired Kolmogorov-Arnold Networks for Privacy-Aware Federated Biosignal Learning",
+      "summary": "2608.13914 · ▲ 3",
+      "date_published": "2026-08-25T13:29:05.870Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.22817",
+      "url": "https://huggingface.co/papers/2608.22817",
+      "title": "Industrial-Instruction: An End-to-End Framework for Building Instruction-Tuning and Benchmark Datasets from Industrial Technical Reports",
+      "summary": "2608.22817 · ▲ 2",
+      "date_published": "2026-08-25T13:29:05.870Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.23070",
+      "url": "https://huggingface.co/papers/2608.23070",
+      "title": "From Generation to Simulation: How Far Are World Models from Being True Simulators?",
+      "summary": "2608.23070 · ▲ 1",
+      "date_published": "2026-08-25T13:29:05.870Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.22591",
+      "url": "https://huggingface.co/papers/2608.22591",
+      "title": "WorldToken: Time-First Sequence Modeling for Robotic Imitation Learning",
+      "summary": "2608.22591 · ▲ 1",
+      "date_published": "2026-08-25T13:29:05.870Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.21486",
+      "url": "https://huggingface.co/papers/2608.21486",
+      "title": "EXPL-FR: Explaining Face Recognition Models via Vision-Language Alignment",
+      "summary": "2608.21486 · ▲ 1",
+      "date_published": "2026-08-25T13:29:05.870Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.21455",
+      "url": "https://huggingface.co/papers/2608.21455",
+      "title": "Tomatoes, Potatoes, and Onions: Questioning the Need for Faces in Face Presentation Attack Detection",
+      "summary": "2608.21455 · ▲ 1",
+      "date_published": "2026-08-25T13:29:05.870Z"
     }
   ]
 }
