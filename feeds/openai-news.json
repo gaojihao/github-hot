@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "summary": "Product · 2026年08月26日",
+      "date_published": "2026-08-27T10:10:33.542Z"
+    },
+    {
+      "id": "https://openai.com/index/learning-never-stops",
+      "url": "https://openai.com/index/learning-never-stops",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "summary": "Product · 2026年08月26日",
+      "date_published": "2026-08-27T10:10:33.542Z"
+    },
+    {
+      "id": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "title": "The Hugging Face incident and the road ahead",
+      "summary": "Security · 2026年08月26日",
+      "date_published": "2026-08-27T10:10:33.542Z"
+    },
+    {
       "id": "https://openai.com/index/loveholidays",
       "url": "https://openai.com/index/loveholidays",
       "title": "How loveholidays is making everyone a builder with Codex",
       "summary": "2026年08月26日",
-      "date_published": "2026-08-26T13:34:37.547Z"
+      "date_published": "2026-08-27T10:10:33.542Z"
     },
     {
       "id": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
       "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
       "title": "The full stack behind abundant intelligence",
       "summary": "Company · 2026年08月25日",
-      "date_published": "2026-08-26T13:34:37.547Z"
-    },
-    {
-      "id": "https://openai.com/index/jalapeno-first-results",
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "summary": "Engineering · 2026年08月25日",
-      "date_published": "2026-08-26T13:34:37.547Z"
-    },
-    {
-      "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "summary": "Global Affairs · 2026年08月25日",
-      "date_published": "2026-08-26T13:34:37.547Z"
-    },
-    {
-      "id": "https://openai.com/index/introducing-admin-plugin",
-      "url": "https://openai.com/index/introducing-admin-plugin",
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "summary": "AI Adoption · 2026年08月25日",
-      "date_published": "2026-08-26T13:34:37.547Z"
+      "date_published": "2026-08-27T10:10:33.542Z"
     }
   ]
 }

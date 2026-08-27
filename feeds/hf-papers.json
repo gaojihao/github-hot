@@ -5,137 +5,200 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2608.20492",
-      "url": "https://huggingface.co/papers/2608.20492",
-      "title": "Annotations as Rollouts: Efficient and Scalable Reinforcement Learning for Video MLLMs",
-      "summary": "2608.20492 · ▲ 68",
-      "date_published": "2026-08-26T13:34:37.547Z"
+      "id": "https://huggingface.co/papers/2608.24979",
+      "url": "https://huggingface.co/papers/2608.24979",
+      "title": "FrontierChallenge: Evaluating Scientific Workflow Completion",
+      "summary": "2608.24979 · ▲ 99",
+      "date_published": "2026-08-27T10:10:33.542Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.15875",
-      "url": "https://huggingface.co/papers/2608.15875",
-      "title": "GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture",
-      "summary": "2608.15875 · ▲ 64",
-      "date_published": "2026-08-26T13:34:37.547Z"
+      "id": "https://huggingface.co/papers/2608.26005",
+      "url": "https://huggingface.co/papers/2608.26005",
+      "title": "VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction",
+      "summary": "2608.26005 · ▲ 95",
+      "date_published": "2026-08-27T10:10:33.542Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.24053",
-      "url": "https://huggingface.co/papers/2608.24053",
-      "title": "WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report",
-      "summary": "2608.24053 · ▲ 52",
-      "date_published": "2026-08-26T13:34:37.547Z"
+      "id": "https://huggingface.co/papers/2608.24479",
+      "url": "https://huggingface.co/papers/2608.24479",
+      "title": "WarpSAC: Towards the Pinnacle of Scalable Off-policy RL by Rethinking Exploration and Exploitation",
+      "summary": "2608.24479 · ▲ 81",
+      "date_published": "2026-08-27T10:10:33.542Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.23041",
-      "url": "https://huggingface.co/papers/2608.23041",
-      "title": "AutoSaddler: Automatic Harness Optimization with Durable Updates from Agent Execution Traces",
-      "summary": "2608.23041 · ▲ 47",
-      "date_published": "2026-08-26T13:34:37.547Z"
+      "id": "https://huggingface.co/papers/2608.19583",
+      "url": "https://huggingface.co/papers/2608.19583",
+      "title": "VGI-BENCH: Probing Visual Intelligence in Video Generation Models",
+      "summary": "2608.19583 · ▲ 73",
+      "date_published": "2026-08-27T10:10:33.542Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.24646",
-      "url": "https://huggingface.co/papers/2608.24646",
-      "title": "On-Policy Self-Distillation in Diffusion Models",
-      "summary": "2608.24646 · ▲ 44",
-      "date_published": "2026-08-26T13:34:37.547Z"
+      "id": "https://huggingface.co/papers/2608.25593",
+      "url": "https://huggingface.co/papers/2608.25593",
+      "title": "JIT-Agent: Scaling Harness Intelligence via Just-in-Time Harness Evolution",
+      "summary": "2608.25593 · ▲ 41",
+      "date_published": "2026-08-27T10:10:33.542Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.23181",
-      "url": "https://huggingface.co/papers/2608.23181",
-      "title": "CyberFactory: Scaling Cyber Security Capabilities with Instances from the Wild",
-      "summary": "2608.23181 · ▲ 26",
-      "date_published": "2026-08-26T13:34:37.547Z"
+      "id": "https://huggingface.co/papers/2608.26105",
+      "url": "https://huggingface.co/papers/2608.26105",
+      "title": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
+      "summary": "2608.26105 · ▲ 26",
+      "date_published": "2026-08-27T10:10:33.542Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.24876",
-      "url": "https://huggingface.co/papers/2608.24876",
-      "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
-      "summary": "2608.24876 · ▲ 16",
-      "date_published": "2026-08-26T13:34:37.547Z"
+      "id": "https://huggingface.co/papers/2608.23383",
+      "url": "https://huggingface.co/papers/2608.23383",
+      "title": "Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worlds",
+      "summary": "2608.23383 · ▲ 19",
+      "date_published": "2026-08-27T10:10:33.542Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.23566",
-      "url": "https://huggingface.co/papers/2608.23566",
-      "title": "Best Practice Critic Optimization",
-      "summary": "2608.23566 · ▲ 10",
-      "date_published": "2026-08-26T13:34:37.547Z"
+      "id": "https://huggingface.co/papers/2608.24987",
+      "url": "https://huggingface.co/papers/2608.24987",
+      "title": "D^3-MOPD: Adaptive Dynamic Domain ScheDuling for Efficient Multi-Teacher Distillation",
+      "summary": "2608.24987 · ▲ 18",
+      "date_published": "2026-08-27T10:10:33.542Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.24696",
-      "url": "https://huggingface.co/papers/2608.24696",
-      "title": "On-policy Distillation with Verifiable Reward",
-      "summary": "2608.24696 · ▲ 9",
-      "date_published": "2026-08-26T13:34:37.547Z"
+      "id": "https://huggingface.co/papers/2608.23318",
+      "url": "https://huggingface.co/papers/2608.23318",
+      "title": "Agent-G^2: Gaussian Guidance for Agentic Reinforcement Learning",
+      "summary": "2608.23318 · ▲ 17",
+      "date_published": "2026-08-27T10:10:33.542Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.24877",
-      "url": "https://huggingface.co/papers/2608.24877",
-      "title": "From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms",
-      "summary": "2608.24877 · ▲ 8",
-      "date_published": "2026-08-26T13:34:37.547Z"
+      "id": "https://huggingface.co/papers/2608.23256",
+      "url": "https://huggingface.co/papers/2608.23256",
+      "title": "Is Next-Chunk Reasoning RL Really Better than SFT? Revisiting Training Strategies under no-CoT Data",
+      "summary": "2608.23256 · ▲ 15",
+      "date_published": "2026-08-27T10:10:33.542Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.24680",
-      "url": "https://huggingface.co/papers/2608.24680",
-      "title": "Game2World Engine: Unlocking In-the-Wild Gameplay Videos for World Model Training",
-      "summary": "2608.24680 · ▲ 7",
-      "date_published": "2026-08-26T13:34:37.547Z"
+      "id": "https://huggingface.co/papers/2608.19098",
+      "url": "https://huggingface.co/papers/2608.19098",
+      "title": "Open-MOPD: Diagnosing and Fixing Capability Imbalance in Multi-Teacher On-Policy Distillation",
+      "summary": "2608.19098 · ▲ 15",
+      "date_published": "2026-08-27T10:10:33.542Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.24845",
-      "url": "https://huggingface.co/papers/2608.24845",
-      "title": "LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training",
-      "summary": "2608.24845 · ▲ 3",
-      "date_published": "2026-08-26T13:34:37.547Z"
+      "id": "https://huggingface.co/papers/2608.26067",
+      "url": "https://huggingface.co/papers/2608.26067",
+      "title": "StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models",
+      "summary": "2608.26067 · ▲ 14",
+      "date_published": "2026-08-27T10:10:33.542Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.24735",
-      "url": "https://huggingface.co/papers/2608.24735",
-      "title": "Meta^n: Recursive Self-Improvement through Emergent Depth",
-      "summary": "2608.24735 · ▲ 3",
-      "date_published": "2026-08-26T13:34:37.547Z"
+      "id": "https://huggingface.co/papers/2608.25529",
+      "url": "https://huggingface.co/papers/2608.25529",
+      "title": "Video-IFBench: Evaluating Instruction Following of Multimodal LLMs in Video Understanding Scenarios",
+      "summary": "2608.25529 · ▲ 13",
+      "date_published": "2026-08-27T10:10:33.542Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.22274",
-      "url": "https://huggingface.co/papers/2608.22274",
-      "title": "Length-Adaptive Decoding for Masked Diffusion Machine Translation",
-      "summary": "2608.22274 · ▲ 3",
-      "date_published": "2026-08-26T13:34:37.547Z"
+      "id": "https://huggingface.co/papers/2608.25580",
+      "url": "https://huggingface.co/papers/2608.25580",
+      "title": "V-Rubrics: Visual Faithfulness via Rubric-Based Reinforcement Learning",
+      "summary": "2608.25580 · ▲ 12",
+      "date_published": "2026-08-27T10:10:33.542Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.09408",
-      "url": "https://huggingface.co/papers/2608.09408",
-      "title": "DREAM Technical Report",
-      "summary": "2608.09408 · ▲ 3",
-      "date_published": "2026-08-26T13:34:37.547Z"
+      "id": "https://huggingface.co/papers/2608.24099",
+      "url": "https://huggingface.co/papers/2608.24099",
+      "title": "Are Android GUI Agents Robust Against Runtime Anomalies? AnTrap: Evaluating Agents in Dynamic Adversarial Environments",
+      "summary": "2608.24099 · ▲ 12",
+      "date_published": "2026-08-27T10:10:33.542Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.24794",
-      "url": "https://huggingface.co/papers/2608.24794",
-      "title": "CAFE: Self-Improving Search Agents Need Co-Evolving Feedback",
-      "summary": "2608.24794 · ▲ 2",
-      "date_published": "2026-08-26T13:34:37.547Z"
+      "id": "https://huggingface.co/papers/2608.24138",
+      "url": "https://huggingface.co/papers/2608.24138",
+      "title": "Rubrics as Visual-Repair Context for Self-Evolving UI-to-Code Generation",
+      "summary": "2608.24138 · ▲ 11",
+      "date_published": "2026-08-27T10:10:33.542Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.24763",
-      "url": "https://huggingface.co/papers/2608.24763",
-      "title": "MoTE: Mixture of Task Experts for Multi-Task Video Understanding",
-      "summary": "2608.24763 · ▲ 1",
-      "date_published": "2026-08-26T13:34:37.547Z"
+      "id": "https://huggingface.co/papers/2608.25927",
+      "url": "https://huggingface.co/papers/2608.25927",
+      "title": "Code World Model: Coding Agent as World Brain",
+      "summary": "2608.25927 · ▲ 9",
+      "date_published": "2026-08-27T10:10:33.542Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.24882",
-      "url": "https://huggingface.co/papers/2608.24882",
-      "title": "Latent Action as Intention Enables Efficient Future Imagination for World Action Models",
-      "summary": "2608.24882 · ▲ 0",
-      "date_published": "2026-08-26T13:34:37.547Z"
+      "id": "https://huggingface.co/papers/2608.24358",
+      "url": "https://huggingface.co/papers/2608.24358",
+      "title": "The Handoff Tax: Continuing Non-Native Trajectories in LLM Agents",
+      "summary": "2608.24358 · ▲ 9",
+      "date_published": "2026-08-27T10:10:33.542Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.24738",
-      "url": "https://huggingface.co/papers/2608.24738",
-      "title": "TorchMorph: CUDA-accelerated Morphological Transforms",
-      "summary": "2608.24738 · ▲ 0",
-      "date_published": "2026-08-26T13:34:37.547Z"
+      "id": "https://huggingface.co/papers/2608.25512",
+      "url": "https://huggingface.co/papers/2608.25512",
+      "title": "A Programming Paradigm for Spatiotemporal Composability",
+      "summary": "2608.25512 · ▲ 6",
+      "date_published": "2026-08-27T10:10:33.542Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.23564",
+      "url": "https://huggingface.co/papers/2608.23564",
+      "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+      "summary": "2608.23564 · ▲ 6",
+      "date_published": "2026-08-27T10:10:33.542Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.15062",
+      "url": "https://huggingface.co/papers/2608.15062",
+      "title": "Gated Recurrent Transformers: Expressive Depth through Recurrent Modulation in Transformers",
+      "summary": "2608.15062 · ▲ 3",
+      "date_published": "2026-08-27T10:10:33.542Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.25864",
+      "url": "https://huggingface.co/papers/2608.25864",
+      "title": "MA-VLA: Multi-Arm Vision-Language-Action Model for Collaboration and Compositional Generalization",
+      "summary": "2608.25864 · ▲ 2",
+      "date_published": "2026-08-27T10:10:33.542Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.25625",
+      "url": "https://huggingface.co/papers/2608.25625",
+      "title": "RetrievalRouter: Joint Modality and Architecture Selection for Document Retrieval",
+      "summary": "2608.25625 · ▲ 1",
+      "date_published": "2026-08-27T10:10:33.542Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.21839",
+      "url": "https://huggingface.co/papers/2608.21839",
+      "title": "FIRM-Video: Check Before You Score for Reliable Text-to-Video Reward Modeling",
+      "summary": "2608.21839 · ▲ 1",
+      "date_published": "2026-08-27T10:10:33.542Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.19556",
+      "url": "https://huggingface.co/papers/2608.19556",
+      "title": "Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models",
+      "summary": "2608.19556 · ▲ 1",
+      "date_published": "2026-08-27T10:10:33.542Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.24909",
+      "url": "https://huggingface.co/papers/2608.24909",
+      "title": "Super Star: Towards Streaming Real-time Interactive Agents for Digital Humans",
+      "summary": "2608.24909 · ▲ 1",
+      "date_published": "2026-08-27T10:10:33.542Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.22071",
+      "url": "https://huggingface.co/papers/2608.22071",
+      "title": "Real-TurnTurk: A Multimodal Turkish Corpus for Turn-Taking Prediction",
+      "summary": "2608.22071 · ▲ 0",
+      "date_published": "2026-08-27T10:10:33.542Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.21140",
+      "url": "https://huggingface.co/papers/2608.21140",
+      "title": "A Modular Agent for Reliable and Auditable Spatial Relation Verification in CT Scans",
+      "summary": "2608.21140 · ▲ 0",
+      "date_published": "2026-08-27T10:10:33.542Z"
     }
   ]
 }
