@@ -5,200 +5,235 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2608.24979",
-      "url": "https://huggingface.co/papers/2608.24979",
-      "title": "FrontierChallenge: Evaluating Scientific Workflow Completion",
-      "summary": "2608.24979 · ▲ 99",
-      "date_published": "2026-08-27T10:10:33.542Z"
-    },
-    {
       "id": "https://huggingface.co/papers/2608.26005",
       "url": "https://huggingface.co/papers/2608.26005",
       "title": "VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction",
-      "summary": "2608.26005 · ▲ 95",
-      "date_published": "2026-08-27T10:10:33.542Z"
+      "summary": "2608.26005 · ▲ 149",
+      "date_published": "2026-08-27T22:30:43.105Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.19583",
+      "url": "https://huggingface.co/papers/2608.19583",
+      "title": "VGI-Bench: Probing Visual Intelligence in Video Generation Models",
+      "summary": "2608.19583 · ▲ 143",
+      "date_published": "2026-08-27T22:30:43.105Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.24979",
+      "url": "https://huggingface.co/papers/2608.24979",
+      "title": "FrontierChallenge: Evaluating Scientific Workflow Completion",
+      "summary": "2608.24979 · ▲ 129",
+      "date_published": "2026-08-27T22:30:43.105Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.24479",
       "url": "https://huggingface.co/papers/2608.24479",
       "title": "WarpSAC: Towards the Pinnacle of Scalable Off-policy RL by Rethinking Exploration and Exploitation",
-      "summary": "2608.24479 · ▲ 81",
-      "date_published": "2026-08-27T10:10:33.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.19583",
-      "url": "https://huggingface.co/papers/2608.19583",
-      "title": "VGI-BENCH: Probing Visual Intelligence in Video Generation Models",
-      "summary": "2608.19583 · ▲ 73",
-      "date_published": "2026-08-27T10:10:33.542Z"
+      "summary": "2608.24479 · ▲ 122",
+      "date_published": "2026-08-27T22:30:43.105Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.25593",
       "url": "https://huggingface.co/papers/2608.25593",
       "title": "JIT-Agent: Scaling Harness Intelligence via Just-in-Time Harness Evolution",
-      "summary": "2608.25593 · ▲ 41",
-      "date_published": "2026-08-27T10:10:33.542Z"
+      "summary": "2608.25593 · ▲ 47",
+      "date_published": "2026-08-27T22:30:43.105Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.26105",
       "url": "https://huggingface.co/papers/2608.26105",
       "title": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
-      "summary": "2608.26105 · ▲ 26",
-      "date_published": "2026-08-27T10:10:33.542Z"
+      "summary": "2608.26105 · ▲ 43",
+      "date_published": "2026-08-27T22:30:43.105Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.24987",
+      "url": "https://huggingface.co/papers/2608.24987",
+      "title": "D^3-MOPD: Adaptive Dynamic Domain ScheDuling for Efficient Multi-Teacher Distillation",
+      "summary": "2608.24987 · ▲ 22",
+      "date_published": "2026-08-27T22:30:43.105Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.23318",
+      "url": "https://huggingface.co/papers/2608.23318",
+      "title": "Agent-G^2: Gaussian Guidance for Agentic Reinforcement Learning",
+      "summary": "2608.23318 · ▲ 20",
+      "date_published": "2026-08-27T22:30:43.105Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.23256",
+      "url": "https://huggingface.co/papers/2608.23256",
+      "title": "Is Next-Chunk Reasoning RL Really Better than SFT? Revisiting Training Strategies under no-CoT Data",
+      "summary": "2608.23256 · ▲ 19",
+      "date_published": "2026-08-27T22:30:43.105Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.23383",
       "url": "https://huggingface.co/papers/2608.23383",
       "title": "Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worlds",
       "summary": "2608.23383 · ▲ 19",
-      "date_published": "2026-08-27T10:10:33.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.24987",
-      "url": "https://huggingface.co/papers/2608.24987",
-      "title": "D^3-MOPD: Adaptive Dynamic Domain ScheDuling for Efficient Multi-Teacher Distillation",
-      "summary": "2608.24987 · ▲ 18",
-      "date_published": "2026-08-27T10:10:33.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.23318",
-      "url": "https://huggingface.co/papers/2608.23318",
-      "title": "Agent-G^2: Gaussian Guidance for Agentic Reinforcement Learning",
-      "summary": "2608.23318 · ▲ 17",
-      "date_published": "2026-08-27T10:10:33.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.23256",
-      "url": "https://huggingface.co/papers/2608.23256",
-      "title": "Is Next-Chunk Reasoning RL Really Better than SFT? Revisiting Training Strategies under no-CoT Data",
-      "summary": "2608.23256 · ▲ 15",
-      "date_published": "2026-08-27T10:10:33.542Z"
+      "date_published": "2026-08-27T22:30:43.105Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.19098",
       "url": "https://huggingface.co/papers/2608.19098",
       "title": "Open-MOPD: Diagnosing and Fixing Capability Imbalance in Multi-Teacher On-Policy Distillation",
-      "summary": "2608.19098 · ▲ 15",
-      "date_published": "2026-08-27T10:10:33.542Z"
+      "summary": "2608.19098 · ▲ 17",
+      "date_published": "2026-08-27T22:30:43.105Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.26067",
       "url": "https://huggingface.co/papers/2608.26067",
       "title": "StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models",
-      "summary": "2608.26067 · ▲ 14",
-      "date_published": "2026-08-27T10:10:33.542Z"
+      "summary": "2608.26067 · ▲ 16",
+      "date_published": "2026-08-27T22:30:43.105Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.25529",
       "url": "https://huggingface.co/papers/2608.25529",
       "title": "Video-IFBench: Evaluating Instruction Following of Multimodal LLMs in Video Understanding Scenarios",
-      "summary": "2608.25529 · ▲ 13",
-      "date_published": "2026-08-27T10:10:33.542Z"
+      "summary": "2608.25529 · ▲ 15",
+      "date_published": "2026-08-27T22:30:43.105Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.25927",
+      "url": "https://huggingface.co/papers/2608.25927",
+      "title": "Code World Model: Coding Agent as World Brain",
+      "summary": "2608.25927 · ▲ 14",
+      "date_published": "2026-08-27T22:30:43.105Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.25580",
       "url": "https://huggingface.co/papers/2608.25580",
       "title": "V-Rubrics: Visual Faithfulness via Rubric-Based Reinforcement Learning",
-      "summary": "2608.25580 · ▲ 12",
-      "date_published": "2026-08-27T10:10:33.542Z"
+      "summary": "2608.25580 · ▲ 13",
+      "date_published": "2026-08-27T22:30:43.105Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.23564",
+      "url": "https://huggingface.co/papers/2608.23564",
+      "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+      "summary": "2608.23564 · ▲ 13",
+      "date_published": "2026-08-27T22:30:43.105Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.24138",
+      "url": "https://huggingface.co/papers/2608.24138",
+      "title": "Rubrics as Visual-Repair Context for Self-Evolving UI-to-Code Generation",
+      "summary": "2608.24138 · ▲ 12",
+      "date_published": "2026-08-27T22:30:43.105Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.24099",
       "url": "https://huggingface.co/papers/2608.24099",
       "title": "Are Android GUI Agents Robust Against Runtime Anomalies? AnTrap: Evaluating Agents in Dynamic Adversarial Environments",
       "summary": "2608.24099 · ▲ 12",
-      "date_published": "2026-08-27T10:10:33.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.24138",
-      "url": "https://huggingface.co/papers/2608.24138",
-      "title": "Rubrics as Visual-Repair Context for Self-Evolving UI-to-Code Generation",
-      "summary": "2608.24138 · ▲ 11",
-      "date_published": "2026-08-27T10:10:33.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.25927",
-      "url": "https://huggingface.co/papers/2608.25927",
-      "title": "Code World Model: Coding Agent as World Brain",
-      "summary": "2608.25927 · ▲ 9",
-      "date_published": "2026-08-27T10:10:33.542Z"
+      "date_published": "2026-08-27T22:30:43.105Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.24358",
       "url": "https://huggingface.co/papers/2608.24358",
       "title": "The Handoff Tax: Continuing Non-Native Trajectories in LLM Agents",
-      "summary": "2608.24358 · ▲ 9",
-      "date_published": "2026-08-27T10:10:33.542Z"
+      "summary": "2608.24358 · ▲ 12",
+      "date_published": "2026-08-27T22:30:43.105Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.25512",
       "url": "https://huggingface.co/papers/2608.25512",
       "title": "A Programming Paradigm for Spatiotemporal Composability",
-      "summary": "2608.25512 · ▲ 6",
-      "date_published": "2026-08-27T10:10:33.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.23564",
-      "url": "https://huggingface.co/papers/2608.23564",
-      "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
-      "summary": "2608.23564 · ▲ 6",
-      "date_published": "2026-08-27T10:10:33.542Z"
+      "summary": "2608.25512 · ▲ 10",
+      "date_published": "2026-08-27T22:30:43.105Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.15062",
       "url": "https://huggingface.co/papers/2608.15062",
-      "title": "Gated Recurrent Transformers: Expressive Depth through Recurrent Modulation in Transformers",
-      "summary": "2608.15062 · ▲ 3",
-      "date_published": "2026-08-27T10:10:33.542Z"
+      "title": "Gated Recurrent Transformers: Expressive Depth through Recurrent Modulation",
+      "summary": "2608.15062 · ▲ 6",
+      "date_published": "2026-08-27T22:30:43.105Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.25864",
       "url": "https://huggingface.co/papers/2608.25864",
       "title": "MA-VLA: Multi-Arm Vision-Language-Action Model for Collaboration and Compositional Generalization",
-      "summary": "2608.25864 · ▲ 2",
-      "date_published": "2026-08-27T10:10:33.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.25625",
-      "url": "https://huggingface.co/papers/2608.25625",
-      "title": "RetrievalRouter: Joint Modality and Architecture Selection for Document Retrieval",
-      "summary": "2608.25625 · ▲ 1",
-      "date_published": "2026-08-27T10:10:33.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.21839",
-      "url": "https://huggingface.co/papers/2608.21839",
-      "title": "FIRM-Video: Check Before You Score for Reliable Text-to-Video Reward Modeling",
-      "summary": "2608.21839 · ▲ 1",
-      "date_published": "2026-08-27T10:10:33.542Z"
+      "summary": "2608.25864 · ▲ 5",
+      "date_published": "2026-08-27T22:30:43.105Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.19556",
       "url": "https://huggingface.co/papers/2608.19556",
       "title": "Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models",
-      "summary": "2608.19556 · ▲ 1",
-      "date_published": "2026-08-27T10:10:33.542Z"
+      "summary": "2608.19556 · ▲ 4",
+      "date_published": "2026-08-27T22:30:43.105Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.14652",
+      "url": "https://huggingface.co/papers/2608.14652",
+      "title": "Pushing the Limits of High-Resolution Weather Forecasting through Data Scaling",
+      "summary": "2608.14652 · ▲ 4",
+      "date_published": "2026-08-27T22:30:43.105Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.25832",
+      "url": "https://huggingface.co/papers/2608.25832",
+      "title": "Skill Issue: Are Skills Language-Invariant in LLMs?",
+      "summary": "2608.25832 · ▲ 3",
+      "date_published": "2026-08-27T22:30:43.105Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.26070",
+      "url": "https://huggingface.co/papers/2608.26070",
+      "title": "Prefix Sliding for efficient test-time scaling",
+      "summary": "2608.26070 · ▲ 3",
+      "date_published": "2026-08-27T22:30:43.105Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.25625",
+      "url": "https://huggingface.co/papers/2608.25625",
+      "title": "RetrievalRouter: Joint Modality and Architecture Selection for Document Retrieval",
+      "summary": "2608.25625 · ▲ 3",
+      "date_published": "2026-08-27T22:30:43.105Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.21839",
+      "url": "https://huggingface.co/papers/2608.21839",
+      "title": "FIRM-Video: Check Before You Score for Reliable Text-to-Video Reward Modeling",
+      "summary": "2608.21839 · ▲ 3",
+      "date_published": "2026-08-27T22:30:43.105Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.21832",
+      "url": "https://huggingface.co/papers/2608.21832",
+      "title": "GUI-Primitives: Diagnosing Spatial Reasoning Failures in Vision-Language GUI Grounding",
+      "summary": "2608.21832 · ▲ 3",
+      "date_published": "2026-08-27T22:30:43.105Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.25204",
+      "url": "https://huggingface.co/papers/2608.25204",
+      "title": "LibriBrain100: One Hundred Hours of Broad and Deep MEG Data for Neural Speech Decoding at Scale",
+      "summary": "2608.25204 · ▲ 2",
+      "date_published": "2026-08-27T22:30:43.105Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.21140",
+      "url": "https://huggingface.co/papers/2608.21140",
+      "title": "A Modular Agent for Reliable and Auditable Spatial Relation Verification in CT Scans",
+      "summary": "2608.21140 · ▲ 2",
+      "date_published": "2026-08-27T22:30:43.105Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.24909",
       "url": "https://huggingface.co/papers/2608.24909",
       "title": "Super Star: Towards Streaming Real-time Interactive Agents for Digital Humans",
-      "summary": "2608.24909 · ▲ 1",
-      "date_published": "2026-08-27T10:10:33.542Z"
+      "summary": "2608.24909 · ▲ 2",
+      "date_published": "2026-08-27T22:30:43.105Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.22071",
       "url": "https://huggingface.co/papers/2608.22071",
       "title": "Real-TurnTurk: A Multimodal Turkish Corpus for Turn-Taking Prediction",
       "summary": "2608.22071 · ▲ 0",
-      "date_published": "2026-08-27T10:10:33.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.21140",
-      "url": "https://huggingface.co/papers/2608.21140",
-      "title": "A Modular Agent for Reliable and Auditable Spatial Relation Verification in CT Scans",
-      "summary": "2608.21140 · ▲ 0",
-      "date_published": "2026-08-27T10:10:33.542Z"
+      "date_published": "2026-08-27T22:30:43.105Z"
     }
   ]
 }
