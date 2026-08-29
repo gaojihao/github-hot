@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "summary": "Company · 2026年08月28日",
+      "date_published": "2026-08-29T07:17:48.470Z"
+    },
+    {
       "id": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
       "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
       "title": "Supporting Thailand’s next generation of AI startups",
       "summary": "Company · 2026年08月28日",
-      "date_published": "2026-08-28T22:33:12.265Z"
+      "date_published": "2026-08-29T07:17:48.470Z"
     },
     {
       "id": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
       "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
       "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
       "summary": "Company · 2026年08月27日",
-      "date_published": "2026-08-28T22:33:12.265Z"
+      "date_published": "2026-08-29T07:17:48.470Z"
     },
     {
       "id": "https://openai.com/index/expanding-our-presence-in-brazil",
       "url": "https://openai.com/index/expanding-our-presence-in-brazil",
       "title": "Expanding OpenAI’s presence in Brazil",
       "summary": "Company · 2026年08月27日",
-      "date_published": "2026-08-28T22:33:12.265Z"
+      "date_published": "2026-08-29T07:17:48.470Z"
     },
     {
       "id": "https://openai.com/index/learning-never-stops",
       "url": "https://openai.com/index/learning-never-stops",
       "title": "Learning never stops: How AI makes learning continuous",
       "summary": "Product · 2026年08月26日",
-      "date_published": "2026-08-28T22:33:12.265Z"
-    },
-    {
-      "id": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "summary": "Product · 2026年08月26日",
-      "date_published": "2026-08-28T22:33:12.265Z"
+      "date_published": "2026-08-29T07:17:48.470Z"
     }
   ]
 }
