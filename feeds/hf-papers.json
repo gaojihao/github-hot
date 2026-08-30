@@ -8,162 +8,162 @@
       "id": "https://huggingface.co/papers/2608.25518",
       "url": "https://huggingface.co/papers/2608.25518",
       "title": "Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models",
-      "summary": "2608.25518 · ▲ 135",
-      "date_published": "2026-08-30T05:41:55.875Z"
+      "summary": "2608.25518 · ▲ 145",
+      "date_published": "2026-08-30T16:55:33.543Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.27345",
       "url": "https://huggingface.co/papers/2608.27345",
       "title": "PAWBench: How Far Are We from Probabilistically Aligned World Modeling?",
-      "summary": "2608.27345 · ▲ 82",
-      "date_published": "2026-08-30T05:41:55.875Z"
+      "summary": "2608.27345 · ▲ 95",
+      "date_published": "2026-08-30T16:55:33.543Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.27456",
       "url": "https://huggingface.co/papers/2608.27456",
       "title": "UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City",
-      "summary": "2608.27456 · ▲ 72",
-      "date_published": "2026-08-30T05:41:55.875Z"
+      "summary": "2608.27456 · ▲ 81",
+      "date_published": "2026-08-30T16:55:33.543Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.27448",
       "url": "https://huggingface.co/papers/2608.27448",
       "title": "TTPO: Test-Time Policy Optimization",
-      "summary": "2608.27448 · ▲ 70",
-      "date_published": "2026-08-30T05:41:55.875Z"
+      "summary": "2608.27448 · ▲ 72",
+      "date_published": "2026-08-30T16:55:33.543Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.26872",
       "url": "https://huggingface.co/papers/2608.26872",
       "title": "Self-OPD: On-Policy Distillation for Flow Matching Models without Teacher",
-      "summary": "2608.26872 · ▲ 69",
-      "date_published": "2026-08-30T05:41:55.875Z"
+      "summary": "2608.26872 · ▲ 71",
+      "date_published": "2026-08-30T16:55:33.543Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.27260",
       "url": "https://huggingface.co/papers/2608.27260",
       "title": "What Makes Good Agentic Data? An ACE Lens on Data Generation for LLM Agents",
-      "summary": "2608.27260 · ▲ 60",
-      "date_published": "2026-08-30T05:41:55.875Z"
+      "summary": "2608.27260 · ▲ 61",
+      "date_published": "2026-08-30T16:55:33.543Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.15763",
       "url": "https://huggingface.co/papers/2608.15763",
       "title": "Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report",
       "summary": "2608.15763 · ▲ 45",
-      "date_published": "2026-08-30T05:41:55.875Z"
+      "date_published": "2026-08-30T16:55:33.543Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.26200",
       "url": "https://huggingface.co/papers/2608.26200",
       "title": "GameWAM: A World Action Model for Video Games",
-      "summary": "2608.26200 · ▲ 40",
-      "date_published": "2026-08-30T05:41:55.875Z"
+      "summary": "2608.26200 · ▲ 41",
+      "date_published": "2026-08-30T16:55:33.543Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.26530",
       "url": "https://huggingface.co/papers/2608.26530",
       "title": "PILOT in the Loop: Live Self-Improvement for Long-Horizon Agents",
-      "summary": "2608.26530 · ▲ 27",
-      "date_published": "2026-08-30T05:41:55.875Z"
+      "summary": "2608.26530 · ▲ 29",
+      "date_published": "2026-08-30T16:55:33.543Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.26103",
       "url": "https://huggingface.co/papers/2608.26103",
       "title": "Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization",
       "summary": "2608.26103 · ▲ 17",
-      "date_published": "2026-08-30T05:41:55.875Z"
+      "date_published": "2026-08-30T16:55:33.543Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.27351",
       "url": "https://huggingface.co/papers/2608.27351",
       "title": "Understanding Evolution Strategies for LLM Reasoning: Broader Reasoning Coverage than GRPO",
       "summary": "2608.27351 · ▲ 16",
-      "date_published": "2026-08-30T05:41:55.875Z"
+      "date_published": "2026-08-30T16:55:33.543Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.27454",
       "url": "https://huggingface.co/papers/2608.27454",
       "title": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
-      "summary": "2608.27454 · ▲ 11",
-      "date_published": "2026-08-30T05:41:55.875Z"
+      "summary": "2608.27454 · ▲ 13",
+      "date_published": "2026-08-30T16:55:33.543Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.26238",
       "url": "https://huggingface.co/papers/2608.26238",
       "title": "Procedura: Agentic 3D Modeling with Procedural Control",
       "summary": "2608.26238 · ▲ 10",
-      "date_published": "2026-08-30T05:41:55.875Z"
+      "date_published": "2026-08-30T16:55:33.543Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.27455",
       "url": "https://huggingface.co/papers/2608.27455",
       "title": "CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes",
       "summary": "2608.27455 · ▲ 8",
-      "date_published": "2026-08-30T05:41:55.875Z"
+      "date_published": "2026-08-30T16:55:33.543Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.27168",
       "url": "https://huggingface.co/papers/2608.27168",
       "title": "Magpie: Real-Time World Renderer for Interactive Games",
       "summary": "2608.27168 · ▲ 7",
-      "date_published": "2026-08-30T05:41:55.875Z"
+      "date_published": "2026-08-30T16:55:33.543Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.23943",
       "url": "https://huggingface.co/papers/2608.23943",
       "title": "Luce: Relightable Gaussians for 3D Asset Generation",
       "summary": "2608.23943 · ▲ 7",
-      "date_published": "2026-08-30T05:41:55.875Z"
+      "date_published": "2026-08-30T16:55:33.543Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.23172",
       "url": "https://huggingface.co/papers/2608.23172",
       "title": "CaRGo-T: Causal Reasoning Graph-of-Thought improves Multimodal Humor Comprehension",
       "summary": "2608.23172 · ▲ 7",
-      "date_published": "2026-08-30T05:41:55.875Z"
+      "date_published": "2026-08-30T16:55:33.543Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.25500",
       "url": "https://huggingface.co/papers/2608.25500",
       "title": "CaSKG: Counterfactual-Causal Skill Graphs for Scalable Agent Skill Retrieval",
       "summary": "2608.25500 · ▲ 5",
-      "date_published": "2026-08-30T05:41:55.875Z"
+      "date_published": "2026-08-30T16:55:33.543Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.25798",
       "url": "https://huggingface.co/papers/2608.25798",
       "title": "TacForcing: Streaming Action Generation with Execution-Time Tactile Feedback",
       "summary": "2608.25798 · ▲ 5",
-      "date_published": "2026-08-30T05:41:55.875Z"
+      "date_published": "2026-08-30T16:55:33.543Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.26809",
       "url": "https://huggingface.co/papers/2608.26809",
       "title": "Thinking on Shots: Consistent Multi-Shot Video Editing with Agentic Reasoning",
       "summary": "2608.26809 · ▲ 4",
-      "date_published": "2026-08-30T05:41:55.875Z"
+      "date_published": "2026-08-30T16:55:33.543Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.27123",
       "url": "https://huggingface.co/papers/2608.27123",
       "title": "EditaLive! Unified Character Video Editing for Live Streaming",
       "summary": "2608.27123 · ▲ 3",
-      "date_published": "2026-08-30T05:41:55.875Z"
+      "date_published": "2026-08-30T16:55:33.543Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.26993",
       "url": "https://huggingface.co/papers/2608.26993",
       "title": "Aphanta: Diagnosing Task-Aligned Image-Edited Intermediates for Multimodal Reasoning",
       "summary": "2608.26993 · ▲ 3",
-      "date_published": "2026-08-30T05:41:55.875Z"
+      "date_published": "2026-08-30T16:55:33.543Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.19269",
       "url": "https://huggingface.co/papers/2608.19269",
       "title": "What Does an Evaluation License? A Commit-Bound Census of Claim-Relative Inference in Inspect Evals",
-      "summary": "2608.19269 · ▲ 2",
-      "date_published": "2026-08-30T05:41:55.875Z"
+      "summary": "2608.19269 · ▲ 3",
+      "date_published": "2026-08-30T16:55:33.543Z"
     }
   ]
 }
