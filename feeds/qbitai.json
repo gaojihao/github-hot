@@ -5,74 +5,53 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/qbitai.json",
   "items": [
     {
+      "id": "https://www.qbitai.com/2026/08/481928.html",
+      "url": "https://www.qbitai.com/2026/08/481928.html",
+      "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
+      "summary": "资讯 · 田, 晏林 · 2026年08月31日",
+      "date_published": "2026-08-31T19:12:39.623Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/08/481923.html",
+      "url": "https://www.qbitai.com/2026/08/481923.html",
+      "title": "滴滴自动驾驶新一代车型开启载客测试服务",
+      "summary": "滴滴 · 量子位的朋友们 · 2026年08月31日",
+      "date_published": "2026-08-31T19:12:39.623Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/08/481919.html",
+      "url": "https://www.qbitai.com/2026/08/481919.html",
+      "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
+      "summary": "范式 · 量子位的朋友们 · 2026年08月31日",
+      "date_published": "2026-08-31T19:12:39.623Z"
+    },
+    {
       "id": "https://www.qbitai.com/2026/08/481893.html",
       "url": "https://www.qbitai.com/2026/08/481893.html",
       "title": "「GPT-6」灰测demo刷屏！周四发布在即",
       "summary": "资讯 · Jay · 2026年08月31日",
-      "date_published": "2026-08-31T05:58:23.887Z"
+      "date_published": "2026-08-31T19:12:39.623Z"
     },
     {
       "id": "https://www.qbitai.com/2026/08/481759.html",
       "url": "https://www.qbitai.com/2026/08/481759.html",
       "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
       "summary": "OpenAI · 梦晨 · 2026年08月31日",
-      "date_published": "2026-08-31T05:58:23.887Z"
+      "date_published": "2026-08-31T19:12:39.623Z"
     },
     {
       "id": "https://www.qbitai.com/2026/08/481750.html",
       "url": "https://www.qbitai.com/2026/08/481750.html",
       "title": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队",
       "summary": "灵犀智涌 · 量子位的朋友们 · 2026年08月31日",
-      "date_published": "2026-08-31T05:58:23.887Z"
+      "date_published": "2026-08-31T19:12:39.623Z"
     },
     {
       "id": "https://www.qbitai.com/2026/08/481475.html",
       "url": "https://www.qbitai.com/2026/08/481475.html",
       "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
       "summary": "蚂蚁 · 量子位的朋友们 · 2026年08月31日",
-      "date_published": "2026-08-31T05:58:23.887Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/08/481372.html",
-      "url": "https://www.qbitai.com/2026/08/481372.html",
-      "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
-      "summary": "AI · 听雨 · 2026年08月29日",
-      "date_published": "2026-08-31T05:58:23.887Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/08/481318.html",
-      "url": "https://www.qbitai.com/2026/08/481318.html",
-      "title": "去年归国的徐梦迪，成了清华姚班班主任",
-      "summary": "具身智能 · 听雨 · 2026年08月29日",
-      "date_published": "2026-08-31T05:58:23.887Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/08/481223.html",
-      "url": "https://www.qbitai.com/2026/08/481223.html",
-      "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
-      "summary": "资讯 · 听雨 · 2026年08月29日",
-      "date_published": "2026-08-31T05:58:23.887Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/08/481075.html",
-      "url": "https://www.qbitai.com/2026/08/481075.html",
-      "title": "20ms把PDF变成Markdown！开源OCR神器快了近300倍",
-      "summary": "开源 · 文婷 · 2026年08月29日",
-      "date_published": "2026-08-31T05:58:23.887Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/08/480940.html",
-      "url": "https://www.qbitai.com/2026/08/480940.html",
-      "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
-      "summary": "资讯 · 闻乐 · 2026年08月29日",
-      "date_published": "2026-08-31T05:58:23.887Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/08/480855.html",
-      "url": "https://www.qbitai.com/2026/08/480855.html",
-      "title": "OpenClaw：红过，爱过，散了",
-      "summary": "OpenClaw · 梦瑶 · 2026年08月29日",
-      "date_published": "2026-08-31T05:58:23.887Z"
+      "date_published": "2026-08-31T19:12:39.623Z"
     }
   ]
 }
