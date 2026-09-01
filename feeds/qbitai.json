@@ -5,60 +5,74 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/qbitai.json",
   "items": [
     {
+      "id": "https://www.qbitai.com/2026/09/482512.html",
+      "url": "https://www.qbitai.com/2026/09/482512.html",
+      "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
+      "summary": "MiniMax · 克雷西 · 2026年09月01日",
+      "date_published": "2026-09-01T16:50:37.723Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/09/482469.html",
+      "url": "https://www.qbitai.com/2026/09/482469.html",
+      "title": "GitHub最热架构图Agent，开发者故事看哭了",
+      "summary": "AIGC · henry · 2026年09月01日",
+      "date_published": "2026-09-01T16:50:37.723Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/09/482451.html",
+      "url": "https://www.qbitai.com/2026/09/482451.html",
+      "title": "急急急用电！马斯克开造燃气轮机叶片",
+      "summary": "SpaceX · henry · 2026年09月01日",
+      "date_published": "2026-09-01T16:50:37.723Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/09/482406.html",
+      "url": "https://www.qbitai.com/2026/09/482406.html",
+      "title": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
+      "summary": "Claude · henry · 2026年09月01日",
+      "date_published": "2026-09-01T16:50:37.723Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/09/482337.html",
+      "url": "https://www.qbitai.com/2026/09/482337.html",
+      "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
+      "summary": "具身智能 · 思邈 · 2026年09月01日",
+      "date_published": "2026-09-01T16:50:37.723Z"
+    },
+    {
       "id": "https://www.qbitai.com/2026/09/482300.html",
       "url": "https://www.qbitai.com/2026/09/482300.html",
       "title": "AIVC只是前菜！复旦提出生命算子，统一生命建模",
       "summary": "全晓得 · 思邈 · 2026年09月01日",
-      "date_published": "2026-09-01T05:30:41.853Z"
+      "date_published": "2026-09-01T16:50:37.723Z"
     },
     {
       "id": "https://www.qbitai.com/2026/08/481928.html",
       "url": "https://www.qbitai.com/2026/08/481928.html",
       "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
       "summary": "资讯 · 田, 晏林 · 2026年08月31日",
-      "date_published": "2026-09-01T05:30:41.853Z"
+      "date_published": "2026-09-01T16:50:37.723Z"
     },
     {
       "id": "https://www.qbitai.com/2026/08/481923.html",
       "url": "https://www.qbitai.com/2026/08/481923.html",
       "title": "滴滴自动驾驶新一代车型开启载客测试服务",
       "summary": "滴滴 · 量子位的朋友们 · 2026年08月31日",
-      "date_published": "2026-09-01T05:30:41.853Z"
+      "date_published": "2026-09-01T16:50:37.723Z"
     },
     {
       "id": "https://www.qbitai.com/2026/08/481919.html",
       "url": "https://www.qbitai.com/2026/08/481919.html",
       "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
       "summary": "范式 · 量子位的朋友们 · 2026年08月31日",
-      "date_published": "2026-09-01T05:30:41.853Z"
+      "date_published": "2026-09-01T16:50:37.723Z"
     },
     {
       "id": "https://www.qbitai.com/2026/08/481893.html",
       "url": "https://www.qbitai.com/2026/08/481893.html",
       "title": "「GPT-6」灰测demo刷屏！周四发布在即",
       "summary": "资讯 · Jay · 2026年08月31日",
-      "date_published": "2026-09-01T05:30:41.853Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/08/481759.html",
-      "url": "https://www.qbitai.com/2026/08/481759.html",
-      "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
-      "summary": "OpenAI · 梦晨 · 2026年08月31日",
-      "date_published": "2026-09-01T05:30:41.853Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/08/481750.html",
-      "url": "https://www.qbitai.com/2026/08/481750.html",
-      "title": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队",
-      "summary": "灵犀智涌 · 量子位的朋友们 · 2026年08月31日",
-      "date_published": "2026-09-01T05:30:41.853Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/08/481475.html",
-      "url": "https://www.qbitai.com/2026/08/481475.html",
-      "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
-      "summary": "蚂蚁 · 量子位的朋友们 · 2026年08月31日",
-      "date_published": "2026-09-01T05:30:41.853Z"
+      "date_published": "2026-09-01T16:50:37.723Z"
     }
   ]
 }
