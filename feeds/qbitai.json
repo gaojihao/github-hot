@@ -5,74 +5,74 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/qbitai.json",
   "items": [
     {
+      "id": "https://www.qbitai.com/2026/09/483565.html",
+      "url": "https://www.qbitai.com/2026/09/483565.html",
+      "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
+      "summary": "具身智能 · 思邈 · 2026年09月03日",
+      "date_published": "2026-09-03T04:54:14.009Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/09/483552.html",
+      "url": "https://www.qbitai.com/2026/09/483552.html",
+      "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+      "summary": "具身智能 · 林, 方舟 · 2026年09月03日",
+      "date_published": "2026-09-03T04:54:14.009Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/09/483462.html",
+      "url": "https://www.qbitai.com/2026/09/483462.html",
+      "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
+      "summary": "智能车参考 · 杰西卡 · 2026年09月03日",
+      "date_published": "2026-09-03T04:54:14.009Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/09/483351.html",
+      "url": "https://www.qbitai.com/2026/09/483351.html",
+      "title": "今年最难的机器人Demo，“机器人含量”为0",
+      "summary": "Ego数据 · henry · 2026年09月03日",
+      "date_published": "2026-09-03T04:54:14.009Z"
+    },
+    {
       "id": "https://www.qbitai.com/2026/09/483274.html",
       "url": "https://www.qbitai.com/2026/09/483274.html",
       "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
       "summary": "天工工作台 · 量子位的朋友们 · 2026年09月02日",
-      "date_published": "2026-09-02T16:48:00.052Z"
+      "date_published": "2026-09-03T04:54:14.009Z"
     },
     {
       "id": "https://www.qbitai.com/2026/09/483104.html",
       "url": "https://www.qbitai.com/2026/09/483104.html",
       "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
       "summary": "蚂蚁 · 量子位的朋友们 · 2026年09月02日",
-      "date_published": "2026-09-02T16:48:00.052Z"
+      "date_published": "2026-09-03T04:54:14.009Z"
     },
     {
       "id": "https://www.qbitai.com/2026/09/483101.html",
       "url": "https://www.qbitai.com/2026/09/483101.html",
       "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
       "summary": "阿里 · 量子位的朋友们 · 2026年09月02日",
-      "date_published": "2026-09-02T16:48:00.052Z"
+      "date_published": "2026-09-03T04:54:14.009Z"
     },
     {
       "id": "https://www.qbitai.com/2026/09/483097.html",
       "url": "https://www.qbitai.com/2026/09/483097.html",
       "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
       "summary": "星尘智能 · 量子位的朋友们 · 2026年09月02日",
-      "date_published": "2026-09-02T16:48:00.052Z"
+      "date_published": "2026-09-03T04:54:14.009Z"
     },
     {
       "id": "https://www.qbitai.com/2026/09/482967.html",
       "url": "https://www.qbitai.com/2026/09/482967.html",
       "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
       "summary": "百融智能 · 杰西卡 · 2026年09月02日",
-      "date_published": "2026-09-02T16:48:00.052Z"
+      "date_published": "2026-09-03T04:54:14.009Z"
     },
     {
       "id": "https://www.qbitai.com/2026/09/482652.html",
       "url": "https://www.qbitai.com/2026/09/482652.html",
       "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
       "summary": "Claude · 梦晨 · 2026年09月02日",
-      "date_published": "2026-09-02T16:48:00.052Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/09/482855.html",
-      "url": "https://www.qbitai.com/2026/09/482855.html",
-      "title": "香港首个真实开放场景服务机器人落地兰桂坊",
-      "summary": "智平方 · 量子位的朋友们 · 2026年09月02日",
-      "date_published": "2026-09-02T16:48:00.052Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/09/482699.html",
-      "url": "https://www.qbitai.com/2026/09/482699.html",
-      "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
-      "summary": "海信 · 量子位的朋友们 · 2026年09月02日",
-      "date_published": "2026-09-02T16:48:00.052Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/09/482586.html",
-      "url": "https://www.qbitai.com/2026/09/482586.html",
-      "title": "李飞飞发布：全球首个多模态世界模型",
-      "summary": "世界模型 · 鱼羊 · 2026年09月02日",
-      "date_published": "2026-09-02T16:48:00.052Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/09/482512.html",
-      "url": "https://www.qbitai.com/2026/09/482512.html",
-      "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
-      "summary": "MiniMax · 克雷西 · 2026年09月01日",
-      "date_published": "2026-09-02T16:48:00.052Z"
+      "date_published": "2026-09-03T04:54:14.009Z"
     }
   ]
 }
