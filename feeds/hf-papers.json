@@ -8,120 +8,218 @@
       "id": "https://huggingface.co/papers/2609.02749",
       "url": "https://huggingface.co/papers/2609.02749",
       "title": "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills",
-      "summary": "2609.02749 · ▲ 100",
-      "date_published": "2026-09-03T04:54:14.009Z"
+      "summary": "2609.02749 · ▲ 355",
+      "date_published": "2026-09-03T16:37:36.730Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.02886",
       "url": "https://huggingface.co/papers/2609.02886",
       "title": "SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models",
-      "summary": "2609.02886 · ▲ 70",
-      "date_published": "2026-09-03T04:54:14.009Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.02783",
-      "url": "https://huggingface.co/papers/2609.02783",
-      "title": "EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction",
-      "summary": "2609.02783 · ▲ 37",
-      "date_published": "2026-09-03T04:54:14.009Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.00638",
-      "url": "https://huggingface.co/papers/2609.00638",
-      "title": "It Takes Two to Match: Co-Evolving Generative Retriever with Reinforcement Learning",
-      "summary": "2609.00638 · ▲ 26",
-      "date_published": "2026-09-03T04:54:14.009Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.02737",
-      "url": "https://huggingface.co/papers/2609.02737",
-      "title": "Language Models Can Control Their Own Attention",
-      "summary": "2609.02737 · ▲ 22",
-      "date_published": "2026-09-03T04:54:14.009Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.01147",
-      "url": "https://huggingface.co/papers/2609.01147",
-      "title": "On the Design Fundamentals of Pixel Text Representation Learning",
-      "summary": "2609.01147 · ▲ 16",
-      "date_published": "2026-09-03T04:54:14.009Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.02817",
-      "url": "https://huggingface.co/papers/2609.02817",
-      "title": "Cliff: Learning Process Rewards from the First Mistake",
-      "summary": "2609.02817 · ▲ 14",
-      "date_published": "2026-09-03T04:54:14.009Z"
+      "summary": "2609.02886 · ▲ 125",
+      "date_published": "2026-09-03T16:37:36.730Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.01437",
       "url": "https://huggingface.co/papers/2609.01437",
       "title": "HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?",
-      "summary": "2609.01437 · ▲ 12",
-      "date_published": "2026-09-03T04:54:14.009Z"
+      "summary": "2609.01437 · ▲ 110",
+      "date_published": "2026-09-03T16:37:36.730Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.29846",
-      "url": "https://huggingface.co/papers/2608.29846",
-      "title": "Influence-Directed Distillation: Solving the Diversity Bottleneck in Sampled-Token On-Policy Distillation",
-      "summary": "2608.29846 · ▲ 10",
-      "date_published": "2026-09-03T04:54:14.009Z"
+      "id": "https://huggingface.co/papers/2609.02783",
+      "url": "https://huggingface.co/papers/2609.02783",
+      "title": "EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction",
+      "summary": "2609.02783 · ▲ 109",
+      "date_published": "2026-09-03T16:37:36.730Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.31111",
       "url": "https://huggingface.co/papers/2608.31111",
       "title": "Aspire: Can Models Self-Evolve from Vague Goals?",
-      "summary": "2608.31111 · ▲ 9",
-      "date_published": "2026-09-03T04:54:14.009Z"
+      "summary": "2608.31111 · ▲ 94",
+      "date_published": "2026-09-03T16:37:36.730Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.00638",
+      "url": "https://huggingface.co/papers/2609.00638",
+      "title": "It Takes Two to Match: Co-Evolving Generative Retriever with Reinforcement Learning",
+      "summary": "2609.00638 · ▲ 61",
+      "date_published": "2026-09-03T16:37:36.730Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.02737",
+      "url": "https://huggingface.co/papers/2609.02737",
+      "title": "Language Models Can Control Their Own Attention",
+      "summary": "2609.02737 · ▲ 47",
+      "date_published": "2026-09-03T16:37:36.730Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.01147",
+      "url": "https://huggingface.co/papers/2609.01147",
+      "title": "On the Design Fundamentals of Pixel Text Representation Learning",
+      "summary": "2609.01147 · ▲ 26",
+      "date_published": "2026-09-03T16:37:36.730Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.21450",
+      "url": "https://huggingface.co/papers/2608.21450",
+      "title": "Beyond Visual Similarity: Entity-Aligned Retrieval for Knowledge-Based Visual Question Answering",
+      "summary": "2608.21450 · ▲ 26",
+      "date_published": "2026-09-03T16:37:36.730Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.31100",
       "url": "https://huggingface.co/papers/2608.31100",
       "title": "S3Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?",
-      "summary": "2608.31100 · ▲ 9",
-      "date_published": "2026-09-03T04:54:14.009Z"
+      "summary": "2608.31100 · ▲ 25",
+      "date_published": "2026-09-03T16:37:36.730Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.02849",
-      "url": "https://huggingface.co/papers/2609.02849",
-      "title": "Post-Training Language Models for Gold-Medal Performance in Coding Competitions",
-      "summary": "2609.02849 · ▲ 5",
-      "date_published": "2026-09-03T04:54:14.009Z"
+      "id": "https://huggingface.co/papers/2609.01740",
+      "url": "https://huggingface.co/papers/2609.01740",
+      "title": "ZipTok3D: High-Fidelity 3D Tokenization with Compact Token Prefixes",
+      "summary": "2609.01740 · ▲ 19",
+      "date_published": "2026-09-03T16:37:36.730Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.02272",
-      "url": "https://huggingface.co/papers/2609.02272",
-      "title": "PaperCompiler: Faithful Paper-to-Code Generation via Repository-Level Specification Compilation",
-      "summary": "2609.02272 · ▲ 5",
-      "date_published": "2026-09-03T04:54:14.009Z"
+      "id": "https://huggingface.co/papers/2609.01657",
+      "url": "https://huggingface.co/papers/2609.01657",
+      "title": "NeoMME: A Single-Tower Multimodal-Native Multilingual Foundation Encoder for Efficient Fine-Tuning and Inference",
+      "summary": "2609.01657 · ▲ 19",
+      "date_published": "2026-09-03T16:37:36.730Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.02817",
+      "url": "https://huggingface.co/papers/2609.02817",
+      "title": "Cliff: Learning Process Rewards from the First Mistake",
+      "summary": "2609.02817 · ▲ 15",
+      "date_published": "2026-09-03T16:37:36.730Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.00591",
+      "url": "https://huggingface.co/papers/2609.00591",
+      "title": "A Glance Is All You Need: Single-Pass Fine-Grained Image Captioning with SimLoss",
+      "summary": "2609.00591 · ▲ 15",
+      "date_published": "2026-09-03T16:37:36.730Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.29846",
+      "url": "https://huggingface.co/papers/2608.29846",
+      "title": "Influence-Directed Distillation: Solving the Diversity Bottleneck in Sampled-Token On-Policy Distillation",
+      "summary": "2608.29846 · ▲ 14",
+      "date_published": "2026-09-03T16:37:36.730Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.02812",
+      "url": "https://huggingface.co/papers/2609.02812",
+      "title": "VibeVoice-ASR-Streaming Technical Report",
+      "summary": "2609.02812 · ▲ 10",
+      "date_published": "2026-09-03T16:37:36.730Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.18972",
       "url": "https://huggingface.co/papers/2608.18972",
       "title": "Institutional Newspapers Pipeline: Deriving billions of high quality tokens from historical newspapers",
-      "summary": "2608.18972 · ▲ 4",
-      "date_published": "2026-09-03T04:54:14.009Z"
+      "summary": "2608.18972 · ▲ 9",
+      "date_published": "2026-09-03T16:37:36.730Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.01865",
-      "url": "https://huggingface.co/papers/2609.01865",
-      "title": "ExecRetrieval: Measuring the Functional-Correctness Gap in Code-Embedding Retrieval",
-      "summary": "2609.01865 · ▲ 3",
-      "date_published": "2026-09-03T04:54:14.009Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.01823",
-      "url": "https://huggingface.co/papers/2609.01823",
-      "title": "Kirin: Animal Motion Generation from In-the-Wild Video",
-      "summary": "2609.01823 · ▲ 2",
-      "date_published": "2026-09-03T04:54:14.009Z"
+      "id": "https://huggingface.co/papers/2609.02849",
+      "url": "https://huggingface.co/papers/2609.02849",
+      "title": "Post-Training Language Models for Gold-Medal Performance in Coding Competitions",
+      "summary": "2609.02849 · ▲ 7",
+      "date_published": "2026-09-03T16:37:36.730Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.30949",
       "url": "https://huggingface.co/papers/2608.30949",
       "title": "MULTI3IR: A Benchmark for Multi-perspective Multi-domain Multi-modal Information Retrieval",
-      "summary": "2608.30949 · ▲ 2",
-      "date_published": "2026-09-03T04:54:14.009Z"
+      "summary": "2608.30949 · ▲ 7",
+      "date_published": "2026-09-03T16:37:36.730Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.02272",
+      "url": "https://huggingface.co/papers/2609.02272",
+      "title": "PaperCompiler: Faithful Paper-to-Code Generation via Repository-Level Specification Compilation",
+      "summary": "2609.02272 · ▲ 6",
+      "date_published": "2026-09-03T16:37:36.730Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.01925",
+      "url": "https://huggingface.co/papers/2609.01925",
+      "title": "CRISP: Cliff-awaRe Input-adaptive Sparse Prefilling with Structural-Mass-Motivated Routing",
+      "summary": "2609.01925 · ▲ 6",
+      "date_published": "2026-09-03T16:37:36.730Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.01865",
+      "url": "https://huggingface.co/papers/2609.01865",
+      "title": "ExecRetrieval: Measuring the Functional-Correctness Gap in Code-Embedding Retrieval",
+      "summary": "2609.01865 · ▲ 6",
+      "date_published": "2026-09-03T16:37:36.730Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.00474",
+      "url": "https://huggingface.co/papers/2609.00474",
+      "title": "Exploring Collaboration between a language and a non-language agent",
+      "summary": "2609.00474 · ▲ 5",
+      "date_published": "2026-09-03T16:37:36.730Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.29607",
+      "url": "https://huggingface.co/papers/2608.29607",
+      "title": "SnapBench: Benchmarking Snap-and-Ask Multimodal Retrieval for Mobile Interactions",
+      "summary": "2608.29607 · ▲ 5",
+      "date_published": "2026-09-03T16:37:36.730Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.01823",
+      "url": "https://huggingface.co/papers/2609.01823",
+      "title": "Kirin: Animal Motion Generation from In-the-Wild Video",
+      "summary": "2609.01823 · ▲ 3",
+      "date_published": "2026-09-03T16:37:36.730Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.00377",
+      "url": "https://huggingface.co/papers/2609.00377",
+      "title": "FoldingAgent: Inferring Parametric Origami Procedures from Demonstration Videos",
+      "summary": "2609.00377 · ▲ 3",
+      "date_published": "2026-09-03T16:37:36.730Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.02496",
+      "url": "https://huggingface.co/papers/2609.02496",
+      "title": "Debias-SparseGPT: Bias-Aware Pruning for Large Language Models",
+      "summary": "2609.02496 · ▲ 2",
+      "date_published": "2026-09-03T16:37:36.730Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.30751",
+      "url": "https://huggingface.co/papers/2608.30751",
+      "title": "Autoregressive Mosaics: Probing 2D Spatial Reasoning in Text-Only Language Models",
+      "summary": "2608.30751 · ▲ 2",
+      "date_published": "2026-09-03T16:37:36.730Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.30322",
+      "url": "https://huggingface.co/papers/2608.30322",
+      "title": "Ignorance or Incompetence? Constructing Knowledge-Gated, Verifiable Tasks for LLM Agents",
+      "summary": "2608.30322 · ▲ 2",
+      "date_published": "2026-09-03T16:37:36.730Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.29692",
+      "url": "https://huggingface.co/papers/2608.29692",
+      "title": "Portfolio Risk Bounds without Cross-Asset Return Covariances: Distributional Fields from Language-Model Representations",
+      "summary": "2608.29692 · ▲ 0",
+      "date_published": "2026-09-03T16:37:36.730Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.29669",
+      "url": "https://huggingface.co/papers/2608.29669",
+      "title": "Wasserstein-Barycentric Interaction Fields for Spatial Factor Models: Evidence from Language-Model Representations",
+      "summary": "2608.29669 · ▲ 0",
+      "date_published": "2026-09-03T16:37:36.730Z"
     }
   ]
 }
