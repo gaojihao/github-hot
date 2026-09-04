@@ -5,123 +5,193 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2609.03796",
-      "url": "https://huggingface.co/papers/2609.03796",
-      "title": "LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes",
-      "summary": "2609.03796 · ▲ 63",
-      "date_published": "2026-09-04T05:04:46.864Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.01507",
-      "url": "https://huggingface.co/papers/2609.01507",
-      "title": "LatentPress: Context Compression Beyond Text and Vision",
-      "summary": "2609.01507 · ▲ 49",
-      "date_published": "2026-09-04T05:04:46.864Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.04098",
-      "url": "https://huggingface.co/papers/2609.04098",
-      "title": "Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM",
-      "summary": "2609.04098 · ▲ 47",
-      "date_published": "2026-09-04T05:04:46.864Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.03430",
-      "url": "https://huggingface.co/papers/2609.03430",
-      "title": "Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning",
-      "summary": "2609.03430 · ▲ 41",
-      "date_published": "2026-09-04T05:04:46.864Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.04172",
-      "url": "https://huggingface.co/papers/2609.04172",
-      "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
-      "summary": "2609.04172 · ▲ 35",
-      "date_published": "2026-09-04T05:04:46.864Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.02367",
-      "url": "https://huggingface.co/papers/2609.02367",
-      "title": "The Missing Temporal Link: Temporal Context Routing for Script-Driven Audio-Video Generation",
-      "summary": "2609.02367 · ▲ 10",
-      "date_published": "2026-09-04T05:04:46.864Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.04083",
-      "url": "https://huggingface.co/papers/2609.04083",
-      "title": "CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation",
-      "summary": "2609.04083 · ▲ 9",
-      "date_published": "2026-09-04T05:04:46.864Z"
-    },
-    {
       "id": "https://huggingface.co/papers/2609.04148",
       "url": "https://huggingface.co/papers/2609.04148",
       "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
-      "summary": "2609.04148 · ▲ 6",
-      "date_published": "2026-09-04T05:04:46.864Z"
+      "summary": "2609.04148 · ▲ 179",
+      "date_published": "2026-09-04T16:32:57.329Z"
     },
     {
-      "id": "https://huggingface.co/papers/2608.27831",
-      "url": "https://huggingface.co/papers/2608.27831",
-      "title": "RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Requests",
-      "summary": "2608.27831 · ▲ 6",
-      "date_published": "2026-09-04T05:04:46.864Z"
+      "id": "https://huggingface.co/papers/2609.04199",
+      "url": "https://huggingface.co/papers/2609.04199",
+      "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+      "summary": "2609.04199 · ▲ 152",
+      "date_published": "2026-09-04T16:32:57.329Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.04196",
-      "url": "https://huggingface.co/papers/2609.04196",
-      "title": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
-      "summary": "2609.04196 · ▲ 5",
-      "date_published": "2026-09-04T05:04:46.864Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.04131",
-      "url": "https://huggingface.co/papers/2609.04131",
-      "title": "Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding",
-      "summary": "2609.04131 · ▲ 4",
-      "date_published": "2026-09-04T05:04:46.864Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.03952",
-      "url": "https://huggingface.co/papers/2609.03952",
-      "title": "WorldReward: Reward Modeling for Camera-Conditioned World Models",
-      "summary": "2609.03952 · ▲ 3",
-      "date_published": "2026-09-04T05:04:46.864Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.03563",
-      "url": "https://huggingface.co/papers/2609.03563",
-      "title": "FlashRender: Few-Step Generative Rendering via Camera-Controlled Video MeanFlow",
-      "summary": "2609.03563 · ▲ 2",
-      "date_published": "2026-09-04T05:04:46.864Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.04128",
-      "url": "https://huggingface.co/papers/2609.04128",
-      "title": "Environment Evolution for Terminal Agents",
-      "summary": "2609.04128 · ▲ 2",
-      "date_published": "2026-09-04T05:04:46.864Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.04200",
-      "url": "https://huggingface.co/papers/2609.04200",
-      "title": "Principia: Relational Physics Tests for Video Models",
-      "summary": "2609.04200 · ▲ 1",
-      "date_published": "2026-09-04T05:04:46.864Z"
+      "id": "https://huggingface.co/papers/2609.03796",
+      "url": "https://huggingface.co/papers/2609.03796",
+      "title": "LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes",
+      "summary": "2609.03796 · ▲ 141",
+      "date_published": "2026-09-04T16:32:57.329Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.26730",
       "url": "https://huggingface.co/papers/2608.26730",
       "title": "Knowing When Not to Reuse: Conditional Experience Transfer in Autonomous LLM Post-Training",
-      "summary": "2608.26730 · ▲ 1",
-      "date_published": "2026-09-04T05:04:46.864Z"
+      "summary": "2608.26730 · ▲ 139",
+      "date_published": "2026-09-04T16:32:57.329Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.01507",
+      "url": "https://huggingface.co/papers/2609.01507",
+      "title": "LatentPress: Context Compression Beyond Text and Vision",
+      "summary": "2609.01507 · ▲ 81",
+      "date_published": "2026-09-04T16:32:57.329Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.03430",
+      "url": "https://huggingface.co/papers/2609.03430",
+      "title": "Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning",
+      "summary": "2609.03430 · ▲ 77",
+      "date_published": "2026-09-04T16:32:57.329Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.04098",
+      "url": "https://huggingface.co/papers/2609.04098",
+      "title": "Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM",
+      "summary": "2609.04098 · ▲ 65",
+      "date_published": "2026-09-04T16:32:57.329Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.04172",
+      "url": "https://huggingface.co/papers/2609.04172",
+      "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
+      "summary": "2609.04172 · ▲ 63",
+      "date_published": "2026-09-04T16:32:57.329Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.04196",
+      "url": "https://huggingface.co/papers/2609.04196",
+      "title": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
+      "summary": "2609.04196 · ▲ 56",
+      "date_published": "2026-09-04T16:32:57.329Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.04034",
       "url": "https://huggingface.co/papers/2609.04034",
       "title": "Editable Visual Design",
-      "summary": "2609.04034 · ▲ 0",
-      "date_published": "2026-09-04T05:04:46.864Z"
+      "summary": "2609.04034 · ▲ 31",
+      "date_published": "2026-09-04T16:32:57.329Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.04201",
+      "url": "https://huggingface.co/papers/2609.04201",
+      "title": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
+      "summary": "2609.04201 · ▲ 30",
+      "date_published": "2026-09-04T16:32:57.329Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.02367",
+      "url": "https://huggingface.co/papers/2609.02367",
+      "title": "The Missing Temporal Link: Temporal Context Routing for Script-Driven Audio-Video Generation",
+      "summary": "2609.02367 · ▲ 25",
+      "date_published": "2026-09-04T16:32:57.329Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.04131",
+      "url": "https://huggingface.co/papers/2609.04131",
+      "title": "Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding",
+      "summary": "2609.04131 · ▲ 22",
+      "date_published": "2026-09-04T16:32:57.329Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.04083",
+      "url": "https://huggingface.co/papers/2609.04083",
+      "title": "CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation",
+      "summary": "2609.04083 · ▲ 17",
+      "date_published": "2026-09-04T16:32:57.329Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.27831",
+      "url": "https://huggingface.co/papers/2608.27831",
+      "title": "RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Requests",
+      "summary": "2608.27831 · ▲ 16",
+      "date_published": "2026-09-04T16:32:57.329Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.03293",
+      "url": "https://huggingface.co/papers/2609.03293",
+      "title": "PACE: Towards Surfacing Hidden Conflicts in User Requests",
+      "summary": "2609.03293 · ▲ 15",
+      "date_published": "2026-09-04T16:32:57.329Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.03952",
+      "url": "https://huggingface.co/papers/2609.03952",
+      "title": "WorldReward: Reward Modeling for Camera-Conditioned World Models",
+      "summary": "2609.03952 · ▲ 15",
+      "date_published": "2026-09-04T16:32:57.329Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.04173",
+      "url": "https://huggingface.co/papers/2609.04173",
+      "title": "Last Translation Benchmark",
+      "summary": "2609.04173 · ▲ 13",
+      "date_published": "2026-09-04T16:32:57.329Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.30391",
+      "url": "https://huggingface.co/papers/2608.30391",
+      "title": "Using Grounded Theory for Agent Behavior Analysis at Scale",
+      "summary": "2608.30391 · ▲ 12",
+      "date_published": "2026-09-04T16:32:57.329Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.03563",
+      "url": "https://huggingface.co/papers/2609.03563",
+      "title": "FlashRender: Few-Step Generative Rendering via Camera-Controlled Video MeanFlow",
+      "summary": "2609.03563 · ▲ 11",
+      "date_published": "2026-09-04T16:32:57.329Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.04128",
+      "url": "https://huggingface.co/papers/2609.04128",
+      "title": "Environment Evolution for Terminal Agents",
+      "summary": "2609.04128 · ▲ 10",
+      "date_published": "2026-09-04T16:32:57.329Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.04200",
+      "url": "https://huggingface.co/papers/2609.04200",
+      "title": "Principia: Relational Physics Tests for Video Models",
+      "summary": "2609.04200 · ▲ 8",
+      "date_published": "2026-09-04T16:32:57.329Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.03820",
+      "url": "https://huggingface.co/papers/2609.03820",
+      "title": "Select, Compress, Reinvest: A Controlled Study of Visual-Token Allocation in Long-Video MLLMs",
+      "summary": "2609.03820 · ▲ 8",
+      "date_published": "2026-09-04T16:32:57.329Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.01072",
+      "url": "https://huggingface.co/papers/2609.01072",
+      "title": "Let Confidence Change, Not the Prediction: Prediction-Preserving Repair for Post-hoc Calibration",
+      "summary": "2609.01072 · ▲ 8",
+      "date_published": "2026-09-04T16:32:57.329Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.02373",
+      "url": "https://huggingface.co/papers/2609.02373",
+      "title": "Percolation Dynamics in Optimization : Variance Cascades and Discrete Scale Invariance",
+      "summary": "2609.02373 · ▲ 7",
+      "date_published": "2026-09-04T16:32:57.329Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.29253",
+      "url": "https://huggingface.co/papers/2608.29253",
+      "title": "QCell: Recombining and Aligning Cell Queries for Overlapping Instance Segmentation",
+      "summary": "2608.29253 · ▲ 7",
+      "date_published": "2026-09-04T16:32:57.329Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.04094",
+      "url": "https://huggingface.co/papers/2609.04094",
+      "title": "DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training",
+      "summary": "2609.04094 · ▲ 4",
+      "date_published": "2026-09-04T16:32:57.329Z"
     }
   ]
 }
