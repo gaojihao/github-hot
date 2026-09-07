@@ -5,81 +5,186 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
+      "id": "https://huggingface.co/papers/2609.02750",
+      "url": "https://huggingface.co/papers/2609.02750",
+      "title": "Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems",
+      "summary": "2609.02750 · ▲ 91",
+      "date_published": "2026-09-07T17:52:15.255Z"
+    },
+    {
       "id": "https://huggingface.co/papers/2609.04304",
       "url": "https://huggingface.co/papers/2609.04304",
       "title": "Iris: Climbing to the Search Frontier",
-      "summary": "2609.04304 · ▲ 12",
-      "date_published": "2026-09-07T05:06:16.864Z"
+      "summary": "2609.04304 · ▲ 50",
+      "date_published": "2026-09-07T17:52:15.255Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.04250",
       "url": "https://huggingface.co/papers/2609.04250",
       "title": "Motion-Omni: End-to-End Joint Speech and Full-Body Motion for Spoken Dialogue",
-      "summary": "2609.04250 · ▲ 12",
-      "date_published": "2026-09-07T05:06:16.864Z"
+      "summary": "2609.04250 · ▲ 35",
+      "date_published": "2026-09-07T17:52:15.255Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.05258",
-      "url": "https://huggingface.co/papers/2609.05258",
-      "title": "Ask Before You Optimize: Dynamic Pre-Formulation Clarification for Interactive Optimization",
-      "summary": "2609.05258 · ▲ 11",
-      "date_published": "2026-09-07T05:06:16.864Z"
+      "id": "https://huggingface.co/papers/2609.03586",
+      "url": "https://huggingface.co/papers/2609.03586",
+      "title": "The Attention Triangle in Audio-Video Models",
+      "summary": "2609.03586 · ▲ 23",
+      "date_published": "2026-09-07T17:52:15.255Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.05416",
       "url": "https://huggingface.co/papers/2609.05416",
       "title": "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
-      "summary": "2609.05416 · ▲ 5",
-      "date_published": "2026-09-07T05:06:16.864Z"
+      "summary": "2609.05416 · ▲ 20",
+      "date_published": "2026-09-07T17:52:15.255Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.05258",
+      "url": "https://huggingface.co/papers/2609.05258",
+      "title": "Ask Before You Optimize: Dynamic Pre-Formulation Clarification for Interactive Optimization",
+      "summary": "2609.05258 · ▲ 15",
+      "date_published": "2026-09-07T17:52:15.255Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.00581",
+      "url": "https://huggingface.co/papers/2609.00581",
+      "title": "Enoki: Efficient Multi-Level Hallucination Detection",
+      "summary": "2609.00581 · ▲ 15",
+      "date_published": "2026-09-07T17:52:15.255Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.05275",
       "url": "https://huggingface.co/papers/2609.05275",
       "title": "Don't Drop Dropout: Optimizing Layer Sparsity for Efficient LLM Training and Inference",
-      "summary": "2609.05275 · ▲ 4",
-      "date_published": "2026-09-07T05:06:16.864Z"
+      "summary": "2609.05275 · ▲ 12",
+      "date_published": "2026-09-07T17:52:15.255Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.04753",
+      "url": "https://huggingface.co/papers/2609.04753",
+      "title": "Beneath the Surface of Chains-of-Thought: A Mechanistic Interpretation of Reasoning Operations in LLMs",
+      "summary": "2609.04753 · ▲ 9",
+      "date_published": "2026-09-07T17:52:15.255Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.05415",
+      "url": "https://huggingface.co/papers/2609.05415",
+      "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
+      "summary": "2609.05415 · ▲ 9",
+      "date_published": "2026-09-07T17:52:15.255Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.04523",
       "url": "https://huggingface.co/papers/2609.04523",
       "title": "MaxKernel: Agentic Kernel Generation for TPUs",
-      "summary": "2609.04523 · ▲ 3",
-      "date_published": "2026-09-07T05:06:16.864Z"
+      "summary": "2609.04523 · ▲ 9",
+      "date_published": "2026-09-07T17:52:15.255Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.05295",
       "url": "https://huggingface.co/papers/2609.05295",
       "title": "RISE: Recursive Improvement via Self-Extrapolating Policy Distillation",
-      "summary": "2609.05295 · ▲ 2",
-      "date_published": "2026-09-07T05:06:16.864Z"
+      "summary": "2609.05295 · ▲ 8",
+      "date_published": "2026-09-07T17:52:15.255Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.04061",
-      "url": "https://huggingface.co/papers/2609.04061",
-      "title": "When Models Edit Too Much: On the Fidelity of Minimal Code Edits",
-      "summary": "2609.04061 · ▲ 2",
-      "date_published": "2026-09-07T05:06:16.864Z"
+      "id": "https://huggingface.co/papers/2609.04190",
+      "url": "https://huggingface.co/papers/2609.04190",
+      "title": "One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing",
+      "summary": "2609.04190 · ▲ 6",
+      "date_published": "2026-09-07T17:52:15.255Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.00365",
+      "url": "https://huggingface.co/papers/2609.00365",
+      "title": "Dr. Claw: An AI Scientist Workspace for Vibe Research",
+      "summary": "2609.00365 · ▲ 5",
+      "date_published": "2026-09-07T17:52:15.255Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.00444",
       "url": "https://huggingface.co/papers/2609.00444",
       "title": "Group Adaptive Clipping Policy Optimization",
-      "summary": "2609.00444 · ▲ 2",
-      "date_published": "2026-09-07T05:06:16.864Z"
+      "summary": "2609.00444 · ▲ 5",
+      "date_published": "2026-09-07T17:52:15.255Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.04611",
+      "url": "https://huggingface.co/papers/2609.04611",
+      "title": "τ^τ-Bench: An Environment for End-To-End, Realistic Agent Construction",
+      "summary": "2609.04611 · ▲ 4",
+      "date_published": "2026-09-07T17:52:15.255Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.04061",
+      "url": "https://huggingface.co/papers/2609.04061",
+      "title": "When Models Edit Too Much: On the Fidelity of Minimal Code Edits",
+      "summary": "2609.04061 · ▲ 4",
+      "date_published": "2026-09-07T17:52:15.255Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.04242",
+      "url": "https://huggingface.co/papers/2609.04242",
+      "title": "Training-Free Speech-Centric Omni Understanding with Frozen VLMs",
+      "summary": "2609.04242 · ▲ 4",
+      "date_published": "2026-09-07T17:52:15.255Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.04490",
       "url": "https://huggingface.co/papers/2609.04490",
       "title": "When Quantization Breaks Memory: Recurrent-State Write-Back in Low-Precision Temporal Inference",
-      "summary": "2609.04490 · ▲ 1",
-      "date_published": "2026-09-07T05:06:16.864Z"
+      "summary": "2609.04490 · ▲ 3",
+      "date_published": "2026-09-07T17:52:15.255Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.05879",
+      "url": "https://huggingface.co/papers/2608.05879",
+      "title": "To See a World in a Living Context: Unified Indoor-Outdoor Urban World Generation",
+      "summary": "2608.05879 · ▲ 3",
+      "date_published": "2026-09-07T17:52:15.255Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.04369",
       "url": "https://huggingface.co/papers/2609.04369",
       "title": "AdaptVPR: Route-Aware Hard Positive Generation for Robust Visual Place Recognition",
-      "summary": "2609.04369 · ▲ 0",
-      "date_published": "2026-09-07T05:06:16.864Z"
+      "summary": "2609.04369 · ▲ 2",
+      "date_published": "2026-09-07T17:52:15.255Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.02780",
+      "url": "https://huggingface.co/papers/2609.02780",
+      "title": "ShallowStream: Index Shallow then Answer Deep for Streaming Video Understanding",
+      "summary": "2609.02780 · ▲ 2",
+      "date_published": "2026-09-07T17:52:15.255Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.04720",
+      "url": "https://huggingface.co/papers/2609.04720",
+      "title": "Knowing What Not to Answer: Selective Non-Compliance in Vision-Language Models",
+      "summary": "2609.04720 · ▲ 1",
+      "date_published": "2026-09-07T17:52:15.255Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.04714",
+      "url": "https://huggingface.co/papers/2609.04714",
+      "title": "Refuse without Refusal: A Structural Analysis of Safety-Tuning Responses for Reducing False Refusals in Language Models",
+      "summary": "2609.04714 · ▲ 1",
+      "date_published": "2026-09-07T17:52:15.255Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.03231",
+      "url": "https://huggingface.co/papers/2609.03231",
+      "title": "The 2026 PNPL Competition: Word Classification and Efficient Cross-Subject Generalisation in LibriBrain100",
+      "summary": "2609.03231 · ▲ 1",
+      "date_published": "2026-09-07T17:52:15.255Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.04444",
+      "url": "https://huggingface.co/papers/2609.04444",
+      "title": "HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals",
+      "summary": "2609.04444 · ▲ 0",
+      "date_published": "2026-09-07T17:52:15.255Z"
     }
   ]
 }
