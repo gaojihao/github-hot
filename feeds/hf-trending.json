@@ -8,421 +8,421 @@
       "id": "https://huggingface.co/XHToken/Spark-X2.5-4B",
       "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
       "title": "XHToken/Spark-X2.5-4B",
-      "summary": "[model] text-generation · ❤ 683 · ⬇ 7216",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[model] text-generation · ❤ 759 · ⬇ 7216",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/Qwen/Qwen3.8-27B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
       "title": "Qwen/Qwen3.8-27B",
-      "summary": "[model] image-text-to-text · ❤ 14220 · ⬇ 6416358",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[model] image-text-to-text · ❤ 14289 · ⬇ 6416358",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/google/timesfm-3.0-pytorch",
       "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
       "title": "google/timesfm-3.0-pytorch",
-      "summary": "[model] time-series-forecasting · ❤ 561 · ⬇ 271713",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[model] time-series-forecasting · ❤ 586 · ⬇ 271713",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
       "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
       "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-      "summary": "[model] image-text-to-text · ❤ 520 · ⬇ 403292",
-      "date_published": "2026-09-07T17:52:15.255Z"
-    },
-    {
-      "id": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-      "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-      "summary": "[model] image-text-to-text · ❤ 786 · ⬇ 251611",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[model] image-text-to-text · ❤ 573 · ⬇ 403292",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/Lightricks/LTX-2.5",
       "url": "https://huggingface.co/Lightricks/LTX-2.5",
       "title": "Lightricks/LTX-2.5",
-      "summary": "[model] image-to-video · ❤ 3051 · ⬇ 1584382",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[model] image-to-video · ❤ 3092 · ⬇ 1584382",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
       "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
       "title": "Qwen/Qwen3.8-Flash-Next",
-      "summary": "[model] image-text-to-text · ❤ 4970 · ⬇ 474693",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[model] image-text-to-text · ❤ 4984 · ⬇ 474693",
+      "date_published": "2026-09-08T05:03:32.458Z"
+    },
+    {
+      "id": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "summary": "[model] image-text-to-text · ❤ 803 · ⬇ 251611",
+      "date_published": "2026-09-08T05:03:32.458Z"
+    },
+    {
+      "id": "https://huggingface.co/openbmb/MiniCPM5-2B",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+      "title": "openbmb/MiniCPM5-2B",
+      "summary": "[model] text-generation · ❤ 355 · ⬇ 13",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
       "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
       "title": "unsloth/Qwen3.8-27B-GGUF",
-      "summary": "[model] · ❤ 3628 · ⬇ 10479045",
-      "date_published": "2026-09-07T17:52:15.255Z"
-    },
-    {
-      "id": "https://huggingface.co/zai-org/GLM-5.3-Flash",
-      "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
-      "title": "zai-org/GLM-5.3-Flash",
-      "summary": "[model] image-text-to-text · ❤ 2125 · ⬇ 784005",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[model] · ❤ 3651 · ⬇ 10479045",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-      "summary": "[model] image-text-to-text · ❤ 288 · ⬇ 258896",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[model] image-text-to-text · ❤ 306 · ⬇ 258896",
+      "date_published": "2026-09-08T05:03:32.458Z"
+    },
+    {
+      "id": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+      "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+      "title": "zai-org/GLM-5.3-Flash",
+      "summary": "[model] image-text-to-text · ❤ 2139 · ⬇ 784005",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/zai-org/GLM-5.3",
       "url": "https://huggingface.co/zai-org/GLM-5.3",
       "title": "zai-org/GLM-5.3",
-      "summary": "[model] text-generation · ❤ 1745 · ⬇ 442064",
-      "date_published": "2026-09-07T17:52:15.255Z"
-    },
-    {
-      "id": "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
-      "url": "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
-      "title": "BreezeBlue/Breeze-TTS-2",
-      "summary": "[model] text-to-speech · ❤ 473 · ⬇ 6754",
-      "date_published": "2026-09-07T17:52:15.255Z"
-    },
-    {
-      "id": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-      "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-      "title": "sentence-transformers/all-MiniLM-L6-v2",
-      "summary": "[model] sentence-similarity · ❤ 5576 · ⬇ 251367312",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[model] text-generation · ❤ 1754 · ⬇ 442064",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/OpenVDN/vdn-minimax-h3",
       "url": "https://huggingface.co/OpenVDN/vdn-minimax-h3",
       "title": "OpenVDN/vdn-minimax-h3",
-      "summary": "[model] text-to-video · ❤ 221",
-      "date_published": "2026-09-07T17:52:15.255Z"
-    },
-    {
-      "id": "https://huggingface.co/openai-community/gpt2",
-      "url": "https://huggingface.co/openai-community/gpt2",
-      "title": "openai-community/gpt2",
-      "summary": "[model] text-generation · ❤ 3713 · ⬇ 14629637",
-      "date_published": "2026-09-07T17:52:15.255Z"
-    },
-    {
-      "id": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
-      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
-      "title": "MiniMaxAI/MiniMax-H3",
-      "summary": "[model] image-text-to-video · ❤ 4995 · ⬇ 4990034",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[model] text-to-video · ❤ 228",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/dealignai/GLM-5.3-CYBERSECURITY-FP8",
       "url": "https://huggingface.co/dealignai/GLM-5.3-CYBERSECURITY-FP8",
       "title": "dealignai/GLM-5.3-CYBERSECURITY-FP8",
-      "summary": "[model] text-generation · ❤ 255 · ⬇ 18602",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[model] text-generation · ❤ 278 · ⬇ 18602",
+      "date_published": "2026-09-08T05:03:32.458Z"
+    },
+    {
+      "id": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+      "title": "MiniMaxAI/MiniMax-H3",
+      "summary": "[model] image-text-to-video · ❤ 5014 · ⬇ 4990034",
+      "date_published": "2026-09-08T05:03:32.458Z"
+    },
+    {
+      "id": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
+      "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
+      "title": "sentence-transformers/all-MiniLM-L6-v2",
+      "summary": "[model] sentence-similarity · ❤ 5578 · ⬇ 251367312",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/IFM/K2-Horizon-MoVA-36B-A4B",
       "url": "https://huggingface.co/IFM/K2-Horizon-MoVA-36B-A4B",
       "title": "IFM/K2-Horizon-MoVA-36B-A4B",
-      "summary": "[model] text-generation · ❤ 196 · ⬇ 2226",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[model] text-generation · ❤ 213 · ⬇ 2226",
+      "date_published": "2026-09-08T05:03:32.458Z"
+    },
+    {
+      "id": "https://huggingface.co/openai-community/gpt2",
+      "url": "https://huggingface.co/openai-community/gpt2",
+      "title": "openai-community/gpt2",
+      "summary": "[model] text-generation · ❤ 3716 · ⬇ 14629637",
+      "date_published": "2026-09-08T05:03:32.458Z"
+    },
+    {
+      "id": "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
+      "url": "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
+      "title": "BreezeBlue/Breeze-TTS-2",
+      "summary": "[model] text-to-speech · ❤ 478 · ⬇ 6754",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
       "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
       "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
-      "summary": "[model] image-text-to-text · ❤ 822 · ⬇ 868243",
-      "date_published": "2026-09-07T17:52:15.255Z"
-    },
-    {
-      "id": "https://huggingface.co/facebook/mms-300m",
-      "url": "https://huggingface.co/facebook/mms-300m",
-      "title": "facebook/mms-300m",
-      "summary": "[model] · ❤ 264 · ⬇ 12213",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[model] image-text-to-text · ❤ 829 · ⬇ 868243",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/kuben-developer/tiktok-videos-4b",
       "url": "https://huggingface.co/kuben-developer/tiktok-videos-4b",
       "title": "kuben-developer/tiktok-videos-4b",
-      "summary": "[dataset] · ❤ 197 · ⬇ 6488",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[dataset] · ❤ 227 · ⬇ 6488",
+      "date_published": "2026-09-08T05:03:32.458Z"
+    },
+    {
+      "id": "https://huggingface.co/stanfordnlp/imdb",
+      "url": "https://huggingface.co/stanfordnlp/imdb",
+      "title": "stanfordnlp/imdb",
+      "summary": "[dataset] · ❤ 710 · ⬇ 191564",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/rajpurkar/squad",
       "url": "https://huggingface.co/rajpurkar/squad",
       "title": "rajpurkar/squad",
       "summary": "[dataset] · ❤ 718 · ⬇ 263988",
-      "date_published": "2026-09-07T17:52:15.255Z"
-    },
-    {
-      "id": "https://huggingface.co/stanfordnlp/imdb",
-      "url": "https://huggingface.co/stanfordnlp/imdb",
-      "title": "stanfordnlp/imdb",
-      "summary": "[dataset] · ❤ 706 · ⬇ 191564",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/nyu-mll/glue",
       "url": "https://huggingface.co/nyu-mll/glue",
       "title": "nyu-mll/glue",
-      "summary": "[dataset] · ❤ 736 · ⬇ 788648",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[dataset] · ❤ 741 · ⬇ 788648",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/markov-ai/cad-1000-hours",
       "url": "https://huggingface.co/markov-ai/cad-1000-hours",
       "title": "markov-ai/cad-1000-hours",
-      "summary": "[dataset] · ❤ 387 · ⬇ 112449",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[dataset] · ❤ 391 · ⬇ 112449",
+      "date_published": "2026-09-08T05:03:32.458Z"
+    },
+    {
+      "id": "https://huggingface.co/openbmb/UltraData-RL-2609",
+      "url": "https://huggingface.co/openbmb/UltraData-RL-2609",
+      "title": "openbmb/UltraData-RL-2609",
+      "summary": "[dataset] · ❤ 49 · ⬇ 6",
+      "date_published": "2026-09-08T05:03:32.458Z"
+    },
+    {
+      "id": "https://huggingface.co/openbmb/UltraData-SFT-Agent-2609",
+      "url": "https://huggingface.co/openbmb/UltraData-SFT-Agent-2609",
+      "title": "openbmb/UltraData-SFT-Agent-2609",
+      "summary": "[dataset] · ❤ 49 · ⬇ 7",
+      "date_published": "2026-09-08T05:03:32.458Z"
+    },
+    {
+      "id": "https://huggingface.co/openbmb/UltraData-Code",
+      "url": "https://huggingface.co/openbmb/UltraData-Code",
+      "title": "openbmb/UltraData-Code",
+      "summary": "[dataset] · ❤ 43 · ⬇ 8",
+      "date_published": "2026-09-08T05:03:32.458Z"
+    },
+    {
+      "id": "https://huggingface.co/zouhar/last-translation-benchmark",
+      "url": "https://huggingface.co/zouhar/last-translation-benchmark",
+      "title": "zouhar/last-translation-benchmark",
+      "summary": "[dataset] · ❤ 34 · ⬇ 293",
+      "date_published": "2026-09-08T05:03:32.458Z"
+    },
+    {
+      "id": "https://huggingface.co/malcolmrey/various",
+      "url": "https://huggingface.co/malcolmrey/various",
+      "title": "malcolmrey/various",
+      "summary": "[dataset] · ❤ 164 · ⬇ 47029",
+      "date_published": "2026-09-08T05:03:32.458Z"
+    },
+    {
+      "id": "https://huggingface.co/IFM/TxT360-v2",
+      "url": "https://huggingface.co/IFM/TxT360-v2",
+      "title": "IFM/TxT360-v2",
+      "summary": "[dataset] · ❤ 31 · ⬇ 976",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/junchaoh-cs/SolarWM-Data",
       "url": "https://huggingface.co/junchaoh-cs/SolarWM-Data",
       "title": "junchaoh-cs/SolarWM-Data",
       "summary": "[dataset] · ❤ 29 · ⬇ 5810",
-      "date_published": "2026-09-07T17:52:15.255Z"
-    },
-    {
-      "id": "https://huggingface.co/zouhar/last-translation-benchmark",
-      "url": "https://huggingface.co/zouhar/last-translation-benchmark",
-      "title": "zouhar/last-translation-benchmark",
-      "summary": "[dataset] · ❤ 30 · ⬇ 293",
-      "date_published": "2026-09-07T17:52:15.255Z"
-    },
-    {
-      "id": "https://huggingface.co/IFM/TxT360-v2",
-      "url": "https://huggingface.co/IFM/TxT360-v2",
-      "title": "IFM/TxT360-v2",
-      "summary": "[dataset] · ❤ 29 · ⬇ 976",
-      "date_published": "2026-09-07T17:52:15.255Z"
-    },
-    {
-      "id": "https://huggingface.co/malcolmrey/various",
-      "url": "https://huggingface.co/malcolmrey/various",
-      "title": "malcolmrey/various",
-      "summary": "[dataset] · ❤ 159 · ⬇ 47029",
-      "date_published": "2026-09-07T17:52:15.255Z"
-    },
-    {
-      "id": "https://huggingface.co/openbmb/UltraData-RL-2609",
-      "url": "https://huggingface.co/openbmb/UltraData-RL-2609",
-      "title": "openbmb/UltraData-RL-2609",
-      "summary": "[dataset] · ❤ 24 · ⬇ 6",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/echel0nn1881/kimi-cyber-reasoning",
       "url": "https://huggingface.co/echel0nn1881/kimi-cyber-reasoning",
       "title": "echel0nn1881/kimi-cyber-reasoning",
-      "summary": "[dataset] · ❤ 24 · ⬇ 1057",
-      "date_published": "2026-09-07T17:52:15.255Z"
-    },
-    {
-      "id": "https://huggingface.co/hamzabagirsakci/turkish-court-decisions",
-      "url": "https://huggingface.co/hamzabagirsakci/turkish-court-decisions",
-      "title": "hamzabagirsakci/turkish-court-decisions",
-      "summary": "[dataset] · ❤ 140 · ⬇ 3692",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[dataset] · ❤ 28 · ⬇ 1057",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/datapointai/text-to-speech-human-preferences-315k",
       "url": "https://huggingface.co/datapointai/text-to-speech-human-preferences-315k",
       "title": "datapointai/text-to-speech-human-preferences-315k",
-      "summary": "[dataset] · ❤ 23 · ⬇ 222",
-      "date_published": "2026-09-07T17:52:15.255Z"
-    },
-    {
-      "id": "https://huggingface.co/saidutta69/fable-5-premium",
-      "url": "https://huggingface.co/saidutta69/fable-5-premium",
-      "title": "saidutta69/fable-5-premium",
-      "summary": "[dataset] · ❤ 87 · ⬇ 11756",
-      "date_published": "2026-09-07T17:52:15.255Z"
-    },
-    {
-      "id": "https://huggingface.co/llm-jp/AnswerCarefully",
-      "url": "https://huggingface.co/llm-jp/AnswerCarefully",
-      "title": "llm-jp/AnswerCarefully",
-      "summary": "[dataset] · ❤ 151 · ⬇ 16492",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[dataset] · ❤ 24 · ⬇ 222",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/Vyber07/cyber-security",
       "url": "https://huggingface.co/Vyber07/cyber-security",
       "title": "Vyber07/cyber-security",
-      "summary": "[dataset] · ❤ 67 · ⬇ 1991",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[dataset] · ❤ 69 · ⬇ 1991",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
-      "id": "https://huggingface.co/SageBio/mva-hackathon-2026-data",
-      "url": "https://huggingface.co/SageBio/mva-hackathon-2026-data",
-      "title": "SageBio/mva-hackathon-2026-data",
-      "summary": "[dataset] · ❤ 128 · ⬇ 1463",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "id": "https://huggingface.co/saidutta69/fable-5-premium",
+      "url": "https://huggingface.co/saidutta69/fable-5-premium",
+      "title": "saidutta69/fable-5-premium",
+      "summary": "[dataset] · ❤ 89 · ⬇ 11756",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
-      "id": "https://huggingface.co/openbmb/UltraData-SFT-Agent-2609",
-      "url": "https://huggingface.co/openbmb/UltraData-SFT-Agent-2609",
-      "title": "openbmb/UltraData-SFT-Agent-2609",
-      "summary": "[dataset] · ❤ 20 · ⬇ 7",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "id": "https://huggingface.co/IFM/Code-Reasoning",
+      "url": "https://huggingface.co/IFM/Code-Reasoning",
+      "title": "IFM/Code-Reasoning",
+      "summary": "[dataset] · ❤ 21 · ⬇ 1523",
+      "date_published": "2026-09-08T05:03:32.458Z"
+    },
+    {
+      "id": "https://huggingface.co/Anthropic/hh-rlhf",
+      "url": "https://huggingface.co/Anthropic/hh-rlhf",
+      "title": "Anthropic/hh-rlhf",
+      "summary": "[dataset] · ❤ 2024 · ⬇ 38951",
+      "date_published": "2026-09-08T05:03:32.458Z"
+    },
+    {
+      "id": "https://huggingface.co/llm-jp/AnswerCarefully",
+      "url": "https://huggingface.co/llm-jp/AnswerCarefully",
+      "title": "llm-jp/AnswerCarefully",
+      "summary": "[dataset] · ❤ 156 · ⬇ 16492",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/spatialverse/UniPhys-Bench",
       "url": "https://huggingface.co/spatialverse/UniPhys-Bench",
       "title": "spatialverse/UniPhys-Bench",
-      "summary": "[dataset] · ❤ 19 · ⬇ 828",
-      "date_published": "2026-09-07T17:52:15.255Z"
-    },
-    {
-      "id": "https://huggingface.co/openbmb/UltraData-Code",
-      "url": "https://huggingface.co/openbmb/UltraData-Code",
-      "title": "openbmb/UltraData-Code",
-      "summary": "[dataset] · ❤ 21 · ⬇ 8",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[dataset] · ❤ 20 · ⬇ 828",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/pollen-robotics/microduck-simulator",
       "url": "https://huggingface.co/pollen-robotics/microduck-simulator",
       "title": "pollen-robotics/microduck-simulator",
-      "summary": "[space] · ❤ 454",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[space] · ❤ 458",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/kulkas2pintu/wan555",
       "url": "https://huggingface.co/kulkas2pintu/wan555",
       "title": "kulkas2pintu/wan555",
-      "summary": "[space] · ❤ 1846",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[space] · ❤ 1861",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/kulkas2pintu/QWEN_EDIT_IMAGE",
       "url": "https://huggingface.co/kulkas2pintu/QWEN_EDIT_IMAGE",
       "title": "kulkas2pintu/QWEN_EDIT_IMAGE",
-      "summary": "[space] · ❤ 189",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[space] · ❤ 200",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/AimeeBingmouQu/ProtectBirds",
       "url": "https://huggingface.co/AimeeBingmouQu/ProtectBirds",
       "title": "AimeeBingmouQu/ProtectBirds",
-      "summary": "[space] · ❤ 1032",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[space] · ❤ 1034",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/multimodalart/h3-acceleration-arena",
       "url": "https://huggingface.co/multimodalart/h3-acceleration-arena",
       "title": "multimodalart/h3-acceleration-arena",
       "summary": "[space] · ❤ 68",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
       "url": "https://huggingface.co/aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
       "title": "aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
-      "summary": "[space] · ❤ 108",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[space] · ❤ 114",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Turbo-Lora",
       "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Turbo-Lora",
       "title": "MiniMaxAI/MiniMax-H3-Turbo-Lora",
-      "summary": "[space] · ❤ 387",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[space] · ❤ 390",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/Pepe104/MiniMax-H3-Turbo-Lora-UNCENSORED",
       "url": "https://huggingface.co/Pepe104/MiniMax-H3-Turbo-Lora-UNCENSORED",
       "title": "Pepe104/MiniMax-H3-Turbo-Lora-UNCENSORED",
-      "summary": "[space] · ❤ 101",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[space] · ❤ 104",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/selfit-camera/Omni-Image-Editor",
       "url": "https://huggingface.co/selfit-camera/Omni-Image-Editor",
       "title": "selfit-camera/Omni-Image-Editor",
-      "summary": "[space] · ❤ 2532",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[space] · ❤ 2535",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/BreezeBlue/breeze-tts-2-demo",
       "url": "https://huggingface.co/BreezeBlue/breeze-tts-2-demo",
       "title": "BreezeBlue/breeze-tts-2-demo",
-      "summary": "[space] · ❤ 68",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[space] · ❤ 70",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/M3st3rJ4k3l/FLUX.2-Klein-Multi-LoRA",
       "url": "https://huggingface.co/M3st3rJ4k3l/FLUX.2-Klein-Multi-LoRA",
       "title": "M3st3rJ4k3l/FLUX.2-Klein-Multi-LoRA",
-      "summary": "[space] · ❤ 522",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[space] · ❤ 526",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/mrfakename/minimax-h3-ultra-fast",
       "url": "https://huggingface.co/mrfakename/minimax-h3-ultra-fast",
       "title": "mrfakename/minimax-h3-ultra-fast",
-      "summary": "[space] · ❤ 211",
-      "date_published": "2026-09-07T17:52:15.255Z"
-    },
-    {
-      "id": "https://huggingface.co/SageBio/rare-disease-real-kid-mva-hackathon-2026",
-      "url": "https://huggingface.co/SageBio/rare-disease-real-kid-mva-hackathon-2026",
-      "title": "SageBio/rare-disease-real-kid-mva-hackathon-2026",
-      "summary": "[space] · ❤ 105",
-      "date_published": "2026-09-07T17:52:15.255Z"
-    },
-    {
-      "id": "https://huggingface.co/WepeNerd/ltx-ripple-demo",
-      "url": "https://huggingface.co/WepeNerd/ltx-ripple-demo",
-      "title": "WepeNerd/ltx-ripple-demo",
-      "summary": "[space] · ❤ 36",
-      "date_published": "2026-09-07T17:52:15.255Z"
-    },
-    {
-      "id": "https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "url": "https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "title": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "summary": "[space] · ❤ 2720",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[space] · ❤ 214",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/Cockdaddyfuck/Wan_2.2_I2V_14B_Custom_Lora_Wow",
       "url": "https://huggingface.co/Cockdaddyfuck/Wan_2.2_I2V_14B_Custom_Lora_Wow",
       "title": "Cockdaddyfuck/Wan_2.2_I2V_14B_Custom_Lora_Wow",
-      "summary": "[space] · ❤ 34",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[space] · ❤ 38",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-Demo",
       "url": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-Demo",
       "title": "JonathanColetti/Qwen3.8-27B-Uncensored-Demo",
-      "summary": "[space] · ❤ 83",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[space] · ❤ 87",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
-      "id": "https://huggingface.co/jasperai/t2i-technical-interactive-report",
-      "url": "https://huggingface.co/jasperai/t2i-technical-interactive-report",
-      "title": "jasperai/t2i-technical-interactive-report",
-      "summary": "[space] · ❤ 21",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "id": "https://huggingface.co/WepeNerd/ltx-ripple-demo",
+      "url": "https://huggingface.co/WepeNerd/ltx-ripple-demo",
+      "title": "WepeNerd/ltx-ripple-demo",
+      "summary": "[space] · ❤ 37",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
-      "id": "https://huggingface.co/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
-      "url": "https://huggingface.co/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
-      "title": "zerogpu-aoti/wan2-2-fp8da-aoti-faster",
-      "summary": "[space] · ❤ 3458",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "id": "https://huggingface.co/Xenova/fruit-fly-simulation",
+      "url": "https://huggingface.co/Xenova/fruit-fly-simulation",
+      "title": "Xenova/fruit-fly-simulation",
+      "summary": "[space] · ❤ 22",
+      "date_published": "2026-09-08T05:03:32.458Z"
+    },
+    {
+      "id": "https://huggingface.co/nanotron/ultrascale-playbook",
+      "url": "https://huggingface.co/nanotron/ultrascale-playbook",
+      "title": "nanotron/ultrascale-playbook",
+      "summary": "[space] · ❤ 4020",
+      "date_published": "2026-09-08T05:03:32.458Z"
+    },
+    {
+      "id": "https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
+      "url": "https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
+      "title": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
+      "summary": "[space] · ❤ 2721",
+      "date_published": "2026-09-08T05:03:32.458Z"
+    },
+    {
+      "id": "https://huggingface.co/STCM/wan2-2-fp8da-aoti-preview-2c-finishing",
+      "url": "https://huggingface.co/STCM/wan2-2-fp8da-aoti-preview-2c-finishing",
+      "title": "STCM/wan2-2-fp8da-aoti-preview-2c-finishing",
+      "summary": "[space] · ❤ 28",
+      "date_published": "2026-09-08T05:03:32.458Z"
     },
     {
       "id": "https://huggingface.co/hugging-apps/sensenova-sensenova-u1-5-8b-mot",
       "url": "https://huggingface.co/hugging-apps/sensenova-sensenova-u1-5-8b-mot",
       "title": "hugging-apps/sensenova-sensenova-u1-5-8b-mot",
-      "summary": "[space] · ❤ 117",
-      "date_published": "2026-09-07T17:52:15.255Z"
+      "summary": "[space] · ❤ 119",
+      "date_published": "2026-09-08T05:03:32.458Z"
     }
   ]
 }
