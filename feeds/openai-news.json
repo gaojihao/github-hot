@@ -5,39 +5,53 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
-      "id": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "title": "Supporting independent journalism in Ukraine",
-      "summary": "Global Affairs · 2026年09月07日",
-      "date_published": "2026-09-08T05:03:32.458Z"
+      "id": "https://openai.com/index/codex-quantum-computing-experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "summary": "Applied AI · 2026年09月09日",
+      "date_published": "2026-09-09T05:02:36.887Z"
     },
     {
-      "id": "https://openai.com/index/an-alien-mind",
-      "url": "https://openai.com/index/an-alien-mind",
-      "title": "An Alien Mind",
-      "summary": "Safety · 2026年09月06日",
-      "date_published": "2026-09-08T05:03:32.458Z"
+      "id": "https://openai.com/index/the-work-now-within-reach",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "title": "The Work Now Within Reach",
+      "summary": "Company · 2026年09月08日",
+      "date_published": "2026-09-09T05:02:36.887Z"
     },
     {
-      "id": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "title": "Research acceleration: The view inside OpenAI",
-      "summary": "Research · 2026年09月06日",
-      "date_published": "2026-09-08T05:03:32.458Z"
+      "id": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "title": "Introducing ChatGPT Images 2.5",
+      "summary": "Product · 2026年09月08日",
+      "date_published": "2026-09-09T05:02:36.887Z"
     },
     {
-      "id": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "summary": "Security · 2026年09月03日",
-      "date_published": "2026-09-08T05:03:32.458Z"
+      "id": "https://openai.com/index/navier-stokes-solution",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "summary": "Research · 2026年09月08日",
+      "date_published": "2026-09-09T05:02:36.887Z"
     },
     {
-      "id": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "summary": "Startup · 2026年09月03日",
-      "date_published": "2026-09-08T05:03:32.458Z"
+      "id": "https://openai.com/index/teen-development-research-grants",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "title": "Funding grants for new research into AI and teen development",
+      "summary": "Safety · 2026年09月08日",
+      "date_published": "2026-09-09T05:02:36.887Z"
+    },
+    {
+      "id": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "summary": "Company · 2026年09月08日",
+      "date_published": "2026-09-09T05:02:36.887Z"
+    },
+    {
+      "id": "https://openai.com/index/1password",
+      "url": "https://openai.com/index/1password",
+      "title": "1Password increases engineering productivity 21% with Codex",
+      "summary": "2026年09月08日",
+      "date_published": "2026-09-09T05:02:36.887Z"
     }
   ]
 }
