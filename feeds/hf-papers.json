@@ -5,207 +5,67 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2609.10522",
-      "url": "https://huggingface.co/papers/2609.10522",
-      "title": "Show-Harness: Just a VLM Agent Can Play Robots",
-      "summary": "2609.10522 · ▲ 75",
-      "date_published": "2026-09-10T16:36:50.542Z"
+      "id": "https://huggingface.co/papers/2609.10715",
+      "url": "https://huggingface.co/papers/2609.10715",
+      "title": "NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction",
+      "summary": "2609.10715 · ▲ 89",
+      "date_published": "2026-09-11T05:03:16.387Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.10540",
-      "url": "https://huggingface.co/papers/2609.10540",
-      "title": "Programmable World Model",
-      "summary": "2609.10540 · ▲ 53",
-      "date_published": "2026-09-10T16:36:50.542Z"
+      "id": "https://huggingface.co/papers/2609.11929",
+      "url": "https://huggingface.co/papers/2609.11929",
+      "title": "SenseNova-U1.5: Towards Native Unified Visual Intelligence",
+      "summary": "2609.11929 · ▲ 49",
+      "date_published": "2026-09-11T05:03:16.387Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.08572",
-      "url": "https://huggingface.co/papers/2609.08572",
-      "title": "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems",
-      "summary": "2609.08572 · ▲ 48",
-      "date_published": "2026-09-10T16:36:50.542Z"
+      "id": "https://huggingface.co/papers/2609.05903",
+      "url": "https://huggingface.co/papers/2609.05903",
+      "title": "EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents",
+      "summary": "2609.05903 · ▲ 30",
+      "date_published": "2026-09-11T05:03:16.387Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.05405",
-      "url": "https://huggingface.co/papers/2609.05405",
-      "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
-      "summary": "2609.05405 · ▲ 27",
-      "date_published": "2026-09-10T16:36:50.542Z"
+      "id": "https://huggingface.co/papers/2609.07064",
+      "url": "https://huggingface.co/papers/2609.07064",
+      "title": "SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem",
+      "summary": "2609.07064 · ▲ 24",
+      "date_published": "2026-09-11T05:03:16.387Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.08149",
-      "url": "https://huggingface.co/papers/2609.08149",
-      "title": "SWE-Bench Pro Verified: A Reliable Benchmark for Software Engineering Agents",
-      "summary": "2609.08149 · ▲ 18",
-      "date_published": "2026-09-10T16:36:50.542Z"
+      "id": "https://huggingface.co/papers/2609.11499",
+      "url": "https://huggingface.co/papers/2609.11499",
+      "title": "Recursive Code World Models: Building Complex Worlds through Recursive Scene Programs",
+      "summary": "2609.11499 · ▲ 4",
+      "date_published": "2026-09-11T05:03:16.387Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.09113",
-      "url": "https://huggingface.co/papers/2609.09113",
-      "title": "SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?",
-      "summary": "2609.09113 · ▲ 16",
-      "date_published": "2026-09-10T16:36:50.542Z"
+      "id": "https://huggingface.co/papers/2609.06931",
+      "url": "https://huggingface.co/papers/2609.06931",
+      "title": "CARDEA: Auditable Reasoning Grounded in Spatial Evidence for End-to-End Coronary Angiography Interpretation",
+      "summary": "2609.06931 · ▲ 3",
+      "date_published": "2026-09-11T05:03:16.387Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.09219",
-      "url": "https://huggingface.co/papers/2609.09219",
-      "title": "Scores Alone Do Not Prove Discovery: The Discovery Certification Protocol for Auditing AI Research Agents",
-      "summary": "2609.09219 · ▲ 15",
-      "date_published": "2026-09-10T16:36:50.542Z"
+      "id": "https://huggingface.co/papers/2609.11548",
+      "url": "https://huggingface.co/papers/2609.11548",
+      "title": "World in World: Explore the World with World Models",
+      "summary": "2609.11548 · ▲ 2",
+      "date_published": "2026-09-11T05:03:16.387Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.00369",
-      "url": "https://huggingface.co/papers/2609.00369",
-      "title": "Puppeteer: Object-Grounded Posture-Aware Co-Speech Gesture Generation",
-      "summary": "2609.00369 · ▲ 15",
-      "date_published": "2026-09-10T16:36:50.542Z"
+      "id": "https://huggingface.co/papers/2609.10712",
+      "url": "https://huggingface.co/papers/2609.10712",
+      "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
+      "summary": "2609.10712 · ▲ 1",
+      "date_published": "2026-09-11T05:03:16.387Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.09155",
-      "url": "https://huggingface.co/papers/2609.09155",
-      "title": "SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators",
-      "summary": "2609.09155 · ▲ 11",
-      "date_published": "2026-09-10T16:36:50.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.06703",
-      "url": "https://huggingface.co/papers/2609.06703",
-      "title": "DianShi-RxnDB: A Large-Scale, Fine-Grained Organic Reaction Data Platform Built via a Fully Automated Pipeline for Researchers and AI Agents",
-      "summary": "2609.06703 · ▲ 9",
-      "date_published": "2026-09-10T16:36:50.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.07103",
-      "url": "https://huggingface.co/papers/2609.07103",
-      "title": "Revisiting Complete Reasoning Traces for Post-Training",
-      "summary": "2609.07103 · ▲ 8",
-      "date_published": "2026-09-10T16:36:50.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.10226",
-      "url": "https://huggingface.co/papers/2609.10226",
-      "title": "Φ-Bench: Can Large Language Models Engineer the Infrastructure That Powers Them?",
-      "summary": "2609.10226 · ▲ 7",
-      "date_published": "2026-09-10T16:36:50.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.06806",
-      "url": "https://huggingface.co/papers/2609.06806",
-      "title": "Train Smarter, Not Harder: Switching Signal-Guided Training in Active Learning",
-      "summary": "2609.06806 · ▲ 7",
-      "date_published": "2026-09-10T16:36:50.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.09187",
-      "url": "https://huggingface.co/papers/2609.09187",
-      "title": "AgenticGen: Reward-Guided Agentic Video Generation for Advertising",
-      "summary": "2609.09187 · ▲ 5",
-      "date_published": "2026-09-10T16:36:50.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.10355",
-      "url": "https://huggingface.co/papers/2609.10355",
-      "title": "Why Is Video Still So Expensive? A Survey of Inference-Efficiency Mechanisms in Video and Audiovisual LLMs",
-      "summary": "2609.10355 · ▲ 4",
-      "date_published": "2026-09-10T16:36:50.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.09134",
-      "url": "https://huggingface.co/papers/2609.09134",
-      "title": "Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails",
-      "summary": "2609.09134 · ▲ 4",
-      "date_published": "2026-09-10T16:36:50.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.06490",
-      "url": "https://huggingface.co/papers/2609.06490",
-      "title": "OracleZoom: On-Policy Self-Distillation Inspired Reference-Constrained Recursive Image Super Resolution",
-      "summary": "2609.06490 · ▲ 4",
-      "date_published": "2026-09-10T16:36:50.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.09657",
-      "url": "https://huggingface.co/papers/2609.09657",
-      "title": "RESCUE-BENCH: Towards Relation-Aware Multi-Party Emotional Support Conversation Systems",
-      "summary": "2609.09657 · ▲ 3",
-      "date_published": "2026-09-10T16:36:50.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.09264",
-      "url": "https://huggingface.co/papers/2609.09264",
-      "title": "StochBench: A Domain-Specific Benchmark for Stochastic Processes in Lean",
-      "summary": "2609.09264 · ▲ 3",
-      "date_published": "2026-09-10T16:36:50.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.05779",
-      "url": "https://huggingface.co/papers/2609.05779",
-      "title": "Diffs vs. Whole Files: An Empirical Comparison of Iterative Edit-Based and Direct Generation for Flutter/Dart Code Models",
-      "summary": "2609.05779 · ▲ 3",
-      "date_published": "2026-09-10T16:36:50.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.05463",
-      "url": "https://huggingface.co/papers/2609.05463",
-      "title": "A Three-Layer Caching Architecture for Low-Latency LLM Web Search on Commodity CPU Hardware",
-      "summary": "2609.05463 · ▲ 3",
-      "date_published": "2026-09-10T16:36:50.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.10296",
-      "url": "https://huggingface.co/papers/2609.10296",
-      "title": "The Semantic Bottleneck: Leveraging Semantic Representations for Non-Invasive Speech Decoding",
-      "summary": "2609.10296 · ▲ 2",
-      "date_published": "2026-09-10T16:36:50.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.08126",
-      "url": "https://huggingface.co/papers/2609.08126",
-      "title": "SchemeArena: Factorized Stress Testing of Scheming in LLM Agents",
-      "summary": "2609.08126 · ▲ 2",
-      "date_published": "2026-09-10T16:36:50.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.08650",
-      "url": "https://huggingface.co/papers/2609.08650",
-      "title": "Difficulty-Adaptive Tree-Structured Policy Optimization for Expanding Reasoning Coverage in RLVR",
-      "summary": "2609.08650 · ▲ 2",
-      "date_published": "2026-09-10T16:36:50.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.02771",
-      "url": "https://huggingface.co/papers/2609.02771",
-      "title": "From Reweighting to Rewriting: Unlocking the Intervention Effects of Influential Samples in Training Data Attribution",
-      "summary": "2609.02771 · ▲ 2",
-      "date_published": "2026-09-10T16:36:50.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.10060",
-      "url": "https://huggingface.co/papers/2609.10060",
-      "title": "Reference-Based Bias Detection in LLMs via Relative Representations of Hidden States",
-      "summary": "2609.10060 · ▲ 1",
-      "date_published": "2026-09-10T16:36:50.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.08965",
-      "url": "https://huggingface.co/papers/2609.08965",
-      "title": "PlannerForge: LLM Agents for Scenario-Based Testing of Motion Planners in Autonomous Driving",
-      "summary": "2609.08965 · ▲ 1",
-      "date_published": "2026-09-10T16:36:50.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.07369",
-      "url": "https://huggingface.co/papers/2609.07369",
-      "title": "DF26: We Cannot Tell Fake From Real Anymore",
-      "summary": "2609.07369 · ▲ 1",
-      "date_published": "2026-09-10T16:36:50.542Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2509.01809",
-      "url": "https://huggingface.co/papers/2509.01809",
-      "title": "The Price of Sparsity: Sufficient Conditions for Sparse Recovery using Sparse and Sparsified Measurements",
-      "summary": "2509.01809 · ▲ 0",
-      "date_published": "2026-09-10T16:36:50.542Z"
+      "id": "https://huggingface.co/papers/2608.27875",
+      "url": "https://huggingface.co/papers/2608.27875",
+      "title": "HyQuant: Hybrid-Precision Quantization for LLM Attention",
+      "summary": "2608.27875 · ▲ 1",
+      "date_published": "2026-09-11T05:03:16.387Z"
     }
   ]
 }

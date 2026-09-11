@@ -5,74 +5,74 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/qbitai.json",
   "items": [
     {
+      "id": "https://www.qbitai.com/2026/09/487176.html",
+      "url": "https://www.qbitai.com/2026/09/487176.html",
+      "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
+      "summary": "MEET2027 · 量子位的朋友们 · 2026年09月11日",
+      "date_published": "2026-09-11T05:03:16.387Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/09/487163.html",
+      "url": "https://www.qbitai.com/2026/09/487163.html",
+      "title": "3万台无人车之后，这家公司盯上了城市级物理AI",
+      "summary": "智能车参考 · 思邈 · 2026年09月11日",
+      "date_published": "2026-09-11T05:03:16.387Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/09/487092.html",
+      "url": "https://www.qbitai.com/2026/09/487092.html",
+      "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
+      "summary": "OpenAI · 一水 · 2026年09月11日",
+      "date_published": "2026-09-11T05:03:16.387Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/09/487055.html",
+      "url": "https://www.qbitai.com/2026/09/487055.html",
+      "title": "吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
+      "summary": "AIGC · 闻乐 · 2026年09月11日",
+      "date_published": "2026-09-11T05:03:16.387Z"
+    },
+    {
       "id": "https://www.qbitai.com/2026/09/486934.html",
       "url": "https://www.qbitai.com/2026/09/486934.html",
       "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
       "summary": "钛动科技 · 一水 · 2026年09月10日",
-      "date_published": "2026-09-10T16:36:50.542Z"
+      "date_published": "2026-09-11T05:03:16.387Z"
     },
     {
       "id": "https://www.qbitai.com/2026/09/486900.html",
       "url": "https://www.qbitai.com/2026/09/486900.html",
       "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
       "summary": "高德 · 量子位的朋友们 · 2026年09月10日",
-      "date_published": "2026-09-10T16:36:50.542Z"
+      "date_published": "2026-09-11T05:03:16.387Z"
     },
     {
       "id": "https://www.qbitai.com/2026/09/486747.html",
       "url": "https://www.qbitai.com/2026/09/486747.html",
       "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
       "summary": "大晓机器人 · 量子位的朋友们 · 2026年09月10日",
-      "date_published": "2026-09-10T16:36:50.542Z"
+      "date_published": "2026-09-11T05:03:16.387Z"
     },
     {
       "id": "https://www.qbitai.com/2026/09/486716.html",
       "url": "https://www.qbitai.com/2026/09/486716.html",
       "title": "这个新开源的世界模型只有1.3B，单卡就能实时跑！",
       "summary": "LingBot-World 2.0 · 十三 · 2026年09月10日",
-      "date_published": "2026-09-10T16:36:50.542Z"
+      "date_published": "2026-09-11T05:03:16.387Z"
     },
     {
       "id": "https://www.qbitai.com/2026/09/486684.html",
       "url": "https://www.qbitai.com/2026/09/486684.html",
       "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
       "summary": "GPT · henry · 2026年09月10日",
-      "date_published": "2026-09-10T16:36:50.542Z"
+      "date_published": "2026-09-11T05:03:16.387Z"
     },
     {
       "id": "https://www.qbitai.com/2026/09/486651.html",
       "url": "https://www.qbitai.com/2026/09/486651.html",
       "title": "营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者",
       "summary": "AhaCreator · 量子位的朋友们 · 2026年09月10日",
-      "date_published": "2026-09-10T16:36:50.542Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/09/486625.html",
-      "url": "https://www.qbitai.com/2026/09/486625.html",
-      "title": "一周连发6个模型！这家公司把具身智能的闭环跑通了",
-      "summary": "具身智能 · 克雷西 · 2026年09月10日",
-      "date_published": "2026-09-10T16:36:50.542Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/09/486436.html",
-      "url": "https://www.qbitai.com/2026/09/486436.html",
-      "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
-      "summary": "京东 · 量子位的朋友们 · 2026年09月10日",
-      "date_published": "2026-09-10T16:36:50.542Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/09/486350.html",
-      "url": "https://www.qbitai.com/2026/09/486350.html",
-      "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
-      "summary": "讯飞 · 一水 · 2026年09月10日",
-      "date_published": "2026-09-10T16:36:50.542Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/09/486450.html",
-      "url": "https://www.qbitai.com/2026/09/486450.html",
-      "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
-      "summary": "苹果 · Jay · 2026年09月10日",
-      "date_published": "2026-09-10T16:36:50.542Z"
+      "date_published": "2026-09-11T05:03:16.387Z"
     }
   ]
 }
