@@ -8,64 +8,155 @@
       "id": "https://huggingface.co/papers/2609.10715",
       "url": "https://huggingface.co/papers/2609.10715",
       "title": "NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction",
-      "summary": "2609.10715 · ▲ 89",
-      "date_published": "2026-09-11T05:03:16.387Z"
+      "summary": "2609.10715 · ▲ 133",
+      "date_published": "2026-09-11T16:41:52.030Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.11929",
       "url": "https://huggingface.co/papers/2609.11929",
       "title": "SenseNova-U1.5: Towards Native Unified Visual Intelligence",
-      "summary": "2609.11929 · ▲ 49",
-      "date_published": "2026-09-11T05:03:16.387Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.05903",
-      "url": "https://huggingface.co/papers/2609.05903",
-      "title": "EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents",
-      "summary": "2609.05903 · ▲ 30",
-      "date_published": "2026-09-11T05:03:16.387Z"
+      "summary": "2609.11929 · ▲ 111",
+      "date_published": "2026-09-11T16:41:52.030Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.07064",
       "url": "https://huggingface.co/papers/2609.07064",
       "title": "SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem",
-      "summary": "2609.07064 · ▲ 24",
-      "date_published": "2026-09-11T05:03:16.387Z"
+      "summary": "2609.07064 · ▲ 49",
+      "date_published": "2026-09-11T16:41:52.030Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.05903",
+      "url": "https://huggingface.co/papers/2609.05903",
+      "title": "EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents",
+      "summary": "2609.05903 · ▲ 35",
+      "date_published": "2026-09-11T16:41:52.030Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.11317",
+      "url": "https://huggingface.co/papers/2609.11317",
+      "title": "Mi-Ripple: Restoring Images Degraded by Iterative AI Editing",
+      "summary": "2609.11317 · ▲ 20",
+      "date_published": "2026-09-11T16:41:52.030Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.11412",
+      "url": "https://huggingface.co/papers/2609.11412",
+      "title": "X-AuT: Progressive Audio-Encoder Compression for Speech LLMs with Cross-Scale Distillation",
+      "summary": "2609.11412 · ▲ 12",
+      "date_published": "2026-09-11T16:41:52.030Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.11561",
+      "url": "https://huggingface.co/papers/2609.11561",
+      "title": "Memory as Plans: World-Action Modeling with Memory-Grounded Planning",
+      "summary": "2609.11561 · ▲ 9",
+      "date_published": "2026-09-11T16:41:52.030Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.01515",
+      "url": "https://huggingface.co/papers/2609.01515",
+      "title": "TempCloze: Can Video-LLMs Identify the Missing Middle?",
+      "summary": "2609.01515 · ▲ 6",
+      "date_published": "2026-09-11T16:41:52.030Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.11486",
+      "url": "https://huggingface.co/papers/2609.11486",
+      "title": "FreeFlow: A Bias-free Hierarchical Transformer for Optical Flow Estimation",
+      "summary": "2609.11486 · ▲ 5",
+      "date_published": "2026-09-11T16:41:52.030Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.11499",
       "url": "https://huggingface.co/papers/2609.11499",
       "title": "Recursive Code World Models: Building Complex Worlds through Recursive Scene Programs",
-      "summary": "2609.11499 · ▲ 4",
-      "date_published": "2026-09-11T05:03:16.387Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.06931",
-      "url": "https://huggingface.co/papers/2609.06931",
-      "title": "CARDEA: Auditable Reasoning Grounded in Spatial Evidence for End-to-End Coronary Angiography Interpretation",
-      "summary": "2609.06931 · ▲ 3",
-      "date_published": "2026-09-11T05:03:16.387Z"
+      "summary": "2609.11499 · ▲ 5",
+      "date_published": "2026-09-11T16:41:52.030Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.11548",
       "url": "https://huggingface.co/papers/2609.11548",
       "title": "World in World: Explore the World with World Models",
-      "summary": "2609.11548 · ▲ 2",
-      "date_published": "2026-09-11T05:03:16.387Z"
+      "summary": "2609.11548 · ▲ 5",
+      "date_published": "2026-09-11T16:41:52.030Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.11699",
+      "url": "https://huggingface.co/papers/2609.11699",
+      "title": "Negative Self-Distillation: Learning to Reason by Avoiding Flaws",
+      "summary": "2609.11699 · ▲ 4",
+      "date_published": "2026-09-11T16:41:52.030Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.10712",
       "url": "https://huggingface.co/papers/2609.10712",
       "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
-      "summary": "2609.10712 · ▲ 1",
-      "date_published": "2026-09-11T05:03:16.387Z"
+      "summary": "2609.10712 · ▲ 4",
+      "date_published": "2026-09-11T16:41:52.030Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.06931",
+      "url": "https://huggingface.co/papers/2609.06931",
+      "title": "CARDEA: Auditable Reasoning Grounded in Spatial Evidence for End-to-End Coronary Angiography Interpretation",
+      "summary": "2609.06931 · ▲ 4",
+      "date_published": "2026-09-11T16:41:52.030Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.10016",
+      "url": "https://huggingface.co/papers/2609.10016",
+      "title": "MetroLLM-Bench: Evaluating Language Models as Transit Kiosk Runtimes",
+      "summary": "2609.10016 · ▲ 3",
+      "date_published": "2026-09-11T16:41:52.030Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.27875",
       "url": "https://huggingface.co/papers/2608.27875",
       "title": "HyQuant: Hybrid-Precision Quantization for LLM Attention",
-      "summary": "2608.27875 · ▲ 1",
-      "date_published": "2026-09-11T05:03:16.387Z"
+      "summary": "2608.27875 · ▲ 3",
+      "date_published": "2026-09-11T16:41:52.030Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.11155",
+      "url": "https://huggingface.co/papers/2609.11155",
+      "title": "DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning for Cooperative Air Combat",
+      "summary": "2609.11155 · ▲ 2",
+      "date_published": "2026-09-11T16:41:52.030Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.11156",
+      "url": "https://huggingface.co/papers/2609.11156",
+      "title": "UniH^3: Unifying Hierarchical Homogeneity and Heterogeneity for All-in-One Medical Image Restoration",
+      "summary": "2609.11156 · ▲ 2",
+      "date_published": "2026-09-11T16:41:52.030Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.11808",
+      "url": "https://huggingface.co/papers/2609.11808",
+      "title": "Generative Late-Interaction Embeddings For Visual Document Retrieval",
+      "summary": "2609.11808 · ▲ 2",
+      "date_published": "2026-09-11T16:41:52.030Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.11085",
+      "url": "https://huggingface.co/papers/2609.11085",
+      "title": "Beyond Solver Verdicts: Generative Reward Models for Autoformalization",
+      "summary": "2609.11085 · ▲ 0",
+      "date_published": "2026-09-11T16:41:52.030Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.10539",
+      "url": "https://huggingface.co/papers/2609.10539",
+      "title": "IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications",
+      "summary": "2609.10539 · ▲ 0",
+      "date_published": "2026-09-11T16:41:52.030Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.09076",
+      "url": "https://huggingface.co/papers/2609.09076",
+      "title": "ActReview: Rebuttal-Guided Training Data and Rubric Rewards for Actionable Peer Review Generation",
+      "summary": "2609.09076 · ▲ 0",
+      "date_published": "2026-09-11T16:41:52.030Z"
     }
   ]
 }
