@@ -5,53 +5,53 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "summary": "2026年09月14日",
+      "date_published": "2026-09-12T04:54:10.798Z"
+    },
+    {
+      "id": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "summary": "2026年09月12日",
+      "date_published": "2026-09-12T04:54:10.798Z"
+    },
+    {
+      "id": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "summary": "Engineering · 2026年09月11日",
+      "date_published": "2026-09-12T04:54:10.798Z"
+    },
+    {
       "id": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
       "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
       "summary": "Applied AI · 2026年09月11日",
-      "date_published": "2026-09-11T16:41:52.030Z"
+      "date_published": "2026-09-12T04:54:10.798Z"
     },
     {
       "id": "https://openai.com/index/put-data-to-work",
       "url": "https://openai.com/index/put-data-to-work",
       "title": "Now everyone can put data to work",
       "summary": "Product · 2026年09月10日",
-      "date_published": "2026-09-11T16:41:52.030Z"
+      "date_published": "2026-09-12T04:54:10.798Z"
     },
     {
       "id": "https://openai.com/index/introducing-chatgpt-financial-services",
       "url": "https://openai.com/index/introducing-chatgpt-financial-services",
       "title": "Introducing ChatGPT for Financial Services",
       "summary": "Product · 2026年09月10日",
-      "date_published": "2026-09-11T16:41:52.030Z"
+      "date_published": "2026-09-12T04:54:10.798Z"
     },
     {
       "id": "https://openai.com/index/expanding-ai-access-us-government",
       "url": "https://openai.com/index/expanding-ai-access-us-government",
       "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
       "summary": "Global Affairs · 2026年09月10日",
-      "date_published": "2026-09-11T16:41:52.030Z"
-    },
-    {
-      "id": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "summary": "Product · 2026年09月10日",
-      "date_published": "2026-09-11T16:41:52.030Z"
-    },
-    {
-      "id": "https://openai.com/index/introducing-the-agents-api",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "title": "Introducing the Agents API",
-      "summary": "Product · 2026年09月10日",
-      "date_published": "2026-09-11T16:41:52.030Z"
-    },
-    {
-      "id": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "summary": "Company · 2026年09月10日",
-      "date_published": "2026-09-11T16:41:52.030Z"
+      "date_published": "2026-09-12T04:54:10.798Z"
     }
   ]
 }
