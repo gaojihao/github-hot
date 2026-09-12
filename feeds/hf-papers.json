@@ -8,183 +8,183 @@
       "id": "https://huggingface.co/papers/2609.10715",
       "url": "https://huggingface.co/papers/2609.10715",
       "title": "NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction",
-      "summary": "2609.10715 · ▲ 178",
-      "date_published": "2026-09-12T04:54:10.798Z"
+      "summary": "2609.10715 · ▲ 200",
+      "date_published": "2026-09-12T15:45:30.342Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.11929",
       "url": "https://huggingface.co/papers/2609.11929",
       "title": "SenseNova-U1.5: Towards Native Unified Visual Intelligence",
-      "summary": "2609.11929 · ▲ 141",
-      "date_published": "2026-09-12T04:54:10.798Z"
+      "summary": "2609.11929 · ▲ 159",
+      "date_published": "2026-09-12T15:45:30.342Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.07064",
       "url": "https://huggingface.co/papers/2609.07064",
       "title": "SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem",
-      "summary": "2609.07064 · ▲ 69",
-      "date_published": "2026-09-12T04:54:10.798Z"
+      "summary": "2609.07064 · ▲ 82",
+      "date_published": "2026-09-12T15:45:30.342Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.05903",
       "url": "https://huggingface.co/papers/2609.05903",
       "title": "EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents",
-      "summary": "2609.05903 · ▲ 36",
-      "date_published": "2026-09-12T04:54:10.798Z"
+      "summary": "2609.05903 · ▲ 47",
+      "date_published": "2026-09-12T15:45:30.342Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.11317",
       "url": "https://huggingface.co/papers/2609.11317",
       "title": "Mi-Ripple: Restoring Images Degraded by Iterative AI Editing",
-      "summary": "2609.11317 · ▲ 20",
-      "date_published": "2026-09-12T04:54:10.798Z"
+      "summary": "2609.11317 · ▲ 36",
+      "date_published": "2026-09-12T15:45:30.342Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.11412",
       "url": "https://huggingface.co/papers/2609.11412",
       "title": "X-AuT: Progressive Audio-Encoder Compression for Speech LLMs with Cross-Scale Distillation",
-      "summary": "2609.11412 · ▲ 16",
-      "date_published": "2026-09-12T04:54:10.798Z"
+      "summary": "2609.11412 · ▲ 28",
+      "date_published": "2026-09-12T15:45:30.342Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.11561",
       "url": "https://huggingface.co/papers/2609.11561",
       "title": "Memory as Plans: World-Action Modeling with Memory-Grounded Planning",
-      "summary": "2609.11561 · ▲ 10",
-      "date_published": "2026-09-12T04:54:10.798Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.11499",
-      "url": "https://huggingface.co/papers/2609.11499",
-      "title": "Recursive Code World Models: Building Complex Worlds through Recursive Scene Programs",
-      "summary": "2609.11499 · ▲ 7",
-      "date_published": "2026-09-12T04:54:10.798Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.11548",
-      "url": "https://huggingface.co/papers/2609.11548",
-      "title": "World in World: Explore the World with World Models",
-      "summary": "2609.11548 · ▲ 6",
-      "date_published": "2026-09-12T04:54:10.798Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.10712",
-      "url": "https://huggingface.co/papers/2609.10712",
-      "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
-      "summary": "2609.10712 · ▲ 6",
-      "date_published": "2026-09-12T04:54:10.798Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.01515",
-      "url": "https://huggingface.co/papers/2609.01515",
-      "title": "TempCloze: Can Video-LLMs Identify the Missing Middle?",
-      "summary": "2609.01515 · ▲ 6",
-      "date_published": "2026-09-12T04:54:10.798Z"
+      "summary": "2609.11561 · ▲ 23",
+      "date_published": "2026-09-12T15:45:30.342Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.11486",
       "url": "https://huggingface.co/papers/2609.11486",
       "title": "FreeFlow: A Bias-free Hierarchical Transformer for Optical Flow Estimation",
-      "summary": "2609.11486 · ▲ 5",
-      "date_published": "2026-09-12T04:54:10.798Z"
+      "summary": "2609.11486 · ▲ 21",
+      "date_published": "2026-09-12T15:45:30.342Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.11699",
-      "url": "https://huggingface.co/papers/2609.11699",
-      "title": "Negative Self-Distillation: Learning to Reason by Avoiding Flaws",
-      "summary": "2609.11699 · ▲ 5",
-      "date_published": "2026-09-12T04:54:10.798Z"
+      "id": "https://huggingface.co/papers/2609.10712",
+      "url": "https://huggingface.co/papers/2609.10712",
+      "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
+      "summary": "2609.10712 · ▲ 21",
+      "date_published": "2026-09-12T15:45:30.342Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.09143",
-      "url": "https://huggingface.co/papers/2609.09143",
-      "title": "Studying Image Tokenizers as Visual Languages in Unified Multimodal Models",
-      "summary": "2609.09143 · ▲ 5",
-      "date_published": "2026-09-12T04:54:10.798Z"
+      "id": "https://huggingface.co/papers/2609.11499",
+      "url": "https://huggingface.co/papers/2609.11499",
+      "title": "Recursive Code World Models: Building Complex Worlds through Recursive Scene Programs",
+      "summary": "2609.11499 · ▲ 17",
+      "date_published": "2026-09-12T15:45:30.342Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.06931",
-      "url": "https://huggingface.co/papers/2609.06931",
-      "title": "CARDEA: Auditable Reasoning Grounded in Spatial Evidence for End-to-End Coronary Angiography Interpretation",
-      "summary": "2609.06931 · ▲ 4",
-      "date_published": "2026-09-12T04:54:10.798Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.27875",
-      "url": "https://huggingface.co/papers/2608.27875",
-      "title": "HyQuant: Hybrid-Precision Quantization for LLM Attention",
-      "summary": "2608.27875 · ▲ 4",
-      "date_published": "2026-09-12T04:54:10.798Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.11155",
-      "url": "https://huggingface.co/papers/2609.11155",
-      "title": "DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning for Cooperative Air Combat",
-      "summary": "2609.11155 · ▲ 3",
-      "date_published": "2026-09-12T04:54:10.798Z"
+      "id": "https://huggingface.co/papers/2609.11548",
+      "url": "https://huggingface.co/papers/2609.11548",
+      "title": "World in World: Explore the World with World Models",
+      "summary": "2609.11548 · ▲ 17",
+      "date_published": "2026-09-12T15:45:30.342Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.10016",
       "url": "https://huggingface.co/papers/2609.10016",
       "title": "MetroLLM-Bench: Evaluating Language Models as Transit Kiosk Runtimes",
-      "summary": "2609.10016 · ▲ 3",
-      "date_published": "2026-09-12T04:54:10.798Z"
+      "summary": "2609.10016 · ▲ 17",
+      "date_published": "2026-09-12T15:45:30.342Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.11085",
-      "url": "https://huggingface.co/papers/2609.11085",
-      "title": "Beyond Solver Verdicts: Generative Reward Models for Autoformalization",
-      "summary": "2609.11085 · ▲ 2",
-      "date_published": "2026-09-12T04:54:10.798Z"
+      "id": "https://huggingface.co/papers/2609.09143",
+      "url": "https://huggingface.co/papers/2609.09143",
+      "title": "Studying Image Tokenizers as Visual Languages in Unified Multimodal Models",
+      "summary": "2609.09143 · ▲ 17",
+      "date_published": "2026-09-12T15:45:30.342Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.01515",
+      "url": "https://huggingface.co/papers/2609.01515",
+      "title": "TempCloze: Can Video-LLMs Identify the Missing Middle?",
+      "summary": "2609.01515 · ▲ 17",
+      "date_published": "2026-09-12T15:45:30.342Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.27875",
+      "url": "https://huggingface.co/papers/2608.27875",
+      "title": "HyQuant: Hybrid-Precision Quantization for LLM Attention",
+      "summary": "2608.27875 · ▲ 17",
+      "date_published": "2026-09-12T15:45:30.342Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.11699",
+      "url": "https://huggingface.co/papers/2609.11699",
+      "title": "Negative Self-Distillation: Learning to Reason by Avoiding Flaws",
+      "summary": "2609.11699 · ▲ 15",
+      "date_published": "2026-09-12T15:45:30.342Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.11156",
       "url": "https://huggingface.co/papers/2609.11156",
       "title": "UniH^3: Unifying Hierarchical Homogeneity and Heterogeneity for All-in-One Medical Image Restoration",
-      "summary": "2609.11156 · ▲ 2",
-      "date_published": "2026-09-12T04:54:10.798Z"
+      "summary": "2609.11156 · ▲ 14",
+      "date_published": "2026-09-12T15:45:30.342Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.11808",
       "url": "https://huggingface.co/papers/2609.11808",
       "title": "Generative Late-Interaction Embeddings For Visual Document Retrieval",
-      "summary": "2609.11808 · ▲ 2",
-      "date_published": "2026-09-12T04:54:10.798Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.10745",
-      "url": "https://huggingface.co/papers/2609.10745",
-      "title": "Think Before You Link: Rarity, Reasoning, and Retrieval in Multilingual Entity Linking",
-      "summary": "2609.10745 · ▲ 2",
-      "date_published": "2026-09-12T04:54:10.798Z"
+      "summary": "2609.11808 · ▲ 13",
+      "date_published": "2026-09-12T15:45:30.342Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.10445",
       "url": "https://huggingface.co/papers/2609.10445",
       "title": "Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for In-Language Reasoning",
-      "summary": "2609.10445 · ▲ 2",
-      "date_published": "2026-09-12T04:54:10.798Z"
+      "summary": "2609.10445 · ▲ 13",
+      "date_published": "2026-09-12T15:45:30.342Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.06931",
+      "url": "https://huggingface.co/papers/2609.06931",
+      "title": "CARDEA: Auditable Reasoning Grounded in Spatial Evidence for End-to-End Coronary Angiography Interpretation",
+      "summary": "2609.06931 · ▲ 13",
+      "date_published": "2026-09-12T15:45:30.342Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.11085",
+      "url": "https://huggingface.co/papers/2609.11085",
+      "title": "Beyond Solver Verdicts: Generative Reward Models for Autoformalization",
+      "summary": "2609.11085 · ▲ 12",
+      "date_published": "2026-09-12T15:45:30.342Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.11155",
+      "url": "https://huggingface.co/papers/2609.11155",
+      "title": "DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning for Cooperative Air Combat",
+      "summary": "2609.11155 · ▲ 12",
+      "date_published": "2026-09-12T15:45:30.342Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.10745",
+      "url": "https://huggingface.co/papers/2609.10745",
+      "title": "Think Before You Link: Rarity, Reasoning, and Retrieval in Multilingual Entity Linking",
+      "summary": "2609.10745 · ▲ 12",
+      "date_published": "2026-09-12T15:45:30.342Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.15380",
       "url": "https://huggingface.co/papers/2608.15380",
       "title": "Adaptive Bridge: A Proxy-Based Decoupling Layer for Mitigating DDS Backpressure in ROS 2",
-      "summary": "2608.15380 · ▲ 2",
-      "date_published": "2026-09-12T04:54:10.798Z"
+      "summary": "2608.15380 · ▲ 12",
+      "date_published": "2026-09-12T15:45:30.342Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.10539",
       "url": "https://huggingface.co/papers/2609.10539",
       "title": "IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications",
-      "summary": "2609.10539 · ▲ 0",
-      "date_published": "2026-09-12T04:54:10.798Z"
+      "summary": "2609.10539 · ▲ 11",
+      "date_published": "2026-09-12T15:45:30.342Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.09076",
       "url": "https://huggingface.co/papers/2609.09076",
       "title": "ActReview: Rebuttal-Guided Training Data and Rubric Rewards for Actionable Peer Review Generation",
-      "summary": "2609.09076 · ▲ 0",
-      "date_published": "2026-09-12T04:54:10.798Z"
+      "summary": "2609.09076 · ▲ 11",
+      "date_published": "2026-09-12T15:45:30.342Z"
     }
   ]
 }
