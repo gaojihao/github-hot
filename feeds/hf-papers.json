@@ -5,46 +5,130 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
+      "id": "https://huggingface.co/papers/2609.06107",
+      "url": "https://huggingface.co/papers/2609.06107",
+      "title": "DataFlex-RL: An Evaluation Platform for RLVR Data Policies",
+      "summary": "2609.06107 · ▲ 95",
+      "date_published": "2026-09-14T18:08:45.853Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.08418",
+      "url": "https://huggingface.co/papers/2609.08418",
+      "title": "Feyospace-v1: How the Cyber Mercury Seven Trained Frontier Cyber Models",
+      "summary": "2609.08418 · ▲ 74",
+      "date_published": "2026-09-14T18:08:45.853Z"
+    },
+    {
       "id": "https://huggingface.co/papers/2609.11115",
       "url": "https://huggingface.co/papers/2609.11115",
       "title": "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation",
-      "summary": "2609.11115 · ▲ 28",
-      "date_published": "2026-09-14T05:20:20.584Z"
+      "summary": "2609.11115 · ▲ 72",
+      "date_published": "2026-09-14T18:08:45.853Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.12641",
       "url": "https://huggingface.co/papers/2609.12641",
       "title": "Breaking the Vision-Action Shortcut: Latent Interface Training for Generalizable Robotics Foundation Models",
-      "summary": "2609.12641 · ▲ 25",
-      "date_published": "2026-09-14T05:20:20.584Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2608.30597",
-      "url": "https://huggingface.co/papers/2608.30597",
-      "title": "PLC-DPO: Posterior Label Correction in Noisy and Ambiguous Preference Optimization",
-      "summary": "2608.30597 · ▲ 20",
-      "date_published": "2026-09-14T05:20:20.584Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.11682",
-      "url": "https://huggingface.co/papers/2609.11682",
-      "title": "COBRA-Skills: Contextual Bandit-Guided Evolution for Agent Skill Optimization",
-      "summary": "2609.11682 · ▲ 17",
-      "date_published": "2026-09-14T05:20:20.584Z"
+      "summary": "2609.12641 · ▲ 62",
+      "date_published": "2026-09-14T18:08:45.853Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.13141",
       "url": "https://huggingface.co/papers/2609.13141",
       "title": "SAS: Simple Attention Sparsification via End-to-End Optimization of Context Ranking",
-      "summary": "2609.13141 · ▲ 6",
-      "date_published": "2026-09-14T05:20:20.584Z"
+      "summary": "2609.13141 · ▲ 50",
+      "date_published": "2026-09-14T18:08:45.853Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.11682",
+      "url": "https://huggingface.co/papers/2609.11682",
+      "title": "COBRA-Skills: Contextual Bandit-Guided Evolution for Agent Skill Optimization",
+      "summary": "2609.11682 · ▲ 29",
+      "date_published": "2026-09-14T18:08:45.853Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.12945",
+      "url": "https://huggingface.co/papers/2609.12945",
+      "title": "StepAudio 3 Gen Technical Report",
+      "summary": "2609.12945 · ▲ 28",
+      "date_published": "2026-09-14T18:08:45.853Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2608.30597",
+      "url": "https://huggingface.co/papers/2608.30597",
+      "title": "PLC-DPO: Posterior Label Correction in Noisy and Ambiguous Preference Optimization",
+      "summary": "2608.30597 · ▲ 23",
+      "date_published": "2026-09-14T18:08:45.853Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.05824",
+      "url": "https://huggingface.co/papers/2609.05824",
+      "title": "Beyond Top-k Skill Retrieval: Diversity-Aware Skill Routing for LLM Agents",
+      "summary": "2609.05824 · ▲ 4",
+      "date_published": "2026-09-14T18:08:45.853Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.05820",
+      "url": "https://huggingface.co/papers/2609.05820",
+      "title": "Online Learning with LLM Experts from Limited Feedback",
+      "summary": "2609.05820 · ▲ 4",
+      "date_published": "2026-09-14T18:08:45.853Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.13146",
       "url": "https://huggingface.co/papers/2609.13146",
       "title": "SNAP3D: Physically Grounded 3D Parts for Assembly from a Single Image",
-      "summary": "2609.13146 · ▲ 1",
-      "date_published": "2026-09-14T05:20:20.584Z"
+      "summary": "2609.13146 · ▲ 3",
+      "date_published": "2026-09-14T18:08:45.853Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.07099",
+      "url": "https://huggingface.co/papers/2609.07099",
+      "title": "Ambient @ EgoProactive 2026 : Proactive Egocentric Assistance with Visually Grounded Supervision",
+      "summary": "2609.07099 · ▲ 2",
+      "date_published": "2026-09-14T18:08:45.853Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.07154",
+      "url": "https://huggingface.co/papers/2609.07154",
+      "title": "Ambient @ EgoLongQA 2026: Distilling Long-Video perception into a Sub-2B Model",
+      "summary": "2609.07154 · ▲ 2",
+      "date_published": "2026-09-14T18:08:45.853Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.10824",
+      "url": "https://huggingface.co/papers/2609.10824",
+      "title": "Studying Without a Syllabus: Task-Agnostic Environment Preprocessing",
+      "summary": "2609.10824 · ▲ 2",
+      "date_published": "2026-09-14T18:08:45.853Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.08230",
+      "url": "https://huggingface.co/papers/2609.08230",
+      "title": "ActionSplice: In-Flight Action Editing for Interactive World Models",
+      "summary": "2609.08230 · ▲ 2",
+      "date_published": "2026-09-14T18:08:45.853Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.10297",
+      "url": "https://huggingface.co/papers/2609.10297",
+      "title": "TRACE: Trajectory-robust Admission with Evidence Ordering for Efficient GUI Agents",
+      "summary": "2609.10297 · ▲ 1",
+      "date_published": "2026-09-14T18:08:45.853Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.03502",
+      "url": "https://huggingface.co/papers/2609.03502",
+      "title": "Building and Evaluating Fixed-Voice Thai TTS from Synthetic Speech",
+      "summary": "2609.03502 · ▲ 1",
+      "date_published": "2026-09-14T18:08:45.853Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.03595",
+      "url": "https://huggingface.co/papers/2609.03595",
+      "title": "How Far Can Synthetic Data Take Thai OCR?",
+      "summary": "2609.03595 · ▲ 1",
+      "date_published": "2026-09-14T18:08:45.853Z"
     }
   ]
 }
