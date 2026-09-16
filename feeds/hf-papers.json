@@ -8,85 +8,155 @@
       "id": "https://huggingface.co/papers/2609.06986",
       "url": "https://huggingface.co/papers/2609.06986",
       "title": "Continual Learning Mechanisms Compose for Long-Horizon Memorization",
-      "summary": "2609.06986 · ▲ 270",
-      "date_published": "2026-09-16T05:06:33.713Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.11873",
-      "url": "https://huggingface.co/papers/2609.11873",
-      "title": "The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement",
-      "summary": "2609.11873 · ▲ 82",
-      "date_published": "2026-09-16T05:06:33.713Z"
+      "summary": "2609.06986 · ▲ 284",
+      "date_published": "2026-09-16T17:13:54.834Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.16679",
       "url": "https://huggingface.co/papers/2609.16679",
       "title": "AI for Games in the Foundation Model Era",
-      "summary": "2609.16679 · ▲ 38",
-      "date_published": "2026-09-16T05:06:33.713Z"
+      "summary": "2609.16679 · ▲ 104",
+      "date_published": "2026-09-16T17:13:54.834Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.14005",
+      "url": "https://huggingface.co/papers/2609.14005",
+      "title": "StepAudio 3 Realtime Technical Report",
+      "summary": "2609.14005 · ▲ 88",
+      "date_published": "2026-09-16T17:13:54.834Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.16034",
+      "url": "https://huggingface.co/papers/2609.16034",
+      "title": "StepAudio 3 Music Technical Report",
+      "summary": "2609.16034 · ▲ 69",
+      "date_published": "2026-09-16T17:13:54.834Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.17523",
       "url": "https://huggingface.co/papers/2609.17523",
       "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
-      "summary": "2609.17523 · ▲ 16",
-      "date_published": "2026-09-16T05:06:33.713Z"
+      "summary": "2609.17523 · ▲ 17",
+      "date_published": "2026-09-16T17:13:54.834Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.15975",
-      "url": "https://huggingface.co/papers/2609.15975",
-      "title": "Disentangling Representation Evolution in Transformers through Directional Decomposition",
-      "summary": "2609.15975 · ▲ 3",
-      "date_published": "2026-09-16T05:06:33.713Z"
+      "id": "https://huggingface.co/papers/2609.15195",
+      "url": "https://huggingface.co/papers/2609.15195",
+      "title": "HarnessVLN: Unifying Training-Free Embodied Navigation through an Agent Harness",
+      "summary": "2609.15195 · ▲ 13",
+      "date_published": "2026-09-16T17:13:54.834Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.15982",
-      "url": "https://huggingface.co/papers/2609.15982",
-      "title": "The Router Within: Eliciting Native Skill Routing from a Frozen LLM",
-      "summary": "2609.15982 · ▲ 3",
-      "date_published": "2026-09-16T05:06:33.713Z"
+      "id": "https://huggingface.co/papers/2609.11873",
+      "url": "https://huggingface.co/papers/2609.11873",
+      "title": "The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement",
+      "summary": "2609.11873 · ▲ 9",
+      "date_published": "2026-09-16T17:13:54.834Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.14803",
+      "url": "https://huggingface.co/papers/2609.14803",
+      "title": "Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?",
+      "summary": "2609.14803 · ▲ 6",
+      "date_published": "2026-09-16T17:13:54.834Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.17524",
       "url": "https://huggingface.co/papers/2609.17524",
       "title": "Modality-Autoregressive World-Action Models",
-      "summary": "2609.17524 · ▲ 2",
-      "date_published": "2026-09-16T05:06:33.713Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.17521",
-      "url": "https://huggingface.co/papers/2609.17521",
-      "title": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
-      "summary": "2609.17521 · ▲ 2",
-      "date_published": "2026-09-16T05:06:33.713Z"
+      "summary": "2609.17524 · ▲ 5",
+      "date_published": "2026-09-16T17:13:54.834Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.15972",
       "url": "https://huggingface.co/papers/2609.15972",
       "title": "Mind2Dialogue: Training Human-Aware Language Models by Simulating User Mental States",
-      "summary": "2609.15972 · ▲ 2",
-      "date_published": "2026-09-16T05:06:33.713Z"
+      "summary": "2609.15972 · ▲ 5",
+      "date_published": "2026-09-16T17:13:54.834Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.14857",
+      "url": "https://huggingface.co/papers/2609.14857",
+      "title": "ModularRSI: Modular and Generalizable Recursive Harness Self-Improvement",
+      "summary": "2609.14857 · ▲ 4",
+      "date_published": "2026-09-16T17:13:54.834Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.15975",
+      "url": "https://huggingface.co/papers/2609.15975",
+      "title": "Disentangling Representation Evolution in Transformers through Directional Decomposition",
+      "summary": "2609.15975 · ▲ 4",
+      "date_published": "2026-09-16T17:13:54.834Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.17521",
+      "url": "https://huggingface.co/papers/2609.17521",
+      "title": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
+      "summary": "2609.17521 · ▲ 3",
+      "date_published": "2026-09-16T17:13:54.834Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.16816",
+      "url": "https://huggingface.co/papers/2609.16816",
+      "title": "ImpossibleRubrics: Stress-Testing Generated Rubrics as Reward Signals",
+      "summary": "2609.16816 · ▲ 2",
+      "date_published": "2026-09-16T17:13:54.834Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.14011",
+      "url": "https://huggingface.co/papers/2609.14011",
+      "title": "Convergent Emergence of In-Context Learning Across Modalities",
+      "summary": "2609.14011 · ▲ 2",
+      "date_published": "2026-09-16T17:13:54.834Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.16204",
+      "url": "https://huggingface.co/papers/2609.16204",
+      "title": "Decoy Direction Optimization: A Post-Hoc Defense Against LLM Abliteration",
+      "summary": "2609.16204 · ▲ 2",
+      "date_published": "2026-09-16T17:13:54.834Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.17320",
       "url": "https://huggingface.co/papers/2609.17320",
       "title": "Emergence World: Adversarial Stress-Testing of Long-Horizon Multi-Agent Systems",
-      "summary": "2609.17320 · ▲ 0",
-      "date_published": "2026-09-16T05:06:33.713Z"
+      "summary": "2609.17320 · ▲ 2",
+      "date_published": "2026-09-16T17:13:54.834Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.13680",
       "url": "https://huggingface.co/papers/2609.13680",
       "title": "Drift-Constrained Optimization: Only Direction Matters in Fine-Tuning Instruct Models",
-      "summary": "2609.13680 · ▲ 0",
-      "date_published": "2026-09-16T05:06:33.713Z"
+      "summary": "2609.13680 · ▲ 2",
+      "date_published": "2026-09-16T17:13:54.834Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.13770",
       "url": "https://huggingface.co/papers/2609.13770",
       "title": "Training Specialist Models without Reasoning Trajectories for Domain Expert Distillation",
-      "summary": "2609.13770 · ▲ 0",
-      "date_published": "2026-09-16T05:06:33.713Z"
+      "summary": "2609.13770 · ▲ 2",
+      "date_published": "2026-09-16T17:13:54.834Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.15982",
+      "url": "https://huggingface.co/papers/2609.15982",
+      "title": "The Router Within: Eliciting Native Skill Routing from a Frozen LLM",
+      "summary": "2609.15982 · ▲ 2",
+      "date_published": "2026-09-16T17:13:54.834Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.13406",
+      "url": "https://huggingface.co/papers/2609.13406",
+      "title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement",
+      "summary": "2609.13406 · ▲ 1",
+      "date_published": "2026-09-16T17:13:54.834Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.16057",
+      "url": "https://huggingface.co/papers/2609.16057",
+      "title": "OmniHarness: Harnessing Generalizable Visual Generation via Symbolic Policy Learning",
+      "summary": "2609.16057 · ▲ 1",
+      "date_published": "2026-09-16T17:13:54.834Z"
     }
   ]
 }
