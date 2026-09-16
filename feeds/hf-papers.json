@@ -5,221 +5,88 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2609.11638",
-      "url": "https://huggingface.co/papers/2609.11638",
-      "title": "Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation",
-      "summary": "2609.11638 · ▲ 400",
-      "date_published": "2026-09-15T17:12:57.000Z"
+      "id": "https://huggingface.co/papers/2609.06986",
+      "url": "https://huggingface.co/papers/2609.06986",
+      "title": "Continual Learning Mechanisms Compose for Long-Horizon Memorization",
+      "summary": "2609.06986 · ▲ 270",
+      "date_published": "2026-09-16T05:06:33.713Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.15818",
-      "url": "https://huggingface.co/papers/2609.15818",
-      "title": "Atria Dawn: The Dawn of Agentic Superintelligence",
-      "summary": "2609.15818 · ▲ 364",
-      "date_published": "2026-09-15T17:12:57.000Z"
+      "id": "https://huggingface.co/papers/2609.11873",
+      "url": "https://huggingface.co/papers/2609.11873",
+      "title": "The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement",
+      "summary": "2609.11873 · ▲ 82",
+      "date_published": "2026-09-16T05:06:33.713Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.13356",
-      "url": "https://huggingface.co/papers/2609.13356",
-      "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
-      "summary": "2609.13356 · ▲ 289",
-      "date_published": "2026-09-15T17:12:57.000Z"
+      "id": "https://huggingface.co/papers/2609.16679",
+      "url": "https://huggingface.co/papers/2609.16679",
+      "title": "AI for Games in the Foundation Model Era",
+      "summary": "2609.16679 · ▲ 38",
+      "date_published": "2026-09-16T05:06:33.713Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.14858",
-      "url": "https://huggingface.co/papers/2609.14858",
-      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
-      "summary": "2609.14858 · ▲ 254",
-      "date_published": "2026-09-15T17:12:57.000Z"
+      "id": "https://huggingface.co/papers/2609.17523",
+      "url": "https://huggingface.co/papers/2609.17523",
+      "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+      "summary": "2609.17523 · ▲ 16",
+      "date_published": "2026-09-16T05:06:33.713Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.14973",
-      "url": "https://huggingface.co/papers/2609.14973",
-      "title": "PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models",
-      "summary": "2609.14973 · ▲ 168",
-      "date_published": "2026-09-15T17:12:57.000Z"
+      "id": "https://huggingface.co/papers/2609.15975",
+      "url": "https://huggingface.co/papers/2609.15975",
+      "title": "Disentangling Representation Evolution in Transformers through Directional Decomposition",
+      "summary": "2609.15975 · ▲ 3",
+      "date_published": "2026-09-16T05:06:33.713Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.13285",
-      "url": "https://huggingface.co/papers/2609.13285",
-      "title": "Grouped Value Attention: Efficient KV Caching via On-Demand Key Reconstruction",
-      "summary": "2609.13285 · ▲ 57",
-      "date_published": "2026-09-15T17:12:57.000Z"
+      "id": "https://huggingface.co/papers/2609.15982",
+      "url": "https://huggingface.co/papers/2609.15982",
+      "title": "The Router Within: Eliciting Native Skill Routing from a Frozen LLM",
+      "summary": "2609.15982 · ▲ 3",
+      "date_published": "2026-09-16T05:06:33.713Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.15863",
-      "url": "https://huggingface.co/papers/2609.15863",
-      "title": "LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows",
-      "summary": "2609.15863 · ▲ 43",
-      "date_published": "2026-09-15T17:12:57.000Z"
+      "id": "https://huggingface.co/papers/2609.17524",
+      "url": "https://huggingface.co/papers/2609.17524",
+      "title": "Modality-Autoregressive World-Action Models",
+      "summary": "2609.17524 · ▲ 2",
+      "date_published": "2026-09-16T05:06:33.713Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.15364",
-      "url": "https://huggingface.co/papers/2609.15364",
-      "title": "RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments",
-      "summary": "2609.15364 · ▲ 23",
-      "date_published": "2026-09-15T17:12:57.000Z"
+      "id": "https://huggingface.co/papers/2609.17521",
+      "url": "https://huggingface.co/papers/2609.17521",
+      "title": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
+      "summary": "2609.17521 · ▲ 2",
+      "date_published": "2026-09-16T05:06:33.713Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.15973",
-      "url": "https://huggingface.co/papers/2609.15973",
-      "title": "Discovery Foundation Models: Toward Open-Ended Discovery Intelligence",
-      "summary": "2609.15973 · ▲ 22",
-      "date_published": "2026-09-15T17:12:57.000Z"
+      "id": "https://huggingface.co/papers/2609.15972",
+      "url": "https://huggingface.co/papers/2609.15972",
+      "title": "Mind2Dialogue: Training Human-Aware Language Models by Simulating User Mental States",
+      "summary": "2609.15972 · ▲ 2",
+      "date_published": "2026-09-16T05:06:33.713Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.15478",
-      "url": "https://huggingface.co/papers/2609.15478",
-      "title": "BVB: Benchmarking Agentic Video Understanding via Programmatic Reconstruction in Blender",
-      "summary": "2609.15478 · ▲ 22",
-      "date_published": "2026-09-15T17:12:57.000Z"
+      "id": "https://huggingface.co/papers/2609.17320",
+      "url": "https://huggingface.co/papers/2609.17320",
+      "title": "Emergence World: Adversarial Stress-Testing of Long-Horizon Multi-Agent Systems",
+      "summary": "2609.17320 · ▲ 0",
+      "date_published": "2026-09-16T05:06:33.713Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.15504",
-      "url": "https://huggingface.co/papers/2609.15504",
-      "title": "How Lossless Is Lossless Speculative Decoding? The Role of Numerical Precision in Orthrus",
-      "summary": "2609.15504 · ▲ 21",
-      "date_published": "2026-09-15T17:12:57.000Z"
+      "id": "https://huggingface.co/papers/2609.13680",
+      "url": "https://huggingface.co/papers/2609.13680",
+      "title": "Drift-Constrained Optimization: Only Direction Matters in Fine-Tuning Instruct Models",
+      "summary": "2609.13680 · ▲ 0",
+      "date_published": "2026-09-16T05:06:33.713Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.14462",
-      "url": "https://huggingface.co/papers/2609.14462",
-      "title": "AlayaVista: Streaming World Modeling from Panoramic States to Perspective Video",
-      "summary": "2609.14462 · ▲ 20",
-      "date_published": "2026-09-15T17:12:57.000Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.15659",
-      "url": "https://huggingface.co/papers/2609.15659",
-      "title": "Kaininja: Extending Native 3D Generators to the Part Level",
-      "summary": "2609.15659 · ▲ 16",
-      "date_published": "2026-09-15T17:12:57.000Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.15128",
-      "url": "https://huggingface.co/papers/2609.15128",
-      "title": "Omni-Streaming Thinking",
-      "summary": "2609.15128 · ▲ 16",
-      "date_published": "2026-09-15T17:12:57.000Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.15134",
-      "url": "https://huggingface.co/papers/2609.15134",
-      "title": "HazardAuditor: From Executable Threats to Safer Computer-Use Agents",
-      "summary": "2609.15134 · ▲ 13",
-      "date_published": "2026-09-15T17:12:57.000Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.13287",
-      "url": "https://huggingface.co/papers/2609.13287",
-      "title": "LLaDA-UI: Bringing Block-wise Diffusion to Vision-Language GUI Agents",
-      "summary": "2609.13287 · ▲ 13",
-      "date_published": "2026-09-15T17:12:57.000Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.15309",
-      "url": "https://huggingface.co/papers/2609.15309",
-      "title": "When Agents Slow Down: Understanding LLM Agents' Test-Time Strategies via Elo-per-token Analysis",
-      "summary": "2609.15309 · ▲ 11",
-      "date_published": "2026-09-15T17:12:57.000Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.12541",
-      "url": "https://huggingface.co/papers/2609.12541",
-      "title": "Agent as Policy for Robotic Manipulation",
-      "summary": "2609.12541 · ▲ 11",
-      "date_published": "2026-09-15T17:12:57.000Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.15051",
-      "url": "https://huggingface.co/papers/2609.15051",
-      "title": "Not All Prompts Are Equal: Exploration-Guided Prompt Scaffolding for Multimodal Reinforcement Post-Training",
-      "summary": "2609.15051 · ▲ 6",
-      "date_published": "2026-09-15T17:12:57.000Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.15029",
-      "url": "https://huggingface.co/papers/2609.15029",
-      "title": "Pick Your Poison: Learning to Select Poison Sets for Stronger LLM Backdoor Attacks",
-      "summary": "2609.15029 · ▲ 5",
-      "date_published": "2026-09-15T17:12:57.000Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.12419",
-      "url": "https://huggingface.co/papers/2609.12419",
-      "title": "MInTRL: Off-policy Intervention can boost On-policy RL",
-      "summary": "2609.12419 · ▲ 5",
-      "date_published": "2026-09-15T17:12:57.000Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.13318",
-      "url": "https://huggingface.co/papers/2609.13318",
-      "title": "Attention-DP3: Spatially Object-aware 3D Diffusion Policy via Geometry-aligned Attentional Conditioning",
-      "summary": "2609.13318 · ▲ 5",
-      "date_published": "2026-09-15T17:12:57.000Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.13058",
-      "url": "https://huggingface.co/papers/2609.13058",
-      "title": "Expert-Space Exploration in MoE Reinforcement Learning",
-      "summary": "2609.13058 · ▲ 4",
-      "date_published": "2026-09-15T17:12:57.000Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.15078",
-      "url": "https://huggingface.co/papers/2609.15078",
-      "title": "Enabling Creative Exploration for Vibe Design Agents",
-      "summary": "2609.15078 · ▲ 3",
-      "date_published": "2026-09-15T17:12:57.000Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.13053",
-      "url": "https://huggingface.co/papers/2609.13053",
-      "title": "Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model",
-      "summary": "2609.13053 · ▲ 3",
-      "date_published": "2026-09-15T17:12:57.000Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.13498",
-      "url": "https://huggingface.co/papers/2609.13498",
-      "title": "Building a Production Greek-English Speech Recognizer",
-      "summary": "2609.13498 · ▲ 3",
-      "date_published": "2026-09-15T17:12:57.000Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.13948",
-      "url": "https://huggingface.co/papers/2609.13948",
-      "title": "Thought without systematicity? Evaluating reasoning models on rule induction tasks",
-      "summary": "2609.13948 · ▲ 2",
-      "date_published": "2026-09-15T17:12:57.000Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.15635",
-      "url": "https://huggingface.co/papers/2609.15635",
-      "title": "ModaLens: Measuring Image Sensitivity in Report-Conditioned Medical VLMs",
-      "summary": "2609.15635 · ▲ 1",
-      "date_published": "2026-09-15T17:12:57.000Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.14302",
-      "url": "https://huggingface.co/papers/2609.14302",
-      "title": "E2A-Bench: Benchmarking Evidence-to-Action Reliability in Financial Chart Reasoning",
-      "summary": "2609.14302 · ▲ 1",
-      "date_published": "2026-09-15T17:12:57.000Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.01430",
-      "url": "https://huggingface.co/papers/2609.01430",
-      "title": "Learning Sparse Decision Trees via Transformer Variational Auto-Encoders",
-      "summary": "2609.01430 · ▲ 1",
-      "date_published": "2026-09-15T17:12:57.000Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.13463",
-      "url": "https://huggingface.co/papers/2609.13463",
-      "title": "Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures",
-      "summary": "2609.13463 · ▲ 0",
-      "date_published": "2026-09-15T17:12:57.000Z"
+      "id": "https://huggingface.co/papers/2609.13770",
+      "url": "https://huggingface.co/papers/2609.13770",
+      "title": "Training Specialist Models without Reasoning Trajectories for Domain Expert Distillation",
+      "summary": "2609.13770 · ▲ 0",
+      "date_published": "2026-09-16T05:06:33.713Z"
     }
   ]
 }

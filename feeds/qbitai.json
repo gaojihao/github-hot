@@ -5,74 +5,74 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/qbitai.json",
   "items": [
     {
+      "id": "https://www.qbitai.com/2026/09/490329.html",
+      "url": "https://www.qbitai.com/2026/09/490329.html",
+      "title": "量子位2026人工智能年度榜单，正式启动！",
+      "summary": "MEET2027 · 量子位的朋友们 · 2026年09月16日",
+      "date_published": "2026-09-16T05:06:33.713Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/09/490185.html",
+      "url": "https://www.qbitai.com/2026/09/490185.html",
+      "title": "被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」",
+      "summary": "力文所 · 杰西卡 · 2026年09月16日",
+      "date_published": "2026-09-16T05:06:33.713Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/09/489724.html",
+      "url": "https://www.qbitai.com/2026/09/489724.html",
+      "title": "把记忆交给CPU，大模型会变快",
+      "summary": "CPU · 十三 · 2026年09月16日",
+      "date_published": "2026-09-16T05:06:33.713Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/09/490109.html",
+      "url": "https://www.qbitai.com/2026/09/490109.html",
+      "title": "实时互动、实时改视频、探索空间视频，Vidu S2一次放了三个大招",
+      "summary": "世界模型 · 林, 方舟 · 2026年09月16日",
+      "date_published": "2026-09-16T05:06:33.713Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/09/490098.html",
+      "url": "https://www.qbitai.com/2026/09/490098.html",
+      "title": "华为GTS让Agent学会「看着网络排障」，双防火墙难题几乎全拿下",
+      "summary": "华为GTS · 思邈 · 2026年09月16日",
+      "date_published": "2026-09-16T05:06:33.713Z"
+    },
+    {
       "id": "https://www.qbitai.com/2026/09/489707.html",
       "url": "https://www.qbitai.com/2026/09/489707.html",
       "title": "梁文锋CFO到位！投过智谱MiniMax",
       "summary": "资讯 · Jay · 2026年09月15日",
-      "date_published": "2026-09-15T17:12:57.000Z"
+      "date_published": "2026-09-16T05:06:33.713Z"
     },
     {
       "id": "https://www.qbitai.com/2026/09/489698.html",
       "url": "https://www.qbitai.com/2026/09/489698.html",
       "title": "地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出",
       "summary": "地平线 · 量子位的朋友们 · 2026年09月15日",
-      "date_published": "2026-09-15T17:12:57.000Z"
+      "date_published": "2026-09-16T05:06:33.713Z"
     },
     {
       "id": "https://www.qbitai.com/2026/09/489466.html",
       "url": "https://www.qbitai.com/2026/09/489466.html",
       "title": "手机替我跑了一整套流程！我就说了一句话，AI执行了100步",
       "summary": "荣耀 · 克雷西 · 2026年09月15日",
-      "date_published": "2026-09-15T17:12:57.000Z"
+      "date_published": "2026-09-16T05:06:33.713Z"
     },
     {
       "id": "https://www.qbitai.com/2026/09/489460.html",
       "url": "https://www.qbitai.com/2026/09/489460.html",
       "title": "无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA",
       "summary": "具身智能 · 量子位的朋友们 · 2026年09月15日",
-      "date_published": "2026-09-15T17:12:57.000Z"
+      "date_published": "2026-09-16T05:06:33.713Z"
     },
     {
       "id": "https://www.qbitai.com/2026/09/489389.html",
       "url": "https://www.qbitai.com/2026/09/489389.html",
       "title": "全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型",
       "summary": "智象未来 · 量子位的朋友们 · 2026年09月15日",
-      "date_published": "2026-09-15T17:12:57.000Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/09/489381.html",
-      "url": "https://www.qbitai.com/2026/09/489381.html",
-      "title": "一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影",
-      "summary": "分子之心 · 思邈 · 2026年09月15日",
-      "date_published": "2026-09-15T17:12:57.000Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/09/489260.html",
-      "url": "https://www.qbitai.com/2026/09/489260.html",
-      "title": "首个AIGC长片大赛！RunningHub单项大奖100万，科幻IP免费改编",
-      "summary": "资讯 · 闻乐 · 2026年09月15日",
-      "date_published": "2026-09-15T17:12:57.000Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/09/489337.html",
-      "url": "https://www.qbitai.com/2026/09/489337.html",
-      "title": "Meta新研究：字节模型蒸馏后，天花板破了",
-      "summary": "Meta · henry · 2026年09月15日",
-      "date_published": "2026-09-15T17:12:57.000Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/09/489288.html",
-      "url": "https://www.qbitai.com/2026/09/489288.html",
-      "title": "前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了",
-      "summary": "AI · henry · 2026年09月15日",
-      "date_published": "2026-09-15T17:12:57.000Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/09/489277.html",
-      "url": "https://www.qbitai.com/2026/09/489277.html",
-      "title": "9月21日，深圳前海！聊聊工业AI与生态共创的下一步",
-      "summary": "资讯 · 田, 晏林 · 2026年09月15日",
-      "date_published": "2026-09-15T17:12:57.000Z"
+      "date_published": "2026-09-16T05:06:33.713Z"
     }
   ]
 }
