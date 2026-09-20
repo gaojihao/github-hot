@@ -8,169 +8,169 @@
       "id": "https://huggingface.co/papers/2609.19969",
       "url": "https://huggingface.co/papers/2609.19969",
       "title": "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression",
-      "summary": "2609.19969 · ▲ 114",
-      "date_published": "2026-09-20T05:15:56.300Z"
+      "summary": "2609.19969 · ▲ 130",
+      "date_published": "2026-09-20T16:24:54.469Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.18323",
       "url": "https://huggingface.co/papers/2609.18323",
       "title": "Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model",
-      "summary": "2609.18323 · ▲ 92",
-      "date_published": "2026-09-20T05:15:56.300Z"
+      "summary": "2609.18323 · ▲ 97",
+      "date_published": "2026-09-20T16:24:54.469Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.20511",
       "url": "https://huggingface.co/papers/2609.20511",
       "title": "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation",
-      "summary": "2609.20511 · ▲ 90",
-      "date_published": "2026-09-20T05:15:56.300Z"
+      "summary": "2609.20511 · ▲ 94",
+      "date_published": "2026-09-20T16:24:54.469Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.20519",
       "url": "https://huggingface.co/papers/2609.20519",
       "title": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
-      "summary": "2609.20519 · ▲ 82",
-      "date_published": "2026-09-20T05:15:56.300Z"
+      "summary": "2609.20519 · ▲ 94",
+      "date_published": "2026-09-20T16:24:54.469Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.20804",
       "url": "https://huggingface.co/papers/2609.20804",
       "title": "An Empirical Study of Harness Design for Coding Agents",
-      "summary": "2609.20804 · ▲ 67",
-      "date_published": "2026-09-20T05:15:56.300Z"
+      "summary": "2609.20804 · ▲ 71",
+      "date_published": "2026-09-20T16:24:54.469Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.20800",
       "url": "https://huggingface.co/papers/2609.20800",
       "title": "JEPA-Anything: Learning Predictive Models across Different Worlds",
-      "summary": "2609.20800 · ▲ 52",
-      "date_published": "2026-09-20T05:15:56.300Z"
+      "summary": "2609.20800 · ▲ 55",
+      "date_published": "2026-09-20T16:24:54.469Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.17496",
       "url": "https://huggingface.co/papers/2609.17496",
       "title": "Verifiable Social Reasoning for LLM Assistants",
-      "summary": "2609.17496 · ▲ 44",
-      "date_published": "2026-09-20T05:15:56.300Z"
+      "summary": "2609.17496 · ▲ 47",
+      "date_published": "2026-09-20T16:24:54.469Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.19656",
+      "url": "https://huggingface.co/papers/2609.19656",
+      "title": "Self-Evolving Search Index",
+      "summary": "2609.19656 · ▲ 43",
+      "date_published": "2026-09-20T16:24:54.469Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.16900",
       "url": "https://huggingface.co/papers/2609.16900",
       "title": "RiskChainBench: A Benchmark for Obfuscated Platform Message Restoration and Evidence-Grounded Web Investigation",
       "summary": "2609.16900 · ▲ 40",
-      "date_published": "2026-09-20T05:15:56.300Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.19656",
-      "url": "https://huggingface.co/papers/2609.19656",
-      "title": "Self-Evolving Search Index",
-      "summary": "2609.19656 · ▲ 39",
-      "date_published": "2026-09-20T05:15:56.300Z"
+      "date_published": "2026-09-20T16:24:54.469Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.20784",
       "url": "https://huggingface.co/papers/2609.20784",
       "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
-      "summary": "2609.20784 · ▲ 37",
-      "date_published": "2026-09-20T05:15:56.300Z"
+      "summary": "2609.20784 · ▲ 39",
+      "date_published": "2026-09-20T16:24:54.469Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.17653",
       "url": "https://huggingface.co/papers/2609.17653",
       "title": "Reflect, Revise, Reuse: Training-Free Skill Evolution for GUI Agents",
-      "summary": "2609.17653 · ▲ 36",
-      "date_published": "2026-09-20T05:15:56.300Z"
+      "summary": "2609.17653 · ▲ 37",
+      "date_published": "2026-09-20T16:24:54.469Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.20423",
+      "url": "https://huggingface.co/papers/2609.20423",
+      "title": "WeVisDoc: From Coverage to Capability for Robust End-to-End Document Parsing",
+      "summary": "2609.20423 · ▲ 34",
+      "date_published": "2026-09-20T16:24:54.469Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.20744",
       "url": "https://huggingface.co/papers/2609.20744",
       "title": "Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation",
       "summary": "2609.20744 · ▲ 34",
-      "date_published": "2026-09-20T05:15:56.300Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.20423",
-      "url": "https://huggingface.co/papers/2609.20423",
-      "title": "WeVisDoc: From Coverage to Capability for Robust End-to-End Document Parsing",
-      "summary": "2609.20423 · ▲ 33",
-      "date_published": "2026-09-20T05:15:56.300Z"
+      "date_published": "2026-09-20T16:24:54.469Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.19554",
       "url": "https://huggingface.co/papers/2609.19554",
       "title": "VABench: Measuring Embodied Spatial Intelligence through Visual Demonstrations, Active Perception, and Metric Control",
-      "summary": "2609.19554 · ▲ 32",
-      "date_published": "2026-09-20T05:15:56.300Z"
+      "summary": "2609.19554 · ▲ 33",
+      "date_published": "2026-09-20T16:24:54.469Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.19671",
       "url": "https://huggingface.co/papers/2609.19671",
       "title": "When2Think: Learning Difficulty-Aware Length Control for Efficient Hybrid Reasoning Models",
-      "summary": "2609.19671 · ▲ 30",
-      "date_published": "2026-09-20T05:15:56.300Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.20817",
-      "url": "https://huggingface.co/papers/2609.20817",
-      "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
-      "summary": "2609.20817 · ▲ 28",
-      "date_published": "2026-09-20T05:15:56.300Z"
+      "summary": "2609.19671 · ▲ 32",
+      "date_published": "2026-09-20T16:24:54.469Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.20612",
       "url": "https://huggingface.co/papers/2609.20612",
       "title": "What Does Privileged Information Add to On-Policy Self-Distillation?",
-      "summary": "2609.20612 · ▲ 28",
-      "date_published": "2026-09-20T05:15:56.300Z"
+      "summary": "2609.20612 · ▲ 30",
+      "date_published": "2026-09-20T16:24:54.469Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.12397",
       "url": "https://huggingface.co/papers/2609.12397",
       "title": "UFO: Chain-of-Evaluation for Omni-Condition Alignment in Multi-Modal Image Generation",
-      "summary": "2609.12397 · ▲ 28",
-      "date_published": "2026-09-20T05:15:56.300Z"
+      "summary": "2609.12397 · ▲ 30",
+      "date_published": "2026-09-20T16:24:54.469Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.19499",
       "url": "https://huggingface.co/papers/2609.19499",
       "title": "Sample Count Is Not Enough: Candidate-Generation Strategy Shapes the Energy and Performance of LLM Test-Time Scaling",
-      "summary": "2609.19499 · ▲ 27",
-      "date_published": "2026-09-20T05:15:56.300Z"
+      "summary": "2609.19499 · ▲ 29",
+      "date_published": "2026-09-20T16:24:54.469Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.20817",
+      "url": "https://huggingface.co/papers/2609.20817",
+      "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
+      "summary": "2609.20817 · ▲ 29",
+      "date_published": "2026-09-20T16:24:54.469Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.20715",
       "url": "https://huggingface.co/papers/2609.20715",
       "title": "Don't Mask the Environment: Observation Supervision Changes How Agents Explore Under RL",
-      "summary": "2609.20715 · ▲ 26",
-      "date_published": "2026-09-20T05:15:56.300Z"
+      "summary": "2609.20715 · ▲ 28",
+      "date_published": "2026-09-20T16:24:54.469Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.19745",
       "url": "https://huggingface.co/papers/2609.19745",
       "title": "Region-Level Policy Optimization for Fine-grained MLLM Perception",
-      "summary": "2609.19745 · ▲ 26",
-      "date_published": "2026-09-20T05:15:56.300Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.05661",
-      "url": "https://huggingface.co/papers/2609.05661",
-      "title": "Srijika: OpenType-Layout-Reusing Font Restyling for Nine Indic Scripts",
-      "summary": "2609.05661 · ▲ 24",
-      "date_published": "2026-09-20T05:15:56.300Z"
+      "summary": "2609.19745 · ▲ 27",
+      "date_published": "2026-09-20T16:24:54.469Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.18605",
       "url": "https://huggingface.co/papers/2609.18605",
       "title": "PACT: Can Enterprise AI Assistants Be Trusted Under Pressure?",
-      "summary": "2609.18605 · ▲ 24",
-      "date_published": "2026-09-20T05:15:56.300Z"
+      "summary": "2609.18605 · ▲ 26",
+      "date_published": "2026-09-20T16:24:54.469Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.05661",
+      "url": "https://huggingface.co/papers/2609.05661",
+      "title": "Srijika: OpenType-Layout-Reusing Font Restyling for Nine Indic Scripts",
+      "summary": "2609.05661 · ▲ 25",
+      "date_published": "2026-09-20T16:24:54.469Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.19879",
       "url": "https://huggingface.co/papers/2609.19879",
       "title": "VākQA: A Benchmark and Evaluation Study for Telugu Spoken Factoid Question Answering",
-      "summary": "2609.19879 · ▲ 22",
-      "date_published": "2026-09-20T05:15:56.300Z"
+      "summary": "2609.19879 · ▲ 23",
+      "date_published": "2026-09-20T16:24:54.469Z"
     }
   ]
 }
