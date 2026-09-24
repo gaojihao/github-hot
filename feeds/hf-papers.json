@@ -5,116 +5,207 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2609.28466",
-      "url": "https://huggingface.co/papers/2609.28466",
-      "title": "The Past Frames the Future: Memory for Autoregressive Video Generation",
-      "summary": "2609.28466 · ▲ 26",
-      "date_published": "2026-09-24T05:13:25.144Z"
-    },
-    {
       "id": "https://huggingface.co/papers/2609.26780",
       "url": "https://huggingface.co/papers/2609.26780",
       "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
-      "summary": "2609.26780 · ▲ 19",
-      "date_published": "2026-09-24T05:13:25.144Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.22947",
-      "url": "https://huggingface.co/papers/2609.22947",
-      "title": "RewardVerse: Rubric-Guided Policy Optimization for Video Reward Modeling",
-      "summary": "2609.22947 · ▲ 17",
-      "date_published": "2026-09-24T05:13:25.144Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.24308",
-      "url": "https://huggingface.co/papers/2609.24308",
-      "title": "HappyWorld-Bench",
-      "summary": "2609.24308 · ▲ 16",
-      "date_published": "2026-09-24T05:13:25.144Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.26355",
-      "url": "https://huggingface.co/papers/2609.26355",
-      "title": "PACT: From Credit Assignment to Critic Alignment",
-      "summary": "2609.26355 · ▲ 11",
-      "date_published": "2026-09-24T05:13:25.144Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.27891",
-      "url": "https://huggingface.co/papers/2609.27891",
-      "title": "Schrödinger's Code Repository: Have LLMs Learned SWE-bench or Memorized It?",
-      "summary": "2609.27891 · ▲ 10",
-      "date_published": "2026-09-24T05:13:25.144Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.28256",
-      "url": "https://huggingface.co/papers/2609.28256",
-      "title": "MemBodied: Recurrent Associative Memory for Vision-Language-Action Models",
-      "summary": "2609.28256 · ▲ 7",
-      "date_published": "2026-09-24T05:13:25.144Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.27490",
-      "url": "https://huggingface.co/papers/2609.27490",
-      "title": "WhatWorkedBench: Benchmarking Experimental Understanding in AI Agents",
-      "summary": "2609.27490 · ▲ 7",
-      "date_published": "2026-09-24T05:13:25.144Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.27284",
-      "url": "https://huggingface.co/papers/2609.27284",
-      "title": "Hunyuan-A13B Technical Report",
-      "summary": "2609.27284 · ▲ 4",
-      "date_published": "2026-09-24T05:13:25.144Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.23784",
-      "url": "https://huggingface.co/papers/2609.23784",
-      "title": "PackLab: A Comprehensive Framework for Developing, Training, and Evaluating MLLMs in Robotic Bin Packing",
-      "summary": "2609.23784 · ▲ 2",
-      "date_published": "2026-09-24T05:13:25.144Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.27334",
-      "url": "https://huggingface.co/papers/2609.27334",
-      "title": "Just-in-Time Memory: Learning to Curate Task-Adaptive Memory for LLM Agents",
-      "summary": "2609.27334 · ▲ 2",
-      "date_published": "2026-09-24T05:13:25.144Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.27321",
-      "url": "https://huggingface.co/papers/2609.27321",
-      "title": "Verifiable Hidden Dynamics Play: Generating Agentic RL Environments from Solved Mechanisms",
-      "summary": "2609.27321 · ▲ 2",
-      "date_published": "2026-09-24T05:13:25.144Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.27656",
-      "url": "https://huggingface.co/papers/2609.27656",
-      "title": "InternW0: A Foundational Physical World Model for Efficient Real-World Interactions",
-      "summary": "2609.27656 · ▲ 2",
-      "date_published": "2026-09-24T05:13:25.144Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.27308",
-      "url": "https://huggingface.co/papers/2609.27308",
-      "title": "EmbodiedSWE: Coding Agents for Long Horizon Dexterous Robotics",
-      "summary": "2609.27308 · ▲ 1",
-      "date_published": "2026-09-24T05:13:25.144Z"
+      "summary": "2609.26780 · ▲ 76",
+      "date_published": "2026-09-24T17:28:43.288Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.23038",
       "url": "https://huggingface.co/papers/2609.23038",
       "title": "Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World",
-      "summary": "2609.23038 · ▲ 0",
-      "date_published": "2026-09-24T05:13:25.144Z"
+      "summary": "2609.23038 · ▲ 41",
+      "date_published": "2026-09-24T17:28:43.288Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.24308",
+      "url": "https://huggingface.co/papers/2609.24308",
+      "title": "HappyWorld-Bench",
+      "summary": "2609.24308 · ▲ 39",
+      "date_published": "2026-09-24T17:28:43.288Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.28466",
+      "url": "https://huggingface.co/papers/2609.28466",
+      "title": "The Past Frames the Future: Memory for Autoregressive Video Generation",
+      "summary": "2609.28466 · ▲ 35",
+      "date_published": "2026-09-24T17:28:43.288Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.27334",
+      "url": "https://huggingface.co/papers/2609.27334",
+      "title": "Just-in-Time Memory: Learning to Curate Task-Adaptive Memory for LLM Agents",
+      "summary": "2609.27334 · ▲ 28",
+      "date_published": "2026-09-24T17:28:43.288Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.22947",
+      "url": "https://huggingface.co/papers/2609.22947",
+      "title": "RewardVerse: Rubric-Guided Policy Optimization for Video Reward Modeling",
+      "summary": "2609.22947 · ▲ 20",
+      "date_published": "2026-09-24T17:28:43.288Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.26355",
+      "url": "https://huggingface.co/papers/2609.26355",
+      "title": "PACT: From Credit Assignment to Critic Alignment",
+      "summary": "2609.26355 · ▲ 14",
+      "date_published": "2026-09-24T17:28:43.288Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.27891",
+      "url": "https://huggingface.co/papers/2609.27891",
+      "title": "Schrödinger's Code Repository: Have LLMs Learned SWE-bench or Memorized It?",
+      "summary": "2609.27891 · ▲ 14",
+      "date_published": "2026-09-24T17:28:43.288Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.25963",
+      "url": "https://huggingface.co/papers/2609.25963",
+      "title": "GeoPair: Geometry-Preserving Cross-Layer Factorization for Training-Free Transformer Compression",
+      "summary": "2609.25963 · ▲ 10",
+      "date_published": "2026-09-24T17:28:43.288Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.23784",
+      "url": "https://huggingface.co/papers/2609.23784",
+      "title": "PackLab: A Comprehensive Framework for Developing, Training, and Evaluating MLLMs in Robotic Bin Packing",
+      "summary": "2609.23784 · ▲ 10",
+      "date_published": "2026-09-24T17:28:43.288Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.28256",
+      "url": "https://huggingface.co/papers/2609.28256",
+      "title": "MemBodied: Recurrent Associative Memory for Vision-Language-Action Models",
+      "summary": "2609.28256 · ▲ 8",
+      "date_published": "2026-09-24T17:28:43.288Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.27490",
+      "url": "https://huggingface.co/papers/2609.27490",
+      "title": "WhatWorkedBench: Benchmarking Experimental Understanding in AI Agents",
+      "summary": "2609.27490 · ▲ 8",
+      "date_published": "2026-09-24T17:28:43.288Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.27284",
+      "url": "https://huggingface.co/papers/2609.27284",
+      "title": "Hunyuan-A13B Technical Report",
+      "summary": "2609.27284 · ▲ 6",
+      "date_published": "2026-09-24T17:28:43.288Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.27901",
+      "url": "https://huggingface.co/papers/2609.27901",
+      "title": "All modalities are equal, but video is more equal: Closing the Cross-Attention Gap in Joint Video Generation",
+      "summary": "2609.27901 · ▲ 5",
+      "date_published": "2026-09-24T17:28:43.288Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.27321",
+      "url": "https://huggingface.co/papers/2609.27321",
+      "title": "Verifiable Hidden Dynamics Play: Generating Agentic RL Environments from Solved Mechanisms",
+      "summary": "2609.27321 · ▲ 5",
+      "date_published": "2026-09-24T17:28:43.288Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.27656",
+      "url": "https://huggingface.co/papers/2609.27656",
+      "title": "InternW0: A Foundational Physical World Model for Efficient Real-World Interactions",
+      "summary": "2609.27656 · ▲ 4",
+      "date_published": "2026-09-24T17:28:43.288Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.28473",
+      "url": "https://huggingface.co/papers/2609.28473",
+      "title": "On the Diffusibility of High-Dimensional Latents",
+      "summary": "2609.28473 · ▲ 3",
+      "date_published": "2026-09-24T17:28:43.288Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.26489",
+      "url": "https://huggingface.co/papers/2609.26489",
+      "title": "Calibration as a First-Class Criterion in LLM Evaluation",
+      "summary": "2609.26489 · ▲ 2",
+      "date_published": "2026-09-24T17:28:43.288Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.27980",
+      "url": "https://huggingface.co/papers/2609.27980",
+      "title": "Six Layers Less: Encoder Pruning for Whisper with Label-Free Recovery",
+      "summary": "2609.27980 · ▲ 2",
+      "date_published": "2026-09-24T17:28:43.288Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.27308",
+      "url": "https://huggingface.co/papers/2609.27308",
+      "title": "EmbodiedSWE: Coding Agents for Long Horizon Dexterous Robotics",
+      "summary": "2609.27308 · ▲ 2",
+      "date_published": "2026-09-24T17:28:43.288Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.22682",
+      "url": "https://huggingface.co/papers/2609.22682",
+      "title": "Self-Organizing Agent Teams Learn to Reason Together",
+      "summary": "2609.22682 · ▲ 1",
+      "date_published": "2026-09-24T17:28:43.288Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.27158",
+      "url": "https://huggingface.co/papers/2609.27158",
+      "title": "The Linear Representation Hypothesis Needs a Group Action",
+      "summary": "2609.27158 · ▲ 1",
+      "date_published": "2026-09-24T17:28:43.288Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.26634",
+      "url": "https://huggingface.co/papers/2609.26634",
+      "title": "Knowledge Pull Requests for Continual Document Authoring",
+      "summary": "2609.26634 · ▲ 1",
+      "date_published": "2026-09-24T17:28:43.288Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.26637",
+      "url": "https://huggingface.co/papers/2609.26637",
+      "title": "Capable yet Parsimonious: Extracting and Characterizing Hidden Chain-of-Thought in Frontier Models",
+      "summary": "2609.26637 · ▲ 1",
+      "date_published": "2026-09-24T17:28:43.288Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.25187",
+      "url": "https://huggingface.co/papers/2609.25187",
+      "title": "X-Planner: Event-Structured Task Planning for Embodied Intelligence",
+      "summary": "2609.25187 · ▲ 1",
+      "date_published": "2026-09-24T17:28:43.288Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.27657",
+      "url": "https://huggingface.co/papers/2609.27657",
+      "title": "FLEET: From Logits Entropy to Enhanced Trajectories in Text Generation",
+      "summary": "2609.27657 · ▲ 1",
+      "date_published": "2026-09-24T17:28:43.288Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.28470",
       "url": "https://huggingface.co/papers/2609.28470",
       "title": "StudentBench: AI and human tutoring yield equivalent GRE learning gains",
-      "summary": "2609.28470 · ▲ 0",
-      "date_published": "2026-09-24T05:13:25.144Z"
+      "summary": "2609.28470 · ▲ 1",
+      "date_published": "2026-09-24T17:28:43.288Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.24815",
+      "url": "https://huggingface.co/papers/2609.24815",
+      "title": "Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI",
+      "summary": "2609.24815 · ▲ 0",
+      "date_published": "2026-09-24T17:28:43.288Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.25853",
+      "url": "https://huggingface.co/papers/2609.25853",
+      "title": "MemoryAthena: Adaptive Routing over Latent and Generated Memories",
+      "summary": "2609.25853 · ▲ 0",
+      "date_published": "2026-09-24T17:28:43.288Z"
     }
   ]
 }
