@@ -5,165 +5,116 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2609.25804",
-      "url": "https://huggingface.co/papers/2609.25804",
-      "title": "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks",
-      "summary": "2609.25804 · ▲ 111",
-      "date_published": "2026-09-23T17:23:57.317Z"
+      "id": "https://huggingface.co/papers/2609.28466",
+      "url": "https://huggingface.co/papers/2609.28466",
+      "title": "The Past Frames the Future: Memory for Autoregressive Video Generation",
+      "summary": "2609.28466 · ▲ 26",
+      "date_published": "2026-09-24T05:13:25.144Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.25270",
-      "url": "https://huggingface.co/papers/2609.25270",
-      "title": "RULER: Instance-aware Rubric Rewards for SVG Generation",
-      "summary": "2609.25270 · ▲ 59",
-      "date_published": "2026-09-23T17:23:57.317Z"
+      "id": "https://huggingface.co/papers/2609.26780",
+      "url": "https://huggingface.co/papers/2609.26780",
+      "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
+      "summary": "2609.26780 · ▲ 19",
+      "date_published": "2026-09-24T05:13:25.144Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.24981",
-      "url": "https://huggingface.co/papers/2609.24981",
-      "title": "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation",
-      "summary": "2609.24981 · ▲ 38",
-      "date_published": "2026-09-23T17:23:57.317Z"
+      "id": "https://huggingface.co/papers/2609.22947",
+      "url": "https://huggingface.co/papers/2609.22947",
+      "title": "RewardVerse: Rubric-Guided Policy Optimization for Video Reward Modeling",
+      "summary": "2609.22947 · ▲ 17",
+      "date_published": "2026-09-24T05:13:25.144Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.24058",
-      "url": "https://huggingface.co/papers/2609.24058",
-      "title": "All-in-One Multilingual Scene Text Recognition with Script-aware Mixture-of-Experts",
-      "summary": "2609.24058 · ▲ 35",
-      "date_published": "2026-09-23T17:23:57.317Z"
+      "id": "https://huggingface.co/papers/2609.24308",
+      "url": "https://huggingface.co/papers/2609.24308",
+      "title": "HappyWorld-Bench",
+      "summary": "2609.24308 · ▲ 16",
+      "date_published": "2026-09-24T05:13:25.144Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.15987",
-      "url": "https://huggingface.co/papers/2609.15987",
-      "title": "Bellman Policy Optimization",
-      "summary": "2609.15987 · ▲ 24",
-      "date_published": "2026-09-23T17:23:57.317Z"
+      "id": "https://huggingface.co/papers/2609.26355",
+      "url": "https://huggingface.co/papers/2609.26355",
+      "title": "PACT: From Credit Assignment to Critic Alignment",
+      "summary": "2609.26355 · ▲ 11",
+      "date_published": "2026-09-24T05:13:25.144Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.24657",
-      "url": "https://huggingface.co/papers/2609.24657",
-      "title": "Circuit Hypernetworks for Quantum-Augmented Diffusion Language Models",
-      "summary": "2609.24657 · ▲ 22",
-      "date_published": "2026-09-23T17:23:57.317Z"
+      "id": "https://huggingface.co/papers/2609.27891",
+      "url": "https://huggingface.co/papers/2609.27891",
+      "title": "Schrödinger's Code Repository: Have LLMs Learned SWE-bench or Memorized It?",
+      "summary": "2609.27891 · ▲ 10",
+      "date_published": "2026-09-24T05:13:25.144Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.26774",
-      "url": "https://huggingface.co/papers/2609.26774",
-      "title": "StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training",
-      "summary": "2609.26774 · ▲ 20",
-      "date_published": "2026-09-23T17:23:57.317Z"
+      "id": "https://huggingface.co/papers/2609.28256",
+      "url": "https://huggingface.co/papers/2609.28256",
+      "title": "MemBodied: Recurrent Associative Memory for Vision-Language-Action Models",
+      "summary": "2609.28256 · ▲ 7",
+      "date_published": "2026-09-24T05:13:25.144Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.25165",
-      "url": "https://huggingface.co/papers/2609.25165",
-      "title": "Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings",
-      "summary": "2609.25165 · ▲ 19",
-      "date_published": "2026-09-23T17:23:57.317Z"
+      "id": "https://huggingface.co/papers/2609.27490",
+      "url": "https://huggingface.co/papers/2609.27490",
+      "title": "WhatWorkedBench: Benchmarking Experimental Understanding in AI Agents",
+      "summary": "2609.27490 · ▲ 7",
+      "date_published": "2026-09-24T05:13:25.144Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.25186",
-      "url": "https://huggingface.co/papers/2609.25186",
-      "title": "From Pattern Recognizers to Personalized Companions: A Survey of Large Language Models in Mental Health",
-      "summary": "2609.25186 · ▲ 15",
-      "date_published": "2026-09-23T17:23:57.317Z"
+      "id": "https://huggingface.co/papers/2609.27284",
+      "url": "https://huggingface.co/papers/2609.27284",
+      "title": "Hunyuan-A13B Technical Report",
+      "summary": "2609.27284 · ▲ 4",
+      "date_published": "2026-09-24T05:13:25.144Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.26796",
-      "url": "https://huggingface.co/papers/2609.26796",
-      "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
-      "summary": "2609.26796 · ▲ 13",
-      "date_published": "2026-09-23T17:23:57.317Z"
+      "id": "https://huggingface.co/papers/2609.23784",
+      "url": "https://huggingface.co/papers/2609.23784",
+      "title": "PackLab: A Comprehensive Framework for Developing, Training, and Evaluating MLLMs in Robotic Bin Packing",
+      "summary": "2609.23784 · ▲ 2",
+      "date_published": "2026-09-24T05:13:25.144Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.26550",
-      "url": "https://huggingface.co/papers/2609.26550",
-      "title": "JEV-as-a-Judge: Accept When Confident, Escalate When Unsure",
-      "summary": "2609.26550 · ▲ 11",
-      "date_published": "2026-09-23T17:23:57.317Z"
+      "id": "https://huggingface.co/papers/2609.27334",
+      "url": "https://huggingface.co/papers/2609.27334",
+      "title": "Just-in-Time Memory: Learning to Curate Task-Adaptive Memory for LLM Agents",
+      "summary": "2609.27334 · ▲ 2",
+      "date_published": "2026-09-24T05:13:25.144Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.25199",
-      "url": "https://huggingface.co/papers/2609.25199",
-      "title": "Lean Pool: An AI-Maintained Archive of Formalized Mathematics",
-      "summary": "2609.25199 · ▲ 11",
-      "date_published": "2026-09-23T17:23:57.317Z"
+      "id": "https://huggingface.co/papers/2609.27321",
+      "url": "https://huggingface.co/papers/2609.27321",
+      "title": "Verifiable Hidden Dynamics Play: Generating Agentic RL Environments from Solved Mechanisms",
+      "summary": "2609.27321 · ▲ 2",
+      "date_published": "2026-09-24T05:13:25.144Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.26781",
-      "url": "https://huggingface.co/papers/2609.26781",
-      "title": "Agensh: Scaling Organizational Intelligence to 1,024 Agents",
-      "summary": "2609.26781 · ▲ 6",
-      "date_published": "2026-09-23T17:23:57.317Z"
+      "id": "https://huggingface.co/papers/2609.27656",
+      "url": "https://huggingface.co/papers/2609.27656",
+      "title": "InternW0: A Foundational Physical World Model for Efficient Real-World Interactions",
+      "summary": "2609.27656 · ▲ 2",
+      "date_published": "2026-09-24T05:13:25.144Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.24967",
-      "url": "https://huggingface.co/papers/2609.24967",
-      "title": "Emergent Collusion in Long-Horizon LLM Agent Interaction",
-      "summary": "2609.24967 · ▲ 6",
-      "date_published": "2026-09-23T17:23:57.317Z"
+      "id": "https://huggingface.co/papers/2609.27308",
+      "url": "https://huggingface.co/papers/2609.27308",
+      "title": "EmbodiedSWE: Coding Agents for Long Horizon Dexterous Robotics",
+      "summary": "2609.27308 · ▲ 1",
+      "date_published": "2026-09-24T05:13:25.144Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.26457",
-      "url": "https://huggingface.co/papers/2609.26457",
-      "title": "Recursive self-improvement of AI research agents",
-      "summary": "2609.26457 · ▲ 6",
-      "date_published": "2026-09-23T17:23:57.317Z"
+      "id": "https://huggingface.co/papers/2609.23038",
+      "url": "https://huggingface.co/papers/2609.23038",
+      "title": "Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World",
+      "summary": "2609.23038 · ▲ 0",
+      "date_published": "2026-09-24T05:13:25.144Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.26346",
-      "url": "https://huggingface.co/papers/2609.26346",
-      "title": "Blaming Across the Aisle: Political Contrasting and Blame Attribution in the Danish Parliament",
-      "summary": "2609.26346 · ▲ 4",
-      "date_published": "2026-09-23T17:23:57.317Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.25053",
-      "url": "https://huggingface.co/papers/2609.25053",
-      "title": "LatentPort: Beyond KV Cache - Cross-Model Transfer of Recurrent Memory in Hybrid Language Models: A 4B-to-9B Hybrid-State Handoff Without Target Prefix Replay",
-      "summary": "2609.25053 · ▲ 3",
-      "date_published": "2026-09-23T17:23:57.317Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.25636",
-      "url": "https://huggingface.co/papers/2609.25636",
-      "title": "RoboFollow: Unveiling the Instruction Following Mirage in Embodied Agents",
-      "summary": "2609.25636 · ▲ 3",
-      "date_published": "2026-09-23T17:23:57.317Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.25247",
-      "url": "https://huggingface.co/papers/2609.25247",
-      "title": "Geometric and Semantic Coupling for Interaction Understanding in 3D Scenes",
-      "summary": "2609.25247 · ▲ 3",
-      "date_published": "2026-09-23T17:23:57.317Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.06011",
-      "url": "https://huggingface.co/papers/2609.06011",
-      "title": "Tri-PvP: Exposing Modality Bias in Omni-Modal Large Language Models through Perceptual-Propositional Evidence Conflicts",
-      "summary": "2609.06011 · ▲ 1",
-      "date_published": "2026-09-23T17:23:57.317Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.22319",
-      "url": "https://huggingface.co/papers/2609.22319",
-      "title": "Embedding Physics Priors in Robot Learning: A Survey",
-      "summary": "2609.22319 · ▲ 1",
-      "date_published": "2026-09-23T17:23:57.317Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.25267",
-      "url": "https://huggingface.co/papers/2609.25267",
-      "title": "ImIR: Image-Instruction Tuning for All-in-One Image Restoration",
-      "summary": "2609.25267 · ▲ 1",
-      "date_published": "2026-09-23T17:23:57.317Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.22323",
-      "url": "https://huggingface.co/papers/2609.22323",
-      "title": "ALPINE: Adaptive Localization for Parameter- and Sample-Efficient Few-Shot Learning",
-      "summary": "2609.22323 · ▲ 1",
-      "date_published": "2026-09-23T17:23:57.317Z"
+      "id": "https://huggingface.co/papers/2609.28470",
+      "url": "https://huggingface.co/papers/2609.28470",
+      "title": "StudentBench: AI and human tutoring yield equivalent GRE learning gains",
+      "summary": "2609.28470 · ▲ 0",
+      "date_published": "2026-09-24T05:13:25.144Z"
     }
   ]
 }
