@@ -8,155 +8,155 @@
       "id": "https://huggingface.co/papers/2609.28654",
       "url": "https://huggingface.co/papers/2609.28654",
       "title": "Training Object Permanence in World Models",
-      "summary": "2609.28654 · ▲ 187",
-      "date_published": "2026-09-26T05:20:14.779Z"
+      "summary": "2609.28654 · ▲ 194",
+      "date_published": "2026-09-26T16:38:23.073Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.29845",
       "url": "https://huggingface.co/papers/2609.29845",
       "title": "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs",
-      "summary": "2609.29845 · ▲ 57",
-      "date_published": "2026-09-26T05:20:14.779Z"
+      "summary": "2609.29845 · ▲ 63",
+      "date_published": "2026-09-26T16:38:23.073Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.30221",
       "url": "https://huggingface.co/papers/2609.30221",
       "title": "WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation",
-      "summary": "2609.30221 · ▲ 29",
-      "date_published": "2026-09-26T05:20:14.779Z"
+      "summary": "2609.30221 · ▲ 31",
+      "date_published": "2026-09-26T16:38:23.073Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.23407",
       "url": "https://huggingface.co/papers/2609.23407",
       "title": "OmniEcho: Spatial Audio Understanding for Embodied Agents",
       "summary": "2609.23407 · ▲ 20",
-      "date_published": "2026-09-26T05:20:14.779Z"
+      "date_published": "2026-09-26T16:38:23.073Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.28416",
       "url": "https://huggingface.co/papers/2609.28416",
       "title": "Agent-Editing World Model: Rethinking World Modeling for LLM Agents",
-      "summary": "2609.28416 · ▲ 13",
-      "date_published": "2026-09-26T05:20:14.779Z"
+      "summary": "2609.28416 · ▲ 16",
+      "date_published": "2026-09-26T16:38:23.073Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.29421",
+      "url": "https://huggingface.co/papers/2609.29421",
+      "title": "Rufus-Air: An Open LLM Post-Training Recipe",
+      "summary": "2609.29421 · ▲ 12",
+      "date_published": "2026-09-26T16:38:23.073Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.29362",
       "url": "https://huggingface.co/papers/2609.29362",
       "title": "Parts-of-Speech as Emergent Categories in SAE Latent Space",
       "summary": "2609.29362 · ▲ 10",
-      "date_published": "2026-09-26T05:20:14.779Z"
+      "date_published": "2026-09-26T16:38:23.073Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.29892",
       "url": "https://huggingface.co/papers/2609.29892",
       "title": "Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents",
-      "summary": "2609.29892 · ▲ 9",
-      "date_published": "2026-09-26T05:20:14.779Z"
+      "summary": "2609.29892 · ▲ 10",
+      "date_published": "2026-09-26T16:38:23.073Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.29444",
       "url": "https://huggingface.co/papers/2609.29444",
       "title": "IterSynth: Rethinking Deep Search Agents via Role-Decoupled Iterative Synthesis",
-      "summary": "2609.29444 · ▲ 8",
-      "date_published": "2026-09-26T05:20:14.779Z"
+      "summary": "2609.29444 · ▲ 9",
+      "date_published": "2026-09-26T16:38:23.073Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.30233",
+      "url": "https://huggingface.co/papers/2609.30233",
+      "title": "Coding Agents for Generalized Task and Motion Planning Problems",
+      "summary": "2609.30233 · ▲ 8",
+      "date_published": "2026-09-26T16:38:23.073Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.30199",
+      "url": "https://huggingface.co/papers/2609.30199",
+      "title": "ExplorationBench: Measuring AI Systems' Exploration in Verifiable Alien Worlds",
+      "summary": "2609.30199 · ▲ 8",
+      "date_published": "2026-09-26T16:38:23.073Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.28603",
+      "url": "https://huggingface.co/papers/2609.28603",
+      "title": "Learning to Discover Interesting Mathematics",
+      "summary": "2609.28603 · ▲ 7",
+      "date_published": "2026-09-26T16:38:23.073Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.29028",
       "url": "https://huggingface.co/papers/2609.29028",
       "title": "RGBD20K: A Large-Scale Benchmark for RGB-D Semantic Segmentation",
       "summary": "2609.29028 · ▲ 7",
-      "date_published": "2026-09-26T05:20:14.779Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.29421",
-      "url": "https://huggingface.co/papers/2609.29421",
-      "title": "Rufus-Air: An Open LLM Post-Training Recipe",
-      "summary": "2609.29421 · ▲ 7",
-      "date_published": "2026-09-26T05:20:14.779Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.30233",
-      "url": "https://huggingface.co/papers/2609.30233",
-      "title": "Coding Agents for Generalized Task and Motion Planning Problems",
-      "summary": "2609.30233 · ▲ 6",
-      "date_published": "2026-09-26T05:20:14.779Z"
+      "date_published": "2026-09-26T16:38:23.073Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.23087",
       "url": "https://huggingface.co/papers/2609.23087",
       "title": "Neural Spectral Capacity: Measuring and Designing Architectures from Network Specification Alone",
-      "summary": "2609.23087 · ▲ 6",
-      "date_published": "2026-09-26T05:20:14.779Z"
+      "summary": "2609.23087 · ▲ 7",
+      "date_published": "2026-09-26T16:38:23.073Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.29647",
       "url": "https://huggingface.co/papers/2609.29647",
       "title": "AgentKernel: The Trust-Native Agentic Operating System",
-      "summary": "2609.29647 · ▲ 5",
-      "date_published": "2026-09-26T05:20:14.779Z"
+      "summary": "2609.29647 · ▲ 6",
+      "date_published": "2026-09-26T16:38:23.073Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.28603",
-      "url": "https://huggingface.co/papers/2609.28603",
-      "title": "Learning to Discover Interesting Mathematics",
-      "summary": "2609.28603 · ▲ 4",
-      "date_published": "2026-09-26T05:20:14.779Z"
+      "id": "https://huggingface.co/papers/2609.29964",
+      "url": "https://huggingface.co/papers/2609.29964",
+      "title": "World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal",
+      "summary": "2609.29964 · ▲ 5",
+      "date_published": "2026-09-26T16:38:23.073Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2609.29429",
+      "url": "https://huggingface.co/papers/2609.29429",
+      "title": "Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures",
+      "summary": "2609.29429 · ▲ 4",
+      "date_published": "2026-09-26T16:38:23.073Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.29837",
       "url": "https://huggingface.co/papers/2609.29837",
       "title": "PUBG Ally: A Conversational Embodied Agent as an AI Teammate",
       "summary": "2609.29837 · ▲ 4",
-      "date_published": "2026-09-26T05:20:14.779Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.30199",
-      "url": "https://huggingface.co/papers/2609.30199",
-      "title": "ExplorationBench: Measuring AI Systems' Exploration in Verifiable Alien Worlds",
-      "summary": "2609.30199 · ▲ 4",
-      "date_published": "2026-09-26T05:20:14.779Z"
+      "date_published": "2026-09-26T16:38:23.073Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.29816",
       "url": "https://huggingface.co/papers/2609.29816",
       "title": "AV-GRPO: Modality-Anchored Decoupling Diffusion Reinforcement Learning for Joint Audio-Video Generation",
       "summary": "2609.29816 · ▲ 3",
-      "date_published": "2026-09-26T05:20:14.779Z"
+      "date_published": "2026-09-26T16:38:23.073Z"
     },
     {
-      "id": "https://huggingface.co/papers/2609.29964",
-      "url": "https://huggingface.co/papers/2609.29964",
-      "title": "World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal",
-      "summary": "2609.29964 · ▲ 3",
-      "date_published": "2026-09-26T05:20:14.779Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.29429",
-      "url": "https://huggingface.co/papers/2609.29429",
-      "title": "Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures",
-      "summary": "2609.29429 · ▲ 2",
-      "date_published": "2026-09-26T05:20:14.779Z"
+      "id": "https://huggingface.co/papers/2609.28923",
+      "url": "https://huggingface.co/papers/2609.28923",
+      "title": "ViRDM: Taming Representation Distribution Matching for Few-Step Causal Video Generation",
+      "summary": "2609.28923 · ▲ 3",
+      "date_published": "2026-09-26T16:38:23.073Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.28811",
       "url": "https://huggingface.co/papers/2609.28811",
       "title": "DeltaWAM: Delta World Action Models for Bimanual Manipulation",
       "summary": "2609.28811 · ▲ 2",
-      "date_published": "2026-09-26T05:20:14.779Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2609.28923",
-      "url": "https://huggingface.co/papers/2609.28923",
-      "title": "ViRDM: Taming Representation Distribution Matching for Few-Step Causal Video Generation",
-      "summary": "2609.28923 · ▲ 2",
-      "date_published": "2026-09-26T05:20:14.779Z"
+      "date_published": "2026-09-26T16:38:23.073Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.30077",
       "url": "https://huggingface.co/papers/2609.30077",
       "title": "Rate-distortion optimization for full-reference image quality metrics via stochastic Hessian estimates",
       "summary": "2609.30077 · ▲ 2",
-      "date_published": "2026-09-26T05:20:14.779Z"
+      "date_published": "2026-09-26T16:38:23.073Z"
     }
   ]
 }
