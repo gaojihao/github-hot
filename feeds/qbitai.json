@@ -5,74 +5,46 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/qbitai.json",
   "items": [
     {
+      "id": "https://www.qbitai.com/2026/09/498877.html",
+      "url": "https://www.qbitai.com/2026/09/498877.html",
+      "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
+      "summary": "工业Agent · 田, 晏林 · 2026年09月28日",
+      "date_published": "2026-09-28T19:47:59.303Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/09/498787.html",
+      "url": "https://www.qbitai.com/2026/09/498787.html",
+      "title": "HC归来，华为正重新定义AIDC基础设施",
+      "summary": "华为AIDC · 杰西卡 · 2026年09月28日",
+      "date_published": "2026-09-28T19:47:59.303Z"
+    },
+    {
       "id": "https://www.qbitai.com/2026/09/498633.html",
       "url": "https://www.qbitai.com/2026/09/498633.html",
       "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
       "summary": "最in技术 · 文婷 · 2026年09月27日",
-      "date_published": "2026-09-28T05:44:34.176Z"
+      "date_published": "2026-09-28T19:47:59.303Z"
     },
     {
       "id": "https://www.qbitai.com/2026/09/498605.html",
       "url": "https://www.qbitai.com/2026/09/498605.html",
       "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
       "summary": "上海交通大学 · 衡宇 · 2026年09月27日",
-      "date_published": "2026-09-28T05:44:34.176Z"
+      "date_published": "2026-09-28T19:47:59.303Z"
     },
     {
       "id": "https://www.qbitai.com/2026/09/498584.html",
       "url": "https://www.qbitai.com/2026/09/498584.html",
       "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
       "summary": "Coding · 衡宇 · 2026年09月27日",
-      "date_published": "2026-09-28T05:44:34.176Z"
+      "date_published": "2026-09-28T19:47:59.303Z"
     },
     {
       "id": "https://www.qbitai.com/2026/09/498546.html",
       "url": "https://www.qbitai.com/2026/09/498546.html",
       "title": "啥题啊能干崩OpenAI最强模型训练…",
       "summary": "资讯 · 文婷 · 2026年09月27日",
-      "date_published": "2026-09-28T05:44:34.176Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/09/498478.html",
-      "url": "https://www.qbitai.com/2026/09/498478.html",
-      "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
-      "summary": "美梦空间 · 量子位的朋友们 · 2026年09月26日",
-      "date_published": "2026-09-28T05:44:34.176Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/09/498271.html",
-      "url": "https://www.qbitai.com/2026/09/498271.html",
-      "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
-      "summary": "资讯 · 田, 晏林 · 2026年09月26日",
-      "date_published": "2026-09-28T05:44:34.176Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/09/497624.html",
-      "url": "https://www.qbitai.com/2026/09/497624.html",
-      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
-      "summary": "资讯 · 田, 晏林 · 2026年09月26日",
-      "date_published": "2026-09-28T05:44:34.176Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/09/497613.html",
-      "url": "https://www.qbitai.com/2026/09/497613.html",
-      "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
-      "summary": "AI · 听雨 · 2026年09月26日",
-      "date_published": "2026-09-28T05:44:34.176Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/09/497425.html",
-      "url": "https://www.qbitai.com/2026/09/497425.html",
-      "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
-      "summary": "资讯 · 听雨 · 2026年09月26日",
-      "date_published": "2026-09-28T05:44:34.176Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/09/497382.html",
-      "url": "https://www.qbitai.com/2026/09/497382.html",
-      "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
-      "summary": "OpenAI · 听雨 · 2026年09月26日",
-      "date_published": "2026-09-28T05:44:34.176Z"
+      "date_published": "2026-09-28T19:47:59.303Z"
     }
   ]
 }
