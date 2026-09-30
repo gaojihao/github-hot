@@ -5,46 +5,53 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "summary": "Security · 2026年09月30日",
+      "date_published": "2026-09-30T18:04:43.854Z"
+    },
+    {
+      "id": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "title": "Helping small businesses put AI to work",
+      "summary": "Global Affairs · 2026年09月30日",
+      "date_published": "2026-09-30T18:04:43.854Z"
+    },
+    {
       "id": "https://openai.com/index/introducing-gpt-6-1-sol",
       "url": "https://openai.com/index/introducing-gpt-6-1-sol",
       "title": "Introducing GPT-6.1 Sol",
       "summary": "Product · 2026年09月29日",
-      "date_published": "2026-09-30T05:51:08.302Z"
+      "date_published": "2026-09-30T18:04:43.854Z"
     },
     {
       "id": "https://openai.com/index/devday-2026-recap",
       "url": "https://openai.com/index/devday-2026-recap",
       "title": "DevDay 2026 Recap",
       "summary": "Company · 2026年09月29日",
-      "date_published": "2026-09-30T05:51:08.302Z"
+      "date_published": "2026-09-30T18:04:43.854Z"
     },
     {
       "id": "https://openai.com/index/introducing-dots",
       "url": "https://openai.com/index/introducing-dots",
       "title": "Introducing dots",
       "summary": "Product · 2026年09月29日",
-      "date_published": "2026-09-30T05:51:08.302Z"
-    },
-    {
-      "id": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "title": "Towards safety cases for frontier AI training",
-      "summary": "Safety · 2026年09月29日",
-      "date_published": "2026-09-30T05:51:08.302Z"
+      "date_published": "2026-09-30T18:04:43.854Z"
     },
     {
       "id": "https://openai.com/index/how-we-will-do-better-for-australia",
       "url": "https://openai.com/index/how-we-will-do-better-for-australia",
       "title": "How we will do better for Australia",
       "summary": "Company · 2026年09月29日",
-      "date_published": "2026-09-30T05:51:08.302Z"
+      "date_published": "2026-09-30T18:04:43.854Z"
     },
     {
-      "id": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "summary": "Company · 2026年09月28日",
-      "date_published": "2026-09-30T05:51:08.302Z"
+      "id": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "title": "Towards safety cases for frontier AI training",
+      "summary": "Safety · 2026年09月29日",
+      "date_published": "2026-09-30T18:04:43.854Z"
     }
   ]
 }
