@@ -5,53 +5,74 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/qbitai.json",
   "items": [
     {
+      "id": "https://www.qbitai.com/2026/09/499280.html",
+      "url": "https://www.qbitai.com/2026/09/499280.html",
+      "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
+      "summary": "智能车参考 · 杰西卡 · 2026年09月30日",
+      "date_published": "2026-09-30T05:51:08.302Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/09/499263.html",
+      "url": "https://www.qbitai.com/2026/09/499263.html",
+      "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
+      "summary": "华为 · 量子位的朋友们 · 2026年09月30日",
+      "date_published": "2026-09-30T05:51:08.302Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/09/499246.html",
+      "url": "https://www.qbitai.com/2026/09/499246.html",
+      "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
+      "summary": "Dots · 衡宇 · 2026年09月30日",
+      "date_published": "2026-09-30T05:51:08.302Z"
+    },
+    {
       "id": "https://www.qbitai.com/2026/09/499239.html",
       "url": "https://www.qbitai.com/2026/09/499239.html",
       "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
       "summary": "Striding AI · 量子位的朋友们 · 2026年09月29日",
-      "date_published": "2026-09-29T18:12:52.828Z"
+      "date_published": "2026-09-30T05:51:08.302Z"
     },
     {
       "id": "https://www.qbitai.com/2026/09/499188.html",
       "url": "https://www.qbitai.com/2026/09/499188.html",
       "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
       "summary": "AI大模型 · 文婷 · 2026年09月29日",
-      "date_published": "2026-09-29T18:12:52.828Z"
+      "date_published": "2026-09-30T05:51:08.302Z"
     },
     {
       "id": "https://www.qbitai.com/2026/09/499140.html",
       "url": "https://www.qbitai.com/2026/09/499140.html",
       "title": "OpenAI因新模型太强叫停发布",
       "summary": "GPT-6 Astra · 程浅 · 2026年09月29日",
-      "date_published": "2026-09-29T18:12:52.828Z"
+      "date_published": "2026-09-30T05:51:08.302Z"
     },
     {
       "id": "https://www.qbitai.com/2026/09/499135.html",
       "url": "https://www.qbitai.com/2026/09/499135.html",
       "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
       "summary": "融资 · 量子位的朋友们 · 2026年09月29日",
-      "date_published": "2026-09-29T18:12:52.828Z"
+      "date_published": "2026-09-30T05:51:08.302Z"
     },
     {
       "id": "https://www.qbitai.com/2026/09/499098.html",
       "url": "https://www.qbitai.com/2026/09/499098.html",
       "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
       "summary": "AMD · 梦晨 · 2026年09月29日",
-      "date_published": "2026-09-29T18:12:52.828Z"
+      "date_published": "2026-09-30T05:51:08.302Z"
     },
     {
       "id": "https://www.qbitai.com/2026/09/498877.html",
       "url": "https://www.qbitai.com/2026/09/498877.html",
       "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
       "summary": "工业Agent · 田, 晏林 · 2026年09月28日",
-      "date_published": "2026-09-29T18:12:52.828Z"
+      "date_published": "2026-09-30T05:51:08.302Z"
     },
     {
       "id": "https://www.qbitai.com/2026/09/498787.html",
       "url": "https://www.qbitai.com/2026/09/498787.html",
       "title": "HC归来，华为正重新定义AIDC基础设施",
       "summary": "华为AIDC · 杰西卡 · 2026年09月28日",
-      "date_published": "2026-09-29T18:12:52.828Z"
+      "date_published": "2026-09-30T05:51:08.302Z"
     }
   ]
 }
