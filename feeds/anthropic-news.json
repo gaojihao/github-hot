@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/anthropic-news.json",
   "items": [
     {
+      "id": "https://www.anthropic.com/news/claude-frontier-academy",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+      "summary": "Announcements · 2026年10月02日",
+      "date_published": "2026-10-02T17:59:23.421Z"
+    },
+    {
       "id": "https://www.anthropic.com/news/barclays-scales-claude",
       "url": "https://www.anthropic.com/news/barclays-scales-claude",
       "title": "Barclays scales Claude to upgrade operations and improve client experience",
       "summary": "Announcements · 2026年10月01日",
-      "date_published": "2026-10-02T06:02:36.423Z"
+      "date_published": "2026-10-02T17:59:23.421Z"
     },
     {
       "id": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
       "summary": "Science · 2026年09月23日",
-      "date_published": "2026-10-02T06:02:36.423Z"
+      "date_published": "2026-10-02T17:59:23.421Z"
     },
     {
       "id": "https://www.anthropic.com/news/accenture-embedded-evaluation",
       "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
       "title": "Partnering with Accenture on embedded evaluation",
       "summary": "Announcements · 2026年09月18日",
-      "date_published": "2026-10-02T06:02:36.423Z"
+      "date_published": "2026-10-02T17:59:23.421Z"
     },
     {
       "id": "https://www.anthropic.com/news/life-sciences-verification-program",
       "url": "https://www.anthropic.com/news/life-sciences-verification-program",
       "title": "Introducing the Life Sciences Verification Program",
       "summary": "Announcements · 2026年09月17日",
-      "date_published": "2026-10-02T06:02:36.423Z"
-    },
-    {
-      "id": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-      "title": "Developing Enterprise Frontier Safeguards with our customers",
-      "summary": "Announcements · 2026年09月01日",
-      "date_published": "2026-10-02T06:02:36.423Z"
+      "date_published": "2026-10-02T17:59:23.421Z"
     }
   ]
 }
