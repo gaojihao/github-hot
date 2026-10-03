@@ -5,53 +5,46 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/qbitai.json",
   "items": [
     {
+      "id": "https://www.qbitai.com/2026/10/501381.html",
+      "url": "https://www.qbitai.com/2026/10/501381.html",
+      "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+      "summary": "Deepseek · 闻乐 · 2026年10月03日",
+      "date_published": "2026-10-03T16:36:45.814Z"
+    },
+    {
       "id": "https://www.qbitai.com/2026/10/501368.html",
       "url": "https://www.qbitai.com/2026/10/501368.html",
       "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
       "summary": "OpenAI安全团队 · 衡宇 · 2026年10月03日",
-      "date_published": "2026-10-03T05:37:23.039Z"
+      "date_published": "2026-10-03T16:36:45.814Z"
     },
     {
       "id": "https://www.qbitai.com/2026/10/500148.html",
       "url": "https://www.qbitai.com/2026/10/500148.html",
       "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
       "summary": "资讯 · 梦晨 · 2026年10月03日",
-      "date_published": "2026-10-03T05:37:23.039Z"
+      "date_published": "2026-10-03T16:36:45.814Z"
     },
     {
       "id": "https://www.qbitai.com/2026/10/500098.html",
       "url": "https://www.qbitai.com/2026/10/500098.html",
       "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
       "summary": "华为 · 梦晨 · 2026年10月02日",
-      "date_published": "2026-10-03T05:37:23.039Z"
+      "date_published": "2026-10-03T16:36:45.814Z"
     },
     {
       "id": "https://www.qbitai.com/2026/10/499991.html",
       "url": "https://www.qbitai.com/2026/10/499991.html",
       "title": "丘成桐新论文致谢了GPT和Claude",
       "summary": "数学 · 梦晨 · 2026年10月02日",
-      "date_published": "2026-10-03T05:37:23.039Z"
+      "date_published": "2026-10-03T16:36:45.814Z"
     },
     {
       "id": "https://www.qbitai.com/2026/10/499958.html",
       "url": "https://www.qbitai.com/2026/10/499958.html",
       "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
       "summary": "arXiv · 闻乐 · 2026年10月02日",
-      "date_published": "2026-10-03T05:37:23.039Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/10/499812.html",
-      "url": "https://www.qbitai.com/2026/10/499812.html",
-      "title": "何恺明团队新作：看猫片就能学会ARC挑战",
-      "summary": "何恺明 · 鹭羽 · 2026年10月01日",
-      "date_published": "2026-10-03T05:37:23.039Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/10/499663.html",
-      "url": "https://www.qbitai.com/2026/10/499663.html",
-      "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
-      "summary": "Gemini · 鹭羽 · 2026年10月01日",
-      "date_published": "2026-10-03T05:37:23.039Z"
+      "date_published": "2026-10-03T16:36:45.814Z"
     }
   ]
 }
