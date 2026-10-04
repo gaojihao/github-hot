@@ -5,46 +5,60 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/qbitai.json",
   "items": [
     {
+      "id": "https://www.qbitai.com/2026/10/501506.html",
+      "url": "https://www.qbitai.com/2026/10/501506.html",
+      "title": "最火AI岗位FDE：月薪5万，都干这些…",
+      "summary": "FDE · 田, 晏林 · 2026年10月04日",
+      "date_published": "2026-10-04T06:12:50.991Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/10/501451.html",
+      "url": "https://www.qbitai.com/2026/10/501451.html",
+      "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+      "summary": "3D · 听雨 · 2026年10月04日",
+      "date_published": "2026-10-04T06:12:50.991Z"
+    },
+    {
       "id": "https://www.qbitai.com/2026/10/501381.html",
       "url": "https://www.qbitai.com/2026/10/501381.html",
       "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
       "summary": "Deepseek · 闻乐 · 2026年10月03日",
-      "date_published": "2026-10-03T16:36:45.814Z"
+      "date_published": "2026-10-04T06:12:50.991Z"
     },
     {
       "id": "https://www.qbitai.com/2026/10/501368.html",
       "url": "https://www.qbitai.com/2026/10/501368.html",
       "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
       "summary": "OpenAI安全团队 · 衡宇 · 2026年10月03日",
-      "date_published": "2026-10-03T16:36:45.814Z"
+      "date_published": "2026-10-04T06:12:50.991Z"
     },
     {
       "id": "https://www.qbitai.com/2026/10/500148.html",
       "url": "https://www.qbitai.com/2026/10/500148.html",
       "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
       "summary": "资讯 · 梦晨 · 2026年10月03日",
-      "date_published": "2026-10-03T16:36:45.814Z"
+      "date_published": "2026-10-04T06:12:50.991Z"
     },
     {
       "id": "https://www.qbitai.com/2026/10/500098.html",
       "url": "https://www.qbitai.com/2026/10/500098.html",
       "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
       "summary": "华为 · 梦晨 · 2026年10月02日",
-      "date_published": "2026-10-03T16:36:45.814Z"
+      "date_published": "2026-10-04T06:12:50.991Z"
     },
     {
       "id": "https://www.qbitai.com/2026/10/499991.html",
       "url": "https://www.qbitai.com/2026/10/499991.html",
       "title": "丘成桐新论文致谢了GPT和Claude",
       "summary": "数学 · 梦晨 · 2026年10月02日",
-      "date_published": "2026-10-03T16:36:45.814Z"
+      "date_published": "2026-10-04T06:12:50.991Z"
     },
     {
       "id": "https://www.qbitai.com/2026/10/499958.html",
       "url": "https://www.qbitai.com/2026/10/499958.html",
       "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
       "summary": "arXiv · 闻乐 · 2026年10月02日",
-      "date_published": "2026-10-03T16:36:45.814Z"
+      "date_published": "2026-10-04T06:12:50.991Z"
     }
   ]
 }
