@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/atlassian-partnership",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "summary": "Company · 2026年10月07日",
+      "date_published": "2026-10-06T18:33:11.087Z"
+    },
+    {
+      "id": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "title": "Advancing computer use with Ironclad",
+      "summary": "Company · 2026年10月06日",
+      "date_published": "2026-10-06T18:33:11.087Z"
+    },
+    {
       "id": "https://openai.com/index/eu-text-provenance",
       "url": "https://openai.com/index/eu-text-provenance",
       "title": "Our approach to EU text provenance rules",
       "summary": "Safety · 2026年10月05日",
-      "date_published": "2026-10-06T06:45:03.258Z"
+      "date_published": "2026-10-06T18:33:11.087Z"
     },
     {
       "id": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
       "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
       "title": "Building advertising for the way people use AI",
       "summary": "Product · 2026年10月05日",
-      "date_published": "2026-10-06T06:45:03.258Z"
+      "date_published": "2026-10-06T18:33:11.087Z"
     },
     {
       "id": "https://openai.com/index/practical-guide-building-gpt-6",
       "url": "https://openai.com/index/practical-guide-building-gpt-6",
       "title": "A model guide for the GPT-6 family",
       "summary": "Product · 2026年10月03日",
-      "date_published": "2026-10-06T06:45:03.258Z"
-    },
-    {
-      "id": "https://openai.com/index/chatham-financial",
-      "url": "https://openai.com/index/chatham-financial",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "summary": "2026年10月02日",
-      "date_published": "2026-10-06T06:45:03.258Z"
-    },
-    {
-      "id": "https://openai.com/index/the-eternal-complement",
-      "url": "https://openai.com/index/the-eternal-complement",
-      "title": "The eternal complement",
-      "summary": "Intelligence Age · 2026年10月02日",
-      "date_published": "2026-10-06T06:45:03.258Z"
+      "date_published": "2026-10-06T18:33:11.087Z"
     }
   ]
 }

@@ -5,39 +5,46 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/qbitai.json",
   "items": [
     {
+      "id": "https://www.qbitai.com/2026/10/501746.html",
+      "url": "https://www.qbitai.com/2026/10/501746.html",
+      "title": "刚刚，诺贝尔物理奖一人独揽！",
+      "summary": "资讯 · Jay · 2026年10月06日",
+      "date_published": "2026-10-06T18:33:11.087Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/10/501736.html",
+      "url": "https://www.qbitai.com/2026/10/501736.html",
+      "title": "不er，咋陶哲轩也成AI减速派了？？",
+      "summary": "大模型 · 林, 方舟 · 2026年10月06日",
+      "date_published": "2026-10-06T18:33:11.087Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/10/501726.html",
+      "url": "https://www.qbitai.com/2026/10/501726.html",
+      "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+      "summary": "OpenAI · 林, 方舟 · 2026年10月06日",
+      "date_published": "2026-10-06T18:33:11.087Z"
+    },
+    {
       "id": "https://www.qbitai.com/2026/10/501720.html",
       "url": "https://www.qbitai.com/2026/10/501720.html",
       "title": "刚刚，诺贝尔奖颁给光遗传学！",
       "summary": "资讯 · 梦瑶 · 2026年10月05日",
-      "date_published": "2026-10-06T06:45:03.258Z"
+      "date_published": "2026-10-06T18:33:11.087Z"
     },
     {
       "id": "https://www.qbitai.com/2026/10/501705.html",
       "url": "https://www.qbitai.com/2026/10/501705.html",
       "title": "刚刚，Hinton发了首篇RSI论文",
       "summary": "RSI · 梦瑶 · 2026年10月05日",
-      "date_published": "2026-10-06T06:45:03.258Z"
+      "date_published": "2026-10-06T18:33:11.087Z"
     },
     {
       "id": "https://www.qbitai.com/2026/10/501700.html",
       "url": "https://www.qbitai.com/2026/10/501700.html",
       "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
       "summary": "Codex · henry · 2026年10月05日",
-      "date_published": "2026-10-06T06:45:03.258Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/10/501605.html",
-      "url": "https://www.qbitai.com/2026/10/501605.html",
-      "title": "AI算力硬合作，马斯克还是更相信中国制造",
-      "summary": "台积电 · 田, 晏林 · 2026年10月04日",
-      "date_published": "2026-10-06T06:45:03.258Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/10/501506.html",
-      "url": "https://www.qbitai.com/2026/10/501506.html",
-      "title": "最火AI岗位FDE：月薪5万，都干这些…",
-      "summary": "FDE · 田, 晏林 · 2026年10月04日",
-      "date_published": "2026-10-06T06:45:03.258Z"
+      "date_published": "2026-10-06T18:33:11.087Z"
     }
   ]
 }
