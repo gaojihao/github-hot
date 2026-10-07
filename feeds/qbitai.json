@@ -5,46 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/qbitai.json",
   "items": [
     {
+      "id": "https://www.qbitai.com/2026/10/501749.html",
+      "url": "https://www.qbitai.com/2026/10/501749.html",
+      "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+      "summary": "OpenAI · 听雨 · 2026年10月07日",
+      "date_published": "2026-10-07T06:20:28.478Z"
+    },
+    {
       "id": "https://www.qbitai.com/2026/10/501746.html",
       "url": "https://www.qbitai.com/2026/10/501746.html",
       "title": "刚刚，诺贝尔物理奖一人独揽！",
       "summary": "资讯 · Jay · 2026年10月06日",
-      "date_published": "2026-10-06T18:33:11.087Z"
+      "date_published": "2026-10-07T06:20:28.478Z"
     },
     {
       "id": "https://www.qbitai.com/2026/10/501736.html",
       "url": "https://www.qbitai.com/2026/10/501736.html",
       "title": "不er，咋陶哲轩也成AI减速派了？？",
       "summary": "大模型 · 林, 方舟 · 2026年10月06日",
-      "date_published": "2026-10-06T18:33:11.087Z"
+      "date_published": "2026-10-07T06:20:28.478Z"
     },
     {
       "id": "https://www.qbitai.com/2026/10/501726.html",
       "url": "https://www.qbitai.com/2026/10/501726.html",
       "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
       "summary": "OpenAI · 林, 方舟 · 2026年10月06日",
-      "date_published": "2026-10-06T18:33:11.087Z"
+      "date_published": "2026-10-07T06:20:28.478Z"
     },
     {
       "id": "https://www.qbitai.com/2026/10/501720.html",
       "url": "https://www.qbitai.com/2026/10/501720.html",
       "title": "刚刚，诺贝尔奖颁给光遗传学！",
       "summary": "资讯 · 梦瑶 · 2026年10月05日",
-      "date_published": "2026-10-06T18:33:11.087Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/10/501705.html",
-      "url": "https://www.qbitai.com/2026/10/501705.html",
-      "title": "刚刚，Hinton发了首篇RSI论文",
-      "summary": "RSI · 梦瑶 · 2026年10月05日",
-      "date_published": "2026-10-06T18:33:11.087Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/10/501700.html",
-      "url": "https://www.qbitai.com/2026/10/501700.html",
-      "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
-      "summary": "Codex · henry · 2026年10月05日",
-      "date_published": "2026-10-06T18:33:11.087Z"
+      "date_published": "2026-10-07T06:20:28.478Z"
     }
   ]
 }
