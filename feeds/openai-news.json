@@ -5,46 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/sophos",
+      "url": "https://openai.com/index/sophos",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "summary": "2026年10月09日",
+      "date_published": "2026-10-09T18:28:17.455Z"
+    },
+    {
       "id": "https://openai.com/index/oracle",
       "url": "https://openai.com/index/oracle",
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "summary": "2026年10月09日",
-      "date_published": "2026-10-09T06:33:26.873Z"
+      "date_published": "2026-10-09T18:28:17.455Z"
     },
     {
       "id": "https://openai.com/index/pollo-ai",
       "url": "https://openai.com/index/pollo-ai",
       "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
       "summary": "Startup · 2026年10月08日",
-      "date_published": "2026-10-09T06:33:26.873Z"
+      "date_published": "2026-10-09T18:28:17.455Z"
     },
     {
       "id": "https://openai.com/index/legalon-halves-codex-costs",
       "url": "https://openai.com/index/legalon-halves-codex-costs",
       "title": "LegalOn halves Codex costs while maintaining development speed",
       "summary": "2026年10月08日",
-      "date_published": "2026-10-09T06:33:26.873Z"
+      "date_published": "2026-10-09T18:28:17.455Z"
     },
     {
       "id": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
       "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
       "title": "Disrupting AI-enabled “false front” operations",
       "summary": "Safety · 2026年10月08日",
-      "date_published": "2026-10-09T06:33:26.873Z"
-    },
-    {
-      "id": "https://openai.com/index/teens-learn-and-plan",
-      "url": "https://openai.com/index/teens-learn-and-plan",
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "summary": "Product · 2026年10月07日",
-      "date_published": "2026-10-09T06:33:26.873Z"
-    },
-    {
-      "id": "https://openai.com/index/radisson",
-      "url": "https://openai.com/index/radisson",
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "summary": "2026年10月07日",
-      "date_published": "2026-10-09T06:33:26.873Z"
+      "date_published": "2026-10-09T18:28:17.455Z"
     }
   ]
 }
