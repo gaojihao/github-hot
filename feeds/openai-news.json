@@ -5,46 +5,46 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "title": "Teaching students to think and learn through questions",
+      "summary": "Company · 2026年10月15日",
+      "date_published": "2026-10-15T17:16:59.219Z"
+    },
+    {
       "id": "https://openai.com/index/amp-beyond-coding",
       "url": "https://openai.com/index/amp-beyond-coding",
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
       "summary": "Startup · 2026年10月14日",
-      "date_published": "2026-10-15T05:02:13.717Z"
+      "date_published": "2026-10-15T17:16:59.219Z"
     },
     {
       "id": "https://openai.com/index/sentinelone",
       "url": "https://openai.com/index/sentinelone",
       "title": "SentinelOne cuts malware analysis from weeks to hours",
       "summary": "2026年10月14日",
-      "date_published": "2026-10-15T05:02:13.717Z"
+      "date_published": "2026-10-15T17:16:59.219Z"
     },
     {
       "id": "https://openai.com/index/third-moment-research",
       "url": "https://openai.com/index/third-moment-research",
       "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
       "summary": "Startup · 2026年10月14日",
-      "date_published": "2026-10-15T05:02:13.717Z"
+      "date_published": "2026-10-15T17:16:59.219Z"
     },
     {
       "id": "https://openai.com/index/block-ai-powered-security",
       "url": "https://openai.com/index/block-ai-powered-security",
       "title": "How Block is building AI-powered security with OpenAI technology",
       "summary": "2026年10月14日",
-      "date_published": "2026-10-15T05:02:13.717Z"
+      "date_published": "2026-10-15T17:16:59.219Z"
     },
     {
       "id": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
       "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
       "title": "The EU’s next chapter in AI is agentic",
       "summary": "Global Affairs · 2026年10月14日",
-      "date_published": "2026-10-15T05:02:13.717Z"
-    },
-    {
-      "id": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "summary": "Startup · 2026年10月13日",
-      "date_published": "2026-10-15T05:02:13.717Z"
+      "date_published": "2026-10-15T17:16:59.219Z"
     }
   ]
 }
