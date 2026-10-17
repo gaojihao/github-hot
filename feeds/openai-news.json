@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/itau-generative-ai",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "summary": "2026年10月17日",
+      "date_published": "2026-10-17T04:52:50.883Z"
+    },
+    {
+      "id": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "summary": "Startup · 2026年10月16日",
+      "date_published": "2026-10-17T04:52:50.883Z"
+    },
+    {
       "id": "https://openai.com/index/introducing-the-rosalind-academic-plan",
       "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
       "title": "Bringing GPT-Rosalind to academic research labs",
       "summary": "Research · 2026年10月16日",
-      "date_published": "2026-10-16T16:52:19.797Z"
+      "date_published": "2026-10-17T04:52:50.883Z"
     },
     {
       "id": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
       "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
       "title": "Teaching students to think and learn through questions",
       "summary": "Company · 2026年10月15日",
-      "date_published": "2026-10-16T16:52:19.797Z"
+      "date_published": "2026-10-17T04:52:50.883Z"
     },
     {
       "id": "https://openai.com/index/sullivan-cromwell",
       "url": "https://openai.com/index/sullivan-cromwell",
       "title": "Sullivan & Cromwell brings legal expertise into agreement review",
       "summary": "2026年10月15日",
-      "date_published": "2026-10-16T16:52:19.797Z"
-    },
-    {
-      "id": "https://openai.com/index/amp-beyond-coding",
-      "url": "https://openai.com/index/amp-beyond-coding",
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "summary": "Startup · 2026年10月14日",
-      "date_published": "2026-10-16T16:52:19.797Z"
-    },
-    {
-      "id": "https://openai.com/index/sentinelone",
-      "url": "https://openai.com/index/sentinelone",
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "summary": "2026年10月14日",
-      "date_published": "2026-10-16T16:52:19.797Z"
+      "date_published": "2026-10-17T04:52:50.883Z"
     }
   ]
 }
