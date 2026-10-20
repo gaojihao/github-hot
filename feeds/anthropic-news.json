@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/anthropic-news.json",
   "items": [
     {
+      "id": "https://www.anthropic.com/news/cyber-verification-program",
+      "url": "https://www.anthropic.com/news/cyber-verification-program",
+      "title": "Expanding the Cyber Verification Program",
+      "summary": "",
+      "date_published": "2026-10-20T17:26:18.391Z"
+    },
+    {
       "id": "https://www.anthropic.com/news/public-benefit-fund",
       "url": "https://www.anthropic.com/news/public-benefit-fund",
       "title": "Investing in the public benefit",
-      "summary": "Announcements · 2026年10月18日",
-      "date_published": "2026-10-20T05:08:47.587Z"
+      "summary": "",
+      "date_published": "2026-10-20T17:26:18.391Z"
     },
     {
       "id": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
       "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
       "title": "An update on independent evaluators",
-      "summary": "Announcements · 2026年10月15日",
-      "date_published": "2026-10-20T05:08:47.587Z"
+      "summary": "",
+      "date_published": "2026-10-20T17:26:18.391Z"
     },
     {
       "id": "https://www.anthropic.com/news/2026-us-midterms",
       "url": "https://www.anthropic.com/news/2026-us-midterms",
       "title": "Preparing for the 2026 US midterms",
-      "summary": "Policy · 2026年10月14日",
-      "date_published": "2026-10-20T05:08:47.587Z"
+      "summary": "",
+      "date_published": "2026-10-20T17:26:18.391Z"
     },
     {
       "id": "https://www.anthropic.com/news/singapore-office-opening",
       "url": "https://www.anthropic.com/news/singapore-office-opening",
       "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-      "summary": "Announcements · 2026年10月14日",
-      "date_published": "2026-10-20T05:08:47.587Z"
-    },
-    {
-      "id": "https://www.anthropic.com/news/2026-usage-policy-update",
-      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
-      "title": "2026 Usage Policy update",
-      "summary": "Announcements · 2026年10月08日",
-      "date_published": "2026-10-20T05:08:47.587Z"
+      "summary": "",
+      "date_published": "2026-10-20T17:26:18.391Z"
     }
   ]
 }
