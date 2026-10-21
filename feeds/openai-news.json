@@ -5,39 +5,60 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "summary": "Product · 2026年10月21日",
+      "date_published": "2026-10-21T17:34:35.528Z"
+    },
+    {
+      "id": "https://openai.com/index/openai-models-google-cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "title": "OpenAI models are coming to Google Cloud",
+      "summary": "Company · 2026年10月21日",
+      "date_published": "2026-10-21T17:34:35.528Z"
+    },
+    {
+      "id": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "summary": "Security · 2026年10月21日",
+      "date_published": "2026-10-21T17:34:35.528Z"
+    },
+    {
+      "id": "https://openai.com/index/building-chatgpt-ad-stack",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "summary": "Engineering · 2026年10月21日",
+      "date_published": "2026-10-21T17:34:35.528Z"
+    },
+    {
+      "id": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "summary": "Publication · 2026年10月21日",
+      "date_published": "2026-10-21T17:34:35.528Z"
+    },
+    {
       "id": "https://openai.com/index/ted-taylor-restaurant",
       "url": "https://openai.com/index/ted-taylor-restaurant",
       "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
       "summary": "2026年10月20日",
-      "date_published": "2026-10-21T05:11:05.525Z"
+      "date_published": "2026-10-21T17:34:35.528Z"
     },
     {
       "id": "https://openai.com/index/terminal-x",
       "url": "https://openai.com/index/terminal-x",
       "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
       "summary": "Startup · 2026年10月20日",
-      "date_published": "2026-10-21T05:11:05.525Z"
+      "date_published": "2026-10-21T17:34:35.528Z"
     },
     {
       "id": "https://openai.com/index/openai-to-acquire-orchestra-bio",
       "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
       "title": "OpenAI acquires Orchestra Bio",
       "summary": "Company · 2026年10月20日",
-      "date_published": "2026-10-21T05:11:05.525Z"
-    },
-    {
-      "id": "https://openai.com/index/low-resource-programming-languages",
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "title": "Advancing coding in low‑resource programming languages",
-      "summary": "Publication · 2026年10月19日",
-      "date_published": "2026-10-21T05:11:05.525Z"
-    },
-    {
-      "id": "https://openai.com/index/itau-generative-ai",
-      "url": "https://openai.com/index/itau-generative-ai",
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "summary": "2026年10月17日",
-      "date_published": "2026-10-21T05:11:05.525Z"
+      "date_published": "2026-10-21T17:34:35.528Z"
     }
   ]
 }
