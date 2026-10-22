@@ -5,60 +5,81 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/broad-access-through-consistent-standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "title": "Broad access through consistent standards",
+      "summary": "Safety · 2026年10月22日",
+      "date_published": "2026-10-22T05:14:30.415Z"
+    },
+    {
+      "id": "https://openai.com/index/att-legal",
+      "url": "https://openai.com/index/att-legal",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "summary": "2026年10月22日",
+      "date_published": "2026-10-22T05:14:30.415Z"
+    },
+    {
       "id": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
       "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
       "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
       "summary": "Product · 2026年10月21日",
-      "date_published": "2026-10-21T17:34:35.528Z"
+      "date_published": "2026-10-22T05:14:30.415Z"
     },
     {
       "id": "https://openai.com/index/openai-models-google-cloud",
       "url": "https://openai.com/index/openai-models-google-cloud",
       "title": "OpenAI models are coming to Google Cloud",
       "summary": "Company · 2026年10月21日",
-      "date_published": "2026-10-21T17:34:35.528Z"
+      "date_published": "2026-10-22T05:14:30.415Z"
     },
     {
       "id": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
       "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
       "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
       "summary": "Security · 2026年10月21日",
-      "date_published": "2026-10-21T17:34:35.528Z"
+      "date_published": "2026-10-22T05:14:30.415Z"
     },
     {
       "id": "https://openai.com/index/building-chatgpt-ad-stack",
       "url": "https://openai.com/index/building-chatgpt-ad-stack",
       "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
       "summary": "Engineering · 2026年10月21日",
-      "date_published": "2026-10-21T17:34:35.528Z"
+      "date_published": "2026-10-22T05:14:30.415Z"
     },
     {
       "id": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
       "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
       "title": "Using thousands of AI agents to uncover new leads in biological data",
       "summary": "Publication · 2026年10月21日",
-      "date_published": "2026-10-21T17:34:35.528Z"
+      "date_published": "2026-10-22T05:14:30.415Z"
+    },
+    {
+      "id": "https://openai.com/index/cloudflare-cyber",
+      "url": "https://openai.com/index/cloudflare-cyber",
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "summary": "2026年10月21日",
+      "date_published": "2026-10-22T05:14:30.415Z"
+    },
+    {
+      "id": "https://openai.com/index/empowering-cyber-defenders",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "summary": "Global Affairs · 2026年10月21日",
+      "date_published": "2026-10-22T05:14:30.415Z"
     },
     {
       "id": "https://openai.com/index/ted-taylor-restaurant",
       "url": "https://openai.com/index/ted-taylor-restaurant",
       "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
       "summary": "2026年10月20日",
-      "date_published": "2026-10-21T17:34:35.528Z"
+      "date_published": "2026-10-22T05:14:30.415Z"
     },
     {
       "id": "https://openai.com/index/terminal-x",
       "url": "https://openai.com/index/terminal-x",
       "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
       "summary": "Startup · 2026年10月20日",
-      "date_published": "2026-10-21T17:34:35.528Z"
-    },
-    {
-      "id": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "title": "OpenAI acquires Orchestra Bio",
-      "summary": "Company · 2026年10月20日",
-      "date_published": "2026-10-21T17:34:35.528Z"
+      "date_published": "2026-10-22T05:14:30.415Z"
     }
   ]
 }
