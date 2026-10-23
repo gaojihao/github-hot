@@ -5,81 +5,67 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/decisions-api",
+      "url": "https://openai.com/index/decisions-api",
+      "title": "Build more responsive apps with the Decisions API",
+      "summary": "Product · 2026年10月23日",
+      "date_published": "2026-10-23T05:13:29.012Z"
+    },
+    {
       "id": "https://openai.com/index/forward-deployed-engineering-means",
       "url": "https://openai.com/index/forward-deployed-engineering-means",
       "title": "What FDE means at OpenAI",
-      "summary": "Engineering · 2026年10月22日",
-      "date_published": "2026-10-22T17:30:52.587Z"
+      "summary": "AI Adoption · 2026年10月22日",
+      "date_published": "2026-10-23T05:13:29.012Z"
     },
     {
       "id": "https://openai.com/index/uber-chatgpt-work-rollout",
       "url": "https://openai.com/index/uber-chatgpt-work-rollout",
       "title": "Uber brings ChatGPT Work to all employees with OpenAI",
       "summary": "Company · 2026年10月22日",
-      "date_published": "2026-10-22T17:30:52.587Z"
+      "date_published": "2026-10-23T05:13:29.012Z"
     },
     {
       "id": "https://openai.com/index/broad-access-through-consistent-standards",
       "url": "https://openai.com/index/broad-access-through-consistent-standards",
       "title": "Broad access through consistent standards",
       "summary": "Safety · 2026年10月22日",
-      "date_published": "2026-10-22T17:30:52.587Z"
+      "date_published": "2026-10-23T05:13:29.012Z"
     },
     {
       "id": "https://openai.com/index/att-legal",
       "url": "https://openai.com/index/att-legal",
       "title": "How AT&T is rethinking in-house legal work with OpenAI",
       "summary": "2026年10月22日",
-      "date_published": "2026-10-22T17:30:52.587Z"
+      "date_published": "2026-10-23T05:13:29.012Z"
     },
     {
       "id": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
       "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
       "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
       "summary": "Product · 2026年10月21日",
-      "date_published": "2026-10-22T17:30:52.587Z"
+      "date_published": "2026-10-23T05:13:29.012Z"
     },
     {
       "id": "https://openai.com/index/openai-models-google-cloud",
       "url": "https://openai.com/index/openai-models-google-cloud",
       "title": "OpenAI models are coming to Google Cloud",
       "summary": "Company · 2026年10月21日",
-      "date_published": "2026-10-22T17:30:52.587Z"
+      "date_published": "2026-10-23T05:13:29.012Z"
     },
     {
       "id": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
       "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
       "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
       "summary": "Security · 2026年10月21日",
-      "date_published": "2026-10-22T17:30:52.587Z"
+      "date_published": "2026-10-23T05:13:29.012Z"
     },
     {
       "id": "https://openai.com/index/building-chatgpt-ad-stack",
       "url": "https://openai.com/index/building-chatgpt-ad-stack",
       "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
       "summary": "Engineering · 2026年10月21日",
-      "date_published": "2026-10-22T17:30:52.587Z"
-    },
-    {
-      "id": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "summary": "Publication · 2026年10月21日",
-      "date_published": "2026-10-22T17:30:52.587Z"
-    },
-    {
-      "id": "https://openai.com/index/cloudflare-cyber",
-      "url": "https://openai.com/index/cloudflare-cyber",
-      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-      "summary": "2026年10月21日",
-      "date_published": "2026-10-22T17:30:52.587Z"
-    },
-    {
-      "id": "https://openai.com/index/empowering-cyber-defenders",
-      "url": "https://openai.com/index/empowering-cyber-defenders",
-      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "summary": "Global Affairs · 2026年10月21日",
-      "date_published": "2026-10-22T17:30:52.587Z"
+      "date_published": "2026-10-23T05:13:29.012Z"
     }
   ]
 }
