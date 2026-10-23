@@ -5,53 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/qbitai.json",
   "items": [
     {
+      "id": "https://www.qbitai.com/2026/10/504901.html",
+      "url": "https://www.qbitai.com/2026/10/504901.html",
+      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+      "summary": "百度 · 量子位的朋友们 · 2026年10月23日",
+      "date_published": "2026-10-23T17:22:11.737Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/10/504879.html",
+      "url": "https://www.qbitai.com/2026/10/504879.html",
+      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+      "summary": "蚂蚁 · 量子位的朋友们 · 2026年10月22日",
+      "date_published": "2026-10-23T17:22:11.737Z"
+    },
+    {
       "id": "https://www.qbitai.com/2026/10/504841.html",
       "url": "https://www.qbitai.com/2026/10/504841.html",
       "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
       "summary": "智能车参考 · 杰西卡 · 2026年10月22日",
-      "date_published": "2026-10-23T05:13:29.012Z"
+      "date_published": "2026-10-23T17:22:11.737Z"
     },
     {
       "id": "https://www.qbitai.com/2026/10/504832.html",
       "url": "https://www.qbitai.com/2026/10/504832.html",
       "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
       "summary": "华为 · 量子位的朋友们 · 2026年10月22日",
-      "date_published": "2026-10-23T05:13:29.012Z"
+      "date_published": "2026-10-23T17:22:11.737Z"
     },
     {
       "id": "https://www.qbitai.com/2026/10/504800.html",
       "url": "https://www.qbitai.com/2026/10/504800.html",
       "title": "谁在给OpenAI供应具身数据？",
       "summary": "OpenAI · 梦瑶 · 2026年10月22日",
-      "date_published": "2026-10-23T05:13:29.012Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/10/504734.html",
-      "url": "https://www.qbitai.com/2026/10/504734.html",
-      "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
-      "summary": "Agent · 鹭羽 · 2026年10月21日",
-      "date_published": "2026-10-23T05:13:29.012Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/10/504730.html",
-      "url": "https://www.qbitai.com/2026/10/504730.html",
-      "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
-      "summary": "生数科技 · 量子位的朋友们 · 2026年10月21日",
-      "date_published": "2026-10-23T05:13:29.012Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/10/504653.html",
-      "url": "https://www.qbitai.com/2026/10/504653.html",
-      "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
-      "summary": "资讯 · 田, 晏林 · 2026年10月21日",
-      "date_published": "2026-10-23T05:13:29.012Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/10/504638.html",
-      "url": "https://www.qbitai.com/2026/10/504638.html",
-      "title": "量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板",
-      "summary": "智驾 · 思邈 · 2026年10月21日",
-      "date_published": "2026-10-23T05:13:29.012Z"
+      "date_published": "2026-10-23T17:22:11.737Z"
     }
   ]
 }
