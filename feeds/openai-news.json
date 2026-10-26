@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "title": "ChatGPT’s expanding world of work",
+      "summary": "Research · 2026年10月26日",
+      "date_published": "2026-10-26T18:49:25.059Z"
+    },
+    {
+      "id": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "summary": "2026年10月26日",
+      "date_published": "2026-10-26T18:49:25.059Z"
+    },
+    {
       "id": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "summary": "Engineering · 2026年10月24日",
-      "date_published": "2026-10-26T05:10:38.145Z"
+      "date_published": "2026-10-26T18:49:25.059Z"
     },
     {
       "id": "https://openai.com/index/securing-our-frontier-model-training-environment",
       "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
       "title": "Securing our frontier model training environment",
       "summary": "Security · 2026年10月23日",
-      "date_published": "2026-10-26T05:10:38.145Z"
+      "date_published": "2026-10-26T18:49:25.059Z"
     },
     {
       "id": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
       "summary": "Global Affairs · 2026年10月23日",
-      "date_published": "2026-10-26T05:10:38.145Z"
-    },
-    {
-      "id": "https://openai.com/index/decisions-api",
-      "url": "https://openai.com/index/decisions-api",
-      "title": "Build more responsive apps with the Decisions API",
-      "summary": "Product · 2026年10月23日",
-      "date_published": "2026-10-26T05:10:38.145Z"
-    },
-    {
-      "id": "https://openai.com/index/forward-deployed-engineering-means",
-      "url": "https://openai.com/index/forward-deployed-engineering-means",
-      "title": "What FDE means at OpenAI",
-      "summary": "AI Adoption · 2026年10月22日",
-      "date_published": "2026-10-26T05:10:38.145Z"
+      "date_published": "2026-10-26T18:49:25.059Z"
     }
   ]
 }
