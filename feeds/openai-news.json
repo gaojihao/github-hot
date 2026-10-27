@@ -5,39 +5,53 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/greptile-code-review-codex-astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "summary": "Startup · 2026年10月27日",
+      "date_published": "2026-10-27T05:26:23.217Z"
+    },
+    {
+      "id": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "title": "Working with academic communities to build scientific understanding",
+      "summary": "Research · 2026年10月26日",
+      "date_published": "2026-10-27T05:26:23.217Z"
+    },
+    {
+      "id": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "summary": "Security · 2026年10月26日",
+      "date_published": "2026-10-27T05:26:23.217Z"
+    },
+    {
       "id": "https://openai.com/index/chatgpt-expanding-world-of-work",
       "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
       "title": "ChatGPT’s expanding world of work",
       "summary": "Research · 2026年10月26日",
-      "date_published": "2026-10-26T18:49:25.059Z"
+      "date_published": "2026-10-27T05:26:23.217Z"
     },
     {
       "id": "https://openai.com/index/fanatics-streamline-fan-experience",
       "url": "https://openai.com/index/fanatics-streamline-fan-experience",
       "title": "How Fanatics and OpenAI streamline the fan experience",
       "summary": "2026年10月26日",
-      "date_published": "2026-10-26T18:49:25.059Z"
+      "date_published": "2026-10-27T05:26:23.217Z"
     },
     {
-      "id": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "summary": "Engineering · 2026年10月24日",
-      "date_published": "2026-10-26T18:49:25.059Z"
+      "id": "https://openai.com/index/openai-cut-incident-investigation",
+      "url": "https://openai.com/index/openai-cut-incident-investigation",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "summary": "OpenAI on OpenAI · 2026年10月26日",
+      "date_published": "2026-10-27T05:26:23.217Z"
     },
     {
-      "id": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "title": "Securing our frontier model training environment",
-      "summary": "Security · 2026年10月23日",
-      "date_published": "2026-10-26T18:49:25.059Z"
-    },
-    {
-      "id": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "summary": "Global Affairs · 2026年10月23日",
-      "date_published": "2026-10-26T18:49:25.059Z"
+      "id": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "title": "Introducing GPT-6.1 Terra",
+      "summary": "Product · 2026年10月26日",
+      "date_published": "2026-10-27T05:26:23.217Z"
     }
   ]
 }
