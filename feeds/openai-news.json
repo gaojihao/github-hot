@@ -5,39 +5,46 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/updated-model-spec",
+      "url": "https://openai.com/index/updated-model-spec",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "summary": "Safety · 2026年10月30日",
+      "date_published": "2026-10-29T18:36:14.249Z"
+    },
+    {
+      "id": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "title": "How we detect frontier model misalignment",
+      "summary": "Security · 2026年10月29日",
+      "date_published": "2026-10-29T18:36:14.249Z"
+    },
+    {
+      "id": "https://openai.com/index/ropes-gray-ai-diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "summary": "2026年10月29日",
+      "date_published": "2026-10-29T18:36:14.249Z"
+    },
+    {
       "id": "https://openai.com/index/openai-servicenow-partnership-expansion",
       "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
       "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
       "summary": "Company · 2026年10月28日",
-      "date_published": "2026-10-29T06:17:08.635Z"
+      "date_published": "2026-10-29T18:36:14.249Z"
     },
     {
       "id": "https://openai.com/index/the-future-of-the-firm",
       "url": "https://openai.com/index/the-future-of-the-firm",
       "title": "The future of the firm",
       "summary": "Intelligence Age · 2026年10月28日",
-      "date_published": "2026-10-29T06:17:08.635Z"
+      "date_published": "2026-10-29T18:36:14.249Z"
     },
     {
       "id": "https://openai.com/index/legora",
       "url": "https://openai.com/index/legora",
       "title": "Legora is building the agentic operating system for legal work",
       "summary": "2026年10月28日",
-      "date_published": "2026-10-29T06:17:08.635Z"
-    },
-    {
-      "id": "https://openai.com/index/retell-ai",
-      "url": "https://openai.com/index/retell-ai",
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "summary": "2026年10月27日",
-      "date_published": "2026-10-29T06:17:08.635Z"
-    },
-    {
-      "id": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "summary": "Company · 2026年10月27日",
-      "date_published": "2026-10-29T06:17:08.635Z"
+      "date_published": "2026-10-29T18:36:14.249Z"
     }
   ]
 }
