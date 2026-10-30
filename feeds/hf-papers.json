@@ -5,88 +5,137 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2610.32749",
-      "url": "https://huggingface.co/papers/2610.32749",
-      "title": "Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes",
-      "summary": "2610.32749 · ▲ 147",
-      "date_published": "2026-10-29T18:36:14.249Z"
+      "id": "https://huggingface.co/papers/2610.29927",
+      "url": "https://huggingface.co/papers/2610.29927",
+      "title": "Your Benchmark Is an Empirical Measure Over Difficulty",
+      "summary": "2610.29927 · ▲ 66",
+      "date_published": "2026-10-30T06:17:29.591Z"
     },
     {
-      "id": "https://huggingface.co/papers/2610.35684",
-      "url": "https://huggingface.co/papers/2610.35684",
-      "title": "OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images",
-      "summary": "2610.35684 · ▲ 41",
-      "date_published": "2026-10-29T18:36:14.249Z"
+      "id": "https://huggingface.co/papers/2610.37161",
+      "url": "https://huggingface.co/papers/2610.37161",
+      "title": "WorkFactory: Turning Professional Intents into Executable Work for Scalable Agent Training",
+      "summary": "2610.37161 · ▲ 17",
+      "date_published": "2026-10-30T06:17:29.591Z"
     },
     {
-      "id": "https://huggingface.co/papers/2610.31670",
-      "url": "https://huggingface.co/papers/2610.31670",
-      "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
-      "summary": "2610.31670 · ▲ 20",
-      "date_published": "2026-10-29T18:36:14.249Z"
+      "id": "https://huggingface.co/papers/2610.38568",
+      "url": "https://huggingface.co/papers/2610.38568",
+      "title": "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement",
+      "summary": "2610.38568 · ▲ 16",
+      "date_published": "2026-10-30T06:17:29.591Z"
     },
     {
-      "id": "https://huggingface.co/papers/2610.22507",
-      "url": "https://huggingface.co/papers/2610.22507",
-      "title": "RealCLI: Toward a Unified Evaluation of Human-Agent Collaboration for CLI Agents",
-      "summary": "2610.22507 · ▲ 15",
-      "date_published": "2026-10-29T18:36:14.249Z"
+      "id": "https://huggingface.co/papers/2610.33106",
+      "url": "https://huggingface.co/papers/2610.33106",
+      "title": "VibeGame: Prompt-to-Game Development with AI-Native Engine and Self-Evolving Adversarial Agent Team",
+      "summary": "2610.33106 · ▲ 15",
+      "date_published": "2026-10-30T06:17:29.591Z"
     },
     {
-      "id": "https://huggingface.co/papers/2610.37230",
-      "url": "https://huggingface.co/papers/2610.37230",
-      "title": "TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving",
-      "summary": "2610.37230 · ▲ 15",
-      "date_published": "2026-10-29T18:36:14.249Z"
+      "id": "https://huggingface.co/papers/2610.35138",
+      "url": "https://huggingface.co/papers/2610.35138",
+      "title": "Co-Design Bench: Multimodal Collaborative Coding Evaluation for Agentic Models",
+      "summary": "2610.35138 · ▲ 14",
+      "date_published": "2026-10-30T06:17:29.591Z"
     },
     {
-      "id": "https://huggingface.co/papers/2610.30161",
-      "url": "https://huggingface.co/papers/2610.30161",
-      "title": "TauIndianBankBench: Procedure-Aware, Action-Oriented Evaluation of Tool-Using Conversational Agents",
-      "summary": "2610.30161 · ▲ 8",
-      "date_published": "2026-10-29T18:36:14.249Z"
+      "id": "https://huggingface.co/papers/2610.32411",
+      "url": "https://huggingface.co/papers/2610.32411",
+      "title": "A Broader Look into MLLM's Retrieval Heads",
+      "summary": "2610.32411 · ▲ 13",
+      "date_published": "2026-10-30T06:17:29.591Z"
     },
     {
-      "id": "https://huggingface.co/papers/2610.20832",
-      "url": "https://huggingface.co/papers/2610.20832",
-      "title": "Amortizing Sequential Experimental Design in Reasoning LLMs",
-      "summary": "2610.20832 · ▲ 4",
-      "date_published": "2026-10-29T18:36:14.249Z"
+      "id": "https://huggingface.co/papers/2610.38352",
+      "url": "https://huggingface.co/papers/2610.38352",
+      "title": "WeVisCut: The Whole Editing Room in One Agent From Narration to Long-Form Video",
+      "summary": "2610.38352 · ▲ 11",
+      "date_published": "2026-10-30T06:17:29.591Z"
     },
     {
-      "id": "https://huggingface.co/papers/2610.30132",
-      "url": "https://huggingface.co/papers/2610.30132",
-      "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
-      "summary": "2610.30132 · ▲ 3",
-      "date_published": "2026-10-29T18:36:14.249Z"
+      "id": "https://huggingface.co/papers/2610.38425",
+      "url": "https://huggingface.co/papers/2610.38425",
+      "title": "IntReal: A Real-World Dataset and Benchmark for Multimodal Interleaved Generation",
+      "summary": "2610.38425 · ▲ 11",
+      "date_published": "2026-10-30T06:17:29.591Z"
     },
     {
-      "id": "https://huggingface.co/papers/2610.29702",
-      "url": "https://huggingface.co/papers/2610.29702",
-      "title": "CausGround: Causal Interaction Grounding for Adaptive Embodied Planning",
-      "summary": "2610.29702 · ▲ 2",
-      "date_published": "2026-10-29T18:36:14.249Z"
+      "id": "https://huggingface.co/papers/2610.40599",
+      "url": "https://huggingface.co/papers/2610.40599",
+      "title": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+      "summary": "2610.40599 · ▲ 9",
+      "date_published": "2026-10-30T06:17:29.591Z"
     },
     {
-      "id": "https://huggingface.co/papers/2610.35671",
-      "url": "https://huggingface.co/papers/2610.35671",
-      "title": "Evaluating DeepSeek V4.1 Flash-1017 for loss of control and harmful manipulation risks",
-      "summary": "2610.35671 · ▲ 1",
-      "date_published": "2026-10-29T18:36:14.249Z"
+      "id": "https://huggingface.co/papers/2610.37786",
+      "url": "https://huggingface.co/papers/2610.37786",
+      "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
+      "summary": "2610.37786 · ▲ 8",
+      "date_published": "2026-10-30T06:17:29.591Z"
     },
     {
-      "id": "https://huggingface.co/papers/2610.34186",
-      "url": "https://huggingface.co/papers/2610.34186",
-      "title": "HuGe: Scaling Humanoid Generalist Vision-Language-Action Models with Egocentric Experience",
-      "summary": "2610.34186 · ▲ 1",
-      "date_published": "2026-10-29T18:36:14.249Z"
+      "id": "https://huggingface.co/papers/2610.36671",
+      "url": "https://huggingface.co/papers/2610.36671",
+      "title": "Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs",
+      "summary": "2610.36671 · ▲ 5",
+      "date_published": "2026-10-30T06:17:29.591Z"
     },
     {
-      "id": "https://huggingface.co/papers/2601.15351",
-      "url": "https://huggingface.co/papers/2601.15351",
-      "title": "OmniSpectra: A Unified Foundation Model for Universal Spectra Representation Learning",
-      "summary": "2601.15351 · ▲ 0",
-      "date_published": "2026-10-29T18:36:14.249Z"
+      "id": "https://huggingface.co/papers/2610.38678",
+      "url": "https://huggingface.co/papers/2610.38678",
+      "title": "AskStream: When and What to Ask Proactively under Uncertainty in Streaming Video Understanding",
+      "summary": "2610.38678 · ▲ 5",
+      "date_published": "2026-10-30T06:17:29.591Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2610.39664",
+      "url": "https://huggingface.co/papers/2610.39664",
+      "title": "EditAgent: Rethinking Agentic Image Editing",
+      "summary": "2610.39664 · ▲ 5",
+      "date_published": "2026-10-30T06:17:29.591Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2610.40454",
+      "url": "https://huggingface.co/papers/2610.40454",
+      "title": "Glance: The Generator Is Its Own Reranker",
+      "summary": "2610.40454 · ▲ 3",
+      "date_published": "2026-10-30T06:17:29.591Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2610.21143",
+      "url": "https://huggingface.co/papers/2610.21143",
+      "title": "CoSTA: Compressed Speech Token Adaptation for Efficient Spoken Dialogue Models",
+      "summary": "2610.21143 · ▲ 3",
+      "date_published": "2026-10-30T06:17:29.591Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2610.37695",
+      "url": "https://huggingface.co/papers/2610.37695",
+      "title": "After One-Click Video: The Inflow of Service-Type Content, the Failure of the Recommendation Pool Mechanism, and the BoLe System",
+      "summary": "2610.37695 · ▲ 2",
+      "date_published": "2026-10-30T06:17:29.591Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2610.40362",
+      "url": "https://huggingface.co/papers/2610.40362",
+      "title": "Your LR Schedule May Not Be Principled: Effective Learning Rate Scheduling in Weight-Normalized Training",
+      "summary": "2610.40362 · ▲ 1",
+      "date_published": "2026-10-30T06:17:29.591Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2610.39633",
+      "url": "https://huggingface.co/papers/2610.39633",
+      "title": "Intrinsic Distribution Matching",
+      "summary": "2610.39633 · ▲ 1",
+      "date_published": "2026-10-30T06:17:29.591Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2610.36420",
+      "url": "https://huggingface.co/papers/2610.36420",
+      "title": "SO-101 Bench: Accessible Spatial Manipulation",
+      "summary": "2610.36420 · ▲ 0",
+      "date_published": "2026-10-30T06:17:29.591Z"
     }
   ]
 }
