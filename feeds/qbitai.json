@@ -5,67 +5,53 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/qbitai.json",
   "items": [
     {
+      "id": "https://www.qbitai.com/2026/11/507082.html",
+      "url": "https://www.qbitai.com/2026/11/507082.html",
+      "title": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光",
+      "summary": "ChatGPT · 梦晨 · 2026年11月02日",
+      "date_published": "2026-11-02T06:39:15.212Z"
+    },
+    {
       "id": "https://www.qbitai.com/2026/11/507076.html",
       "url": "https://www.qbitai.com/2026/11/507076.html",
       "title": "三年前布局，今年爆火丨西湖大学成立新中心",
       "summary": "世界模型 · henry · 2026年11月01日",
-      "date_published": "2026-11-01T18:01:42.465Z"
+      "date_published": "2026-11-02T06:39:15.212Z"
     },
     {
       "id": "https://www.qbitai.com/2026/11/507038.html",
       "url": "https://www.qbitai.com/2026/11/507038.html",
       "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
       "summary": "Anthropic · 林, 方舟 · 2026年11月01日",
-      "date_published": "2026-11-01T18:01:42.465Z"
+      "date_published": "2026-11-02T06:39:15.212Z"
     },
     {
       "id": "https://www.qbitai.com/2026/11/507031.html",
       "url": "https://www.qbitai.com/2026/11/507031.html",
       "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
       "summary": "世界模型 · Jay · 2026年11月01日",
-      "date_published": "2026-11-01T18:01:42.465Z"
+      "date_published": "2026-11-02T06:39:15.212Z"
     },
     {
       "id": "https://www.qbitai.com/2026/11/506990.html",
       "url": "https://www.qbitai.com/2026/11/506990.html",
       "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
       "summary": "机器人 · Jay · 2026年11月01日",
-      "date_published": "2026-11-01T18:01:42.465Z"
+      "date_published": "2026-11-02T06:39:15.212Z"
     },
     {
       "id": "https://www.qbitai.com/2026/11/506922.html",
       "url": "https://www.qbitai.com/2026/11/506922.html",
       "title": "Jev新成果，再次引爆开源",
       "summary": "Jev · Jay · 2026年11月01日",
-      "date_published": "2026-11-01T18:01:42.465Z"
+      "date_published": "2026-11-02T06:39:15.212Z"
     },
     {
       "id": "https://www.qbitai.com/2026/10/506904.html",
       "url": "https://www.qbitai.com/2026/10/506904.html",
       "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
       "summary": "Deepseek · 梦瑶 · 2026年10月31日",
-      "date_published": "2026-11-01T18:01:42.465Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/10/506884.html",
-      "url": "https://www.qbitai.com/2026/10/506884.html",
-      "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
-      "summary": "库克 · 梦瑶 · 2026年10月31日",
-      "date_published": "2026-11-01T18:01:42.465Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/10/506866.html",
-      "url": "https://www.qbitai.com/2026/10/506866.html",
-      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
-      "summary": "AI，算力 · 梦瑶 · 2026年10月31日",
-      "date_published": "2026-11-01T18:01:42.465Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/10/506855.html",
-      "url": "https://www.qbitai.com/2026/10/506855.html",
-      "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
-      "summary": "Claude · 梦瑶 · 2026年10月31日",
-      "date_published": "2026-11-01T18:01:42.465Z"
+      "date_published": "2026-11-02T06:39:15.212Z"
     }
   ]
 }
