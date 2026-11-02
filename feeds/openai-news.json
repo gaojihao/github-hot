@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/grid-protectors-program",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "title": "Introducing the Grid Protectors Program",
+      "summary": "Global Affairs · 2026年11月02日",
+      "date_published": "2026-11-02T21:52:34.290Z"
+    },
+    {
+      "id": "https://openai.com/index/lifeval",
+      "url": "https://openai.com/index/lifeval",
+      "title": "LifeVal",
+      "summary": "Research · 2026年11月02日",
+      "date_published": "2026-11-02T21:52:34.290Z"
+    },
+    {
+      "id": "https://openai.com/index/qodo-codex-plugin",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "title": "Qodo builds context into AI code review with Codex",
+      "summary": "Startup · 2026年11月02日",
+      "date_published": "2026-11-02T21:52:34.290Z"
+    },
+    {
       "id": "https://openai.com/index/helping-websites-express-ai-training-preferences",
       "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
       "title": "Making it easier for websites to express AI training preferences",
       "summary": "Company · 2026年10月30日",
-      "date_published": "2026-11-02T06:39:15.212Z"
+      "date_published": "2026-11-02T21:52:34.290Z"
     },
     {
       "id": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
       "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
       "title": "Community safety report and new protections for teens",
       "summary": "Safety · 2026年10月30日",
-      "date_published": "2026-11-02T06:39:15.212Z"
-    },
-    {
-      "id": "https://openai.com/index/fair-use-benefits-everyone",
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "title": "Fair use benefits everyone",
-      "summary": "Company · 2026年10月30日",
-      "date_published": "2026-11-02T06:39:15.212Z"
-    },
-    {
-      "id": "https://openai.com/index/updated-model-spec",
-      "url": "https://openai.com/index/updated-model-spec",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "summary": "Safety · 2026年10月30日",
-      "date_published": "2026-11-02T06:39:15.212Z"
-    },
-    {
-      "id": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "title": "How we detect frontier model misalignment",
-      "summary": "Security · 2026年10月29日",
-      "date_published": "2026-11-02T06:39:15.212Z"
+      "date_published": "2026-11-02T21:52:34.290Z"
     }
   ]
 }

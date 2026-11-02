@@ -5,53 +5,74 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/qbitai.json",
   "items": [
     {
+      "id": "https://www.qbitai.com/2026/11/507277.html",
+      "url": "https://www.qbitai.com/2026/11/507277.html",
+      "title": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！",
+      "summary": "SenseNova 6.8 Flash · 十三 · 2026年11月02日",
+      "date_published": "2026-11-02T21:52:34.290Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/11/507260.html",
+      "url": "https://www.qbitai.com/2026/11/507260.html",
+      "title": "从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信",
+      "summary": "上海仪电 · 量子位的朋友们 · 2026年11月02日",
+      "date_published": "2026-11-02T21:52:34.290Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/11/507225.html",
+      "url": "https://www.qbitai.com/2026/11/507225.html",
+      "title": "OpenAI重写大模型法则，第一条：忠于人类！！",
+      "summary": "OpenAI · 程浅 · 2026年11月02日",
+      "date_published": "2026-11-02T21:52:34.290Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/11/507150.html",
+      "url": "https://www.qbitai.com/2026/11/507150.html",
+      "title": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系",
+      "summary": "AI医药 · 鹭羽 · 2026年11月02日",
+      "date_published": "2026-11-02T21:52:34.290Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/11/507107.html",
+      "url": "https://www.qbitai.com/2026/11/507107.html",
+      "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
+      "summary": "AI桌宠 · 思邈 · 2026年11月02日",
+      "date_published": "2026-11-02T21:52:34.290Z"
+    },
+    {
       "id": "https://www.qbitai.com/2026/11/507082.html",
       "url": "https://www.qbitai.com/2026/11/507082.html",
       "title": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光",
       "summary": "ChatGPT · 梦晨 · 2026年11月02日",
-      "date_published": "2026-11-02T06:39:15.212Z"
+      "date_published": "2026-11-02T21:52:34.290Z"
     },
     {
       "id": "https://www.qbitai.com/2026/11/507076.html",
       "url": "https://www.qbitai.com/2026/11/507076.html",
       "title": "三年前布局，今年爆火丨西湖大学成立新中心",
       "summary": "世界模型 · henry · 2026年11月01日",
-      "date_published": "2026-11-02T06:39:15.212Z"
+      "date_published": "2026-11-02T21:52:34.290Z"
     },
     {
       "id": "https://www.qbitai.com/2026/11/507038.html",
       "url": "https://www.qbitai.com/2026/11/507038.html",
       "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
       "summary": "Anthropic · 林, 方舟 · 2026年11月01日",
-      "date_published": "2026-11-02T06:39:15.212Z"
+      "date_published": "2026-11-02T21:52:34.290Z"
     },
     {
       "id": "https://www.qbitai.com/2026/11/507031.html",
       "url": "https://www.qbitai.com/2026/11/507031.html",
       "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
       "summary": "世界模型 · Jay · 2026年11月01日",
-      "date_published": "2026-11-02T06:39:15.212Z"
+      "date_published": "2026-11-02T21:52:34.290Z"
     },
     {
       "id": "https://www.qbitai.com/2026/11/506990.html",
       "url": "https://www.qbitai.com/2026/11/506990.html",
       "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
       "summary": "机器人 · Jay · 2026年11月01日",
-      "date_published": "2026-11-02T06:39:15.212Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/11/506922.html",
-      "url": "https://www.qbitai.com/2026/11/506922.html",
-      "title": "Jev新成果，再次引爆开源",
-      "summary": "Jev · Jay · 2026年11月01日",
-      "date_published": "2026-11-02T06:39:15.212Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/10/506904.html",
-      "url": "https://www.qbitai.com/2026/10/506904.html",
-      "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
-      "summary": "Deepseek · 梦瑶 · 2026年10月31日",
-      "date_published": "2026-11-02T06:39:15.212Z"
+      "date_published": "2026-11-02T21:52:34.290Z"
     }
   ]
 }
