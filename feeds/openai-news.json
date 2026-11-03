@@ -5,39 +5,53 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "summary": "Security · 2026年11月03日",
+      "date_published": "2026-11-03T07:08:01.590Z"
+    },
+    {
+      "id": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "summary": "Security · 2026年11月03日",
+      "date_published": "2026-11-03T07:08:01.590Z"
+    },
+    {
+      "id": "https://openai.com/index/scaling-git-at-openai",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "title": "Scaling Git at OpenAI",
+      "summary": "Engineering · 2026年11月02日",
+      "date_published": "2026-11-03T07:08:01.590Z"
+    },
+    {
       "id": "https://openai.com/index/grid-protectors-program",
       "url": "https://openai.com/index/grid-protectors-program",
       "title": "Introducing the Grid Protectors Program",
       "summary": "Global Affairs · 2026年11月02日",
-      "date_published": "2026-11-02T21:52:34.290Z"
+      "date_published": "2026-11-03T07:08:01.590Z"
     },
     {
       "id": "https://openai.com/index/lifeval",
       "url": "https://openai.com/index/lifeval",
       "title": "LifeVal",
       "summary": "Research · 2026年11月02日",
-      "date_published": "2026-11-02T21:52:34.290Z"
+      "date_published": "2026-11-03T07:08:01.590Z"
     },
     {
       "id": "https://openai.com/index/qodo-codex-plugin",
       "url": "https://openai.com/index/qodo-codex-plugin",
       "title": "Qodo builds context into AI code review with Codex",
       "summary": "Startup · 2026年11月02日",
-      "date_published": "2026-11-02T21:52:34.290Z"
+      "date_published": "2026-11-03T07:08:01.590Z"
     },
     {
-      "id": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "title": "Making it easier for websites to express AI training preferences",
-      "summary": "Company · 2026年10月30日",
-      "date_published": "2026-11-02T21:52:34.290Z"
-    },
-    {
-      "id": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "title": "Community safety report and new protections for teens",
-      "summary": "Safety · 2026年10月30日",
-      "date_published": "2026-11-02T21:52:34.290Z"
+      "id": "https://openai.com/index/dan-driscoll-joins-openai",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "summary": "Company · 2026年11月02日",
+      "date_published": "2026-11-03T07:08:01.590Z"
     }
   ]
 }
