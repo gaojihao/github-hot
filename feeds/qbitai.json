@@ -5,74 +5,67 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/qbitai.json",
   "items": [
     {
+      "id": "https://www.qbitai.com/2026/11/507782.html",
+      "url": "https://www.qbitai.com/2026/11/507782.html",
+      "title": "MIT神作被锤：Astra爆改Qwen权重？就吹吧！",
+      "summary": "资讯 · Jay · 2026年11月05日",
+      "date_published": "2026-11-05T07:12:23.088Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/11/507767.html",
+      "url": "https://www.qbitai.com/2026/11/507767.html",
+      "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
+      "summary": "XROGO · 量子位的朋友们 · 2026年11月05日",
+      "date_published": "2026-11-05T07:12:23.088Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/11/507696.html",
+      "url": "https://www.qbitai.com/2026/11/507696.html",
+      "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
+      "summary": "datafun · 量子位的朋友们 · 2026年11月05日",
+      "date_published": "2026-11-05T07:12:23.088Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/11/507707.html",
+      "url": "https://www.qbitai.com/2026/11/507707.html",
+      "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+      "summary": "GPT-image · 衡宇 · 2026年11月05日",
+      "date_published": "2026-11-05T07:12:23.088Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/11/507697.html",
+      "url": "https://www.qbitai.com/2026/11/507697.html",
+      "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
+      "summary": "资讯 · Jay · 2026年11月05日",
+      "date_published": "2026-11-05T07:12:23.088Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/11/507688.html",
+      "url": "https://www.qbitai.com/2026/11/507688.html",
+      "title": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
+      "summary": "太初元碁 · 量子位的朋友们 · 2026年11月05日",
+      "date_published": "2026-11-05T07:12:23.088Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/11/507675.html",
+      "url": "https://www.qbitai.com/2026/11/507675.html",
+      "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
+      "summary": "AI · 听雨 · 2026年11月05日",
+      "date_published": "2026-11-05T07:12:23.088Z"
+    },
+    {
       "id": "https://www.qbitai.com/2026/11/507647.html",
       "url": "https://www.qbitai.com/2026/11/507647.html",
       "title": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年",
       "summary": "百度Apollo · 杰西卡 · 2026年11月05日",
-      "date_published": "2026-11-04T19:58:14.231Z"
+      "date_published": "2026-11-05T07:12:23.088Z"
     },
     {
       "id": "https://www.qbitai.com/2026/11/507586.html",
       "url": "https://www.qbitai.com/2026/11/507586.html",
       "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
       "summary": "具身推理模型 · 思邈 · 2026年11月04日",
-      "date_published": "2026-11-04T19:58:14.231Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/11/507574.html",
-      "url": "https://www.qbitai.com/2026/11/507574.html",
-      "title": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场",
-      "summary": "具身智能 · 量子位的朋友们 · 2026年11月04日",
-      "date_published": "2026-11-04T19:58:14.231Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/11/507567.html",
-      "url": "https://www.qbitai.com/2026/11/507567.html",
-      "title": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
-      "summary": "虎鲸文娱 · 量子位的朋友们 · 2026年11月04日",
-      "date_published": "2026-11-04T19:58:14.231Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/11/507533.html",
-      "url": "https://www.qbitai.com/2026/11/507533.html",
-      "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
-      "summary": "Agent · 思邈 · 2026年11月04日",
-      "date_published": "2026-11-04T19:58:14.231Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/11/507507.html",
-      "url": "https://www.qbitai.com/2026/11/507507.html",
-      "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
-      "summary": "AI · 梦瑶 · 2026年11月03日",
-      "date_published": "2026-11-04T19:58:14.231Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/11/507473.html",
-      "url": "https://www.qbitai.com/2026/11/507473.html",
-      "title": "智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池",
-      "summary": "智能车参考 · 杰西卡 · 2026年11月03日",
-      "date_published": "2026-11-04T19:58:14.231Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/11/507448.html",
-      "url": "https://www.qbitai.com/2026/11/507448.html",
-      "title": "模型谁都买得到，拉开差距的是AI生产力系统",
-      "summary": "AI生产力 · 十三 · 2026年11月03日",
-      "date_published": "2026-11-04T19:58:14.231Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/11/507419.html",
-      "url": "https://www.qbitai.com/2026/11/507419.html",
-      "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
-      "summary": "Siri · Jay · 2026年11月03日",
-      "date_published": "2026-11-04T19:58:14.231Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/11/507410.html",
-      "url": "https://www.qbitai.com/2026/11/507410.html",
-      "title": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间",
-      "summary": "TeleAI · 量子位的朋友们 · 2026年11月03日",
-      "date_published": "2026-11-04T19:58:14.231Z"
+      "date_published": "2026-11-05T07:12:23.088Z"
     }
   ]
 }
