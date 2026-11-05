@@ -5,60 +5,53 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/introducing-gpt-6-cyber",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "summary": "Product · 2026年11月05日",
+      "date_published": "2026-11-05T20:12:21.535Z"
+    },
+    {
+      "id": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "summary": "Global Affairs · 2026年11月05日",
+      "date_published": "2026-11-05T20:12:21.535Z"
+    },
+    {
       "id": "https://openai.com/index/openai-to-acquire-pierre",
       "url": "https://openai.com/index/openai-to-acquire-pierre",
       "title": "OpenAI to acquire Pierre Computer Company, Inc.",
       "summary": "Company · 2026年11月04日",
-      "date_published": "2026-11-05T07:12:23.088Z"
+      "date_published": "2026-11-05T20:12:21.535Z"
     },
     {
       "id": "https://openai.com/index/a-thousand-fewer-paths-to-root",
       "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
       "title": "A thousand fewer paths to root",
       "summary": "Security · 2026年11月04日",
-      "date_published": "2026-11-05T07:12:23.088Z"
+      "date_published": "2026-11-05T20:12:21.535Z"
     },
     {
       "id": "https://openai.com/index/daybreak-red-aws-govcloud",
       "url": "https://openai.com/index/daybreak-red-aws-govcloud",
       "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
       "summary": "Product · 2026年11月04日",
-      "date_published": "2026-11-05T07:12:23.088Z"
+      "date_published": "2026-11-05T20:12:21.535Z"
     },
     {
       "id": "https://openai.com/index/introducing-images-2-6",
       "url": "https://openai.com/index/introducing-images-2-6",
       "title": "Introducing Images 2.6",
       "summary": "Product · 2026年11月04日",
-      "date_published": "2026-11-05T07:12:23.088Z"
+      "date_published": "2026-11-05T20:12:21.535Z"
     },
     {
       "id": "https://openai.com/index/devrev-enterprise-self-service",
       "url": "https://openai.com/index/devrev-enterprise-self-service",
       "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
       "summary": "Startup · 2026年11月04日",
-      "date_published": "2026-11-05T07:12:23.088Z"
-    },
-    {
-      "id": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "title": "Accelerating engineering for the physical world",
-      "summary": "Research · 2026年11月03日",
-      "date_published": "2026-11-05T07:12:23.088Z"
-    },
-    {
-      "id": "https://openai.com/index/cisco-cyber",
-      "url": "https://openai.com/index/cisco-cyber",
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "summary": "2026年11月03日",
-      "date_published": "2026-11-05T07:12:23.088Z"
-    },
-    {
-      "id": "https://openai.com/index/heimstaden",
-      "url": "https://openai.com/index/heimstaden",
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "summary": "2026年11月03日",
-      "date_published": "2026-11-05T07:12:23.088Z"
+      "date_published": "2026-11-05T20:12:21.535Z"
     }
   ]
 }
