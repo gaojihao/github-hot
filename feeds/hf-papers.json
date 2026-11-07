@@ -5,228 +5,228 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2611.08373",
-      "url": "https://huggingface.co/papers/2611.08373",
-      "title": "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
-      "summary": "2611.08373 · ▲ 125",
-      "date_published": "2026-11-07T06:27:11.398Z"
-    },
-    {
       "id": "https://huggingface.co/papers/2611.08449",
       "url": "https://huggingface.co/papers/2611.08449",
       "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
-      "summary": "2611.08449 · ▲ 96",
-      "date_published": "2026-11-07T06:27:11.398Z"
+      "summary": "2611.08449 · ▲ 98",
+      "date_published": "2026-11-07T17:49:39.041Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.08373",
+      "url": "https://huggingface.co/papers/2611.08373",
+      "title": "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
+      "summary": "2611.08373 · ▲ 79",
+      "date_published": "2026-11-07T17:49:39.041Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.04277",
       "url": "https://huggingface.co/papers/2611.04277",
       "title": "Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training",
-      "summary": "2611.04277 · ▲ 55",
-      "date_published": "2026-11-07T06:27:11.398Z"
+      "summary": "2611.04277 · ▲ 60",
+      "date_published": "2026-11-07T17:49:39.041Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.00883",
       "url": "https://huggingface.co/papers/2611.00883",
       "title": "Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via BestRand",
-      "summary": "2611.00883 · ▲ 50",
-      "date_published": "2026-11-07T06:27:11.398Z"
+      "summary": "2611.00883 · ▲ 47",
+      "date_published": "2026-11-07T17:49:39.041Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.05376",
+      "url": "https://huggingface.co/papers/2611.05376",
+      "title": "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence",
+      "summary": "2611.05376 · ▲ 46",
+      "date_published": "2026-11-07T17:49:39.041Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.07392",
       "url": "https://huggingface.co/papers/2611.07392",
       "title": "WeLM-Image: A Unified Image Generation Model towards Visual Intelligence",
-      "summary": "2611.07392 · ▲ 39",
-      "date_published": "2026-11-07T06:27:11.398Z"
+      "summary": "2611.07392 · ▲ 42",
+      "date_published": "2026-11-07T17:49:39.041Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.06741",
       "url": "https://huggingface.co/papers/2611.06741",
       "title": "TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing",
-      "summary": "2611.06741 · ▲ 37",
-      "date_published": "2026-11-07T06:27:11.398Z"
+      "summary": "2611.06741 · ▲ 39",
+      "date_published": "2026-11-07T17:49:39.041Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.03743",
       "url": "https://huggingface.co/papers/2611.03743",
       "title": "EvoMemState: Evolving Memory State for Personal Agents",
-      "summary": "2611.03743 · ▲ 21",
-      "date_published": "2026-11-07T06:27:11.398Z"
+      "summary": "2611.03743 · ▲ 24",
+      "date_published": "2026-11-07T17:49:39.041Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.07854",
       "url": "https://huggingface.co/papers/2611.07854",
       "title": "Towards Foundation Decision Models: Drex",
-      "summary": "2611.07854 · ▲ 19",
-      "date_published": "2026-11-07T06:27:11.398Z"
+      "summary": "2611.07854 · ▲ 20",
+      "date_published": "2026-11-07T17:49:39.041Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.04894",
       "url": "https://huggingface.co/papers/2611.04894",
       "title": "VisSearch-Bench: Evaluating Long Horizon Visual Search in Multimodal Agents",
-      "summary": "2611.04894 · ▲ 17",
-      "date_published": "2026-11-07T06:27:11.398Z"
+      "summary": "2611.04894 · ▲ 19",
+      "date_published": "2026-11-07T17:49:39.041Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.06817",
       "url": "https://huggingface.co/papers/2611.06817",
       "title": "Open-HumanScale: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models",
-      "summary": "2611.06817 · ▲ 15",
-      "date_published": "2026-11-07T06:27:11.398Z"
+      "summary": "2611.06817 · ▲ 17",
+      "date_published": "2026-11-07T17:49:39.041Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.06976",
       "url": "https://huggingface.co/papers/2611.06976",
       "title": "On the Opportunities and Challenges of Prefill-to-Autoregressive Cross-Model Transfer",
-      "summary": "2611.06976 · ▲ 12",
-      "date_published": "2026-11-07T06:27:11.398Z"
+      "summary": "2611.06976 · ▲ 13",
+      "date_published": "2026-11-07T17:49:39.041Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.07909",
       "url": "https://huggingface.co/papers/2611.07909",
       "title": "EDGAR: Efficient Diffusion-Driven Gaussian Avatar Refinement via Synthetic Failure",
-      "summary": "2611.07909 · ▲ 10",
-      "date_published": "2026-11-07T06:27:11.398Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.04527",
-      "url": "https://huggingface.co/papers/2611.04527",
-      "title": "Future Representation Distillation for Imagination-free World Action Models",
-      "summary": "2611.04527 · ▲ 8",
-      "date_published": "2026-11-07T06:27:11.398Z"
+      "summary": "2611.07909 · ▲ 13",
+      "date_published": "2026-11-07T17:49:39.041Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.08237",
       "url": "https://huggingface.co/papers/2611.08237",
       "title": "Terminal-style Mathematical Modeling Bench: The First Agentic and Verifiable Benchmark for Mathematical Modeling",
-      "summary": "2611.08237 · ▲ 7",
-      "date_published": "2026-11-07T06:27:11.398Z"
+      "summary": "2611.08237 · ▲ 9",
+      "date_published": "2026-11-07T17:49:39.041Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.04527",
+      "url": "https://huggingface.co/papers/2611.04527",
+      "title": "Future Representation Distillation for Imagination-free World Action Models",
+      "summary": "2611.04527 · ▲ 9",
+      "date_published": "2026-11-07T17:49:39.041Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.08483",
+      "url": "https://huggingface.co/papers/2611.08483",
+      "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+      "summary": "2611.08483 · ▲ 7",
+      "date_published": "2026-11-07T17:49:39.041Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.02660",
       "url": "https://huggingface.co/papers/2611.02660",
       "title": "HeLM: Hierarchical Explicit Language Memory for Non-Markovian Manipulation",
       "summary": "2611.02660 · ▲ 7",
-      "date_published": "2026-11-07T06:27:11.398Z"
+      "date_published": "2026-11-07T17:49:39.041Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.08376",
       "url": "https://huggingface.co/papers/2611.08376",
       "title": "Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout",
-      "summary": "2611.08376 · ▲ 5",
-      "date_published": "2026-11-07T06:27:11.398Z"
+      "summary": "2611.08376 · ▲ 6",
+      "date_published": "2026-11-07T17:49:39.041Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.08089",
       "url": "https://huggingface.co/papers/2611.08089",
       "title": "SAE Interprets MoE: Sparse AutoEncoders Reveal That MoE Experts Exhibit Human-Interpretable Fine-Grained Specialization",
-      "summary": "2611.08089 · ▲ 5",
-      "date_published": "2026-11-07T06:27:11.398Z"
+      "summary": "2611.08089 · ▲ 6",
+      "date_published": "2026-11-07T17:49:39.041Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.05376",
-      "url": "https://huggingface.co/papers/2611.05376",
-      "title": "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence",
-      "summary": "2611.05376 · ▲ 5",
-      "date_published": "2026-11-07T06:27:11.398Z"
+      "id": "https://huggingface.co/papers/2611.07298",
+      "url": "https://huggingface.co/papers/2611.07298",
+      "title": "Reducing Representational Interference in Retrieval Embeddings with Trainable Prefix Tokens",
+      "summary": "2611.07298 · ▲ 5",
+      "date_published": "2026-11-07T17:49:39.041Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.07613",
+      "url": "https://huggingface.co/papers/2611.07613",
+      "title": "Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation",
+      "summary": "2611.07613 · ▲ 5",
+      "date_published": "2026-11-07T17:49:39.041Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.06982",
       "url": "https://huggingface.co/papers/2611.06982",
       "title": "Decode Before You Hear: Speculative Listening for Chunk-Interleaved Full-Duplex Speech Language Models",
       "summary": "2611.06982 · ▲ 5",
-      "date_published": "2026-11-07T06:27:11.398Z"
+      "date_published": "2026-11-07T17:49:39.041Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.04386",
       "url": "https://huggingface.co/papers/2611.04386",
       "title": "StepX-OPD: Rethinking Multi-Teacher On-Policy Distillation in Diffusion Models",
-      "summary": "2611.04386 · ▲ 3",
-      "date_published": "2026-11-07T06:27:11.398Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.08483",
-      "url": "https://huggingface.co/papers/2611.08483",
-      "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
-      "summary": "2611.08483 · ▲ 3",
-      "date_published": "2026-11-07T06:27:11.398Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.07613",
-      "url": "https://huggingface.co/papers/2611.07613",
-      "title": "Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation",
-      "summary": "2611.07613 · ▲ 3",
-      "date_published": "2026-11-07T06:27:11.398Z"
+      "summary": "2611.04386 · ▲ 4",
+      "date_published": "2026-11-07T17:49:39.041Z"
     },
     {
       "id": "https://huggingface.co/papers/2610.37739",
       "url": "https://huggingface.co/papers/2610.37739",
       "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
-      "summary": "2610.37739 · ▲ 2",
-      "date_published": "2026-11-07T06:27:11.398Z"
+      "summary": "2610.37739 · ▲ 4",
+      "date_published": "2026-11-07T17:49:39.041Z"
     },
     {
       "id": "https://huggingface.co/papers/2609.37820",
       "url": "https://huggingface.co/papers/2609.37820",
       "title": "Information Games: Strategic Crowding and Firm Repositioning in Language-Model Space",
-      "summary": "2609.37820 · ▲ 2",
-      "date_published": "2026-11-07T06:27:11.398Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.07298",
-      "url": "https://huggingface.co/papers/2611.07298",
-      "title": "Reducing Representational Interference in Retrieval Embeddings with Trainable Prefix Tokens",
-      "summary": "2611.07298 · ▲ 2",
-      "date_published": "2026-11-07T06:27:11.398Z"
+      "summary": "2609.37820 · ▲ 3",
+      "date_published": "2026-11-07T17:49:39.041Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.02075",
       "url": "https://huggingface.co/papers/2611.02075",
       "title": "Decoupled Predictive Decision Making: A Shared Conditional Predictor for Agents",
-      "summary": "2611.02075 · ▲ 2",
-      "date_published": "2026-11-07T06:27:11.398Z"
+      "summary": "2611.02075 · ▲ 3",
+      "date_published": "2026-11-07T17:49:39.041Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.06500",
+      "url": "https://huggingface.co/papers/2611.06500",
+      "title": "Tools Need Not Speak in Text: Latent Context Compression for Agents",
+      "summary": "2611.06500 · ▲ 2",
+      "date_published": "2026-11-07T17:49:39.041Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.06498",
+      "url": "https://huggingface.co/papers/2611.06498",
+      "title": "Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation",
+      "summary": "2611.06498 · ▲ 2",
+      "date_published": "2026-11-07T17:49:39.041Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2610.41789",
+      "url": "https://huggingface.co/papers/2610.41789",
+      "title": "Hard Sample-Conditioned Decorrelated Attention for Robust Face Recognition",
+      "summary": "2610.41789 · ▲ 2",
+      "date_published": "2026-11-07T17:49:39.041Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2610.34074",
+      "url": "https://huggingface.co/papers/2610.34074",
+      "title": "Identically Trained Language Models Break on Different Jailbreaks",
+      "summary": "2610.34074 · ▲ 2",
+      "date_published": "2026-11-07T17:49:39.041Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.08369",
       "url": "https://huggingface.co/papers/2611.08369",
       "title": "NPCBench: A Clinical Apprenticeship Benchmark for Multimodal Care-Pathway Reasoning in Nasopharyngeal Carcinoma",
       "summary": "2611.08369 · ▲ 2",
-      "date_published": "2026-11-07T06:27:11.398Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.06500",
-      "url": "https://huggingface.co/papers/2611.06500",
-      "title": "Tools Need Not Speak in Text: Latent Context Compression for Agents",
-      "summary": "2611.06500 · ▲ 1",
-      "date_published": "2026-11-07T06:27:11.398Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.06498",
-      "url": "https://huggingface.co/papers/2611.06498",
-      "title": "Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation",
-      "summary": "2611.06498 · ▲ 1",
-      "date_published": "2026-11-07T06:27:11.398Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2610.41789",
-      "url": "https://huggingface.co/papers/2610.41789",
-      "title": "Hard Sample-Conditioned Decorrelated Attention for Robust Face Recognition",
-      "summary": "2610.41789 · ▲ 1",
-      "date_published": "2026-11-07T06:27:11.398Z"
+      "date_published": "2026-11-07T17:49:39.041Z"
     },
     {
       "id": "https://huggingface.co/papers/2610.40119",
       "url": "https://huggingface.co/papers/2610.40119",
       "title": "SynthFaces: Balanced Large Scale Human Dataset",
       "summary": "2610.40119 · ▲ 1",
-      "date_published": "2026-11-07T06:27:11.398Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2610.34074",
-      "url": "https://huggingface.co/papers/2610.34074",
-      "title": "Identically Trained Language Models Break on Different Jailbreaks",
-      "summary": "2610.34074 · ▲ 1",
-      "date_published": "2026-11-07T06:27:11.398Z"
+      "date_published": "2026-11-07T17:49:39.041Z"
     }
   ]
 }
