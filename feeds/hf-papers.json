@@ -8,64 +8,134 @@
       "id": "https://huggingface.co/papers/2610.40394",
       "url": "https://huggingface.co/papers/2610.40394",
       "title": "Scaling Mathematical Proof Supervision from Structured Textbooks",
-      "summary": "2610.40394 · ▲ 25",
-      "date_published": "2026-11-12T07:34:53.835Z"
+      "summary": "2610.40394 · ▲ 37",
+      "date_published": "2026-11-12T20:18:00.745Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.13410",
+      "url": "https://huggingface.co/papers/2611.13410",
+      "title": "SteerDistill: Quantizing LLM Agents via Closed-Loop Teacher Steering",
+      "summary": "2611.13410 · ▲ 30",
+      "date_published": "2026-11-12T20:18:00.745Z"
     },
     {
       "id": "https://huggingface.co/papers/2610.39671",
       "url": "https://huggingface.co/papers/2610.39671",
       "title": "Incentivizing Self-Learning in Large Language Models via Reinforcement Learning",
-      "summary": "2610.39671 · ▲ 14",
-      "date_published": "2026-11-12T07:34:53.835Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.13028",
-      "url": "https://huggingface.co/papers/2611.13028",
-      "title": "GTAGym: Real AAA Game Tasks Environment for Evaluation and Reinforcement Learning",
-      "summary": "2611.13028 · ▲ 9",
-      "date_published": "2026-11-12T07:34:53.835Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.10193",
-      "url": "https://huggingface.co/papers/2611.10193",
-      "title": "Ensemble Routing for Prompt-Adaptive Cost-Aware LLM Inference",
-      "summary": "2611.10193 · ▲ 4",
-      "date_published": "2026-11-12T07:34:53.835Z"
+      "summary": "2610.39671 · ▲ 26",
+      "date_published": "2026-11-12T20:18:00.745Z"
     },
     {
       "id": "https://huggingface.co/papers/2608.22237",
       "url": "https://huggingface.co/papers/2608.22237",
       "title": "Read Less, Solve More: Token-Efficient Sparse Reading of External Content for AI Agents",
-      "summary": "2608.22237 · ▲ 3",
-      "date_published": "2026-11-12T07:34:53.835Z"
+      "summary": "2608.22237 · ▲ 16",
+      "date_published": "2026-11-12T20:18:00.745Z"
     },
     {
-      "id": "https://huggingface.co/papers/2607.24999",
-      "url": "https://huggingface.co/papers/2607.24999",
-      "title": "CogBattery: Human-Referenced Evaluation of Cognitive Task Behavior and Structure in Language Models",
-      "summary": "2607.24999 · ▲ 2",
-      "date_published": "2026-11-12T07:34:53.835Z"
+      "id": "https://huggingface.co/papers/2611.10193",
+      "url": "https://huggingface.co/papers/2611.10193",
+      "title": "Ensemble Routing for Prompt-Adaptive Cost-Aware LLM Inference",
+      "summary": "2611.10193 · ▲ 14",
+      "date_published": "2026-11-12T20:18:00.745Z"
     },
     {
-      "id": "https://huggingface.co/papers/2603.27343",
-      "url": "https://huggingface.co/papers/2603.27343",
-      "title": "WMIP: A Working-Memory-Inspired Programmable Probe of Cumulative State Tracking in Large Language Models",
-      "summary": "2603.27343 · ▲ 2",
-      "date_published": "2026-11-12T07:34:53.835Z"
+      "id": "https://huggingface.co/papers/2611.13028",
+      "url": "https://huggingface.co/papers/2611.13028",
+      "title": "GTAGym: Real AAA Game Tasks Environment for Evaluation and Reinforcement Learning",
+      "summary": "2611.13028 · ▲ 12",
+      "date_published": "2026-11-12T20:18:00.745Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.08379",
-      "url": "https://huggingface.co/papers/2611.08379",
-      "title": "Module-Aware Optimization for Graph Neural Networks",
-      "summary": "2611.08379 · ▲ 1",
-      "date_published": "2026-11-12T07:34:53.835Z"
+      "id": "https://huggingface.co/papers/2611.12304",
+      "url": "https://huggingface.co/papers/2611.12304",
+      "title": "Evolving Infra: Agent-Adaptive LLM Serving at Scale",
+      "summary": "2611.12304 · ▲ 10",
+      "date_published": "2026-11-12T20:18:00.745Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.12869",
+      "url": "https://huggingface.co/papers/2611.12869",
+      "title": "Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic Representation Hypothesis",
+      "summary": "2611.12869 · ▲ 5",
+      "date_published": "2026-11-12T20:18:00.745Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.14418",
+      "url": "https://huggingface.co/papers/2611.14418",
+      "title": "Precision on Demand: Escalating Weight Bits at Uncertain Decoding Steps in a Small Local Model",
+      "summary": "2611.14418 · ▲ 4",
+      "date_published": "2026-11-12T20:18:00.745Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.08286",
       "url": "https://huggingface.co/papers/2611.08286",
       "title": "Interactive Visual Gym: Evaluating Visual Interaction Models with Simulated Users in Interactive Worlds",
-      "summary": "2611.08286 · ▲ 0",
-      "date_published": "2026-11-12T07:34:53.835Z"
+      "summary": "2611.08286 · ▲ 4",
+      "date_published": "2026-11-12T20:18:00.745Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.13766",
+      "url": "https://huggingface.co/papers/2611.13766",
+      "title": "FAME-QP: A GPU-Accelerated Quadratic-Programming Solver for Real-Time Model Predictive Control",
+      "summary": "2611.13766 · ▲ 3",
+      "date_published": "2026-11-12T20:18:00.745Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.13758",
+      "url": "https://huggingface.co/papers/2611.13758",
+      "title": "Mixed Signals: Weight-Space Programming for EEG and ECG",
+      "summary": "2611.13758 · ▲ 3",
+      "date_published": "2026-11-12T20:18:00.745Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.08379",
+      "url": "https://huggingface.co/papers/2611.08379",
+      "title": "Module-Aware Optimization for Graph Neural Networks",
+      "summary": "2611.08379 · ▲ 3",
+      "date_published": "2026-11-12T20:18:00.745Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2607.24999",
+      "url": "https://huggingface.co/papers/2607.24999",
+      "title": "CogBattery: Human-Referenced Evaluation of Cognitive Task Behavior and Structure in Language Models",
+      "summary": "2607.24999 · ▲ 3",
+      "date_published": "2026-11-12T20:18:00.745Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2603.27343",
+      "url": "https://huggingface.co/papers/2603.27343",
+      "title": "WMIP: A Working-Memory-Inspired Programmable Probe of Cumulative State Tracking in Large Language Models",
+      "summary": "2603.27343 · ▲ 3",
+      "date_published": "2026-11-12T20:18:00.745Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.05862",
+      "url": "https://huggingface.co/papers/2611.05862",
+      "title": "CARTBench: Rubric-Based Evaluation of Shopping Advice for Complex and Ambiguous Requests with Timelines",
+      "summary": "2611.05862 · ▲ 2",
+      "date_published": "2026-11-12T20:18:00.745Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.14413",
+      "url": "https://huggingface.co/papers/2611.14413",
+      "title": "Bits or permutations? Spending a fixed inference budget on weight precision or on option-order averaging in small local language models",
+      "summary": "2611.14413 · ▲ 2",
+      "date_published": "2026-11-12T20:18:00.745Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.13843",
+      "url": "https://huggingface.co/papers/2611.13843",
+      "title": "PolyRoute: A Twelve-Language and Code-Mixed Benchmark for Typed-Decision Routing, with Baselines and a Leaderboard",
+      "summary": "2611.13843 · ▲ 2",
+      "date_published": "2026-11-12T20:18:00.745Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.11306",
+      "url": "https://huggingface.co/papers/2611.11306",
+      "title": "ScrapeBench: Evaluating Legal Compliance of AI Agents in Website Scraping",
+      "summary": "2611.11306 · ▲ 1",
+      "date_published": "2026-11-12T20:18:00.745Z"
     }
   ]
 }
