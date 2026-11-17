@@ -5,137 +5,270 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2611.19937",
-      "url": "https://huggingface.co/papers/2611.19937",
-      "title": "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data",
-      "summary": "2611.19937 · ▲ 34",
-      "date_published": "2026-11-17T08:20:19.646Z"
+      "id": "https://huggingface.co/papers/2611.21072",
+      "url": "https://huggingface.co/papers/2611.21072",
+      "title": "Sage S2.1 Flash Technical Report",
+      "summary": "2611.21072 · ▲ 85",
+      "date_published": "2026-11-17T21:15:01.966Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.21003",
       "url": "https://huggingface.co/papers/2611.21003",
       "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
-      "summary": "2611.21003 · ▲ 31",
-      "date_published": "2026-11-17T08:20:19.646Z"
+      "summary": "2611.21003 · ▲ 67",
+      "date_published": "2026-11-17T21:15:01.966Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.19937",
+      "url": "https://huggingface.co/papers/2611.19937",
+      "title": "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data",
+      "summary": "2611.19937 · ▲ 67",
+      "date_published": "2026-11-17T21:15:01.966Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.21218",
       "url": "https://huggingface.co/papers/2611.21218",
       "title": "InclusionMed: Benchmarking AI for Inclusive Healthcare",
-      "summary": "2611.21218 · ▲ 19",
-      "date_published": "2026-11-17T08:20:19.646Z"
+      "summary": "2611.21218 · ▲ 62",
+      "date_published": "2026-11-17T21:15:01.966Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.07222",
       "url": "https://huggingface.co/papers/2611.07222",
       "title": "SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection",
-      "summary": "2611.07222 · ▲ 19",
-      "date_published": "2026-11-17T08:20:19.646Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.17834",
-      "url": "https://huggingface.co/papers/2611.17834",
-      "title": "PaperCritic: Training AI Reviewers to Assess the Soundness of Papers",
-      "summary": "2611.17834 · ▲ 18",
-      "date_published": "2026-11-17T08:20:19.646Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.20882",
-      "url": "https://huggingface.co/papers/2611.20882",
-      "title": "Accelerate Bench: Evaluating Agents for Application-Level Program Optimization",
-      "summary": "2611.20882 · ▲ 11",
-      "date_published": "2026-11-17T08:20:19.646Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.20986",
-      "url": "https://huggingface.co/papers/2611.20986",
-      "title": "Calpha: Toward Native Biomolecular Intelligence in a General-Purpose Language Model",
-      "summary": "2611.20986 · ▲ 10",
-      "date_published": "2026-11-17T08:20:19.646Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.20254",
-      "url": "https://huggingface.co/papers/2611.20254",
-      "title": "VoxMel TTS Technical Report",
-      "summary": "2611.20254 · ▲ 7",
-      "date_published": "2026-11-17T08:20:19.646Z"
+      "summary": "2611.07222 · ▲ 49",
+      "date_published": "2026-11-17T21:15:01.966Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.20218",
       "url": "https://huggingface.co/papers/2611.20218",
       "title": "SWE-CoWork: Benchmarking Coding Agents as Digital Employees in Organizations",
-      "summary": "2611.20218 · ▲ 5",
-      "date_published": "2026-11-17T08:20:19.646Z"
+      "summary": "2611.20218 · ▲ 44",
+      "date_published": "2026-11-17T21:15:01.966Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.21607",
       "url": "https://huggingface.co/papers/2611.21607",
       "title": "ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters",
-      "summary": "2611.21607 · ▲ 5",
-      "date_published": "2026-11-17T08:20:19.646Z"
+      "summary": "2611.21607 · ▲ 41",
+      "date_published": "2026-11-17T21:15:01.966Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.17834",
+      "url": "https://huggingface.co/papers/2611.17834",
+      "title": "PaperCritic: Training AI Reviewers to Assess the Soundness of Papers",
+      "summary": "2611.17834 · ▲ 26",
+      "date_published": "2026-11-17T21:15:01.966Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.20254",
+      "url": "https://huggingface.co/papers/2611.20254",
+      "title": "VoxMel TTS Technical Report",
+      "summary": "2611.20254 · ▲ 22",
+      "date_published": "2026-11-17T21:15:01.966Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.20882",
+      "url": "https://huggingface.co/papers/2611.20882",
+      "title": "Accelerate Bench: Evaluating Agents for Application-Level Program Optimization",
+      "summary": "2611.20882 · ▲ 16",
+      "date_published": "2026-11-17T21:15:01.966Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.17110",
+      "url": "https://huggingface.co/papers/2611.17110",
+      "title": "SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models",
+      "summary": "2611.17110 · ▲ 13",
+      "date_published": "2026-11-17T21:15:01.966Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.20986",
+      "url": "https://huggingface.co/papers/2611.20986",
+      "title": "Calpha: Toward Native Biomolecular Intelligence in a General-Purpose Language Model",
+      "summary": "2611.20986 · ▲ 11",
+      "date_published": "2026-11-17T21:15:01.966Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.21339",
       "url": "https://huggingface.co/papers/2611.21339",
       "title": "MovieRoll: A Systematic Framework for Rolling Out Long-Form Videos",
-      "summary": "2611.21339 · ▲ 5",
-      "date_published": "2026-11-17T08:20:19.646Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.19649",
-      "url": "https://huggingface.co/papers/2611.19649",
-      "title": "LoopFill: Pipelined Multi-Token Speculative Decoding for Looped Transformers",
-      "summary": "2611.19649 · ▲ 3",
-      "date_published": "2026-11-17T08:20:19.646Z"
+      "summary": "2611.21339 · ▲ 10",
+      "date_published": "2026-11-17T21:15:01.966Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.20404",
       "url": "https://huggingface.co/papers/2611.20404",
       "title": "Latent Feedback Is a Compute and Data Amplifier",
-      "summary": "2611.20404 · ▲ 3",
-      "date_published": "2026-11-17T08:20:19.646Z"
+      "summary": "2611.20404 · ▲ 6",
+      "date_published": "2026-11-17T21:15:01.966Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.14960",
+      "url": "https://huggingface.co/papers/2611.14960",
+      "title": "Termination Lag: Coding Agents Solve Early but Stop Late",
+      "summary": "2611.14960 · ▲ 5",
+      "date_published": "2026-11-17T21:15:01.966Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.18919",
+      "url": "https://huggingface.co/papers/2611.18919",
+      "title": "Correcting Persistent Failures in Point-Cloud Grasping Policies using Human Demonstrations in Virtual Reality",
+      "summary": "2611.18919 · ▲ 5",
+      "date_published": "2026-11-17T21:15:01.966Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.13685",
       "url": "https://huggingface.co/papers/2611.13685",
       "title": "Ego Guidance: Enhancing Robot Policy Learning with Action-Free Human Egocentric Videos",
-      "summary": "2611.13685 · ▲ 2",
-      "date_published": "2026-11-17T08:20:19.646Z"
+      "summary": "2611.13685 · ▲ 5",
+      "date_published": "2026-11-17T21:15:01.966Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.20148",
-      "url": "https://huggingface.co/papers/2611.20148",
-      "title": "Centered Ablation: Why Last-Layer Directional Ablation Under-Fires or Collapses, and a Closed-Form Fix",
-      "summary": "2611.20148 · ▲ 1",
-      "date_published": "2026-11-17T08:20:19.646Z"
+      "id": "https://huggingface.co/papers/2611.19537",
+      "url": "https://huggingface.co/papers/2611.19537",
+      "title": "Continuation-Guided LLM Evolution of Program Policies and Goal Compilers in Craftax",
+      "summary": "2611.19537 · ▲ 4",
+      "date_published": "2026-11-17T21:15:01.966Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.20385",
       "url": "https://huggingface.co/papers/2611.20385",
       "title": "DominoBench: Evaluating Multi-Step Physical Reasoning from Still Images",
-      "summary": "2611.20385 · ▲ 1",
-      "date_published": "2026-11-17T08:20:19.646Z"
+      "summary": "2611.20385 · ▲ 4",
+      "date_published": "2026-11-17T21:15:01.966Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.19649",
+      "url": "https://huggingface.co/papers/2611.19649",
+      "title": "LoopFill: Pipelined Multi-Token Speculative Decoding for Looped Transformers",
+      "summary": "2611.19649 · ▲ 4",
+      "date_published": "2026-11-17T21:15:01.966Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.18330",
+      "url": "https://huggingface.co/papers/2611.18330",
+      "title": "Marimba: A System One Model for Speech",
+      "summary": "2611.18330 · ▲ 3",
+      "date_published": "2026-11-17T21:15:01.966Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.09825",
+      "url": "https://huggingface.co/papers/2611.09825",
+      "title": "BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design",
+      "summary": "2611.09825 · ▲ 3",
+      "date_published": "2026-11-17T21:15:01.966Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.19771",
+      "url": "https://huggingface.co/papers/2611.19771",
+      "title": "JEPA4R: Embodied JEPA World Models with 4D Point Planning",
+      "summary": "2611.19771 · ▲ 3",
+      "date_published": "2026-11-17T21:15:01.966Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.16642",
+      "url": "https://huggingface.co/papers/2611.16642",
+      "title": "Dataset Distillation via Drifting",
+      "summary": "2611.16642 · ▲ 3",
+      "date_published": "2026-11-17T21:15:01.966Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.17933",
+      "url": "https://huggingface.co/papers/2611.17933",
+      "title": "OutfitterBench: Evaluating LLM Agents on Long-Horizon Resource Allocation and Commitment Coordination",
+      "summary": "2611.17933 · ▲ 3",
+      "date_published": "2026-11-17T21:15:01.966Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.21479",
+      "url": "https://huggingface.co/papers/2611.21479",
+      "title": "LynnReal-Hand: Unlocking World Interaction with Hand Control",
+      "summary": "2611.21479 · ▲ 2",
+      "date_published": "2026-11-17T21:15:01.966Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.20148",
+      "url": "https://huggingface.co/papers/2611.20148",
+      "title": "Centered Ablation: Why Last-Layer Directional Ablation Under-Fires or Collapses, and a Closed-Form Fix",
+      "summary": "2611.20148 · ▲ 2",
+      "date_published": "2026-11-17T21:15:01.966Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.18668",
       "url": "https://huggingface.co/papers/2611.18668",
       "title": "UMM-JEPA: Generative Pretraining via Masked Next-Scale Representation Prediction for Unified Multimodal Models",
-      "summary": "2611.18668 · ▲ 1",
-      "date_published": "2026-11-17T08:20:19.646Z"
+      "summary": "2611.18668 · ▲ 2",
+      "date_published": "2026-11-17T21:15:01.966Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.20192",
       "url": "https://huggingface.co/papers/2611.20192",
       "title": "GlyphAtlas: Disentangling Stroke Detail from Layout for Scene Text Synthesis",
-      "summary": "2611.20192 · ▲ 1",
-      "date_published": "2026-11-17T08:20:19.646Z"
+      "summary": "2611.20192 · ▲ 2",
+      "date_published": "2026-11-17T21:15:01.966Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.20595",
+      "url": "https://huggingface.co/papers/2611.20595",
+      "title": "Invariant-Aware Harness Enforcement to Protect LLM Agents from Silent API Failures",
+      "summary": "2611.20595 · ▲ 1",
+      "date_published": "2026-11-17T21:15:01.966Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.16694",
+      "url": "https://huggingface.co/papers/2611.16694",
+      "title": "When Expert Disagreement Hurts: Prestige and Selectivity in LLM Decision Revision",
+      "summary": "2611.16694 · ▲ 1",
+      "date_published": "2026-11-17T21:15:01.966Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.21605",
+      "url": "https://huggingface.co/papers/2611.21605",
+      "title": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
+      "summary": "2611.21605 · ▲ 1",
+      "date_published": "2026-11-17T21:15:01.966Z"
     },
     {
       "id": "https://huggingface.co/papers/2605.09614",
       "url": "https://huggingface.co/papers/2605.09614",
       "title": "Reflection Anchors for Propagation-Aware Visual Retention in Long-Chain Multimodal Reasoning",
-      "summary": "2605.09614 · ▲ 0",
-      "date_published": "2026-11-17T08:20:19.646Z"
+      "summary": "2605.09614 · ▲ 1",
+      "date_published": "2026-11-17T21:15:01.966Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.21412",
+      "url": "https://huggingface.co/papers/2611.21412",
+      "title": "Flexible Multi-Stack Super-Resolution of Clinical Brain MRI Using Hetero-Orientation Variational Encoding: Expert Reader Evaluation in a Nigerian Cohort",
+      "summary": "2611.21412 · ▲ 0",
+      "date_published": "2026-11-17T21:15:01.966Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.17610",
+      "url": "https://huggingface.co/papers/2611.17610",
+      "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
+      "summary": "2611.17610 · ▲ 0",
+      "date_published": "2026-11-17T21:15:01.966Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.18981",
+      "url": "https://huggingface.co/papers/2611.18981",
+      "title": "GPBam: A Retrieval-Aware German Public Law Exam Benchmark",
+      "summary": "2611.18981 · ▲ 0",
+      "date_published": "2026-11-17T21:15:01.966Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.06238",
+      "url": "https://huggingface.co/papers/2611.06238",
+      "title": "Zuse: A Decision Model for European Languages",
+      "summary": "2611.06238 · ▲ 0",
+      "date_published": "2026-11-17T21:15:01.966Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.21439",
+      "url": "https://huggingface.co/papers/2611.21439",
+      "title": "A Reinforcement Learning Method to Navigate SMEFT Operator Space",
+      "summary": "2611.21439 · ▲ 0",
+      "date_published": "2026-11-17T21:15:01.966Z"
     }
   ]
 }
