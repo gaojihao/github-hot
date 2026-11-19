@@ -5,74 +5,67 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/the-silent-consensus",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "title": "The Silent Consensus",
+      "summary": "Intelligence Age · 2026年11月18日",
+      "date_published": "2026-11-19T07:47:32.493Z"
+    },
+    {
+      "id": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "title": "Research acceleration: The jagged frontier",
+      "summary": "Research · 2026年11月18日",
+      "date_published": "2026-11-19T07:47:32.493Z"
+    },
+    {
+      "id": "https://openai.com/business/customer-stories/sumitomo-life",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "summary": "2026年11月18日",
+      "date_published": "2026-11-19T07:47:32.493Z"
+    },
+    {
       "id": "https://openai.com/index/inside-the-codex-sandbox",
       "url": "https://openai.com/index/inside-the-codex-sandbox",
       "title": "Inside the Codex sandbox",
       "summary": "Engineering · 2026年11月18日",
-      "date_published": "2026-11-18T20:49:53.061Z"
+      "date_published": "2026-11-19T07:47:32.493Z"
     },
     {
       "id": "https://openai.com/index/managing-frontier-ai-risk",
       "url": "https://openai.com/index/managing-frontier-ai-risk",
       "title": "Managing frontier AI risk: From training to deployment",
       "summary": "Safety · 2026年11月18日",
-      "date_published": "2026-11-18T20:49:53.061Z"
+      "date_published": "2026-11-19T07:47:32.493Z"
     },
     {
       "id": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
       "summary": "Company · 2026年11月18日",
-      "date_published": "2026-11-18T20:49:53.061Z"
+      "date_published": "2026-11-19T07:47:32.493Z"
     },
     {
       "id": "https://openai.com/index/advancing-chip-design-with-our-models",
       "url": "https://openai.com/index/advancing-chip-design-with-our-models",
       "title": "Advancing chip design with OpenAI models",
       "summary": "Research · 2026年11月18日",
-      "date_published": "2026-11-18T20:49:53.061Z"
-    },
-    {
-      "id": "https://openai.com/index/the-silent-consensus",
-      "url": "https://openai.com/index/the-silent-consensus",
-      "title": "The Silent Consensus",
-      "summary": "Intelligence Age · 2026年11月18日",
-      "date_published": "2026-11-18T20:49:53.061Z"
+      "date_published": "2026-11-19T07:47:32.493Z"
     },
     {
       "id": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
       "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
       "title": "Introducing GPT-6.2 Astra and Sol",
       "summary": "Product · 2026年11月18日",
-      "date_published": "2026-11-18T20:49:53.061Z"
+      "date_published": "2026-11-19T07:47:32.493Z"
     },
     {
       "id": "https://openai.com/index/introducing-chatgpt-for-sales",
       "url": "https://openai.com/index/introducing-chatgpt-for-sales",
       "title": "Introducing ChatGPT for Sales",
       "summary": "Product · 2026年11月17日",
-      "date_published": "2026-11-18T20:49:53.061Z"
-    },
-    {
-      "id": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "summary": "Global Affairs · 2026年11月17日",
-      "date_published": "2026-11-18T20:49:53.061Z"
-    },
-    {
-      "id": "https://openai.com/index/astra-law-6-2",
-      "url": "https://openai.com/index/astra-law-6-2",
-      "title": "Astra for Law leads in legal intelligence",
-      "summary": "Company · 2026年11月17日",
-      "date_published": "2026-11-18T20:49:53.061Z"
-    },
-    {
-      "id": "https://openai.com/index/introducing-openai-for-chile",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "title": "Introducing OpenAI for Chile",
-      "summary": "Global Affairs · 2026年11月17日",
-      "date_published": "2026-11-18T20:49:53.061Z"
+      "date_published": "2026-11-19T07:47:32.493Z"
     }
   ]
 }
