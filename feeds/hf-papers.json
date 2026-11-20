@@ -5,333 +5,165 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2611.24738",
-      "url": "https://huggingface.co/papers/2611.24738",
-      "title": "Jeveration: System One Models Now Generate",
-      "summary": "2611.24738 · ▲ 110",
-      "date_published": "2026-11-19T20:54:23.831Z"
+      "id": "https://huggingface.co/papers/2611.26444",
+      "url": "https://huggingface.co/papers/2611.26444",
+      "title": "Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation",
+      "summary": "2611.26444 · ▲ 25",
+      "date_published": "2026-11-20T07:39:37.059Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.23068",
-      "url": "https://huggingface.co/papers/2611.23068",
-      "title": "The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements",
-      "summary": "2611.23068 · ▲ 35",
-      "date_published": "2026-11-19T20:54:23.831Z"
+      "id": "https://huggingface.co/papers/2611.21383",
+      "url": "https://huggingface.co/papers/2611.21383",
+      "title": "The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation",
+      "summary": "2611.21383 · ▲ 21",
+      "date_published": "2026-11-20T07:39:37.059Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.21366",
-      "url": "https://huggingface.co/papers/2611.21366",
-      "title": "ALIVE: Making Streaming Video Models Interactive",
-      "summary": "2611.21366 · ▲ 31",
-      "date_published": "2026-11-19T20:54:23.831Z"
+      "id": "https://huggingface.co/papers/2611.25387",
+      "url": "https://huggingface.co/papers/2611.25387",
+      "title": "TuringSpace: Grounding Spatial Intelligence in Action with Interactive CAPTCHAs",
+      "summary": "2611.25387 · ▲ 19",
+      "date_published": "2026-11-20T07:39:37.059Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.11318",
-      "url": "https://huggingface.co/papers/2611.11318",
-      "title": "PROLA: Principal-Orthogonal Low-rank Adaptation for Predictive Spatiotemporal Weather Downscaling",
-      "summary": "2611.11318 · ▲ 27",
-      "date_published": "2026-11-19T20:54:23.831Z"
+      "id": "https://huggingface.co/papers/2611.26409",
+      "url": "https://huggingface.co/papers/2611.26409",
+      "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
+      "summary": "2611.26409 · ▲ 19",
+      "date_published": "2026-11-20T07:39:37.059Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.24154",
-      "url": "https://huggingface.co/papers/2611.24154",
-      "title": "Game2Player: Scaling Gameplay Experience for Visual Agents through Environment-Player Co-Development",
-      "summary": "2611.24154 · ▲ 24",
-      "date_published": "2026-11-19T20:54:23.831Z"
+      "id": "https://huggingface.co/papers/2611.21373",
+      "url": "https://huggingface.co/papers/2611.21373",
+      "title": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
+      "summary": "2611.21373 · ▲ 19",
+      "date_published": "2026-11-20T07:39:37.059Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.24654",
-      "url": "https://huggingface.co/papers/2611.24654",
-      "title": "CurvDelta: Low-Curvature Delta Modeling For Surgical Learning and Unlearning",
-      "summary": "2611.24654 · ▲ 22",
-      "date_published": "2026-11-19T20:54:23.831Z"
+      "id": "https://huggingface.co/papers/2611.26629",
+      "url": "https://huggingface.co/papers/2611.26629",
+      "title": "Posterior Matching Distillation",
+      "summary": "2611.26629 · ▲ 13",
+      "date_published": "2026-11-20T07:39:37.059Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.24789",
-      "url": "https://huggingface.co/papers/2611.24789",
-      "title": "HINT-WAM: Hindsight-Informed Training for World Action Models",
-      "summary": "2611.24789 · ▲ 22",
-      "date_published": "2026-11-19T20:54:23.831Z"
+      "id": "https://huggingface.co/papers/2611.24011",
+      "url": "https://huggingface.co/papers/2611.24011",
+      "title": "WAM-Policy: World Action Models with On-Policy Distillation for Quadrupedal Loco-Manipulation",
+      "summary": "2611.24011 · ▲ 13",
+      "date_published": "2026-11-20T07:39:37.059Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.17600",
-      "url": "https://huggingface.co/papers/2611.17600",
-      "title": "LightTAR: Light and Fast Target-Aware Representations for Multimodal Tabular Learning",
-      "summary": "2611.17600 · ▲ 20",
-      "date_published": "2026-11-19T20:54:23.831Z"
+      "id": "https://huggingface.co/papers/2611.26595",
+      "url": "https://huggingface.co/papers/2611.26595",
+      "title": "Coda-DaVinci: Reimagining Video Generation with Code2Video",
+      "summary": "2611.26595 · ▲ 10",
+      "date_published": "2026-11-20T07:39:37.059Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.24869",
-      "url": "https://huggingface.co/papers/2611.24869",
-      "title": "WorldRuler: Interactive World Modeling under Configurable Rules",
-      "summary": "2611.24869 · ▲ 18",
-      "date_published": "2026-11-19T20:54:23.831Z"
+      "id": "https://huggingface.co/papers/2611.25980",
+      "url": "https://huggingface.co/papers/2611.25980",
+      "title": "Learning What Actions Change: Action Effect Matching for Dynamics-Faithful World Models",
+      "summary": "2611.25980 · ▲ 9",
+      "date_published": "2026-11-20T07:39:37.059Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.22925",
-      "url": "https://huggingface.co/papers/2611.22925",
-      "title": "Code World Model 2.0: Towards Infinite Controllable Video Generation",
-      "summary": "2611.22925 · ▲ 13",
-      "date_published": "2026-11-19T20:54:23.831Z"
+      "id": "https://huggingface.co/papers/2611.24193",
+      "url": "https://huggingface.co/papers/2611.24193",
+      "title": "WM^MLLM: Turning MLLMs into World Models",
+      "summary": "2611.24193 · ▲ 9",
+      "date_published": "2026-11-20T07:39:37.059Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.24408",
-      "url": "https://huggingface.co/papers/2611.24408",
-      "title": "StrideWorld: Benchmarking Scene Rigidity and Action Consistency in Interactive Video World Model",
-      "summary": "2611.24408 · ▲ 11",
-      "date_published": "2026-11-19T20:54:23.831Z"
+      "id": "https://huggingface.co/papers/2611.26603",
+      "url": "https://huggingface.co/papers/2611.26603",
+      "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+      "summary": "2611.26603 · ▲ 9",
+      "date_published": "2026-11-20T07:39:37.059Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.24651",
-      "url": "https://huggingface.co/papers/2611.24651",
-      "title": "Piccolo: Co-Evolving Decision Models and Data through Recursive Self-Improvement",
-      "summary": "2611.24651 · ▲ 10",
-      "date_published": "2026-11-19T20:54:23.831Z"
+      "id": "https://huggingface.co/papers/2611.26380",
+      "url": "https://huggingface.co/papers/2611.26380",
+      "title": "EgoCaptioner: Towards Comprehensive and Fine-Grained Egocentric Video Captioning",
+      "summary": "2611.26380 · ▲ 9",
+      "date_published": "2026-11-20T07:39:37.059Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.23808",
-      "url": "https://huggingface.co/papers/2611.23808",
-      "title": "PReMind: When Personal Memory Meets Visual Hazards",
-      "summary": "2611.23808 · ▲ 9",
-      "date_published": "2026-11-19T20:54:23.831Z"
+      "id": "https://huggingface.co/papers/2611.24809",
+      "url": "https://huggingface.co/papers/2611.24809",
+      "title": "On-Policy Morphing into Hybrid Attention Models",
+      "summary": "2611.24809 · ▲ 7",
+      "date_published": "2026-11-20T07:39:37.059Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.24576",
-      "url": "https://huggingface.co/papers/2611.24576",
-      "title": "Late Entry in Looped Language Models",
-      "summary": "2611.24576 · ▲ 9",
-      "date_published": "2026-11-19T20:54:23.831Z"
+      "id": "https://huggingface.co/papers/2611.26510",
+      "url": "https://huggingface.co/papers/2611.26510",
+      "title": "AutoMaster: Autonomous Post-Training by Making the Same Model a Better Teacher",
+      "summary": "2611.26510 · ▲ 5",
+      "date_published": "2026-11-20T07:39:37.059Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.24098",
-      "url": "https://huggingface.co/papers/2611.24098",
-      "title": "RoughCut-Bench: A Benchmark for Automatic Video Rough-Cut with Large Vision-Language Models",
-      "summary": "2611.24098 · ▲ 9",
-      "date_published": "2026-11-19T20:54:23.831Z"
+      "id": "https://huggingface.co/papers/2611.22666",
+      "url": "https://huggingface.co/papers/2611.22666",
+      "title": "VSpark: Speculative Decoding for Autoregressive Vision-Language-Action Models",
+      "summary": "2611.22666 · ▲ 3",
+      "date_published": "2026-11-20T07:39:37.059Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.24733",
-      "url": "https://huggingface.co/papers/2611.24733",
-      "title": "Mechanistic Critics for Sample-Efficient NPU Design-Space Exploration",
-      "summary": "2611.24733 · ▲ 9",
-      "date_published": "2026-11-19T20:54:23.831Z"
+      "id": "https://huggingface.co/papers/2611.20455",
+      "url": "https://huggingface.co/papers/2611.20455",
+      "title": "Embeddings vs. Grep: Rethinking the Dense Advantage in Code Search",
+      "summary": "2611.20455 · ▲ 2",
+      "date_published": "2026-11-20T07:39:37.059Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.22287",
-      "url": "https://huggingface.co/papers/2611.22287",
-      "title": "Decoding Without a Decoder: Direct Pixel Prediction from Diffusion Transformers",
-      "summary": "2611.22287 · ▲ 9",
-      "date_published": "2026-11-19T20:54:23.831Z"
+      "id": "https://huggingface.co/papers/2611.26414",
+      "url": "https://huggingface.co/papers/2611.26414",
+      "title": "ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain",
+      "summary": "2611.26414 · ▲ 2",
+      "date_published": "2026-11-20T07:39:37.059Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.21553",
-      "url": "https://huggingface.co/papers/2611.21553",
-      "title": "BLIP-Live: Balancing Timeliness & Firing Precision in Proactive Streaming Video Agents",
-      "summary": "2611.21553 · ▲ 8",
-      "date_published": "2026-11-19T20:54:23.831Z"
+      "id": "https://huggingface.co/papers/2611.26298",
+      "url": "https://huggingface.co/papers/2611.26298",
+      "title": "DailySafe: Benchmarking Dynamic Safety Awareness in Everyday Multi-Turn Multimodal Interactions",
+      "summary": "2611.26298 · ▲ 2",
+      "date_published": "2026-11-20T07:39:37.059Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.23257",
-      "url": "https://huggingface.co/papers/2611.23257",
-      "title": "StatePortal: Agentic Checkpoint Synthesis for Testing Deep States in Interactive Software",
-      "summary": "2611.23257 · ▲ 8",
-      "date_published": "2026-11-19T20:54:23.831Z"
+      "id": "https://huggingface.co/papers/2611.19230",
+      "url": "https://huggingface.co/papers/2611.19230",
+      "title": "CompoundingKernel: Self-Improving from Zero to First",
+      "summary": "2611.19230 · ▲ 2",
+      "date_published": "2026-11-20T07:39:37.059Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.23388",
-      "url": "https://huggingface.co/papers/2611.23388",
-      "title": "QDA: Closed-Loop LLM Quantization Design with Agents",
-      "summary": "2611.23388 · ▲ 8",
-      "date_published": "2026-11-19T20:54:23.831Z"
+      "id": "https://huggingface.co/papers/2611.23835",
+      "url": "https://huggingface.co/papers/2611.23835",
+      "title": "NarrowSpec: Draft Hidden Width Need Not Match the Target in Speculative Decoding",
+      "summary": "2611.23835 · ▲ 1",
+      "date_published": "2026-11-20T07:39:37.059Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.23994",
-      "url": "https://huggingface.co/papers/2611.23994",
-      "title": "WaveView: The Novel View Is in the Noise",
-      "summary": "2611.23994 · ▲ 7",
-      "date_published": "2026-11-19T20:54:23.831Z"
+      "id": "https://huggingface.co/papers/2611.00911",
+      "url": "https://huggingface.co/papers/2611.00911",
+      "title": "S1CogBench: What System One Decision Models Can and Cannot Do on Cognitive Experiments",
+      "summary": "2611.00911 · ▲ 0",
+      "date_published": "2026-11-20T07:39:37.059Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.14848",
-      "url": "https://huggingface.co/papers/2611.14848",
-      "title": "Tideway: Phase-Aware Tiered Memory Management for MoE Inference on Consumer Devices",
-      "summary": "2611.14848 · ▲ 7",
-      "date_published": "2026-11-19T20:54:23.831Z"
+      "id": "https://huggingface.co/papers/2611.25776",
+      "url": "https://huggingface.co/papers/2611.25776",
+      "title": "Suppressing the Shortcut Hidden Behind the Gains of VideoLLM Fine-Tuning",
+      "summary": "2611.25776 · ▲ 0",
+      "date_published": "2026-11-20T07:39:37.059Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.24362",
-      "url": "https://huggingface.co/papers/2611.24362",
-      "title": "PIPETTE: Prompt Injection Purple-Teaming for Robust LLM Agents",
-      "summary": "2611.24362 · ▲ 6",
-      "date_published": "2026-11-19T20:54:23.831Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.19200",
-      "url": "https://huggingface.co/papers/2611.19200",
-      "title": "LogT: Logically Think with Images for Visual Search",
-      "summary": "2611.19200 · ▲ 6",
-      "date_published": "2026-11-19T20:54:23.831Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.23751",
-      "url": "https://huggingface.co/papers/2611.23751",
-      "title": "Thinking Fast, Anywhere: One System-1 for the Decision Points of Any Agent Workflow",
-      "summary": "2611.23751 · ▲ 5",
-      "date_published": "2026-11-19T20:54:23.831Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.23386",
-      "url": "https://huggingface.co/papers/2611.23386",
-      "title": "Chorus: Shared N-gram Embeddings with Layer-wise Adaptation",
-      "summary": "2611.23386 · ▲ 4",
-      "date_published": "2026-11-19T20:54:23.831Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.24941",
-      "url": "https://huggingface.co/papers/2611.24941",
-      "title": "UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation",
-      "summary": "2611.24941 · ▲ 4",
-      "date_published": "2026-11-19T20:54:23.831Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.22790",
-      "url": "https://huggingface.co/papers/2611.22790",
-      "title": "NexSight: Verifiable Tasks for Fine-Grained Agentic Long-Video Understanding",
-      "summary": "2611.22790 · ▲ 4",
-      "date_published": "2026-11-19T20:54:23.831Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.23824",
-      "url": "https://huggingface.co/papers/2611.23824",
-      "title": "Evidence-Based Credit Assignment for Search-Augmented Language Models",
-      "summary": "2611.23824 · ▲ 4",
-      "date_published": "2026-11-19T20:54:23.831Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.21114",
-      "url": "https://huggingface.co/papers/2611.21114",
-      "title": "VAE Rhythm: Temporal Decoding Traces for AI-Generated Video Detection",
-      "summary": "2611.21114 · ▲ 4",
-      "date_published": "2026-11-19T20:54:23.831Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.22033",
-      "url": "https://huggingface.co/papers/2611.22033",
-      "title": "Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents",
-      "summary": "2611.22033 · ▲ 4",
-      "date_published": "2026-11-19T20:54:23.831Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.17767",
-      "url": "https://huggingface.co/papers/2611.17767",
-      "title": "Learning Anisotropic Prediction Targets for Flow Models",
-      "summary": "2611.17767 · ▲ 4",
-      "date_published": "2026-11-19T20:54:23.831Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.23779",
-      "url": "https://huggingface.co/papers/2611.23779",
-      "title": "TabBioMed: A Large-Scale Benchmark for Biomedical Tabular Learning",
-      "summary": "2611.23779 · ▲ 3",
-      "date_published": "2026-11-19T20:54:23.831Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.22382",
-      "url": "https://huggingface.co/papers/2611.22382",
-      "title": "RICoT: Recurrent Interleaved Chain-of-Thought for Page Stream Segmentation",
-      "summary": "2611.22382 · ▲ 3",
-      "date_published": "2026-11-19T20:54:23.831Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.23499",
-      "url": "https://huggingface.co/papers/2611.23499",
-      "title": "BiCAT: Bimanual Coordination Action Tokenization",
-      "summary": "2611.23499 · ▲ 3",
-      "date_published": "2026-11-19T20:54:23.831Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.22673",
-      "url": "https://huggingface.co/papers/2611.22673",
-      "title": "FVScore: Specification-Driven Neuro-Symbolic Video Evaluation",
-      "summary": "2611.22673 · ▲ 3",
-      "date_published": "2026-11-19T20:54:23.831Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.24669",
-      "url": "https://huggingface.co/papers/2611.24669",
-      "title": "Movie2Game-Bench: Holistic Evaluation of Film-to-Game Adaptation Beyond Playability",
-      "summary": "2611.24669 · ▲ 3",
-      "date_published": "2026-11-19T20:54:23.831Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2607.21179",
-      "url": "https://huggingface.co/papers/2607.21179",
-      "title": "Out of Sight, Still in Mind: Token Compression for Omni-LLMs",
-      "summary": "2607.21179 · ▲ 3",
-      "date_published": "2026-11-19T20:54:23.831Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.24681",
-      "url": "https://huggingface.co/papers/2611.24681",
-      "title": "DrawScore: Evaluating Generated CAD Models against Engineering Drawings",
-      "summary": "2611.24681 · ▲ 3",
-      "date_published": "2026-11-19T20:54:23.831Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.22668",
-      "url": "https://huggingface.co/papers/2611.22668",
-      "title": "Let Samples Sing in Chorus: Mitigating Spurious Correlations via Cross-view Consensus",
-      "summary": "2611.22668 · ▲ 3",
-      "date_published": "2026-11-19T20:54:23.831Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.24102",
-      "url": "https://huggingface.co/papers/2611.24102",
-      "title": "IDEA: Intent-Dominance Evidence Audit for Inference-Time Backdoor Detection in GUI Agents",
-      "summary": "2611.24102 · ▲ 3",
-      "date_published": "2026-11-19T20:54:23.831Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.17605",
-      "url": "https://huggingface.co/papers/2611.17605",
-      "title": "Choosing Quantized Code LLMs by File Size and Energy per Solved Task",
-      "summary": "2611.17605 · ▲ 2",
-      "date_published": "2026-11-19T20:54:23.831Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.24161",
-      "url": "https://huggingface.co/papers/2611.24161",
-      "title": "AVTR: Adaptive Multimodal Reasoning with Visual Imagination",
-      "summary": "2611.24161 · ▲ 2",
-      "date_published": "2026-11-19T20:54:23.831Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.23236",
-      "url": "https://huggingface.co/papers/2611.23236",
-      "title": "PGPO: Prototype-Guided Progressive Obfuscation for Privacy-Preserving LLM-Enhanced Recommendation",
-      "summary": "2611.23236 · ▲ 2",
-      "date_published": "2026-11-19T20:54:23.831Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.24830",
-      "url": "https://huggingface.co/papers/2611.24830",
-      "title": "A Foundation Model to Measure and Predict Human Behaviour",
-      "summary": "2611.24830 · ▲ 2",
-      "date_published": "2026-11-19T20:54:23.831Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.24075",
-      "url": "https://huggingface.co/papers/2611.24075",
-      "title": "Recurrent Domain Incremental Adaptation of Time-Series Foundation Models",
-      "summary": "2611.24075 · ▲ 2",
-      "date_published": "2026-11-19T20:54:23.831Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.16933",
-      "url": "https://huggingface.co/papers/2611.16933",
-      "title": "Kezek: Splitting Mono Two-Person Conversations into Per-Speaker Tracks for Full-Duplex Dialogue Data",
-      "summary": "2611.16933 · ▲ 1",
-      "date_published": "2026-11-19T20:54:23.831Z"
+      "id": "https://huggingface.co/papers/2611.26624",
+      "url": "https://huggingface.co/papers/2611.26624",
+      "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
+      "summary": "2611.26624 · ▲ 0",
+      "date_published": "2026-11-20T07:39:37.059Z"
     }
   ]
 }
