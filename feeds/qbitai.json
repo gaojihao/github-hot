@@ -5,53 +5,74 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/qbitai.json",
   "items": [
     {
+      "id": "https://www.qbitai.com/2026/11/511779.html",
+      "url": "https://www.qbitai.com/2026/11/511779.html",
+      "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+      "summary": "GPT-6.2 Astra · 衡宇 · 2026年11月21日",
+      "date_published": "2026-11-21T19:40:53.919Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/11/511570.html",
+      "url": "https://www.qbitai.com/2026/11/511570.html",
+      "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+      "summary": "Deepseek · Jay · 2026年11月21日",
+      "date_published": "2026-11-21T19:40:53.919Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/11/511757.html",
+      "url": "https://www.qbitai.com/2026/11/511757.html",
+      "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+      "summary": "姚顺雨 · 衡宇 · 2026年11月21日",
+      "date_published": "2026-11-21T19:40:53.919Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/11/511740.html",
+      "url": "https://www.qbitai.com/2026/11/511740.html",
+      "title": "米哈游发了个VLA论文",
+      "summary": "VLA · 衡宇 · 2026年11月21日",
+      "date_published": "2026-11-21T19:40:53.919Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/11/511727.html",
+      "url": "https://www.qbitai.com/2026/11/511727.html",
+      "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
+      "summary": "Claude · 衡宇 · 2026年11月21日",
+      "date_published": "2026-11-21T19:40:53.919Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/11/511722.html",
+      "url": "https://www.qbitai.com/2026/11/511722.html",
+      "title": "美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax",
+      "summary": "MiniMax · 量子位的朋友们 · 2026年11月20日",
+      "date_published": "2026-11-21T19:40:53.919Z"
+    },
+    {
+      "id": "https://www.qbitai.com/2026/11/511679.html",
+      "url": "https://www.qbitai.com/2026/11/511679.html",
+      "title": "给万卡国产芯装个“超级外挂”！清华团队要造最强国产Token工厂",
+      "summary": "清昴智能 · 杰西卡 · 2026年11月20日",
+      "date_published": "2026-11-21T19:40:53.919Z"
+    },
+    {
       "id": "https://www.qbitai.com/2026/11/511610.html",
       "url": "https://www.qbitai.com/2026/11/511610.html",
       "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
       "summary": "SOTA · 田, 晏林 · 2026年11月20日",
-      "date_published": "2026-11-21T07:37:08.001Z"
+      "date_published": "2026-11-21T19:40:53.919Z"
     },
     {
       "id": "https://www.qbitai.com/2026/11/511603.html",
       "url": "https://www.qbitai.com/2026/11/511603.html",
       "title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
       "summary": "新浪新闻 · 量子位的朋友们 · 2026年11月20日",
-      "date_published": "2026-11-21T07:37:08.001Z"
+      "date_published": "2026-11-21T19:40:53.919Z"
     },
     {
       "id": "https://www.qbitai.com/2026/11/511582.html",
       "url": "https://www.qbitai.com/2026/11/511582.html",
       "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
       "summary": "Agnes · 一水 · 2026年11月20日",
-      "date_published": "2026-11-21T07:37:08.001Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/11/511426.html",
-      "url": "https://www.qbitai.com/2026/11/511426.html",
-      "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
-      "summary": "世界模型 · 田, 晏林 · 2026年11月20日",
-      "date_published": "2026-11-21T07:37:08.001Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/11/511258.html",
-      "url": "https://www.qbitai.com/2026/11/511258.html",
-      "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
-      "summary": "极客公园 · 量子位的朋友们 · 2026年11月19日",
-      "date_published": "2026-11-21T07:37:08.001Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/11/511180.html",
-      "url": "https://www.qbitai.com/2026/11/511180.html",
-      "title": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
-      "summary": "GTA6 · 鹭羽 · 2026年11月19日",
-      "date_published": "2026-11-21T07:37:08.001Z"
-    },
-    {
-      "id": "https://www.qbitai.com/2026/11/511179.html",
-      "url": "https://www.qbitai.com/2026/11/511179.html",
-      "title": "SenseNova U1 Pro获Design Arena双榜中国第一、全球第六",
-      "summary": "商汤科技 · 量子位的朋友们 · 2026年11月19日",
-      "date_published": "2026-11-21T07:37:08.001Z"
+      "date_published": "2026-11-21T19:40:53.919Z"
     }
   ]
 }
