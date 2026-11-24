@@ -5,39 +5,39 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/introducing-shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "summary": "Security · 2026年11月24日",
+      "date_published": "2026-11-24T00:14:22.843Z"
+    },
+    {
+      "id": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "title": "Connected intelligence for in-house legal",
+      "summary": "Webinars · 2026年11月23日",
+      "date_published": "2026-11-24T00:14:22.843Z"
+    },
+    {
+      "id": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "summary": "Startup · 2026年11月23日",
+      "date_published": "2026-11-24T00:14:22.843Z"
+    },
+    {
       "id": "https://openai.com/index/perplexity-and-intelligence",
       "url": "https://openai.com/index/perplexity-and-intelligence",
       "title": "Perplexity and Intelligence",
       "summary": "Research · 2026年11月22日",
-      "date_published": "2026-11-23T08:01:28.275Z"
+      "date_published": "2026-11-24T00:14:22.843Z"
     },
     {
       "id": "https://openai.com/index/combatting-adversarial-distillation",
       "url": "https://openai.com/index/combatting-adversarial-distillation",
       "title": "Combatting adversarial distillation",
       "summary": "2026年11月20日",
-      "date_published": "2026-11-23T08:01:28.275Z"
-    },
-    {
-      "id": "https://openai.com/business/customer-stories/hebbia",
-      "url": "https://openai.com/business/customer-stories/hebbia",
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "summary": "2026年11月20日",
-      "date_published": "2026-11-23T08:01:28.275Z"
-    },
-    {
-      "id": "https://openai.com/index/introducing-medchembench",
-      "url": "https://openai.com/index/introducing-medchembench",
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "summary": "Research · 2026年11月20日",
-      "date_published": "2026-11-23T08:01:28.275Z"
-    },
-    {
-      "id": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "summary": "Engineering · 2026年11月19日",
-      "date_published": "2026-11-23T08:01:28.275Z"
+      "date_published": "2026-11-24T00:14:22.843Z"
     }
   ]
 }

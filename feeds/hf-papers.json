@@ -8,99 +8,162 @@
       "id": "https://huggingface.co/papers/2611.27193",
       "url": "https://huggingface.co/papers/2611.27193",
       "title": "cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction",
-      "summary": "2611.27193 · ▲ 49",
-      "date_published": "2026-11-23T08:01:28.275Z"
+      "summary": "2611.27193 · ▲ 88",
+      "date_published": "2026-11-24T00:14:22.843Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.27963",
       "url": "https://huggingface.co/papers/2611.27963",
       "title": "Non-penetrating World Models",
-      "summary": "2611.27963 · ▲ 38",
-      "date_published": "2026-11-23T08:01:28.275Z"
+      "summary": "2611.27963 · ▲ 54",
+      "date_published": "2026-11-24T00:14:22.843Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.24636",
       "url": "https://huggingface.co/papers/2611.24636",
       "title": "Clover-35B-A3B-Preview Technical Report",
-      "summary": "2611.24636 · ▲ 29",
-      "date_published": "2026-11-23T08:01:28.275Z"
+      "summary": "2611.24636 · ▲ 36",
+      "date_published": "2026-11-24T00:14:22.843Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.26954",
+      "url": "https://huggingface.co/papers/2611.26954",
+      "title": "Learning Video Foresight Reasoning from Unlabeled Videos via On-Policy Self-Distillation",
+      "summary": "2611.26954 · ▲ 22",
+      "date_published": "2026-11-24T00:14:22.843Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.15449",
       "url": "https://huggingface.co/papers/2611.15449",
       "title": "Reading the Unreadable: Text-Aware Image Super-Resolution Needs Reasoning",
-      "summary": "2611.15449 · ▲ 15",
-      "date_published": "2026-11-23T08:01:28.275Z"
+      "summary": "2611.15449 · ▲ 21",
+      "date_published": "2026-11-24T00:14:22.843Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.27973",
       "url": "https://huggingface.co/papers/2611.27973",
       "title": "MemOnce: A Scalable Memory Architecture for Large Language Models",
-      "summary": "2611.27973 · ▲ 10",
-      "date_published": "2026-11-23T08:01:28.275Z"
+      "summary": "2611.27973 · ▲ 18",
+      "date_published": "2026-11-24T00:14:22.843Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.25773",
       "url": "https://huggingface.co/papers/2611.25773",
       "title": "Duopra: From Full-Duplex Conversation to Full-Duplex Agency",
-      "summary": "2611.25773 · ▲ 10",
-      "date_published": "2026-11-23T08:01:28.275Z"
+      "summary": "2611.25773 · ▲ 11",
+      "date_published": "2026-11-24T00:14:22.843Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.21485",
       "url": "https://huggingface.co/papers/2611.21485",
       "title": "Lost in the Hallway: Benchmarking Persistent Spatial Memory Across Revisits",
-      "summary": "2611.21485 · ▲ 5",
-      "date_published": "2026-11-23T08:01:28.275Z"
+      "summary": "2611.21485 · ▲ 10",
+      "date_published": "2026-11-24T00:14:22.843Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.27915",
       "url": "https://huggingface.co/papers/2611.27915",
       "title": "StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning",
-      "summary": "2611.27915 · ▲ 4",
-      "date_published": "2026-11-23T08:01:28.275Z"
+      "summary": "2611.27915 · ▲ 7",
+      "date_published": "2026-11-24T00:14:22.843Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.26613",
+      "url": "https://huggingface.co/papers/2611.26613",
+      "title": "AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control",
+      "summary": "2611.26613 · ▲ 7",
+      "date_published": "2026-11-24T00:14:22.843Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.24077",
+      "url": "https://huggingface.co/papers/2611.24077",
+      "title": "AeroRSI: Recursive Self-Improvement for Aerial Vision-Language Navigation",
+      "summary": "2611.24077 · ▲ 7",
+      "date_published": "2026-11-24T00:14:22.843Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.22343",
+      "url": "https://huggingface.co/papers/2611.22343",
+      "title": "PURE: A Diagnostic Benchmark for Multi-Granularity Multimodal Identity Matching",
+      "summary": "2611.22343 · ▲ 5",
+      "date_published": "2026-11-24T00:14:22.843Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.25252",
+      "url": "https://huggingface.co/papers/2611.25252",
+      "title": "Moving Generality from Model to Modeler: LLM Agents for PHM on a Deployment-Style Benchmark",
+      "summary": "2611.25252 · ▲ 4",
+      "date_published": "2026-11-24T00:14:22.843Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.24025",
+      "url": "https://huggingface.co/papers/2611.24025",
+      "title": "Intent Contracts: Taking Tools Away from Agents",
+      "summary": "2611.24025 · ▲ 4",
+      "date_published": "2026-11-24T00:14:22.843Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.27398",
+      "url": "https://huggingface.co/papers/2611.27398",
+      "title": "Taking Apart and Putting Together: Tracking Objects Through Physical Transformations",
+      "summary": "2611.27398 · ▲ 3",
+      "date_published": "2026-11-24T00:14:22.843Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.22479",
+      "url": "https://huggingface.co/papers/2611.22479",
+      "title": "Exploited Before It Was Fixed? Vulnerability Timelines from Open, Machine-Readable Evidence",
+      "summary": "2611.22479 · ▲ 3",
+      "date_published": "2026-11-24T00:14:22.843Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.27211",
+      "url": "https://huggingface.co/papers/2611.27211",
+      "title": "Explicit Style Extraction for Personalized Long-Form Text Generation",
+      "summary": "2611.27211 · ▲ 3",
+      "date_published": "2026-11-24T00:14:22.843Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.27229",
       "url": "https://huggingface.co/papers/2611.27229",
       "title": "Prune to Expand: Training Prompt Enhancers with Less to Imitate",
       "summary": "2611.27229 · ▲ 3",
-      "date_published": "2026-11-23T08:01:28.275Z"
+      "date_published": "2026-11-24T00:14:22.843Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.24077",
-      "url": "https://huggingface.co/papers/2611.24077",
-      "title": "AeroRSI: Recursive Self-Improvement for Aerial Vision-Language Navigation",
-      "summary": "2611.24077 · ▲ 3",
-      "date_published": "2026-11-23T08:01:28.275Z"
+      "id": "https://huggingface.co/papers/2611.26809",
+      "url": "https://huggingface.co/papers/2611.26809",
+      "title": "Search From the Start: Search-Native Pretraining for Language Models",
+      "summary": "2611.26809 · ▲ 2",
+      "date_published": "2026-11-24T00:14:22.843Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.22343",
-      "url": "https://huggingface.co/papers/2611.22343",
-      "title": "PURE: A Diagnostic Benchmark for Multi-Granularity Multimodal Identity Matching",
-      "summary": "2611.22343 · ▲ 3",
-      "date_published": "2026-11-23T08:01:28.275Z"
+      "id": "https://huggingface.co/papers/2611.19247",
+      "url": "https://huggingface.co/papers/2611.19247",
+      "title": "GameWM: Toward Next-Generation Video Games with Interaction-Centric World Models",
+      "summary": "2611.19247 · ▲ 2",
+      "date_published": "2026-11-24T00:14:22.843Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.26613",
-      "url": "https://huggingface.co/papers/2611.26613",
-      "title": "AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control",
-      "summary": "2611.26613 · ▲ 2",
-      "date_published": "2026-11-23T08:01:28.275Z"
+      "id": "https://huggingface.co/papers/2611.27490",
+      "url": "https://huggingface.co/papers/2611.27490",
+      "title": "Which Dwarf Is This? Doppeldwarf-306 and Near-Identical Instance Retrieval",
+      "summary": "2611.27490 · ▲ 1",
+      "date_published": "2026-11-24T00:14:22.843Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.24025",
-      "url": "https://huggingface.co/papers/2611.24025",
-      "title": "Intent Contracts: Taking Tools Away from Agents",
-      "summary": "2611.24025 · ▲ 1",
-      "date_published": "2026-11-23T08:01:28.275Z"
+      "id": "https://huggingface.co/papers/2611.22495",
+      "url": "https://huggingface.co/papers/2611.22495",
+      "title": "Motion-Aware Reward Modeling for Instruction-Guided Video Editing",
+      "summary": "2611.22495 · ▲ 1",
+      "date_published": "2026-11-24T00:14:22.843Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.27211",
-      "url": "https://huggingface.co/papers/2611.27211",
-      "title": "Explicit Style Extraction for Personalized Long-Form Text Generation",
-      "summary": "2611.27211 · ▲ 1",
-      "date_published": "2026-11-23T08:01:28.275Z"
+      "id": "https://huggingface.co/papers/2611.23417",
+      "url": "https://huggingface.co/papers/2611.23417",
+      "title": "Autoregressive View Model",
+      "summary": "2611.23417 · ▲ 0",
+      "date_published": "2026-11-24T00:14:22.843Z"
     }
   ]
 }
