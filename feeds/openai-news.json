@@ -5,39 +5,53 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/openai-news.json",
   "items": [
     {
+      "id": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary": "Science · 2026年11月24日",
+      "date_published": "2026-11-24T22:41:12.468Z"
+    },
+    {
+      "id": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "title": "Searching for distant planets with Astra",
+      "summary": "Science · 2026年11月24日",
+      "date_published": "2026-11-24T22:41:12.468Z"
+    },
+    {
+      "id": "https://openai.com/business/customer-stories/intentful-dots",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "title": "How Intentful uses dots to make more time for growth",
+      "summary": "2026年11月24日",
+      "date_published": "2026-11-24T22:41:12.468Z"
+    },
+    {
+      "id": "https://openai.com/business/customer-stories/ifood",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "summary": "2026年11月24日",
+      "date_published": "2026-11-24T22:41:12.468Z"
+    },
+    {
       "id": "https://openai.com/index/introducing-shirudo",
       "url": "https://openai.com/index/introducing-shirudo",
       "title": "OpenAI and Cisco introduce Shirudo",
       "summary": "Security · 2026年11月24日",
-      "date_published": "2026-11-24T10:18:39.539Z"
+      "date_published": "2026-11-24T22:41:12.468Z"
     },
     {
       "id": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
       "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
       "title": "Connected intelligence for in-house legal",
       "summary": "Webinars · 2026年11月23日",
-      "date_published": "2026-11-24T10:18:39.539Z"
+      "date_published": "2026-11-24T22:41:12.468Z"
     },
     {
       "id": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
       "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
       "title": "Richpanel helps companies automate 50% of support in 30 days",
       "summary": "Startup · 2026年11月23日",
-      "date_published": "2026-11-24T10:18:39.539Z"
-    },
-    {
-      "id": "https://openai.com/index/perplexity-and-intelligence",
-      "url": "https://openai.com/index/perplexity-and-intelligence",
-      "title": "Perplexity and Intelligence",
-      "summary": "Research · 2026年11月22日",
-      "date_published": "2026-11-24T10:18:39.539Z"
-    },
-    {
-      "id": "https://openai.com/index/combatting-adversarial-distillation",
-      "url": "https://openai.com/index/combatting-adversarial-distillation",
-      "title": "Combatting adversarial distillation",
-      "summary": "2026年11月20日",
-      "date_published": "2026-11-24T10:18:39.539Z"
+      "date_published": "2026-11-24T22:41:12.468Z"
     }
   ]
 }
