@@ -5,116 +5,151 @@
   "feed_url": "https://gaojihao.github.io/github-hot/feeds/hf-papers.json",
   "items": [
     {
-      "id": "https://huggingface.co/papers/2611.34232",
-      "url": "https://huggingface.co/papers/2611.34232",
-      "title": "OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms",
-      "summary": "2611.34232 · ▲ 89",
-      "date_published": "2026-11-27T08:58:00.487Z"
-    },
-    {
       "id": "https://huggingface.co/papers/2611.34051",
       "url": "https://huggingface.co/papers/2611.34051",
       "title": "Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability",
-      "summary": "2611.34051 · ▲ 86",
-      "date_published": "2026-11-27T08:58:00.487Z"
+      "summary": "2611.34051 · ▲ 126",
+      "date_published": "2026-11-27T21:33:20.656Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.34457",
-      "url": "https://huggingface.co/papers/2611.34457",
-      "title": "ProxyGenBench: Benchmarking Proxy-Guided Video Generation",
-      "summary": "2611.34457 · ▲ 35",
-      "date_published": "2026-11-27T08:58:00.487Z"
+      "id": "https://huggingface.co/papers/2611.34232",
+      "url": "https://huggingface.co/papers/2611.34232",
+      "title": "OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms",
+      "summary": "2611.34232 · ▲ 101",
+      "date_published": "2026-11-27T21:33:20.656Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.34813",
+      "url": "https://huggingface.co/papers/2611.34813",
+      "title": "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models",
+      "summary": "2611.34813 · ▲ 58",
+      "date_published": "2026-11-27T21:33:20.656Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.31619",
       "url": "https://huggingface.co/papers/2611.31619",
       "title": "What a Forecasting Leaderboard Can Establish: Resolution Reporting for Zero-Shot Time-Series Models",
-      "summary": "2611.31619 · ▲ 29",
-      "date_published": "2026-11-27T08:58:00.487Z"
+      "summary": "2611.31619 · ▲ 57",
+      "date_published": "2026-11-27T21:33:20.656Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.34457",
+      "url": "https://huggingface.co/papers/2611.34457",
+      "title": "ProxyGenBench: Benchmarking Proxy-Guided Video Generation",
+      "summary": "2611.34457 · ▲ 36",
+      "date_published": "2026-11-27T21:33:20.656Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.34290",
       "url": "https://huggingface.co/papers/2611.34290",
       "title": "StateWeaver: Multi-Agent Coordination of Story-State Transitions for Long-Horizon Video Generation",
-      "summary": "2611.34290 · ▲ 22",
-      "date_published": "2026-11-27T08:58:00.487Z"
+      "summary": "2611.34290 · ▲ 27",
+      "date_published": "2026-11-27T21:33:20.656Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.34693",
       "url": "https://huggingface.co/papers/2611.34693",
       "title": "ShowNow: Fine-Grained Speculative Streaming for Responsive World Models",
       "summary": "2611.34693 · ▲ 19",
-      "date_published": "2026-11-27T08:58:00.487Z"
+      "date_published": "2026-11-27T21:33:20.656Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.34852",
       "url": "https://huggingface.co/papers/2611.34852",
       "title": "DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents",
-      "summary": "2611.34852 · ▲ 15",
-      "date_published": "2026-11-27T08:58:00.487Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.34813",
-      "url": "https://huggingface.co/papers/2611.34813",
-      "title": "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models",
-      "summary": "2611.34813 · ▲ 8",
-      "date_published": "2026-11-27T08:58:00.487Z"
+      "summary": "2611.34852 · ▲ 17",
+      "date_published": "2026-11-27T21:33:20.656Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.32238",
       "url": "https://huggingface.co/papers/2611.32238",
       "title": "Boundary-Aware Policy Learning for Agent-Orchestrated Robot Manipulation",
-      "summary": "2611.32238 · ▲ 6",
-      "date_published": "2026-11-27T08:58:00.487Z"
+      "summary": "2611.32238 · ▲ 7",
+      "date_published": "2026-11-27T21:33:20.656Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.30494",
+      "url": "https://huggingface.co/papers/2611.30494",
+      "title": "Revisiting LLMs as Context Engineers",
+      "summary": "2611.30494 · ▲ 4",
+      "date_published": "2026-11-27T21:33:20.656Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.30483",
       "url": "https://huggingface.co/papers/2611.30483",
       "title": "When an AI agent makes a mistake in a database, what decides the damage?",
-      "summary": "2611.30483 · ▲ 3",
-      "date_published": "2026-11-27T08:58:00.487Z"
+      "summary": "2611.30483 · ▲ 4",
+      "date_published": "2026-11-27T21:33:20.656Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.28849",
+      "url": "https://huggingface.co/papers/2611.28849",
+      "title": "Guarding with Judgment: Learning to Intervene for Multimodal Safety",
+      "summary": "2611.28849 · ▲ 2",
+      "date_published": "2026-11-27T21:33:20.656Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.34782",
+      "url": "https://huggingface.co/papers/2611.34782",
+      "title": "Generation as Reverse Encoding",
+      "summary": "2611.34782 · ▲ 2",
+      "date_published": "2026-11-27T21:33:20.656Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.34719",
       "url": "https://huggingface.co/papers/2611.34719",
       "title": "Reading, Not Adapting: Unlocking Frozen Visual Knowledge for AI-Generated Image Detection",
       "summary": "2611.34719 · ▲ 2",
-      "date_published": "2026-11-27T08:58:00.487Z"
+      "date_published": "2026-11-27T21:33:20.656Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.28849",
-      "url": "https://huggingface.co/papers/2611.28849",
-      "title": "Guarding with Judgment: Learning to Intervene for Multimodal Safety",
-      "summary": "2611.28849 · ▲ 1",
-      "date_published": "2026-11-27T08:58:00.487Z"
+      "id": "https://huggingface.co/papers/2611.30025",
+      "url": "https://huggingface.co/papers/2611.30025",
+      "title": "Damped Atomic Wave Integration Neurons (DAWIN): A Universal Primitive for Continuous-Time Spatiotemporal Learning",
+      "summary": "2611.30025 · ▲ 1",
+      "date_published": "2026-11-27T21:33:20.656Z"
     },
     {
-      "id": "https://huggingface.co/papers/2611.34782",
-      "url": "https://huggingface.co/papers/2611.34782",
-      "title": "Generation as Reverse Encoding",
-      "summary": "2611.34782 · ▲ 1",
-      "date_published": "2026-11-27T08:58:00.487Z"
+      "id": "https://huggingface.co/papers/2611.30723",
+      "url": "https://huggingface.co/papers/2611.30723",
+      "title": "BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models",
+      "summary": "2611.30723 · ▲ 1",
+      "date_published": "2026-11-27T21:33:20.656Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.31491",
+      "url": "https://huggingface.co/papers/2611.31491",
+      "title": "Pretrained Tabular Features and the Measurement of Financial Proximity",
+      "summary": "2611.31491 · ▲ 1",
+      "date_published": "2026-11-27T21:33:20.656Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.32993",
       "url": "https://huggingface.co/papers/2611.32993",
       "title": "Decision-Native Multimodal Clinical Modeling via Anatomical Grounding and Confidence Calibration",
       "summary": "2611.32993 · ▲ 1",
-      "date_published": "2026-11-27T08:58:00.487Z"
+      "date_published": "2026-11-27T21:33:20.656Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.27112",
+      "url": "https://huggingface.co/papers/2611.27112",
+      "title": "Markdown Is Not a Firewall: four coding agents, one rules file, four boundaries",
+      "summary": "2611.27112 · ▲ 0",
+      "date_published": "2026-11-27T21:33:20.656Z"
+    },
+    {
+      "id": "https://huggingface.co/papers/2611.31516",
+      "url": "https://huggingface.co/papers/2611.31516",
+      "title": "InitFree-SfM: When Initialization-Free Bundle Adjustment meets Learned Structure-from-Motion",
+      "summary": "2611.31516 · ▲ 0",
+      "date_published": "2026-11-27T21:33:20.656Z"
     },
     {
       "id": "https://huggingface.co/papers/2611.31155",
       "url": "https://huggingface.co/papers/2611.31155",
       "title": "So Many Ways to Multiply 3times3 Matrices: A Large Dataset of Rank-23 Schemes",
       "summary": "2611.31155 · ▲ 0",
-      "date_published": "2026-11-27T08:58:00.487Z"
-    },
-    {
-      "id": "https://huggingface.co/papers/2611.31491",
-      "url": "https://huggingface.co/papers/2611.31491",
-      "title": "Pretrained Tabular Features and the Measurement of Financial Proximity",
-      "summary": "2611.31491 · ▲ 0",
-      "date_published": "2026-11-27T08:58:00.487Z"
+      "date_published": "2026-11-27T21:33:20.656Z"
     }
   ]
 }
